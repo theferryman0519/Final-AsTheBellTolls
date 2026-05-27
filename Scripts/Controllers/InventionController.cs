@@ -35,6 +35,13 @@ public class InventionController : Singleton<InventionController> {
     // Controls quest inventions
     // Controls Grand Showcase inventions
     // Controls rival inventions
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the invention controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
