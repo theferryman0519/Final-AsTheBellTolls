@@ -46,12 +46,6 @@ public class SpriteController : Singleton<SpriteController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the sprite controller");
 
-        if (TerrainSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
-        if (ExteriorSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
-        if (InteriorSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
-        if (CharacterSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
-        if (ItemSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
-
         TerrainSpritesDict.Clear();
         ExteriorSpritesDict.Clear();
         InteriorSpritesDict.Clear();
