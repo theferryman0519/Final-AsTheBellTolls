@@ -36,6 +36,13 @@ public class AnimalController : Singleton<AnimalController> {
     // Controls animal maturity
     // Controls petting animal
     // Controls feeding animal
+    
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the animal controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
     
