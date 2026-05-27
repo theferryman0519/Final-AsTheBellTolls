@@ -23,7 +23,12 @@ public class SpriteController : Singleton<SpriteController> {
     [SerializeField] private SpriteVariants ItemSprites;
 #endregion
 #region -------------------- Public Variables --------------------
-
+    [Header("Sprite Dictionaries")]
+    public Dictionary<string, Sprite> TerrainSpritesDict;
+    public Dictionary<string, Sprite> ExteriorSpritesDict;
+    public Dictionary<string, Sprite> InteriorSpritesDict;
+    public Dictionary<string, Sprite> CharacterSpritesDict;
+    public Dictionary<string, Sprite> ItemSpritesDict;
 #endregion
 #region -------------------- Private Variables --------------------
 
@@ -47,10 +52,24 @@ public class SpriteController : Singleton<SpriteController> {
         if (CharacterSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
         if (ItemSprites == null) { gameobject.AddComponent<SpriteVariants>(); }
 
-        CoreController.Inst.LoadingStepCompleted();
+        TerrainSpritesDict.Clear();
+        ExteriorSpritesDict.Clear();
+        InteriorSpritesDict.Clear();
+        CharacterSpritesDict.Clear();
+        ItemSpritesDict.Clear();
+
+        SetDictionaries();
     }
 #endregion
 #region -------------------- Private Methods --------------------
+    private void SetDictionaries()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the sprite dictionaries");
 
+        // TODO
+        // Set dictionaries with sprite IDs and sprites from each SpriteVariants
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 }}
