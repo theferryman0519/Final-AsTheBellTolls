@@ -34,6 +34,13 @@ public class SaveLoadController : Singleton<SaveLoadController> {
     // Controls storing game data locally
     // Controls loading game data
     // Controls deleting game data
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the save/load controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
