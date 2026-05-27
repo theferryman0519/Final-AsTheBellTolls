@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace Atbt.Enum {
-public enum SpriteType {
+public enum SpriteTypeEnum {
     None = 0,
     Terrain = 1,
     Exterior = 2,
