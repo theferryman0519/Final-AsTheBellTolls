@@ -53,11 +53,11 @@ public class SpriteController : Singleton<SpriteController> {
         CharacterSpritesDict.Clear();
         ItemSpritesDict.Clear();
 
-        SetDictionaries();
+        SetDictionariesAsync();
     }
 #endregion
 #region -------------------- Private Methods --------------------
-    private async void SetDictionaries()
+    private async void SetDictionariesAsync()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the sprite dictionaries");
 
