@@ -33,6 +33,13 @@ public class FishingController : Singleton<FishingController> {
     // Controls fishing rod usage
     // Controls fishing net usage
     // Controls fish spawning and availability
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the fishing controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
