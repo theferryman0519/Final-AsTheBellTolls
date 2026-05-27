@@ -19,7 +19,7 @@ public class ConstantController : Singleton<ConstantController> {
 #endregion
 #region -------------------- Public Variables --------------------
     // Loading Sets
-    public const int Loading_StartUp = 37;
+    public const int Loading_StartUp = 34;
 
     // Titles
     public const string Game_Title = "As The Bell Tolls";
@@ -43,7 +43,12 @@ public class ConstantController : Singleton<ConstantController> {
 
 #endregion
 #region -------------------- Public Methods --------------------
-    
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the constant controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
