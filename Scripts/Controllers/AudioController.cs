@@ -32,7 +32,15 @@ public class AudioController : Singleton<AudioController> {
 #region -------------------- Public Methods --------------------
     // Controls music playing and volume
     // Controls ambiance playing and volume
+    // Controls the speech dialogue playing and volume
     // Controls sound effects playing and volume
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the audio controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
