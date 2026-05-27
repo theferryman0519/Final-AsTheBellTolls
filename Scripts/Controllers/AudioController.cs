@@ -39,7 +39,7 @@ public class AudioController : Singleton<AudioController> {
     public Dictionary<string, AudioClip> FootstepsClips = new();
 #endregion
 #region -------------------- Private Variables --------------------
-
+    private float _currentMasterVolume = 1f;
 #endregion
 #region -------------------- Initial Functions --------------------
 
@@ -59,6 +59,29 @@ public class AudioController : Singleton<AudioController> {
         FootstepsClips.Clear();
 
         SetDictionariesAsync();
+    }
+
+    public void UpdateMasterVolume(float newVolume)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating all source volumes though the master");
+
+        newVolume = Mathf.Clamp01(newVolume);
+
+        if (Mathf.Approximately(_currentMasterVolume, 0f))
+        {
+            _currentMasterVolume = newVolume;
+            return;
+        }
+
+        float multiplier = newVolume / _currentMasterVolume;
+
+        UpdateMusicVolume(Mathf.Clamp01(MusicSource.volume * multiplier));
+        UpdateSpeechVolume(Mathf.Clamp01(SpeechSource.volume * multiplier));
+        UpdateAmbianceVolume(Mathf.Clamp01(AmbianceSource.volume * multiplier));
+        UpdateEffectsVolume(Mathf.Clamp01(EffectsSource.volume * multiplier));
+        UpdateFootstepsVolume(Mathf.Clamp01(FootstepsSource.volume * multiplier));
+
+        currentMasterVolume = newVolume;
     }
 
     public void UpdateMusicVolume(float newVolume)
