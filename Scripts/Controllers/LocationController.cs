@@ -33,6 +33,13 @@ public class LocationController : Singleton<LocationController> {
     // Controls overworld spawning
     // Controls location unlocking
     // Controls fast travel
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the location controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
