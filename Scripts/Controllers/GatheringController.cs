@@ -31,6 +31,13 @@ public class GatheringController : Singleton<GatheringController> {
 #endregion
 #region -------------------- Public Methods --------------------
     // Controls collecting from resource deposits
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the gathering controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
