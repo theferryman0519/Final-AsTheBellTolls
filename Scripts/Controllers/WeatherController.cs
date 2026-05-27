@@ -33,6 +33,13 @@ public class WeatherController : Singleton<WeatherController> {
     // Controls daily weather
     // Controls weather rules
     // Controls seasonal weather restrictions
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the weather controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
