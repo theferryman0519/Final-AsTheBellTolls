@@ -62,12 +62,15 @@ public class SpriteController : Singleton<SpriteController> {
     }
 #endregion
 #region -------------------- Private Methods --------------------
-    private void SetDictionaries()
+    private async void SetDictionaries()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the sprite dictionaries");
 
-        // TODO
-        // Set dictionaries with sprite IDs and sprites from each SpriteVariants
+        await TerrainSprites.SetSpriteDictionaryAsync(0);
+        await ExteriorSprites.SetSpriteDictionaryAsync(1);
+        await InteriorSprites.SetSpriteDictionaryAsync(2);
+        await CharacterSprites.SetSpriteDictionaryAsync(3);
+        await ItemSprites.SetSpriteDictionaryAsync(4);
 
         CoreController.Inst.LoadingStepCompleted();
     }
