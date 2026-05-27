@@ -35,6 +35,13 @@ public class FarmingController : Singleton<FarmingController> {
     // Controls crop growth
     // Controls harvesting crops
     // Controls spoil timers
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the farming controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
