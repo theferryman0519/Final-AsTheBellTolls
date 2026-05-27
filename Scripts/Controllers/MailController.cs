@@ -35,6 +35,13 @@ public class MailController : Singleton<MailController> {
     // Controls quest notices
     // Controls meal invitations
     // Controls even notices
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the mail controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
