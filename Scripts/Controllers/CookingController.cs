@@ -34,6 +34,13 @@ public class CookingController : Singleton<CookingController> {
     // Controls drink recipe and ingredients
     // Controls stove and blender interactions
     // Controls cooked meal or drink
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the cooking controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
