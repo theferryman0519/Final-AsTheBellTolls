@@ -120,15 +120,15 @@ public class CoreController : Singleton<CoreController> {
     {
         WriteLog(this.GetType().Name, $"Initializing the core controller");
 
-        LoadingSteps.Max = 0;
-        LoadingSteps = (0, 0);
+        LoadingSteps.Max = ConstantController.Loading_StartUp;
+        LoadingSteps = (0, ConstantController.Loading_StartUp);
 
         LoadingStepCompleted();
     }
 
     public void LoadingStepCompleted()
     {
-        WriteLog(this.GetType().Name, $"Loading step has completed: {LoadingSteps.Progress + 1} out of {LoadingSteps.Max}");
+        WriteLog(this.GetType().Name, $"Marking loading step as complete");
 
         int newProgress = Mathf.Clamp(LoadingSteps.progress + 1, 0, LoadingSteps.max);
 		LoadingSteps = (newProgress, LoadingSteps.max);
@@ -142,6 +142,8 @@ public class CoreController : Singleton<CoreController> {
 		{
 			IsLoaded = false;
 		}
+
+        WriteLog(this.GetType().Name, $"Loading step has completed: {LoadingSteps.Progress} out of {LoadingSteps.Max}");
     }
 
     public void WriteLog(string fileName, string content)
