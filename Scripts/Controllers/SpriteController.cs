@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Enum;
 
 namespace Atbt.Controller {
 public class SpriteController : Singleton<SpriteController> {
@@ -60,11 +61,11 @@ public class SpriteController : Singleton<SpriteController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the sprite dictionaries");
 
-        await TerrainSprites.SetSpriteDictionaryAsync(0);
-        await ExteriorSprites.SetSpriteDictionaryAsync(1);
-        await InteriorSprites.SetSpriteDictionaryAsync(2);
-        await CharacterSprites.SetSpriteDictionaryAsync(3);
-        await ItemSprites.SetSpriteDictionaryAsync(4);
+        await TerrainSprites.SetSpriteDictionaryAsync(SpriteTypeEnum.Terrain);
+        await ExteriorSprites.SetSpriteDictionaryAsync(SpriteTypeEnum.Exterior);
+        await InteriorSprites.SetSpriteDictionaryAsync(SpriteTypeEnum.Interior);
+        await CharacterSprites.SetSpriteDictionaryAsync(SpriteTypeEnum.Character);
+        await ItemSprites.SetSpriteDictionaryAsync(SpriteTypeEnum.Item);
 
         CoreController.Inst.LoadingStepCompleted();
     }
