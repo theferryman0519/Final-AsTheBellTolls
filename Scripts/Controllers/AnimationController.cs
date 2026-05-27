@@ -35,6 +35,13 @@ public class AnimationController : Singleton<AnimationController> {
     // Controls moving animations
     // Controls interaction animations
     // Controls emotion animations
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the animation controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
