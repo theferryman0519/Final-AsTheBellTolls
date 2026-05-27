@@ -36,6 +36,13 @@ public class CalendarController : Singleton<CalendarController> {
     // Controls the timing of ongoing events
     // Controls the timing of anniversaries
     // Controls event reminders
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the calendar controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
