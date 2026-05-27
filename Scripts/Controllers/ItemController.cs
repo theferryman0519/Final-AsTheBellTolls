@@ -31,6 +31,13 @@ public class ItemController : Singleton<ItemController> {
 #endregion
 #region -------------------- Public Methods --------------------
     // Controls central item lookup
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the item controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
