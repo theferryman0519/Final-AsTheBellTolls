@@ -32,6 +32,13 @@ public class LibraryController : Singleton<LibraryController> {
 #region -------------------- Public Methods --------------------
     // Controls books gathered
     // Controls book notes and tips
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the library controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
