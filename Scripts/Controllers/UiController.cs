@@ -34,6 +34,13 @@ public class UiController : Singleton<UiController> {
     // Controls HUD
     // Controls notification popups
     // Controls end of day summaries
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the UI controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
