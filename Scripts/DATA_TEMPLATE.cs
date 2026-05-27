@@ -36,6 +36,7 @@ using UnityEngine.SceneManagement;
 // using Atbt.Relationship;
 // using Atbt.Restoration;
 // using Atbt.SaveLoad;
+// using Atbt.Sprite;
 // using Atbt.SystemData;
 // using Atbt.SystemEvent;
 // using Atbt.SystemObject;
