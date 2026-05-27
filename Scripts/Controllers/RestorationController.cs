@@ -32,6 +32,13 @@ public class RestorationController : Singleton<RestorationController> {
 #region -------------------- Public Methods --------------------
     // Controls town restoration
     // Controls manor restoration rooms
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the restoration controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
