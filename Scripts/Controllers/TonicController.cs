@@ -30,7 +30,14 @@ public class TonicController : Singleton<TonicController> {
 
 #endregion
 #region -------------------- Public Methods --------------------
+    // Controls the tonics and tonic creation
 
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the tonic controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
