@@ -35,6 +35,13 @@ public class FestivalController : Singleton<FestivalController> {
     // Controls festival shops
     // Controls festival activities
     // Controls auto-movement
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the festival controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
