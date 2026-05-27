@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Controller;
+using Atbt.Enum;
 
 namespace Atbt.Sprite {
 public class SpriteVariants : MonoBehaviour {
@@ -31,7 +32,7 @@ public class SpriteVariants : MonoBehaviour {
     
 #endregion
 #region -------------------- Public Methods --------------------
-    public async Task SetSpriteDictionaryAsync(int dictSelection)
+    public async Task SetSpriteDictionaryAsync(SpriteTypeEnum dictSelection)
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the specific sprite dictionaries");
 
@@ -42,32 +43,13 @@ public class SpriteVariants : MonoBehaviour {
         {
             await semaphore.WaitAsync();
             tasks.Add(ProcessSpriteDictionaryAsync(dictSelection, sprite, semaphore));
-
-            switch (dictSelection)
-            {
-                case 0:
-                    SpriteController.Inst.TerrainSpritesDict.Add(sprite.name, sprite);
-                    break;
-                case 0:
-                    SpriteController.Inst.ExteriorSpritesDict.Add(sprite.name, sprite);
-                    break;
-                case 0:
-                    SpriteController.Inst.InteriorSpritesDict.Add(sprite.name, sprite);
-                    break;
-                case 0:
-                    SpriteController.Inst.CharacterSpritesDict.Add(sprite.name, sprite);
-                    break;
-                case 0:
-                    SpriteController.Inst.ItemSpritesDict.Add(sprite.name, sprite);
-                    break;
-            }
         }
 
         await Task.WhenAll(tasks);
     }
 #endregion
 #region -------------------- Private Methods --------------------
-    private async Task ProcessSpriteDictionaryAsync(int dictSelection, Sprite sprite, SemaphoreSlim semaphore)
+    private async Task ProcessSpriteDictionaryAsync(SpriteTypeEnum dictSelection, Sprite sprite, SemaphoreSlim semaphore)
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Processing the specific sprite dictionaries");
 
@@ -75,20 +57,22 @@ public class SpriteVariants : MonoBehaviour {
         {
             switch (dictSelection)
             {
-                case 0:
+                case SpriteTypeEnum.Terrain:
                     SpriteController.Inst.TerrainSpritesDict.Add(sprite.name, sprite);
                     break;
-                case 0:
+                case SpriteTypeEnum.Exterior:
                     SpriteController.Inst.ExteriorSpritesDict.Add(sprite.name, sprite);
                     break;
-                case 0:
+                case SpriteTypeEnum.Interior:
                     SpriteController.Inst.InteriorSpritesDict.Add(sprite.name, sprite);
                     break;
-                case 0:
+                case SpriteTypeEnum.Character:
                     SpriteController.Inst.CharacterSpritesDict.Add(sprite.name, sprite);
                     break;
-                case 0:
+                case SpriteTypeEnum.Item:
                     SpriteController.Inst.ItemSpritesDict.Add(sprite.name, sprite);
+                    break;
+                default:
                     break;
             }
         }
