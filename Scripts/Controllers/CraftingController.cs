@@ -32,6 +32,13 @@ public class CraftingController : Singleton<CraftingController> {
 #region -------------------- Public Methods --------------------
     // Controls craftable objects
     // Controls invention requirements
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the crafting controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
