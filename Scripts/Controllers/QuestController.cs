@@ -34,6 +34,13 @@ public class QuestController : Singleton<QuestController> {
     // Controls quest reminders
     // Controls help from Edward
     // Controls quest completion
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the quest controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
