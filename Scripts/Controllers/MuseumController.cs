@@ -32,6 +32,13 @@ public class MuseumController : Singleton<MuseumController> {
 #region -------------------- Public Methods --------------------
     // Controls museum displays
     // Controls donations
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the museum controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
