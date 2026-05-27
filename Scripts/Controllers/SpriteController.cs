@@ -25,11 +25,11 @@ public class SpriteController : Singleton<SpriteController> {
 #endregion
 #region -------------------- Public Variables --------------------
     [Header("Sprite Dictionaries")]
-    public Dictionary<string, Sprite> TerrainSpritesDict;
-    public Dictionary<string, Sprite> ExteriorSpritesDict;
-    public Dictionary<string, Sprite> InteriorSpritesDict;
-    public Dictionary<string, Sprite> CharacterSpritesDict;
-    public Dictionary<string, Sprite> ItemSpritesDict;
+    public Dictionary<string, Sprite> TerrainSpritesDict = new();
+    public Dictionary<string, Sprite> ExteriorSpritesDict = new();
+    public Dictionary<string, Sprite> InteriorSpritesDict = new();
+    public Dictionary<string, Sprite> CharacterSpritesDict = new();
+    public Dictionary<string, Sprite> ItemSpritesDict = new();
 #endregion
 #region -------------------- Private Variables --------------------
 
