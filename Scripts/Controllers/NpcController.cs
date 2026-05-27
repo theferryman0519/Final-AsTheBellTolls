@@ -35,6 +35,13 @@ public class NpcController : Singleton<NpcController> {
     // Controls current NPC location
     // Controls current NPC movement state
     // Controls NPC availability
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the NPC controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
