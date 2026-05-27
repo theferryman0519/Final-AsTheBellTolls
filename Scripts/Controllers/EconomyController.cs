@@ -36,6 +36,13 @@ public class EconomyController : Singleton<EconomyController> {
     // Controls economy summaries
     // Controls trade carts
     // Controls shop discounts
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the economy controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
