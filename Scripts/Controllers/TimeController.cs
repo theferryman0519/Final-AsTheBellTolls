@@ -36,6 +36,13 @@ public class TimeController : Singleton<TimeController> {
     // Controls the year
     // Controls the player bedtime
     // Controls the day type transitions
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the time controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
