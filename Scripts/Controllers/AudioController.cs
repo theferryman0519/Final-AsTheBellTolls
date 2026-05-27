@@ -9,6 +9,7 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 // Game Dependencies
+using Atbt.Audio;
 using Atbt.Core;
 
 namespace Atbt.Controller {
