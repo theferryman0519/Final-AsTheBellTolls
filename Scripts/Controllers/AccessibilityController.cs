@@ -32,6 +32,13 @@ public class AccessibilityController : Singleton<AccessibilityController> {
 #region -------------------- Public Methods --------------------
     // Controls game settings
     // Controls accessibility settings
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the accessibility controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
