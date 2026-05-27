@@ -11,6 +11,6 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace Atbt.Enum {
-public class ENUM_TEMPLATE {
+public enum ENUM_TEMPLATE {
 
 }}
