@@ -34,6 +34,13 @@ public class TimeManipulationController : Singleton<TimeManipulationController> 
     // Controls pocket watch
     // Controls assigning time manipulation action
     // Controls duration manipulation
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the time manipulation controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
