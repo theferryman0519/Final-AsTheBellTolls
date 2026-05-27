@@ -35,6 +35,13 @@ public class InventoryController : Singleton<InventoryController> {
     // Controls item stacks
     // Controls item quality stacks
     // Controls item transfers with storage units
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the inventory controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
