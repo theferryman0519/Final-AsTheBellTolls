@@ -35,6 +35,13 @@ public class RelationshipController : Singleton<RelationshipController> {
     // Controls gift-giving
     // Controls marriage
     // Controls daily decay for inactivity
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the relationship controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
