@@ -32,6 +32,13 @@ public class DialogueController : Singleton<DialogueController> {
 #region -------------------- Public Methods --------------------
     // Controls NPC dialogue
     // Controls dialogue choices
+
+    public void InitializeController()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the dialogue controller");
+
+        CoreController.Inst.LoadingStepCompleted();
+    }
 #endregion
 #region -------------------- Private Methods --------------------
 
