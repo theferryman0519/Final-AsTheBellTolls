@@ -11,6 +11,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Enum;
 using Atbt.Ui;
 
 namespace Atbt.Controller {
@@ -63,6 +64,8 @@ public class UiController : Singleton<UiController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Showing/hiding the pause menu");
 
+        Pause.ShowPage(PauseMenuTypeEnum.Pause);
+        
         FadeCanvas(Pause.MainCanvas, isShowing);
     }
 
