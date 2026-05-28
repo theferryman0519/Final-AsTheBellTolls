@@ -11,6 +11,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Ui;
 
 namespace Atbt.Controller {
 public class UiController : Singleton<UiController> {
