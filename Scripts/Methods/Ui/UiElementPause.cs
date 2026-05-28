@@ -29,7 +29,7 @@ public class UiElementPause : MonoBehaviour {
     public Canvas MainCanvas => CanvasElement;
 #endregion
 #region -------------------- Private Variables --------------------
-    
+    private PauseMenuTypeEnum _currentType;
 #endregion
 #region -------------------- Initial Functions --------------------
     
@@ -46,6 +46,31 @@ public class UiElementPause : MonoBehaviour {
         SettingsPage.SetActive(pageType == PauseMenuTypeEnum.Settings);
         ControlsPage.SetActive(pageType == PauseMenuTypeEnum.Controls);
         BugReportPage.SetActive(pageType == PauseMenuTypeEnum.Report);
+
+        _currentType = pageType;
+    }
+
+    public void TogglePage(int delta)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Toggling the menu tabs");
+
+        int currentPageNum = (int)_currentType;
+
+        currentPageNum += delta;
+
+        if (currentPageNum < 0)
+        {
+            currentPageNum = Enum.GetValues(typeof(PauseMenuTypeEnum)).Length - 1;
+        }
+
+        else if (currentPageNum >= Enum.GetValues(typeof(PauseMenuTypeEnum)).Length)
+        {
+            currentPageNum = 0;
+        }
+
+        _currentType = (PauseMenuTypeEnum)currentPageNum;
+
+        ShowPage(_currentType);
     }
 #endregion
 #region -------------------- Private Methods --------------------
