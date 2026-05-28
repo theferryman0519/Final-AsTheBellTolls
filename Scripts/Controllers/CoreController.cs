@@ -130,10 +130,10 @@ public class CoreController : Singleton<CoreController> {
     {
         WriteLog(this.GetType().Name, $"Marking loading step as complete");
 
-        int newProgress = Mathf.Clamp(LoadingSteps.progress + 1, 0, LoadingSteps.max);
-		LoadingSteps = (newProgress, LoadingSteps.max);
+        int newProgress = Mathf.Clamp(LoadingSteps.Progress + 1, 0, LoadingSteps.Max);
+		LoadingSteps = (newProgress, LoadingSteps.Max);
 
-		if (newProgress == LoadingSteps.max)
+		if (newProgress == LoadingSteps.Max)
 		{
 			IsLoaded = true;
 		}

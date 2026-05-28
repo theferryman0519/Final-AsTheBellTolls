@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Player;
 
 namespace Atbt.Controller {
 public class PlayerController : Singleton<PlayerController> {
@@ -44,8 +45,8 @@ public class PlayerController : Singleton<PlayerController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the player controller");
 
-        if (Movement == null) { gameobject.AddComponent<PlayerMovement>(); }
-        if (Stamina == null) { gameobject.AddComponent<PlayerStamina>(); }
+        if (Movement == null) { gameObject.AddComponent<PlayerMovement>(); }
+        if (Stamina == null) { gameObject.AddComponent<PlayerStamina>(); }
 
         CoreController.Inst.LoadingStepCompleted();
     }

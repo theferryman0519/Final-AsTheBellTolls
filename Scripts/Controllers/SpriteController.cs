@@ -11,6 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 using Atbt.Core;
 using Atbt.Enum;
+using Atbt.Sprite;
 
 namespace Atbt.Controller {
 public class SpriteController : Singleton<SpriteController> {
@@ -25,11 +26,11 @@ public class SpriteController : Singleton<SpriteController> {
 #endregion
 #region -------------------- Public Variables --------------------
     [Header("Sprite Dictionaries")]
-    public Dictionary<string, Sprite> TerrainSpritesDict = new();
-    public Dictionary<string, Sprite> ExteriorSpritesDict = new();
-    public Dictionary<string, Sprite> InteriorSpritesDict = new();
-    public Dictionary<string, Sprite> CharacterSpritesDict = new();
-    public Dictionary<string, Sprite> ItemSpritesDict = new();
+    public Dictionary<string, UnityEngine.Sprite> TerrainSpritesDict = new();
+    public Dictionary<string, UnityEngine.Sprite> ExteriorSpritesDict = new();
+    public Dictionary<string, UnityEngine.Sprite> InteriorSpritesDict = new();
+    public Dictionary<string, UnityEngine.Sprite> CharacterSpritesDict = new();
+    public Dictionary<string, UnityEngine.Sprite> ItemSpritesDict = new();
 #endregion
 #region -------------------- Private Variables --------------------
 

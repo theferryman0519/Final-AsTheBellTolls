@@ -2,6 +2,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -17,7 +19,7 @@ public class SpriteVariants : MonoBehaviour {
 
 #region -------------------- Serialized Variables --------------------
     [Header("Sprites List")]
-    [SerializeField] private List<Sprite> SpriteList = new();
+    [SerializeField] private List<UnityEngine.Sprite> SpriteList = new();
 #endregion
 #region -------------------- Public Variables --------------------
     
@@ -39,7 +41,7 @@ public class SpriteVariants : MonoBehaviour {
         SemaphoreSlim semaphore = new SemaphoreSlim(_maxConcurrentDownloads, _maxConcurrentDownloads);
         List<Task> tasks = new List<Task>(SpriteList.Count);
 
-        foreach (Sprite sprite in SpriteList)
+        foreach (UnityEngine.Sprite sprite in SpriteList)
         {
             await semaphore.WaitAsync();
             tasks.Add(ProcessSpriteDictionaryAsync(dictSelection, sprite, semaphore));
@@ -49,7 +51,7 @@ public class SpriteVariants : MonoBehaviour {
     }
 #endregion
 #region -------------------- Private Methods --------------------
-    private async Task ProcessSpriteDictionaryAsync(SpriteTypeEnum dictSelection, Sprite sprite, SemaphoreSlim semaphore)
+    private async Task ProcessSpriteDictionaryAsync(SpriteTypeEnum dictSelection, UnityEngine.Sprite sprite, SemaphoreSlim semaphore)
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Processing the specific sprite dictionaries");
 

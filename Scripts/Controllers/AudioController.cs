@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Audio;
+using Atbt.Enum;
 using Atbt.Core;
 
 namespace Atbt.Controller {
@@ -81,7 +82,7 @@ public class AudioController : Singleton<AudioController> {
         UpdateEffectsVolume(Mathf.Clamp01(EffectsSource.volume * multiplier));
         UpdateFootstepsVolume(Mathf.Clamp01(FootstepsSource.volume * multiplier));
 
-        currentMasterVolume = newVolume;
+        _currentMasterVolume = newVolume;
     }
 
     public void UpdateMusicVolume(float newVolume)
