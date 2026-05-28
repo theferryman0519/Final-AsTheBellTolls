@@ -29,7 +29,14 @@ public class UiController : Singleton<UiController> {
     [SerializeField] private UiElementNightSummary NightSummary;
 #endregion
 #region -------------------- Public Variables --------------------
-
+    public UiElementHud HudUi => Hud;
+    public UiElementPause PauseUi => Pause;
+    public UiElementDialogue DialogueUi => Dialogue;
+    public UiElementInventory InventoryUi => Inventory;
+    public UiElementItemTransfer ItemTransferUi => ItemTransfer;
+    public UiElementQuests QuestsUi => Quests;
+    public UiElementInventions InventionsUi => Inventions;
+    public UiElementNightSummary NightSummaryUi => NightSummary;
 #endregion
 #region -------------------- Private Variables --------------------
 
@@ -65,7 +72,7 @@ public class UiController : Singleton<UiController> {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Showing/hiding the pause menu");
 
         Pause.ShowPage(PauseMenuTypeEnum.Pause);
-        
+
         FadeCanvas(Pause.MainCanvas, isShowing);
     }
 
