@@ -57,7 +57,10 @@ public class LocationController : Singleton<LocationController> {
 
         string currentSceneName = CoreController.Inst.GetSceneName();
 
-        return LocationsDict[currentSceneName];
+        if (LocationsDict.TryGetValue(currentSceneName, out LocationObject loc))
+        {
+            return loc;
+        }
     }
 #endregion
 #region -------------------- Private Methods --------------------
