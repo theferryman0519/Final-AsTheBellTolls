@@ -17,8 +17,12 @@ namespace Atbt.Ui {
 public class UiElementHud : MonoBehaviour {
 
 #region -------------------- Serialized Variables --------------------
-    [Header("Canvas Element")]
+    [Header("Canvas Elements")]
     [SerializeField] private Canvas CanvasElement;
+    [SerializeField] private Canvas QuestCanvas;
+    [SerializeField] private Canvas InteractCanvas;
+    [SerializeField] private Canvas TimeManipulationCanvas;
+    [SerializeField] private Canvas NotificationCanvas;
 
     [Header("Text Objects")]
     [SerializeField] private AtbtText DateText;
