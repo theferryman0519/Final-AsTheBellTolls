@@ -27,7 +27,7 @@ public class AtbtButton : MonoBehaviour {
     
 #endregion
 #region -------------------- Private Variables --------------------
-    
+    private Action _actionElement;
 #endregion
 #region -------------------- Initial Functions --------------------
     
@@ -62,6 +62,20 @@ public class AtbtButton : MonoBehaviour {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the button highlight visibility");
 
         HighlightElement.alpha = isActive ? 1f : 0f;
+    }
+
+    public void SetAction(Action action = null)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the button action");
+
+        _actionElement = action;
+    }
+
+    public Action RunAction(bool isActive)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Running the button action");
+
+        _actionElement?.Invoke();
     }
 #endregion
 #region -------------------- Private Methods --------------------
