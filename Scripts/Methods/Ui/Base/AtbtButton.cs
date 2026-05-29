@@ -17,8 +17,8 @@ public class AtbtButton : MonoBehaviour {
 #region -------------------- Serialized Variables --------------------
     [Header("Button Element")]
     [SerializeField] private Button ButtonElement;
-    [SerializeField] private Canvas CanvasElement;
-    [SerializeField] private Canvas HighlightElement;
+    [SerializeField] private CanvasGroup CanvasElement;
+    [SerializeField] private CanvasGroup HighlightElement;
     
     [Header("Text Element")]
     [SerializeField] private TMP_Text TextElement;
