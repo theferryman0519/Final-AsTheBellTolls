@@ -15,10 +15,12 @@ namespace Atbt.Controller {
 public class LocationController : Singleton<LocationController> {
 
 #region -------------------- Serialized Variables --------------------
-
+    [Header("Locations List")]
+    [SerializeField] private List<LocationObject> LocationsList = new();
 #endregion
 #region -------------------- Public Variables --------------------
-
+    [Header("Locations Dictionary")]
+    public Dictionary<string, LocationObject> LocationsDict = new();
 #endregion
 #region -------------------- Private Variables --------------------
 
@@ -38,7 +40,23 @@ public class LocationController : Singleton<LocationController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the location controller");
 
+        LocationsDict.Clear();
+
+        foreach (LocationObject obj in LocationsList)
+        {
+            LocationsDict.Add(obj.CorrespondingScene, obj);
+        }
+
         CoreController.Inst.LoadingStepCompleted();
+    }
+
+    public LocationObject GetCurrentLocation()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Getting the current location object");
+
+        string currentSceneName = CoreController.Inst.GetSceneName();
+
+        return LocationsDict[currentSceneName];
     }
 #endregion
 #region -------------------- Private Methods --------------------
