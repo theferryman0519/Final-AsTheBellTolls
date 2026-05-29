@@ -15,10 +15,10 @@ public class UiElementQuests : MonoBehaviour {
 
 #region -------------------- Serialized Variables --------------------
     [Header("Canvas Element")]
-    [SerializeField] private Canvas CanvasElement;
+    [SerializeField] private CanvasGroup CanvasElement;
 #endregion
 #region -------------------- Public Variables --------------------
-    public Canvas MainCanvas => CanvasElement;
+    public CanvasGroup MainCanvas => CanvasElement;
 #endregion
 #region -------------------- Private Variables --------------------
     
