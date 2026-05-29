@@ -29,6 +29,8 @@ public class TimeController : Singleton<TimeController> {
 
     public SeasonTypeEnum SeasonType;
     public WeekdayTypeEnum WeekdayType;
+
+    public bool IsTimeRunning;
 #endregion
 #region -------------------- Private Variables --------------------
     private int _minutesPerTick = 10;
@@ -39,13 +41,16 @@ public class TimeController : Singleton<TimeController> {
 #region -------------------- Initial Functions --------------------
     void Update()
     {
-        _timeAccumulator += Time.deltaTime;
-
-        if (_timeAccumulator >= _realSecondsPerTick)
+        if (IsTimeRunning)
         {
-            _timeAccumulator -= _realSecondsPerTick;
+            _timeAccumulator += Time.deltaTime;
 
-            AdvanceTime(_minutesPerTick);
+            if (_timeAccumulator >= _realSecondsPerTick)
+            {
+                _timeAccumulator -= _realSecondsPerTick;
+
+                AdvanceTime(_minutesPerTick);
+            }
         }
     }
 #endregion
