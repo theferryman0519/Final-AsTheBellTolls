@@ -32,6 +32,9 @@ public class ConstantController : Singleton<ConstantController> {
 
     // Multipliers
     public const float Multiplier_Fading = 0.5f;
+
+    // Thresholds
+    public const float Threshold_MoveInputDeadzone = 0.5f;
 #endregion
 #region -------------------- Private Variables --------------------
 
