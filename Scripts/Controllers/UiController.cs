@@ -119,7 +119,7 @@ public class UiController : Singleton<UiController> {
     }
 #endregion
 #region -------------------- Private Methods --------------------
-    private void FadeCanvas(Canvas canvas, bool isFadingIn, Action continueAction = null)
+    private void FadeCanvas(CanvasGroup canvas, bool isFadingIn, Action continueAction = null)
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Fading canvas element");
 
