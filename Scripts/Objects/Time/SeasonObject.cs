@@ -18,10 +18,10 @@ public class SeasonObject : ScriptableObject {
 
     public SeasonTypeEnum SeasonType;
 
-    public (int startHour, int endHour) DawnHours;
-    public (int startHour, int endHour) DayHours;
-    public (int startHour, int endHour) DuskHours;
-    public (int startHour, int endHour) NightHours;
+    public DaylightHours DawnHours;
+    public DaylightHours DayHours;
+    public DaylightHours DuskHours;
+    public DaylightHours NightHours;
 
     public int ClearDayCount;
     public int CloudDayCount;
@@ -38,4 +38,10 @@ public class SeasonObject : ScriptableObject {
     // public List<FlowerObject> InSeasonFlowers;
     // public List<HerbObject> InSeasonHerbs;
     // public List<WoodObject> InSeasonWoods;
+}
+
+[Serializable]
+public class DaylightHours {
+    public int StartHour;
+    public int EndHour;
 }}
