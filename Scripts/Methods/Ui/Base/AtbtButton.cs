@@ -17,6 +17,8 @@ public class AtbtButton : MonoBehaviour {
 #region -------------------- Serialized Variables --------------------
     [Header("Button Element")]
     [SerializeField] private Button ButtonElement;
+    [SerializeField] private Canvas CanvasElement;
+    [SerializeField] private Canvas HighlightElement;
     
     [Header("Text Element")]
     [SerializeField] private TMP_Text TextElement;
@@ -46,6 +48,20 @@ public class AtbtButton : MonoBehaviour {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the text content");
 
         TextElement.text = content;
+    }
+
+    public void SetVisibility(bool isActive)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the button visibility");
+
+        CanvasElement.alpha = isActive ? 1f : 0f;
+    }
+
+    public void SetHighlight(bool isActive)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the button highlight visibility");
+
+        HighlightElement.alpha = isActive ? 1f : 0f;
     }
 #endregion
 #region -------------------- Private Methods --------------------
