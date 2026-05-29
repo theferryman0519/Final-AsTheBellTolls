@@ -18,11 +18,11 @@ public class UiElementHud : MonoBehaviour {
 
 #region -------------------- Serialized Variables --------------------
     [Header("Canvas Elements")]
-    [SerializeField] private Canvas CanvasElement;
-    [SerializeField] private Canvas QuestCanvas;
-    [SerializeField] private Canvas InteractCanvas;
-    [SerializeField] private Canvas TimeManipulationCanvas;
-    [SerializeField] private Canvas NotificationCanvas;
+    [SerializeField] private CanvasGroup CanvasElement;
+    [SerializeField] private CanvasGroup QuestCanvas;
+    [SerializeField] private CanvasGroup InteractCanvas;
+    [SerializeField] private CanvasGroup TimeManipulationCanvas;
+    [SerializeField] private CanvasGroup NotificationCanvas;
 
     [Header("Text Objects")]
     [SerializeField] private AtbtText DateText;
@@ -35,7 +35,7 @@ public class UiElementHud : MonoBehaviour {
     [SerializeField] private Image WeatherIcon;
 #endregion
 #region -------------------- Public Variables --------------------
-    public Canvas MainCanvas => CanvasElement;
+    public CanvasGroup MainCanvas => CanvasElement;
 #endregion
 #region -------------------- Private Variables --------------------
     
