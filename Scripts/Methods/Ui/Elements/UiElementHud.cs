@@ -70,7 +70,7 @@ public class UiElementHud : MonoBehaviour {
 
         if (location != null)
         {
-            locationName = locationName.DisplayName;
+            locationName = location.DisplayName;
         }
 
         LocationText.SetText(locationName);
