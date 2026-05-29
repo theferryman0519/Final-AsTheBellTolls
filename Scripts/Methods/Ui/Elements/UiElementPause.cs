@@ -17,7 +17,7 @@ public class UiElementPause : MonoBehaviour {
 
 #region -------------------- Serialized Variables --------------------
     [Header("Canvas Element")]
-    [SerializeField] private Canvas CanvasElement;
+    [SerializeField] private CanvasGroup CanvasElement;
 
     [Header("Menu Pages")]
     [SerializeField] private GameObject PausePage;
@@ -26,7 +26,7 @@ public class UiElementPause : MonoBehaviour {
     [SerializeField] private GameObject BugReportPage;
 #endregion
 #region -------------------- Public Variables --------------------
-    public Canvas MainCanvas => CanvasElement;
+    public CanvasGroup MainCanvas => CanvasElement;
 #endregion
 #region -------------------- Private Variables --------------------
     private PauseMenuTypeEnum _currentType;
