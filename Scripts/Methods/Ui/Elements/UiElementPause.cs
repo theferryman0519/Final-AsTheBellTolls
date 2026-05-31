@@ -60,10 +60,10 @@ public class UiElementPause : MonoBehaviour {
 
         if (currentPageNum < 0)
         {
-            currentPageNum = Enum.GetValues(typeof(PauseMenuTypeEnum)).Length - 1;
+            currentPageNum = System.Enum.GetValues(typeof(PauseMenuTypeEnum)).Length - 1;
         }
 
-        else if (currentPageNum >= Enum.GetValues(typeof(PauseMenuTypeEnum)).Length)
+        else if (currentPageNum >= System.Enum.GetValues(typeof(PauseMenuTypeEnum)).Length)
         {
             currentPageNum = 0;
         }

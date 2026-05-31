@@ -16,5 +16,5 @@ public class LocationObject : ScriptableObject {
     public string Id;
     public string DisplayName;
     public string CorrespondingScene;
-    public string CorrespondingAudio;
+    // public string CorrespondingAudio;
 }}

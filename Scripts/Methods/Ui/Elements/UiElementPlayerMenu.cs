@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace Atbt.Ui {
-public class UiElementInventory : MonoBehaviour {
+public class UiElementPlayerMenu : MonoBehaviour {
 
 #region -------------------- Serialized Variables --------------------
     [Header("Canvas Element")]

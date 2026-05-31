@@ -41,7 +41,10 @@ public class AtbtButton : MonoBehaviour {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the button action");
 
         ButtonElement.onClick.RemoveAllListeners();
-        ButtonElement.onClick.AddListener(action);
+        ButtonElement.onClick.AddListener(() =>
+        {
+            action?.Invoke();
+        });
     }
     
     public void SetInteractability(bool isActive)

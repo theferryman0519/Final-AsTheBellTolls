@@ -16,9 +16,6 @@ namespace Atbt.Controller {
 public class PlayerController : Singleton<PlayerController> {
 
 #region -------------------- Serialized Variables --------------------
-    [Header("Player Movement")]
-    [SerializeField] private PlayerMovement Movement;
-
     [Header("Player Stamina")]
     [SerializeField] private PlayerStamina Stamina;
 #endregion
@@ -41,11 +38,10 @@ public class PlayerController : Singleton<PlayerController> {
     // Controls player tool usage
     // Controls state of the player
 
-    public void Initialize(Action continueAction = null)
+    public void InitializeController(Action continueAction = null)
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the player controller");
 
-        if (Movement == null) { gameObject.AddComponent<PlayerMovement>(); }
         if (Stamina == null) { gameObject.AddComponent<PlayerStamina>(); }
 
         CoreController.Inst.LoadingStepCompleted();

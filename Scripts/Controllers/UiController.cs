@@ -22,7 +22,7 @@ public class UiController : Singleton<UiController> {
     [SerializeField] private UiElementHud Hud;
     [SerializeField] private UiElementPause Pause;
     [SerializeField] private UiElementDialogue Dialogue;
-    [SerializeField] private UiElementInventory Inventory;
+    [SerializeField] private UiElementPlayerMenu PlayerMenu;
     [SerializeField] private UiElementItemTransfer ItemTransfer;
     [SerializeField] private UiElementQuests Quests;
     [SerializeField] private UiElementInventions Inventions;
@@ -32,7 +32,7 @@ public class UiController : Singleton<UiController> {
     public UiElementHud HudUi => Hud;
     public UiElementPause PauseUi => Pause;
     public UiElementDialogue DialogueUi => Dialogue;
-    public UiElementInventory InventoryUi => Inventory;
+    public UiElementPlayerMenu PlayerMenuUi => PlayerMenu;
     public UiElementItemTransfer ItemTransferUi => ItemTransfer;
     public UiElementQuests QuestsUi => Quests;
     public UiElementInventions InventionsUi => Inventions;
@@ -82,12 +82,12 @@ public class UiController : Singleton<UiController> {
 
         FadeCanvas(Dialogue.MainCanvas, isShowing);
     }
-
-    public void ShowHideInventoryMenu(bool isShowing)
+    
+    public void ShowHidePlayerMenu(bool isShowing)
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Showing/hiding the inventory menu");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Showing/hiding the player menu");
 
-        FadeCanvas(Inventory.MainCanvas, isShowing);
+        FadeCanvas(PlayerMenu.MainCanvas, isShowing);
     }
 
     public void ShowHideItemTransferMenu(bool isShowing)

@@ -105,26 +105,23 @@ public class TimeController : Singleton<TimeController> {
         {
             return DaylightTypeEnum.Day;
         }
-
-        if (HourNumber is >= currentSeason.DawnHours.startHour and < currentSeason.DawnHours.endHour)
+        
+        if (HourNumber >= currentSeason.DawnHours.StartHour && HourNumber < currentSeason.DawnHours.EndHour)
         {
             return DaylightTypeEnum.Dawn;
         }
 
-        else if (HourNumber is >= currentSeason.DayHours.startHour and < currentSeason.DayHours.endHour)
+        if (HourNumber >= currentSeason.DayHours.StartHour && HourNumber < currentSeason.DayHours.EndHour)
         {
             return DaylightTypeEnum.Day;
         }
 
-        else if (HourNumber is >= currentSeason.DuskHours.startHour and < currentSeason.DuskHours.endHour)
+        if (HourNumber >= currentSeason.DuskHours.StartHour && HourNumber < currentSeason.DuskHours.EndHour)
         {
             return DaylightTypeEnum.Dusk;
         }
 
-        else
-        {
-            return DaylightTypeEnum.Night;
-        }
+        return DaylightTypeEnum.Night;
     }
 #endregion
 #region -------------------- Private Methods --------------------

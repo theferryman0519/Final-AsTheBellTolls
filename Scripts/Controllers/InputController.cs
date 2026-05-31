@@ -29,13 +29,13 @@ public class InputController : Singleton<InputController> {
     public event Action PlayerMenuPressed; // P / Up Arrow
     public event Action SetManipulationPressed; // M / Down Arrow
     public event Action LookWavePressed; // L
-    public event Action InventoryRowUpPressed; // [ / <
-    public event Action InventoryRowDownPressed; // ] / >
+    public event Action InventoryRowUpPressed; // [
+    public event Action InventoryRowDownPressed; // ]
 
     public Vector2 MoveInput => _moveInput;
 #endregion
 #region -------------------- Private Variables --------------------
-    private GameInputAction _inputActions;
+    private GameInputActions _inputActions;
 
     private Vector2 _moveInput;
 #endregion
@@ -53,7 +53,7 @@ public class InputController : Singleton<InputController> {
         _inputActions = new GameInputActions();
 
         RegisterGameInputActions();
-        SwitchToUi();
+        SwitchToGameplay();
 
         CoreController.Inst.LoadingStepCompleted();
     }

@@ -61,6 +61,8 @@ public class LocationController : Singleton<LocationController> {
         {
             return loc;
         }
+
+        return null;
     }
 #endregion
 #region -------------------- Private Methods --------------------

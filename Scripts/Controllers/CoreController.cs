@@ -105,9 +105,17 @@ public class CoreController : Singleton<CoreController> {
         // // FOR TESTING
         // PlayerPrefs.DeleteAll();
         // PlayerPrefs.Save();
-
+        // // FOR TESTING
+        
+        // FOR PLAY TESTING
         IsLoaded = false;
-        SceneManager.LoadSceneAsync(Scene_Main00, LoadSceneMode.Single);
+        SceneManager.LoadSceneAsync(Scene_Exterior00, LoadSceneMode.Single);
+        // FOR PLAY TESTING
+
+        // // FOR REAL GAMEPLAY
+        // IsLoaded = false;
+        // SceneManager.LoadSceneAsync(Scene_Main00, LoadSceneMode.Single);
+        // // FOR REAL GAMEPLAY
 
         InitializeController();
     }
@@ -122,6 +130,11 @@ public class CoreController : Singleton<CoreController> {
 
         LoadingSteps.Max = ConstantController.Loading_StartUp;
         LoadingSteps = (0, ConstantController.Loading_StartUp);
+        
+        // FOR TESTING
+        InputController.Inst.InitializeController();
+        PlayerController.Inst.InitializeController();
+        // FOR TESTING
 
         LoadingStepCompleted();
     }
