@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace TEMPLATE {
-public class MODEL_TEMPLATE : MonoBehaviour {
+public class MODEL_TEMPLATE {
     
 #region -------------------- Variables --------------------
     
