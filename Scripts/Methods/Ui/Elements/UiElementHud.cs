@@ -42,7 +42,7 @@ public class UiElementHud : MonoBehaviour {
     [Header("Canvas Group")]
     public CanvasGroup MainCanvas => CanvasElement;
 
-    [Header("Slider Actions")]
+    [Header("Actions")]
     public event Action UpdateStamina;
     public event Action UpdateTimeManipulation;
 #endregion
