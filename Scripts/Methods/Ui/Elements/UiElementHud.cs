@@ -34,6 +34,10 @@ public class UiElementHud : MonoBehaviour {
     [SerializeField] private Image DaylightIcon;
     [SerializeField] private Image WeatherIcon;
 
+    [Header("Icon Sprites")]
+    [SerializeField] private List<UnityEngine.Sprite> DaylightSprites = new();
+    [SerializeField] private List<UnityEngine.Sprite> WeatherSprites = new();
+
     [Header("Slider Elements")]
     [SerializeField] private AtbtSlider StaminaSlider;
     [SerializeField] private AtbtSlider TimeManipulationSlider;
@@ -121,18 +125,32 @@ public class UiElementHud : MonoBehaviour {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the daylight icon");
 
+        UnityEngine.Sprite daylightSprite = DaylightSprites[0];
         DaylightTypeEnum currentDaylight = TimeController.Inst.GetCurrentDaylight();
+        int daylightInt = (int)currentDaylight;
 
-        // TODO
-        // Set DaylightIcon sprite from SpriteController based on current time
+        if (daylightInt < DaylightSprites.Count && daylightInt >= 0)
+        {
+            daylightSprite = DaylightSprites[daylightInt];
+        }
+
+        DaylightIcon.sprite = daylightSprite;
     }
 
     private void UpdateWeatherIcon()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the weather icon");
 
-        // TODO
-        // Set WeatherIcon sprite from SpriteController based on weather
+        UnityEngine.Sprite weatherSprite = WeatherSprites[0];
+        WeatherTypeEnum currentWeather = WeatherController.Inst.GetCurrentWeather();
+        int weatherInt = (int)currentWeather;
+
+        if (weatherInt < WeatherSprites.Count && weatherInt >= 0)
+        {
+            weatherSprite = WeatherSprites[weatherInt];
+        }
+
+        WeatherIcon.sprite = weatherSprite;
     }
     
     private void UpdateStaminaSlider()
