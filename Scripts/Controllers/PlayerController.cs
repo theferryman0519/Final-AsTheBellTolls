@@ -20,7 +20,7 @@ public class PlayerController : Singleton<PlayerController> {
     [SerializeField] private PlayerStamina Stamina;
 #endregion
 #region -------------------- Public Variables --------------------
-
+    
 #endregion
 #region -------------------- Private Variables --------------------
 
@@ -45,6 +45,13 @@ public class PlayerController : Singleton<PlayerController> {
         if (Stamina == null) { gameObject.AddComponent<PlayerStamina>(); }
 
         CoreController.Inst.LoadingStepCompleted();
+    }
+
+    public void GetPlayerStamina()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Getting the player stamina");
+
+        // TODO
     }
 
     public void TakeNap()
