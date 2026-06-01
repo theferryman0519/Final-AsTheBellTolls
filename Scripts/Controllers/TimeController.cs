@@ -142,11 +142,18 @@ public class TimeController : Singleton<TimeController> {
         return DaylightTypeEnum.Night;
     }
 
+    public void ToggleTimeAdvancing(bool isAdvancing)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Setting if the time is advancing or not");
+
+        IsTimeRunning = isAdvancing;
+    }
+
     public void AdvanceNapTime()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Advancing the time from a nap");
 
-        IsTimeRunning = false;
+        ToggleTimeAdvancing(false);
 
         int totalMinutes = TotalMinutesElapsed();
 
@@ -163,14 +170,14 @@ public class TimeController : Singleton<TimeController> {
         OnTimeTick?.Invoke(HourNumber, MinuteNumber);
         OnHourTick?.Invoke();
 
-        IsTimeRunning = true;
+        ToggleTimeAdvancing(true);
     }
 
     public void StartEndOfDay()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Starting the end of day");
 
-        IsTimeRunning = false;
+        ToggleTimeAdvancing(false);
 
         OnDayEnd?.Invoke();
 
@@ -185,7 +192,19 @@ public class TimeController : Singleton<TimeController> {
 
         OnDayTick?.Invoke();
 
-        IsTimeRunning = true;
+        ToggleTimeAdvancing(true);
+    }
+
+    public void SetFirstDayStartTime()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the start time on the first day");
+
+        ToggleTimeAdvancing(false);
+
+        HourNumber = 10;
+        MinuteNumber = 0;
+
+        ToggleTimeAdvancing(true);
     }
 #endregion
 #region -------------------- Private Methods --------------------
