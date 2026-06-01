@@ -160,7 +160,7 @@ public class TimeController : Singleton<TimeController> {
         HourNumber = totalMinutes / 60;
         MinuteNumber = 0;
 
-        OnTimeTick?.Invoke();
+        OnTimeTick?.Invoke(HourNumber, MinuteNumber);
         OnHourTick?.Invoke();
 
         IsTimeRunning = true;
