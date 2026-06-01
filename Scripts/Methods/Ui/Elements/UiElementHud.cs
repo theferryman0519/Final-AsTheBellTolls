@@ -57,6 +57,8 @@ public class UiElementHud : MonoBehaviour {
         UpdateLocation();
         UpdateDaylightIcon();
         UpdateWeatherIcon();
+        UpdateStaminaSlider();
+        UpdateTimeManipulationSlider();
     }
 
     void OnEnable()
