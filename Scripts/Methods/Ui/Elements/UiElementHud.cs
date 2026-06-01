@@ -33,6 +33,10 @@ public class UiElementHud : MonoBehaviour {
     [Header("Icon Elements")]
     [SerializeField] private Image DaylightIcon;
     [SerializeField] private Image WeatherIcon;
+
+    [Header("Slider Elements")]
+    [SerializeField] private AtbtSlider StaminaSlider;
+    [SerializeField] private AtbtSlider TimeManipulationSlider;
 #endregion
 #region -------------------- Public Variables --------------------
     public CanvasGroup MainCanvas => CanvasElement;
