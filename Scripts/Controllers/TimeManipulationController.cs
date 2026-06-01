@@ -18,7 +18,7 @@ public class TimeManipulationController : Singleton<TimeManipulationController> 
 
 #endregion
 #region -------------------- Public Variables --------------------
-
+    public int TimeManipulationEnergy;
 #endregion
 #region -------------------- Private Variables --------------------
 
@@ -40,6 +40,13 @@ public class TimeManipulationController : Singleton<TimeManipulationController> 
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the time manipulation controller");
 
         CoreController.Inst.LoadingStepCompleted();
+    }
+
+    public int GetTimeManipulationEnergy()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Getting the amount of time manipulation energy");
+
+        return TimeManipulationEnergy;
     }
 #endregion
 #region -------------------- Private Methods --------------------
