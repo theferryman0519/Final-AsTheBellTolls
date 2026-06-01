@@ -32,11 +32,22 @@ public class TimeController : Singleton<TimeController> {
     public WeekdayTypeEnum WeekdayType;
 
     public bool IsTimeRunning;
+
+    [Header("Time Actions")]
+    public event Action<int, int> OnTimeTick;
+    public event Action OnHourTick;
+    public event Action OnDayTick;
+    public event Action OnSeasonTick;
+    public event Action OnYearTick;
+    public event Action OnDayEnd;
 #endregion
 #region -------------------- Private Variables --------------------
     private int _minutesPerTick = 10;
+    private int _daysPerWeek = 7;
+    private int _daysPerSeason = 31;
+    private int _seasonsPerYear = 4;
 
-    private float _realSecondsPerTick = 7f;
+    private float _realSecondsPerTick = 8.5f;
     private float _timeAccumulator = 0f;
 #endregion
 #region -------------------- Initial Functions --------------------
@@ -50,7 +61,7 @@ public class TimeController : Singleton<TimeController> {
             {
                 _timeAccumulator -= _realSecondsPerTick;
 
-                AdvanceTime(_minutesPerTick);
+                AdvanceTime();
             }
         }
     }
@@ -71,6 +82,13 @@ public class TimeController : Singleton<TimeController> {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the time controller");
 
         CoreController.Inst.LoadingStepCompleted();
+    }
+
+    public int TotalMinutesElapsed()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Getting the total minutes that has elapsed for the day");
+
+        return (HourNumber * 60) + MinuteNumber;
     }
 
     public string GetCurrentDate()
@@ -123,6 +141,28 @@ public class TimeController : Singleton<TimeController> {
 
         return DaylightTypeEnum.Night;
     }
+
+    public void StartEndOfDay()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Starting the end of day");
+
+        IsTimeRunning = false;
+
+        OnDayEnd?.Invoke();
+
+        // TODO
+        // End of day logic
+        // Auto save game
+        
+        AdvanceDay();
+
+        HourNumber = 6;
+        MinuteNumber = 0;
+
+        OnDayTick?.Invoke();
+
+        IsTimeRunning = true;
+    }
 #endregion
 #region -------------------- Private Methods --------------------
     private string GetDayNumberString()
@@ -143,9 +183,13 @@ public class TimeController : Singleton<TimeController> {
         }
     }
 
-    private void AdvanceTime(int minutes)
+    private void AdvanceTime()
     {
-        MinuteNumber += minutes;
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Advancing the minutes and hours");
+
+        int previousHour = HourNumber;
+
+        MinuteNumber += _minutesPerTick;
 
         while (MinuteNumber >= 60)
         {
@@ -153,9 +197,48 @@ public class TimeController : Singleton<TimeController> {
             HourNumber++;
         }
 
+        OnTimeTick?.Invoke(MinuteNumber, HourNumber);
+
+        if (HourNumber != previousHour)
+        {
+            OnHourTick?.Invoke();
+        }
+
         if (HourNumber >= 24)
         {
-            HourNumber = 0;
+            StartEndOfDay();
+        }
+    }
+
+    private void AdvanceDay()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Advancing the day");
+
+        DayNumber += 1;
+
+        WeekdayType = (WeekdayTypeEnum)(((int)WeekdayType + 1) % _daysPerWeek);
+
+        if (DayNumber > _daysPerSeason)
+        {
+            DayNumber = 1;
+
+            AdvanceSeason();
+        }
+    }
+
+    private void AdvanceSeason()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Advancing the season and year");
+
+        SeasonType = (SeasonTypeEnum)(((int)SeasonType + 1) % _seasonsPerYear);
+
+        OnSeasonTick?.Invoke();
+
+        if (SeasonType == SeasonTypeEnum.Spring)
+        {
+            YearNumber += 1;
+
+            OnYearTick?.Invoke();
         }
     }
 #endregion
