@@ -21,6 +21,6 @@ public class ItemModel {
     public int Count;
 
     public QualityTypeEnum Quality;
-    public FreshnessTypeEnum Ripeness;
+    public FreshnessTypeEnum Freshness;
 #endregion
 }}
