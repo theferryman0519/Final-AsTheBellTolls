@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Enum;
 
 namespace Atbt.Controller {
 public class WeatherController : Singleton<WeatherController> {
@@ -18,7 +19,8 @@ public class WeatherController : Singleton<WeatherController> {
 
 #endregion
 #region -------------------- Public Variables --------------------
-
+    [Header("Current Weather")]
+    public WeatherTypeEnum CurrentWeather;
 #endregion
 #region -------------------- Private Variables --------------------
 
@@ -39,6 +41,13 @@ public class WeatherController : Singleton<WeatherController> {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the weather controller");
 
         CoreController.Inst.LoadingStepCompleted();
+    }
+
+    public WeatherTypeEnum GetCurrentWeather()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Getting the current weather");
+
+        return CurrentWeather;
     }
 #endregion
 #region -------------------- Private Methods --------------------
