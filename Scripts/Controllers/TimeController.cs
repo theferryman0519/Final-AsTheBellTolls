@@ -142,6 +142,30 @@ public class TimeController : Singleton<TimeController> {
         return DaylightTypeEnum.Night;
     }
 
+    public void AdvanceNapTime()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Advancing the time from a nap");
+
+        IsTimeRunning = false;
+
+        int totalMinutes = TotalMinutesElapsed();
+
+        totalMinutes += 180; // 3 hours
+
+        if ((totalMinutes % 60) != 0)
+        {
+            totalMinutes += 60 - (totalMinutes % 60);
+        }
+
+        HourNumber = totalMinutes / 60;
+        MinuteNumber = 0;
+
+        OnTimeTick?.Invoke();
+        OnHourTick?.Invoke();
+
+        IsTimeRunning = true;
+    }
+
     public void StartEndOfDay()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Starting the end of day");
