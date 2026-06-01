@@ -38,13 +38,37 @@ public class PlayerController : Singleton<PlayerController> {
     // Controls player tool usage
     // Controls state of the player
 
-    public void InitializeController(Action continueAction = null)
+    public void InitializeController()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the player controller");
 
         if (Stamina == null) { gameObject.AddComponent<PlayerStamina>(); }
 
         CoreController.Inst.LoadingStepCompleted();
+    }
+
+    public void TakeNap()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Player is starting to take a nap");
+
+        // TODO
+        // Fade screen to black
+
+        TimeController.Inst.AdvanceNapTime();
+
+        // TODO
+        // Restore stamina by +60
+        // Fade screen back
+    }
+
+    public void GoToBed()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Player is going to bed to end their day");
+
+        // TODO
+        // Fade screen to black
+
+        TimeController.Inst.StartEndOfDay();
     }
 #endregion
 #region -------------------- Private Methods --------------------
