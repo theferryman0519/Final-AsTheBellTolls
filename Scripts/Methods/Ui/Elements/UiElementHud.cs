@@ -148,7 +148,9 @@ public class UiElementHud : MonoBehaviour {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the time manipulation slider");
 
-        // TODO
+        int timeManipulation = TimeManipulationController.Inst.GetTimeManipulationEnergy();
+
+        TimeManipulationSlider.SetAmount(timeManipulation);
     }
 #endregion
 }}
