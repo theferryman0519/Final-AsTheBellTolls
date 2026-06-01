@@ -41,7 +41,19 @@ public class UiElementHud : MonoBehaviour {
     
 #endregion
 #region -------------------- Initial Functions --------------------
-    
+    void OnEnable()
+    {
+        TimeController.Inst.OnTimeTick += UpdateTime;
+        TimeController.Inst.OnHourTick += UpdateDaylightIcon;
+        TimeController.Inst.OnDayTick += UpdateDate;
+    }
+
+    void OnDisable()
+    {
+        TimeController.Inst.OnTimeTick -= UpdateTime;
+        TimeController.Inst.OnHourTick -= UpdateDaylightIcon;
+        TimeController.Inst.OnDayTick -= UpdateDate;
+    }
 #endregion
 #region -------------------- Coroutines --------------------
     
@@ -54,7 +66,7 @@ public class UiElementHud : MonoBehaviour {
         DateText.SetText(TimeController.Inst.GetCurrentDate());
     }
 
-    public void UpdateTime()
+    public void UpdateTime(int minutes, int hours)
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the time text");
 
