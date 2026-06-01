@@ -221,7 +221,7 @@ public class TimeController : Singleton<TimeController> {
             HourNumber++;
         }
 
-        OnTimeTick?.Invoke(MinuteNumber, HourNumber);
+        OnTimeTick?.Invoke(HourNumber, MinuteNumber);
 
         if (HourNumber != previousHour)
         {
