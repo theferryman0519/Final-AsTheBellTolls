@@ -12,7 +12,7 @@ using UnityEngine.SceneManagement;
 using Atbt.Enum;
 
 namespace Atbt.Location {
-public class InteractModel {
+public class InteractModel : MonoBehaviour {
     
 #region -------------------- Variables --------------------
     public ToolTypeEnum RequiredTool;
