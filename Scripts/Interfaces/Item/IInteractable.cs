@@ -14,5 +14,7 @@ using Atbt.Enum;
 
 namespace Atbt.Item {
 public interface IInteractable {
+    ToolTypeEnum RequiredTool { get; set; }
+
     void Interact(PlayerController player, ToolTypeEnum tool);
 }}
