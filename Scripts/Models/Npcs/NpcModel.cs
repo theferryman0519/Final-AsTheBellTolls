@@ -26,5 +26,8 @@ public class NpcModel {
 
     public LocationObject Residence;
     public LocationObject Workplace;
+
+    public List<DialogueObject> Dialogues;
+    public List<RoutineObject> Routines;
 #endregion
 }}
