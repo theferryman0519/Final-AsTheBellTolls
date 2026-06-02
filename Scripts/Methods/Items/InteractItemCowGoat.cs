@@ -13,7 +13,7 @@ using Atbt.Enum;
 using Atbt.Object;
 
 namespace Atbt.Item {
-public class InteractItemCowGoat : InteractModel {
+public class InteractItemCowGoat : InteractItemAnimal {
 #region -------------------- Private Variables --------------------
     [SerializeField] private List<ItemObject> _milkItems;
 
