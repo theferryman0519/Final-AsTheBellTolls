@@ -18,6 +18,9 @@ public class InteractModel : MonoBehaviour {
     public ToolTypeEnum RequiredTool;
     public QualityTypeEnum LowestQualityRequired;
 
-    public Action InteractAction;
+    public virtual void Interact()
+    {
+        // Override this in child classes
+    }
 #endregion
 }}
