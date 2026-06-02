@@ -88,7 +88,12 @@ public class PlayerController : Singleton<PlayerController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Player is interacting with object");
 
-        _currentInteractable?.Interact(this);
+        if (_currentInteractable == null)
+        {
+            return;
+        }
+
+        _currentInteractable.Interact(this, _currentInteractable.RequiredTool);
     }
 #endregion
 #region -------------------- Private Methods --------------------
