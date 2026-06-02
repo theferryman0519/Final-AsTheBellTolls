@@ -23,9 +23,12 @@ public class NpcModel {
 
     public RelationshipStatusEnum RelationshipStatus;
     public RelationshipLevelEnum RelationshipLevel;
+    public ActivityStateEnum CurrentActivity;
 
     public LocationObject Residence;
     public LocationObject Workplace;
+
+    public RoutineObject CurrentRoutine;
 
     public List<DialogueObject> Dialogues;
     public List<RoutineObject> Routines;
