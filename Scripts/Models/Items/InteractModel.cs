@@ -13,12 +13,12 @@ using Atbt.Enum;
 
 namespace Atbt.Item {
 public class InteractModel : MonoBehaviour {
-    
-#region -------------------- Variables --------------------
+#region -------------------- Public Variables --------------------
     public QualityTypeEnum LowestQualityRequired;
     
     public ToolTypeEnum[] RequiredTools;
-
+#endregion
+#region -------------------- Methods --------------------
     public virtual void Interact()
     {
         // Override this in child classes
