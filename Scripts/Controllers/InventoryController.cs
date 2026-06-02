@@ -51,6 +51,8 @@ public class InventoryController : Singleton<InventoryController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the player inventory controller");
 
+        CreateInventory();
+
         CoreController.Inst.LoadingStepCompleted();
     }
 
