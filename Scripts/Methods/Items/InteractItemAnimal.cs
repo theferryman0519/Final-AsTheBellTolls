@@ -14,6 +14,8 @@ using Atbt.Enum;
 namespace Atbt.Item {
 public class InteractItemAnimal : InteractModel {
 #region -------------------- Private Variables --------------------
+    [SerializeField] private AnimalModel Animal;
+    
     private QualityTypeEnum _lowestQualityRequired = QualityTypeEnum.Base;
 
     private ToolTypeEnum[] _requiredTools = { ToolTypeEnum.None};
