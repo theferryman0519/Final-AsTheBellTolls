@@ -10,7 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
-using Atbt.Item;
+using Atbt.Location;
 using Atbt.Player;
 
 namespace Atbt.Controller {
@@ -24,7 +24,7 @@ public class PlayerController : Singleton<PlayerController> {
     
 #endregion
 #region -------------------- Private Variables --------------------
-    private IInteractable _currentInteractable;
+    private InteractModel _currentInteractable;
 #endregion
 #region -------------------- Initial Functions --------------------
     void OnDisable()
@@ -93,7 +93,7 @@ public class PlayerController : Singleton<PlayerController> {
             return;
         }
 
-        _currentInteractable.Interact(this, _currentInteractable.RequiredTool);
+        _currentInteractable.InteractAction?.Invoke();
     }
 #endregion
 #region -------------------- Private Methods --------------------
@@ -101,7 +101,7 @@ public class PlayerController : Singleton<PlayerController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Player has triggered an action");
 
-        if (trigger.TryGetComponent(out IInteractable interactable))
+        if (trigger.TryGetComponent(out InteractModel interactable))
         {
             _currentInteractable = interactable;
         }
@@ -111,7 +111,7 @@ public class PlayerController : Singleton<PlayerController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Player has left a trigger");
 
-        if (trigger.TryGetComponent(out IInteractable interactable) && interactable == _currentInteractable)
+        if (trigger.TryGetComponent(out InteractModel interactable) && interactable == _currentInteractable)
         {
             _currentInteractable = null;
         }
