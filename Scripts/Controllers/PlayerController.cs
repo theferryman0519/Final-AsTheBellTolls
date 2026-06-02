@@ -93,7 +93,7 @@ public class PlayerController : Singleton<PlayerController> {
             return;
         }
 
-        _currentInteractable.InteractAction?.Invoke();
+        _currentInteractable.Interact();
     }
 #endregion
 #region -------------------- Private Methods --------------------
