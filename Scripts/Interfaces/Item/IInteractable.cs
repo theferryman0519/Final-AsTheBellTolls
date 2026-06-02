@@ -10,8 +10,9 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Controller;
+using Atbt.Enum;
 
 namespace Atbt.Item {
 public interface IInteractable {
-    void Interact(PlayerController player);
+    void Interact(PlayerController player, ToolTypeEnum tool);
 }}
