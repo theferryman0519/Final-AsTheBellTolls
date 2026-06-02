@@ -15,6 +15,8 @@ using Atbt.Object;
 namespace Atbt.Item {
 public class InteractItemGrass : InteractModel {
 #region -------------------- Private Variables --------------------
+    [SerializeField] private List<ItemObject> _grassItems;
+
     private QualityTypeEnum _lowestQualityRequired = QualityTypeEnum.Base;
 
     private ToolTypeEnum[] _requiredTools = { ToolTypeEnum.Scythe };
