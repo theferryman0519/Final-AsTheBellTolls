@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Item;
 using Atbt.Player;
 
 namespace Atbt.Controller {
@@ -23,10 +24,13 @@ public class PlayerController : Singleton<PlayerController> {
     
 #endregion
 #region -------------------- Private Variables --------------------
-
+    private IInteractable _currentInteractable;
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    void OnDisable()
+    {
+        InputController.Inst.InteractPressed -= Interact;
+    }
 #endregion
 #region -------------------- Coroutines --------------------
 
@@ -42,7 +46,9 @@ public class PlayerController : Singleton<PlayerController> {
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the player controller");
 
-        if (Stamina == null) { gameObject.AddComponent<PlayerStamina>(); }
+        if (Stamina == null) { Stamina = gameObject.AddComponent<PlayerStamina>(); }
+
+        InputController.Inst.InteractPressed += Interact;
 
         CoreController.Inst.LoadingStepCompleted();
     }
@@ -77,8 +83,33 @@ public class PlayerController : Singleton<PlayerController> {
 
         TimeController.Inst.StartEndOfDay();
     }
+
+    public void Interact()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Player is interacting with object");
+
+        _currentInteractable?.Interact(this);
+    }
 #endregion
 #region -------------------- Private Methods --------------------
+    private void OnTriggerEnter2D(Collider2D trigger)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Player has triggered an action");
 
+        if (trigger.TryGetComponent(out IInteractable interactable))
+        {
+            _currentInteractable = interactable;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D trigger)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Player has left a trigger");
+
+        if (trigger.TryGetComponent(out IInteractable interactable) && interactable == _currentInteractable)
+        {
+            _currentInteractable = null;
+        }
+    }
 #endregion
 }}
