@@ -44,7 +44,7 @@ public class SpriteController : Singleton<SpriteController> {
 #region -------------------- Public Methods --------------------
     // Controls all sprites and tilemaps
 
-    public void Initialize(Action continueAction = null)
+    public void InitializeController()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the sprite controller");
 
