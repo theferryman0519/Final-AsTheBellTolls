@@ -9,6 +9,7 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 // Game Dependencies
+using Atbt.Animal;
 using Atbt.Enum;
 using Atbt.Object;
 
