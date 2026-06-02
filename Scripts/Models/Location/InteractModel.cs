@@ -15,8 +15,9 @@ namespace Atbt.Location {
 public class InteractModel : MonoBehaviour {
     
 #region -------------------- Variables --------------------
-    public ToolTypeEnum RequiredTool;
     public QualityTypeEnum LowestQualityRequired;
+    
+    public ToolTypeEnum[] RequiredTools;
 
     public virtual void Interact()
     {
