@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Enum;
+using Atbt.Npc;
 
 namespace Atbt.Item {
 public class InteractItemNpc : InteractModel {
