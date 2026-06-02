@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 using Atbt.Enum;
 
-namespace Atbt.Location {
+namespace Atbt.Item {
 public class InteractModel : MonoBehaviour {
     
 #region -------------------- Variables --------------------
