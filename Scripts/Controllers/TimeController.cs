@@ -22,7 +22,7 @@ public class TimeController : Singleton<TimeController> {
     [SerializeField] private List<SeasonObject> SeasonsList = new();
 #endregion
 #region -------------------- Public Variables --------------------
-    [Header("Time Elements")]
+    [Header("Time & Action Elements")]
     public int YearNumber;
     public int DayNumber;
     public int HourNumber;
@@ -33,7 +33,6 @@ public class TimeController : Singleton<TimeController> {
 
     public bool IsTimeRunning;
 
-    [Header("Time Actions")]
     public event Action<int, int> OnTimeTick;
     public event Action OnHourTick;
     public event Action OnDayTick;

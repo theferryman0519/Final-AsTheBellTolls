@@ -9,6 +9,7 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 // Game Dependencies
+using Atbt.Enum;
 
 namespace Atbt.Object {
 [CreateAssetMenu(menuName = "Objects/Tool")]

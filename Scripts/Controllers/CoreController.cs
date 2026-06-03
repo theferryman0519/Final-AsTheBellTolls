@@ -131,10 +131,27 @@ public class CoreController : Singleton<CoreController> {
         LoadingSteps.Max = ConstantController.Loading_StartUp;
         LoadingSteps = (0, ConstantController.Loading_StartUp);
         
-        // FOR TESTING
+        AccessibilityController.Inst.InitializeController();
+        AnimationController.Inst.InitializeController();
+        AudioController.Inst.InitializeController();
+        ConstantController.Inst.InitializeController();
+        DialogueController.Inst.InitializeController();
+        EconomyController.Inst.InitializeController();
+        FestivalController.Inst.InitializeController();
         InputController.Inst.InitializeController();
+        InventionController.Inst.InitializeController();
+        InventoryController.Inst.InitializeController();
+        ItemController.Inst.InitializeController();
+        LocationController.Inst.InitializeController();
+        NpcController.Inst.InitializeController();
         PlayerController.Inst.InitializeController();
-        // FOR TESTING
+        QuestController.Inst.InitializeController();
+        RelationshipController.Inst.InitializeController();
+        SaveLoadController.Inst.InitializeController();
+        SpriteController.Inst.InitializeController();
+        TimeController.Inst.InitializeController();
+        UiController.Inst.InitializeController();
+        WeatherController.Inst.InitializeController();
 
         LoadingStepCompleted();
     }

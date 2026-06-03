@@ -10,7 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
-using Atbt.Location;
+using Atbt.Item;
 using Atbt.Player;
 
 namespace Atbt.Controller {
@@ -24,7 +24,7 @@ public class PlayerController : Singleton<PlayerController> {
     
 #endregion
 #region -------------------- Private Variables --------------------
-    private InteractModel _currentInteractable;
+    private Interactable _currentInteractable;
 #endregion
 #region -------------------- Initial Functions --------------------
     void OnDisable()
@@ -53,11 +53,12 @@ public class PlayerController : Singleton<PlayerController> {
         CoreController.Inst.LoadingStepCompleted();
     }
 
-    public void GetPlayerStamina()
+    public int GetPlayerStamina()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Getting the player stamina");
 
         // TODO
+        return 0;
     }
 
     public void TakeNap()
@@ -84,6 +85,13 @@ public class PlayerController : Singleton<PlayerController> {
         TimeController.Inst.StartEndOfDay();
     }
 
+    public void SetInteractable(Interactable interactable)
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the current interactable");
+        
+        _currentInteractable = interactable;
+    }
+
     public void Interact()
     {
         CoreController.Inst.WriteLog(this.GetType().Name, $"Player is interacting with object");
@@ -97,24 +105,6 @@ public class PlayerController : Singleton<PlayerController> {
     }
 #endregion
 #region -------------------- Private Methods --------------------
-    private void OnTriggerEnter2D(Collider2D trigger)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Player has triggered an action");
-
-        if (trigger.TryGetComponent(out InteractModel interactable))
-        {
-            _currentInteractable = interactable;
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D trigger)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Player has left a trigger");
-
-        if (trigger.TryGetComponent(out InteractModel interactable) && interactable == _currentInteractable)
-        {
-            _currentInteractable = null;
-        }
-    }
+    
 #endregion
 }}

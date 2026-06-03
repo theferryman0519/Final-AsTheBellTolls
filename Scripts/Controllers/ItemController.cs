@@ -10,6 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 using Atbt.Core;
+using Atbt.Object;
 
 namespace Atbt.Controller {
 public class ItemController : Singleton<ItemController> {
