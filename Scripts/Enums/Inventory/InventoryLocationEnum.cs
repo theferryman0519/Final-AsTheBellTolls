@@ -12,6 +12,6 @@ using UnityEngine.SceneManagement;
 
 namespace Atbt.Enum {
 public enum InventoryLocationEnum {
-    Inventory = 0,
+    Satchel = 0,
     ToolBelt = 1,
 }}
