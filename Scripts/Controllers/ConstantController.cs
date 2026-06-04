@@ -20,7 +20,7 @@ public class ConstantController : Singleton<ConstantController> {
 #endregion
 #region -------------------- Public Variables --------------------
     // Loading Sets
-    public const int Loading_StartUp = 22;
+    public const int Loading_StartUp = 21;
 
     // Titles
     public const string Game_Title = "As The Bell Tolls";
