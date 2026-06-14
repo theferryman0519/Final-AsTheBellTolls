@@ -10,13 +10,15 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Enum {
+namespace Atbt.Weather {
 public enum WeatherTypeEnum {
+#region -------------------- Enum List --------------------
     Clear = 0,
-    Cloudy = 1,
-    Rainy = 2,
-    SevereRainy = 3,
-    Snowy = 4,
-    SevereSnowy = 5,
-    Windy = 6,
+    Cloudy,
+    Rainy,
+    RainySevere,
+    Snowy,
+    SnowySevere,
+    Windy,
+#endregion
 }}

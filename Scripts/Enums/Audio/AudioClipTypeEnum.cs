@@ -10,12 +10,15 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Enum {
+namespace Atbt.Audio {
 public enum AudioClipTypeEnum {
+#region -------------------- Enum List --------------------
     None = 0,
-    Music = 1,
-    Speech = 2,
-    Ambiance = 3,
-    Effects = 4,
-    Footsteps = 5
+    Master,
+    Music,
+    Speech,
+    Ambiance,
+    Effects,
+    Footsteps,
+#endregion
 }}

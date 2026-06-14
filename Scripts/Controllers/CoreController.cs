@@ -13,198 +13,180 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class CoreController : Singleton<CoreController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
 #region -------------------- Public Variables --------------------
-    [Header("Loading")]
-    public (int Progress, int Max) LoadingSteps;
-
-    public bool IsLoaded;
-
-    [Header("Persistent Scenes")]
-    public string Scene_Persistent00 = "Persistent_00_Controllers";
-
-    [Header("Main Scenes")]
-    public string Scene_Main00 = "Main_00_Studio";
-    public string Scene_Main01 = "Main_01_Opening";
-    public string Scene_Main02 = "Main_02_Title";
-    public string Scene_Main03 = "Main_03_Load";
-    public string Scene_Main04 = "Main_04_Credits";
-
-    [Header("Intro Scenes")]
-    public string Scene_Intro00 = "Intro_00_Carriage";
-    public string Scene_Intro01 = "Intro_01_WindingBanksInn";
-    public string Scene_Intro02 = "Intro_02_TownSquare";
-    public string Scene_Intro03 = "Intro_03_PendrelleManor";
-
-    [Header("Exterior Scenes")]
-    public string Scene_Exterior00 = "Exterior_00_Blackmere";
-    public string Scene_Exterior01 = "Exterior_01_PendrelleManor";
-    public string Scene_Exterior02 = "Exterior_02_MercerFarms";
-    public string Scene_Exterior03 = "Exterior_03_MemorialHill";
-    public string Scene_Exterior04 = "Exterior_04_AshfallMines";
-    public string Scene_Exterior05 = "Exterior_05_GraythorneLake";
-    public string Scene_Exterior06 = "Exterior_06_SteelridgeWatch";
-    public string Scene_Exterior07 = "Exterior_07_IronveilPeak";
-    public string Scene_Exterior08 = "Exterior_08_GloamwoodForest";
-    public string Scene_Exterior09 = "Exterior_09_GloamwoodDepths";
-
-    [Header("Interior Scenes")]
-    public string Scene_Interior00 = "Interior_00_PendrelleManor";
-    public string Scene_Interior01 = "Interior_01_MercerFarms";
-    public string Scene_Interior02 = "Interior_02_MemorialHill";
-    public string Scene_Interior03 = "Interior_03_1ResidentLane";
-    public string Scene_Interior04 = "Interior_04_2ResidentLane";
-    public string Scene_Interior05 = "Interior_05_3ResidentLane";
-    public string Scene_Interior06 = "Interior_06_4ResidentLane";
-    public string Scene_Interior07 = "Interior_07_5ResidentLane";
-    public string Scene_Interior08 = "Interior_08_6ResidentLane";
-    public string Scene_Interior09 = "Interior_09_PublicLibrary";
-    public string Scene_Interior10 = "Interior_10_PublicSchool";
-    public string Scene_Interior11 = "Interior_11_HallOfWonder";
-    public string Scene_Interior12 = "Interior_12_RiverbendFishery";
-    public string Scene_Interior13 = "Interior_13_WindingBanksInn";
-    public string Scene_Interior14 = "Interior_14_BlackmereBank";
-    public string Scene_Interior15 = "Interior_15_BlackmereTower";
-    public string Scene_Interior16 = "Interior_16_BlackmereTownHall";
-    public string Scene_Interior17 = "Interior_17_BlackmereGeneralStore";
-    public string Scene_Interior18 = "Interior_18_IronveilForge";
-    public string Scene_Interior19 = "Interior_19_KleinWoodworks";
-    public string Scene_Interior20 = "Interior_20_RainAndHale";
-    public string Scene_Interior21 = "Interior_21_ThreadAndThimble";
-    public string Scene_Interior22 = "Interior_22_WeissDesignStudio";
-
-
-    [Header("Festival Scenes")]
-    public string Scene_Festival00 = "Festival_00_RiverRemembranceDay";
-    public string Scene_Festival01 = "Festival_01_SeedwakeBrunch";
-    public string Scene_Festival02 = "Festival_02_BlackmereTownFair";
-    public string Scene_Festival03 = "Festival_03_FunInTheSunFestival";
-    public string Scene_Festival04 = "Festival_04_GrandShowcase";
-    public string Scene_Festival05 = "Festival_05_HarvestSupper";
-    public string Scene_Festival06 = "Festival_06_HollowMoonNight";
-    public string Scene_Festival07 = "Festival_07_TollOfHearths";
-    public string Scene_Festival08 = "Festival_08_SnowBellsEve";
-    public string Scene_Festival09 = "Festival_09_TroutTrials";
-    public string Scene_Festival10 = "Festival_10_CookingWithTheTwins";
-    public string Scene_Festival11 = "Festival_11_SalmonRun";
-    public string Scene_Festival12 = "Festival_12_AuroraWatch";
-
-    [Header("Summary Scenes")]
-    public string Scene_Summary00 = "Summary_00_EndOfDay";
-    public string Scene_Summary01 = "Summary_01_AutoSave";
+    
 #endregion
 #region -------------------- Private Variables --------------------
+    private (int progress, int max) _loadingSteps;
 
+    private Dictionary<string, string> _sceneNames = new();
 #endregion
 #region -------------------- Initial Functions --------------------
+    
+#endregion
+#region -------------------- Coroutines --------------------
     void Start()
     {
-        // // FOR TESTING
-        // PlayerPrefs.DeleteAll();
-        // PlayerPrefs.Save();
-        // // FOR TESTING
-        
-        // FOR PLAY TESTING
-        IsLoaded = false;
-        SceneManager.LoadSceneAsync(Scene_Exterior00, LoadSceneMode.Single);
-        // FOR PLAY TESTING
-
-        // // FOR REAL GAMEPLAY
-        // IsLoaded = false;
-        // SceneManager.LoadSceneAsync(Scene_Main00, LoadSceneMode.Single);
-        // // FOR REAL GAMEPLAY
+        SceneManager.LoadSceneAsync(GetSceneName("Scene_Main_00"), LoadSceneMode.Single);
 
         InitializeController();
     }
 #endregion
-#region -------------------- Coroutines --------------------
-
-#endregion
 #region -------------------- Public Methods --------------------
     public void InitializeController()
     {
-        WriteLog(this.GetType().Name, $"Initializing the core controller");
+        WriteLog(this.GetType().Name, $"Intializing the core controller.");
 
-        LoadingSteps.Max = ConstantController.Loading_StartUp;
-        LoadingSteps = (0, ConstantController.Loading_StartUp);
-        
-        AccessibilityController.Inst.InitializeController();
-        AnimationController.Inst.InitializeController();
-        AudioController.Inst.InitializeController();
-        ConstantController.Inst.InitializeController();
-        DialogueController.Inst.InitializeController();
-        EconomyController.Inst.InitializeController();
-        FestivalController.Inst.InitializeController();
-        InputController.Inst.InitializeController();
-        InventionController.Inst.InitializeController();
-        InventoryController.Inst.InitializeController();
-        ItemController.Inst.InitializeController();
-        LocationController.Inst.InitializeController();
-        NpcController.Inst.InitializeController();
-        PlayerController.Inst.InitializeController();
-        QuestController.Inst.InitializeController();
-        RelationshipController.Inst.InitializeController();
-        SaveLoadController.Inst.InitializeController();
-        SpriteController.Inst.InitializeController();
-        TimeController.Inst.InitializeController();
-        UiController.Inst.InitializeController();
-        WeatherController.Inst.InitializeController();
-
-        LoadingStepCompleted();
+        SetScenes();
+        ControllerLoaded();
     }
-
-    public void LoadingStepCompleted()
+    
+    public void ControllerLoaded()
     {
-        WriteLog(this.GetType().Name, $"Marking loading step as complete");
-
-        int newProgress = Mathf.Clamp(LoadingSteps.Progress + 1, 0, LoadingSteps.Max);
-		LoadingSteps = (newProgress, LoadingSteps.Max);
-
-		if (newProgress == LoadingSteps.Max)
-		{
-			IsLoaded = true;
-		}
-
-		else
-		{
-			IsLoaded = false;
-		}
-
-        WriteLog(this.GetType().Name, $"Loading step has completed: {LoadingSteps.Progress} out of {LoadingSteps.Max}");
+        WriteLog(this.GetType().Name, $"Loading step has completed.");
+		
+        int newProgress = Mathf.Clamp(_loadingSteps.progress + 1, 0, _loadingSteps.max);
+        _loadingSteps = (newProgress, _loadingSteps.max);
     }
 
     public void WriteLog(string fileName, string content)
-	{
+    {
 #if UNITY_EDITOR
-		Debug.Log($"{fileName}: {content}");
+        Debug.Log($"{fileName}: {content}");
 #endif
-	}
+    }
 
-	public void WriteError(string fileName, string content)
-	{
+    public void WriteError(string fileName, string content)
+    {
 #if UNITY_EDITOR
-		Debug.LogError($"{fileName}: {content}");
+        Debug.LogError($"{fileName}: {content}");
 #endif
-	}
+    }
 
-	public void ChangeScene(string sceneName)
-	{
-		WriteLog(this.GetType().Name, $"Changing the scene to {sceneName}.");
-		
-		SceneManager.LoadScene(sceneName);
-	}
+    public void ChangeScene(string sceneName)
+    {
+        WriteLog(this.GetType().Name, $"Changing the scene to {sceneName}.");
+        
+        if (_sceneNames.TryGetValue(sceneName, out string scene))
+        {
+            SceneManager.LoadScene(scene);
+        }
 
-    public string GetSceneName()
-	{
-		WriteLog(this.GetType().Name, $"Getting the name of the current scene.");
+        else
+        {
+            WriteError(this.GetType().Name, $"Cannot load requested scene of {sceneName}.");
+        }
+    }
+
+    public string GetSceneName(string sceneName)
+    {
+        WriteLog(this.GetType().Name, $"Getting the name of the current scene.");
 		
-		return SceneManager.GetActiveScene().name;
-	}
+        if (_sceneNames.TryGetValue(sceneName, out string scene))
+        {
+            return scene;
+        }
+
+        else
+        {
+            WriteError(this.GetType().Name, $"Cannot load requested scene of {sceneName}.");
+            
+            return string.Empty;
+        }
+    }
+    
+    public string GetCurrentSceneName()
+    {
+        WriteLog(this.GetType().Name, $"Getting the name of the current scene.");
+		
+        return SceneManager.GetActiveScene().name;
+    }
 #endregion
 #region -------------------- Private Methods --------------------
+    private void SetScenes()
+    {
+        WriteLog(this.GetType().Name, $"Setting all scene names.");
 
+        _sceneNames.Clear();
+        
+        // Persistent Scenes
+        _sceneNames.Add("Scene_Persistent_00", "Persistent00_Main");
+        
+        // Main Scenes
+        _sceneNames.Add("Scene_Main_00", "Main00_Studio");
+        _sceneNames.Add("Scene_Main_01", "Main01_Title");
+        _sceneNames.Add("Scene_Main_02", "Main02_Menu");
+        _sceneNames.Add("Scene_Main_03", "Main03_LoadGames");
+        _sceneNames.Add("Scene_Main_04", "Main04_Credits");
+        
+        // Intro Scenes
+        _sceneNames.Add("Scene_Intro_00", "Intro00_Carriage");
+        _sceneNames.Add("Scene_Intro_01", "Intro01_AvatarCreation");
+        _sceneNames.Add("Scene_Intro_02", "Intro02_WindingBanksInn");
+        _sceneNames.Add("Scene_Intro_03", "Intro03_Blackmere");
+        _sceneNames.Add("Scene_Intro_04", "Intro04_PendrelleManorGrounds");
+        
+        // Exterior Scenes
+        _sceneNames.Add("Scene_Exterior_00", "Exterior00_Blackmere");
+        _sceneNames.Add("Scene_Exterior_01", "Exterior01_GloamwoodForest");
+        _sceneNames.Add("Scene_Exterior_02", "Exterior02_GloamwoodDepths");
+        _sceneNames.Add("Scene_Exterior_03", "Exterior03_IronveilPeak");
+        _sceneNames.Add("Scene_Exterior_04", "Exterior04_SteelridgeWatch");
+        _sceneNames.Add("Scene_Exterior_05", "Exterior05_GraythorneLake");
+        _sceneNames.Add("Scene_Exterior_06", "Exterior06_AshfallMines");
+        _sceneNames.Add("Scene_Exterior_07", "Exterior07_MemorialHillGrounds");
+        _sceneNames.Add("Scene_Exterior_08", "Exterior08_MercerFarmsGrounds");
+        _sceneNames.Add("Scene_Exterior_09", "Exterior09_PendrelleManorGrounds");
+        
+        // Interior Scenes
+        _sceneNames.Add("Scene_Interior_00", "Interior00_PendrelleManor");
+        _sceneNames.Add("Scene_Interior_01", "Interior01_MercerFarms");
+        _sceneNames.Add("Scene_Interior_02", "Interior02_MemorialHill");
+        _sceneNames.Add("Scene_Interior_03", "Interior03_1ResidentLane");
+        _sceneNames.Add("Scene_Interior_04", "Interior04_2ResidentLane");
+        _sceneNames.Add("Scene_Interior_05", "Interior05_3ResidentLane");
+        _sceneNames.Add("Scene_Interior_06", "Interior06_4ResidentLane");
+        _sceneNames.Add("Scene_Interior_07", "Interior07_5ResidentLane");
+        _sceneNames.Add("Scene_Interior_08", "Interior08_6ResidentLane");
+        _sceneNames.Add("Scene_Interior_09", "Interior09_PublicLibrary");
+        _sceneNames.Add("Scene_Interior_10", "Interior10_PublicSchool");
+        _sceneNames.Add("Scene_Interior_11", "Interior11_HallOfWonder");
+        _sceneNames.Add("Scene_Interior_12", "Interior12_RiverbendFishery");
+        _sceneNames.Add("Scene_Interior_13", "Interior13_WindingBanksInn");
+        _sceneNames.Add("Scene_Interior_14", "Interior14_BankAndExchange");
+        _sceneNames.Add("Scene_Interior_15", "Interior15_GeneralStore");
+        _sceneNames.Add("Scene_Interior_16", "Interior16_TownHall");
+        _sceneNames.Add("Scene_Interior_17", "Interior17_IronveilForge");
+        _sceneNames.Add("Scene_Interior_18", "Interior18_KleinWoodworks");
+        _sceneNames.Add("Scene_Interior_19", "Interior19_RainAndHale");
+        _sceneNames.Add("Scene_Interior_20", "Interior20_ThreadAndThimble");
+        _sceneNames.Add("Scene_Interior_21", "Interior21_WeissDesignStudio");
+        
+        // Festival Scenes
+        _sceneNames.Add("Scene_Festival_00", "Festival00_RiverRemembranceDay");
+        _sceneNames.Add("Scene_Festival_01", "Festival01_SeedwakeBrunch");
+        _sceneNames.Add("Scene_Festival_02", "Festival02_BlackmereTradeFair");
+        _sceneNames.Add("Scene_Festival_03", "Festival03_FunInTheSunFestival");
+        _sceneNames.Add("Scene_Festival_04", "Festival04_GrandShowcase");
+        _sceneNames.Add("Scene_Festival_05", "Festival05_HarvestSupper");
+        _sceneNames.Add("Scene_Festival_06", "Festival06_HollowMoonNight");
+        _sceneNames.Add("Scene_Festival_07", "Festival07_SnowBellsEve");
+        _sceneNames.Add("Scene_Festival_08", "Festival08_TollOfHearths");
+        _sceneNames.Add("Scene_Festival_09", "Festival09_TroutTrials");
+        _sceneNames.Add("Scene_Festival_10", "Festival10_CookingWithTheTwins");
+        _sceneNames.Add("Scene_Festival_11", "Festival11_SalmonRun");
+        _sceneNames.Add("Scene_Festival_12", "Festival12_AuroraWatch");
+        _sceneNames.Add("Scene_Festival_13", "Festival13_BreakfastAtTheInn");
+        _sceneNames.Add("Scene_Festival_14", "Festival14_SupperWithTheMercers");
+        
+        // Night Scenes
+        _sceneNames.Add("Scene_Night_00", "Night00_Summary");
+        _sceneNames.Add("Scene_Night_01", "Night01_Upcoming");
+        _sceneNames.Add("Scene_Night_02", "Night02_SaveGame");
+        _sceneNames.Add("Scene_Night_03", "Night03_NextDay");
+    }
 #endregion
 }}

@@ -9,35 +9,62 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 // Game Dependencies
+// using Atbt.Accessibility;
+// using Atbt.Animal;
+// using Atbt.Audio;
+// using Atbt.Constant;
 using Atbt.Core;
+// using Atbt.Dialogue;
+// using Atbt.Economy;
+// using Atbt.Festival;
+// using Atbt.Input;
+// using Atbt.Invention;
+// using Atbt.Inventory;
+// using Atbt.Item;
+// using Atbt.Location;
+// using Atbt.Manor;
+// using Atbt.Npc;
+// using Atbt.Player;
+// using Atbt.Quest;
+// using Atbt.SaveLoad;
+// using Atbt.Time;
+// using Atbt.Ui;
+// using Atbt.Weather;
 
-namespace Atbt.Controller {
+namespace TEMPLATE {
 public class CONTROLLER_TEMPLATE : Singleton<CONTROLLER_TEMPLATE> {
-
 #region -------------------- Serialized Variables --------------------
-    
+
 #endregion
 #region -------------------- Public Variables --------------------
-    
+
 #endregion
 #region -------------------- Private Variables --------------------
-    
+
 #endregion
 #region -------------------- Initial Functions --------------------
-    
-#endregion
-#region -------------------- Coroutines --------------------
-    
-#endregion
-#region -------------------- Public Methods --------------------
-    public void InitializeController()
+    void Start()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the controller");
 
-        CoreController.Inst.LoadingStepCompleted();
+    }
+
+    void Awake()
+    {
+
+    }
+
+    void Update()
+    {
+
     }
 #endregion
+#region -------------------- Coroutines --------------------
+
+#endregion
+#region -------------------- Public Methods --------------------
+
+#endregion
 #region -------------------- Private Methods --------------------
-    
+
 #endregion
 }}

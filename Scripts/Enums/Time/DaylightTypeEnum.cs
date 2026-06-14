@@ -10,10 +10,13 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Enum {
+namespace Atbt.Time {
 public enum DaylightTypeEnum {
-    Dawn = 0,
-    Day = 1,
-    Dusk = 2,
-    Night = 3
+#region -------------------- Enum List --------------------
+    None = 0,
+    Dawn,
+    Day,
+    Dusk,
+    Night,
+#endregion
 }}

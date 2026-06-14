@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class InventionController : Singleton<InventionController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,23 +23,17 @@ public class InventionController : Singleton<InventionController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls the invention tree
-    // Controls reward inventions
-    // Controls quest inventions
-    // Controls Grand Showcase inventions
-    // Controls rival inventions
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the invention controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the invention controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------

@@ -9,38 +9,34 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 // Game Dependencies
+using Atbt.Audio;
 using Atbt.Core;
 
 namespace Atbt.Controller {
 public class AccessibilityController : Singleton<AccessibilityController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
 #region -------------------- Public Variables --------------------
-    [Header("UI Accessibility")]
-    public float TextSize;
-    public float TextSpeed;
 
-    [Header("World Accessibility")]
-    public float ScreenBrightness;
-    public float CameraZoom;
-
-    public bool VisualAssistance;
-
-    [Header("Audio Accessibility")]
-    public float MasterVolume;
-    public float MusicVolume;
-    public float SpeechVolume;
-    public float EffectsVolume;
-    public float AmbianceVolume;
-    public float FootstepsVolume;
 #endregion
 #region -------------------- Private Variables --------------------
+    private float _cameraZoom;
+    private float _screenBrightness;
+    private float _textSpeed;
+    private float _volumeAmbiance;
+    private float _volumeEffects;
+    private float _volumeFootsteps;
+    private float _volumeMaster;
+    private float _volumeMusic;
+    private float _volumeSpeech;
 
+    private int _textSize;
+
+    private bool _showVisibleCues;
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
@@ -48,110 +44,85 @@ public class AccessibilityController : Singleton<AccessibilityController> {
 #region -------------------- Public Methods --------------------
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the accessibility controller");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the accessibility controller.");
 
-        CoreController.Inst.LoadingStepCompleted();
+        SetDefaults();
+        CoreController.Inst.ControllerLoaded();
     }
-
-    public void UpdateTextSize(float newSize)
+    
+    public float GetCameraZoom()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the text size");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Returning the camera zoom.");
 
-        // TODO
-        // Update text size
-        // Refresh UI
+        return _cameraZoom;
     }
-
-    public void UpdateTextSpeed(float newSpeed)
+    
+    public bool GetIfVisibleCues()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the text speed");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Returning if using visible cues.");
 
-        // TODO
-        // Update text speed
+        return _showVisibleCues;
     }
-
-    public void UpdateScreenBrightness(float newBrightness)
+    
+    public float GetScreenBrightness()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the screen brightness");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Returning the screen brightness.");
 
-        // TODO
-        // Update screen brightness
-        // Update scene light
+        return _screenBrightness;
     }
-
-    public void UpdateCameraZoom(float newZoom)
+    
+    public int GetTextSize()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the camera zoom");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Returning the text size.");
 
-        // TODO
-        // Update camera zoom
-        // Update scene camera
+        return _textSize;
     }
-
-    public void UpdateVisualAssistance(bool turnCuesOn)
+    
+    public float GetTextSpeed()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the visual assistance cues");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Returning the text speed.");
 
-        // TODO
-        // Update visual assistance cues
-        // Refresh UI
+        return _textSpeed;
     }
-
-    public void UpdateMasterVolume(float newVolume)
+    
+    public float GetVolume(AudioClipTypeEnum type)
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the master volume");
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Returning the volume of the audio {type}.");
 
-        // TODO
-        // Update master volume
-        // Update audio controller
-    }
-
-    public void UpdateMusicVolume(float newVolume)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the music volume");
-
-        // TODO
-        // Update music volume
-        // Update audio controller
-    }
-
-    public void UpdateSpeechVolume(float newVolume)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the speech volume");
-
-        // TODO
-        // Update speech volume
-        // Update audio controller
-    }
-
-    public void UpdateEffectsVolume(float newVolume)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the effects volume");
-
-        // TODO
-        // Update effects volume
-        // Update audio controller
-    }
-
-    public void UpdateAmbianceVolume(float newVolume)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the ambiance volume");
-
-        // TODO
-        // Update ambiance volume
-        // Update audio controller
-    }
-
-    public void UpdateFootstepsVolume(float newVolume)
-    {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Updating the footsteps volume");
-
-        // TODO
-        // Update footsteps volume
-        // Update audio controller
+        switch (type)
+        {
+            case AudioClipTypeEnum.Ambiance:
+                return _volumeAmbiance;
+            case AudioClipTypeEnum.Effects:
+                return _volumeEffects;
+            case AudioClipTypeEnum.Footsteps:
+                return _volumeFootsteps;
+            case AudioClipTypeEnum.Music:
+                return _volumeMusic;
+            case AudioClipTypeEnum.Speech:
+                return _volumeSpeech;
+            case AudioClipTypeEnum.Master:
+            default:
+                return _volumeMaster;
+        }
     }
 #endregion
 #region -------------------- Private Methods --------------------
-
+    private void SetDefaults()
+    {
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Setting the default accessibility settings.");
+        
+        _cameraZoom = 5f;
+        _screenBrightness = 1f;
+        _textSpeed = 6f;
+        _volumeAmbiance = 0.7f;
+        _volumeEffects = 0.5f;
+        _volumeFootsteps = 0.3f;
+        _volumeMaster = 0.8f;
+        _volumeMusic = 0.8f;
+        _volumeSpeech = 0.7f;
+        _textSize = 38;
+        _showVisibleCues = true;
+    }
 #endregion
 }}

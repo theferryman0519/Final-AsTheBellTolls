@@ -10,10 +10,13 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Enum {
+namespace Atbt.Time {
 public enum SeasonTypeEnum {
-    Spring = 0,
-    Summer = 1,
-    Autumn = 2,
-    Winter = 3
+#region -------------------- Enum List --------------------
+    None = 0,
+    Spring,
+    Summer,
+    Autumn,
+    Winter,
+#endregion
 }}

@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class FestivalController : Singleton<FestivalController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,23 +23,17 @@ public class FestivalController : Singleton<FestivalController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls festival setup
-    // Controls NPC placement and interactions
-    // Controls festival shops
-    // Controls festival activities
-    // Controls auto-movement
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the festival controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the festival controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------

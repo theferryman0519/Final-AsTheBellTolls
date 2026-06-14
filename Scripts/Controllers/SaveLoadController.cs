@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class SaveLoadController : Singleton<SaveLoadController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,22 +23,17 @@ public class SaveLoadController : Singleton<SaveLoadController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls saving the game data
-    // Controls storing game data locally
-    // Controls loading game data
-    // Controls deleting game data
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the save/load controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the save/load controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------

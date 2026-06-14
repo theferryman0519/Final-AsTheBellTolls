@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class DialogueController : Singleton<DialogueController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,20 +23,17 @@ public class DialogueController : Singleton<DialogueController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls NPC dialogue
-    // Controls dialogue choices
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the dialogue controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the dialogue controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------

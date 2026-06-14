@@ -10,8 +10,11 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Enum {
+namespace Atbt.Inventory {
 public enum InventoryLocationEnum {
-    Satchel = 0,
-    ToolBelt = 1,
+#region -------------------- Enum List --------------------
+    None = 0,
+    Satchel,
+    ToolBelt,
+#endregion
 }}

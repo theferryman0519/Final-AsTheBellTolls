@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class QuestController : Singleton<QuestController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,22 +23,17 @@ public class QuestController : Singleton<QuestController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls quest tracking
-    // Controls quest reminders
-    // Controls help from Edward
-    // Controls quest completion
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the quest controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the quest controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------

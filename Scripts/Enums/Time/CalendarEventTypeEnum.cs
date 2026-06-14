@@ -10,11 +10,14 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Enum {
+namespace Atbt.Time {
 public enum CalendarEventTypeEnum {
-    Birthday = 0,
-    Anniversary = 1,
-    MainFestival = 2,
-    MiniFestival = 3,
-    OngoingEvent = 4,
+#region -------------------- Enum List --------------------
+    None = 0,
+    Anniversary,
+    Birthday,
+    MainFestival,
+    MiniFestival,
+    OngoingEvent,
+#endregion
 }}

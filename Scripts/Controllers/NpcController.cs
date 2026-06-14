@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class NpcController : Singleton<NpcController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,23 +23,17 @@ public class NpcController : Singleton<NpcController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls NPC routines
-    // Controls NPC spawning
-    // Controls current NPC location
-    // Controls current NPC movement state
-    // Controls NPC availability
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the NPC controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the NPC controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------

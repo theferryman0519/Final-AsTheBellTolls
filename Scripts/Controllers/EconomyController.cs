@@ -13,7 +13,6 @@ using Atbt.Core;
 
 namespace Atbt.Controller {
 public class EconomyController : Singleton<EconomyController> {
-
 #region -------------------- Serialized Variables --------------------
 
 #endregion
@@ -24,24 +23,17 @@ public class EconomyController : Singleton<EconomyController> {
 
 #endregion
 #region -------------------- Initial Functions --------------------
-
+    
 #endregion
 #region -------------------- Coroutines --------------------
 
 #endregion
 #region -------------------- Public Methods --------------------
-    // Controls town wealth
-    // Controls shop prices
-    // Controls shipping bin values
-    // Controls economy summaries
-    // Controls trade carts
-    // Controls shop discounts
-
     public void InitializeController()
     {
-        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the economy controller");
-
-        CoreController.Inst.LoadingStepCompleted();
+        CoreController.Inst.WriteLog(this.GetType().Name, $"Initializing the economy controller.");
+        
+        CoreController.Inst.ControllerLoaded();
     }
 #endregion
 #region -------------------- Private Methods --------------------
