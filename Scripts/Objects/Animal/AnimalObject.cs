@@ -30,7 +30,8 @@ public class AnimalObject : ScriptableObject {
     public int SalePriceBaby;
     public int SalePriceMature;
     
-    public List<ItemObject> Byproducts;
     public List<SeasonTypeEnum> ByproductSeasons;
+    
+    public List<ItemObject> Byproducts;
 #endregion
 }}

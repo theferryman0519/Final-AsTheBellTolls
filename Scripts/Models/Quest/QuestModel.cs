@@ -13,7 +13,11 @@ using UnityEngine.SceneManagement;
 namespace Atbt.Quest {
 public class QuestModel {
 #region -------------------- Public Variables --------------------
-
+    public bool ReceivedReward;
+    
+    public QuestStatusEnum CurentStatus;
+    
+    public QuestObject Quest;
 #endregion
 #region -------------------- Public Methods --------------------
 

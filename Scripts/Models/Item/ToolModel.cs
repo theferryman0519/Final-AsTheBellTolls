@@ -13,7 +13,9 @@ using UnityEngine.SceneManagement;
 namespace Atbt.Item {
 public class ToolModel : ItemModel {
 #region -------------------- Public Variables --------------------
-
+    public int AmountAcquired;
+    public int StaminaUsed;
+    public int UsageCount;
 #endregion
 #region -------------------- Public Methods --------------------
 

@@ -18,9 +18,10 @@ public class ToolObject : ItemObject {
 #region -------------------- Public Variables --------------------
     public bool CanBeUpgraded;
     
+    public ToolTypeEnum ToolType;
+    
     public NpcObject AcquireCharacter;
     public LocationObject AcquireLocation;
-    public ToolTypeEnum ToolType;
     
     public List<ItemObject> ItemsGathered;
 #endregion

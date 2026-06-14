@@ -23,6 +23,7 @@ public class RoutineObject : ScriptableObject {
     public string NpcId;
     
     public List<int> Timings;
+    
     public List<WaypointObject> Waypoints;
 #endregion
 }}

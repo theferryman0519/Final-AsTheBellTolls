@@ -13,7 +13,12 @@ using UnityEngine.SceneManagement;
 namespace Atbt.Location {
 public class LocationModel {
 #region -------------------- Public Variables --------------------
-
+    public int CurrentWealth;
+    
+    public LocationStatusEnum CurrentStatus;
+    public RestorationLevelEnum RestorationLevel;
+    
+    public LocationObject Location;
 #endregion
 #region -------------------- Public Methods --------------------
 

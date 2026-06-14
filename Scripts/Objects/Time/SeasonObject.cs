@@ -36,11 +36,12 @@ public class SeasonObject : ScriptableObject {
     
     public SeasonTypeEnum SeasonType;
     
+    public List<int> SetClearDays;
+    
     public List<ItemObject> InSeasonCrops;
     public List<ItemObject> InSeasonFish;
     public List<ItemObject> InSeasonFlowers;
     public List<ItemObject> InSeasonHerbs;
     public List<ItemObject> InSeasonWood;
-    public List<int> SetClearDays;
 #endregion
 }}

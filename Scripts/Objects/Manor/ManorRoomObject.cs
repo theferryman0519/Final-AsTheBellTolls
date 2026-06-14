@@ -31,6 +31,7 @@ public class ManorRoomObject : ScriptableObject {
     
     public FloorLocationEnum FloorLocation;
     public RoomTierEnum RoomTier;
+    
     public QuestObject QuestAssociation;
     
     public List<ItemNeeded> ItemsNeeded;

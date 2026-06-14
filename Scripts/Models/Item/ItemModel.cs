@@ -13,7 +13,12 @@ using UnityEngine.SceneManagement;
 namespace Atbt.Item {
 public class ItemModel {
 #region -------------------- Public Variables --------------------
-
+    public int Count;
+    
+    public FreshnessTypeEnum Freshness;
+    public QualityTypeEnum Quality;
+    
+    public ItemObject Item;
 #endregion
 #region -------------------- Public Methods --------------------
 

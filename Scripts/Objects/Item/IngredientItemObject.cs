@@ -18,8 +18,9 @@ namespace Atbt.Item {
 public class IngredientItemObject : ItemObject {
 #region -------------------- Public Variables --------------------
     public List<DaylightTypeEnum> FoundDaylight;
-    public List<LocationObject> FoundLocations;
     public List<SeasonTypeEnum> FoundSeasons;
     public List<WeatherTypeEnum> FoundWeather;
+    
+    public List<LocationObject> FoundLocations;
 #endregion
 }}

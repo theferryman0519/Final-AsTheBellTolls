@@ -31,8 +31,9 @@ public class CalendarEventObject : ScriptableObject {
     public bool IsShopAvailable;
 
     public CalendarEventTypeEnum EventType;
-    public LocationObject Location;
     public SeasonTypeEnum Season;
+    
+    public LocationObject Location;
     
     public List<NpcObject> Attendees;
 #endregion

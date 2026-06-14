@@ -38,7 +38,8 @@ public class ItemObject : ScriptableObject {
     public InventoryLocationEnum InventoryLocation;
     public ItemTypeEnum Type;
     
-    public List<LocationObject> SellingLocations;
     public List<SeasonTypeEnum> SellingSeasons;
+    
+    public List<LocationObject> SellingLocations;
 #endregion
 }}

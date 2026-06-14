@@ -9,11 +9,16 @@ using UnityEngine.Audio;
 using UnityEngine.SceneManagement;
 
 // Game Dependencies
+using Atbt.Time;
 
 namespace Atbt.Item {
 public class SeedModel : ItemModel {
 #region -------------------- Public Variables --------------------
-
+    public int FullyGrownDate;
+    
+    public bool IsFullyGrown;
+    
+    public SeasonTypeEnum FullyGrownSeason;
 #endregion
 #region -------------------- Public Methods --------------------
 
