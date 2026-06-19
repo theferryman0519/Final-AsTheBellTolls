@@ -22,7 +22,6 @@ public class ManorRoomObject : ScriptableObject {
     [TextArea]
     public string Description;
 
-    public int CostNeeded;
     public int RestorationDuration;
     public int RestorationTimeManipulationDuration;
     

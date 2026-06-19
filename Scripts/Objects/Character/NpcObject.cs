@@ -40,5 +40,12 @@ public class NpcObject : ScriptableObject {
     public List<ItemObject> GiftsLiked;
     public List<ItemObject> GiftsLoved;
     public List<ItemObject> GiftsNeutral;
+    public List<PersonalityTrait> PersonalityTraits;
 #endregion
+}
+
+public struct PersonalityTrait
+{
+    public PersonalityTraitEnum Trait;
+    public int Score;
 }}

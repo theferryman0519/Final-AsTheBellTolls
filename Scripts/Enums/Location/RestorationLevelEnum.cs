@@ -14,12 +14,12 @@ namespace Atbt.Location {
 public enum RestorationLevelEnum {
 #region -------------------- Enum List --------------------
     None = 0,
-    Ruins,
+    Weathered,
     Rebuilding,
     Recovering,
     Renewed,
+    Growing,
     Prospering,
     Flourishing,
-    GoldenAge,
 #endregion
 }}

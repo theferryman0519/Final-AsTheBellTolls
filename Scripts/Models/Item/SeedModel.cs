@@ -15,9 +15,11 @@ namespace Atbt.Item {
 public class SeedModel : ItemModel {
 #region -------------------- Public Variables --------------------
     public int FullyGrownDate;
+    public int PlantedSlot;
     
     public bool IsFullyGrown;
-    
+
+    public SeedLocationEnum PlantedLocation;
     public SeasonTypeEnum FullyGrownSeason;
 #endregion
 #region -------------------- Public Methods --------------------

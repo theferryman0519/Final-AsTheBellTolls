@@ -10,16 +10,12 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace Atbt.Economy {
-public enum TownRankEnum {
+namespace Atbt.Item {
+public enum SeedLocationEnum {
 #region -------------------- Enum List --------------------
     None = 0,
-    Weathered,
-    Rebuilding,
-    Recovering,
-    Renewed,
-    Growing,
-    Prospering,
-    Flourishing,
+    Garden,
+    Orchard,
+    Fields,
 #endregion
 }}
