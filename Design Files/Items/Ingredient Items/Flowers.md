@@ -21,8 +21,6 @@ Display Name: Aster
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_aster
 
 Location Sold: None
@@ -58,8 +56,6 @@ Can Be Different Qualities: Yes
 Display Name: Chrysanthemum
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_chrysanthemum
 
@@ -97,8 +93,6 @@ Display Name: Cyclamen
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_cyclamen
 
 Location Sold: None
@@ -134,8 +128,6 @@ Can Be Different Qualities: Yes
 Display Name: Dahlia
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_dahlia
 
@@ -173,8 +165,6 @@ Display Name: Delphinium
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_delphinium
 
 Location Sold: None
@@ -210,8 +200,6 @@ Can Be Different Qualities: Yes
 Display Name: Forget-Me-Not
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_forget-me-not
 
@@ -249,8 +237,6 @@ Display Name: Foxglove
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_foxglove
 
 Location Sold: None
@@ -286,8 +272,6 @@ Can Be Different Qualities: Yes
 Display Name: Goldenrod
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_goldenrod
 
@@ -325,8 +309,6 @@ Display Name: Heather
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_heather
 
 Location Sold: None
@@ -362,8 +344,6 @@ Can Be Different Qualities: Yes
 Display Name: Helenium
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_helenium
 
@@ -401,8 +381,6 @@ Display Name: Hellebore
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_hellebore
 
 Location Sold: None
@@ -438,8 +416,6 @@ Can Be Different Qualities: Yes
 Display Name: Hepatica
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_hepatica
 
@@ -477,8 +453,6 @@ Display Name: Hollyhock
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_hollyhock
 
 Location Sold: None
@@ -514,8 +488,6 @@ Can Be Different Qualities: Yes
 Display Name: Lily of the Valley
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_lily-of-the-valley
 
@@ -553,8 +525,6 @@ Display Name: Peony
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_peony
 
 Location Sold: None
@@ -590,8 +560,6 @@ Can Be Different Qualities: Yes
 Display Name: Poppy
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_poppy
 
@@ -629,8 +597,6 @@ Display Name: Primrose
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_primrose
 
 Location Sold: None
@@ -666,8 +632,6 @@ Can Be Different Qualities: Yes
 Display Name: Sunflower
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_sunflower
 
@@ -705,8 +669,6 @@ Display Name: Winter Jasmine
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_winter-jasmine
 
 Location Sold: None
@@ -742,8 +704,6 @@ Can Be Different Qualities: Yes
 Display Name: Witch Hazel
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_witch-hazel
 
