@@ -21,8 +21,6 @@ Display Name: Chicken Egg
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_chicken-egg
 
 Location Sold: Mercer Farms
@@ -58,8 +56,6 @@ Can Be Different Qualities: Yes
 Display Name: Cow Milk
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_cow-milk
 
@@ -97,8 +93,6 @@ Display Name: Duck Egg
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_duck-egg
 
 Location Sold: Mercer Farms
@@ -134,8 +128,6 @@ Can Be Different Qualities: Yes
 Display Name: Duck Feather
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_duck-feather
 
@@ -173,8 +165,6 @@ Display Name: Goat Milk
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_goat-milk
 
 Location Sold: Mercer Farms
@@ -210,8 +200,6 @@ Can Be Different Qualities: Yes
 Display Name: Goose Down
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_goose-down
 
@@ -249,8 +237,6 @@ Display Name: Goose Feather
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_goose-feather
 
 Location Sold: None
@@ -286,8 +272,6 @@ Can Be Different Qualities: Yes
 Display Name: Honey
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_honey
 
@@ -325,8 +309,6 @@ Display Name: Horse Hair
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_horse-hair
 
 Location Sold: None
@@ -362,8 +344,6 @@ Can Be Different Qualities: Yes
 Display Name: Sheep Wool
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_sheep-wool
 
@@ -401,8 +381,6 @@ Display Name: Silk
 
 Growth Duration: None
 
-Growth Time Manipulation Duration: None
-
 ID: item_ingredient_silk
 
 Location Sold: Blackmere General Store
@@ -438,8 +416,6 @@ Can Be Different Qualities: Yes
 Display Name: Truffle
 
 Growth Duration: None
-
-Growth Time Manipulation Duration: None
 
 ID: item_ingredient_truffle
 
