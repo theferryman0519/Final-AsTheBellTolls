@@ -65,7 +65,7 @@ Version: 0.0.1
 - Cooking Menu opens with available consumable ingredient items.
 - Player selects Catfish, then selects Cow Milk, then selects Potato.
 - Catfish Chowder is successfully created and added to the player's Inventory or Pantry (if Inventory is full).
-- Player gains Relationship Points with Helen.
+- Player gains Friendship Points with Helen.
 
 ### Cooking Catfish Chowder with Theo Bennett
 
@@ -77,4 +77,4 @@ Version: 0.0.1
 - Cooking Menu opens with available consumable ingredient items.
 - Player selects Catfish, then selects Cow Milk, then selects Potato.
 - Catfish Chowder is successfully created and added to the player's Inventory or Pantry (if Inventory is full).
-- Player gains Relationship Points with Theo.
+- Player gains Friendship Points with Theo.
