@@ -30,3 +30,22 @@ Version: 0.0.1
 | 1 Year | 107,136 Seconds | 29 Hours, 45 Minutes, 36 Seconds
 
 ---
+
+## Time Manipulation Information
+
+- Time manipulation becomes available when the Central Room in the Manor is at or above Rebuilding restoration stage.
+- At Rebuilding stage, the player can use up to 6 time manipulation Chimes per day.
+- At Recovering stage, the player can use up to 8 time manipulation Chimes per day.
+- At Renewed stage, the player can use up to 10 time manipulation Chimes per day.
+- At Growing stage, the player can use up to 15 time manipulation Chimes per day.
+- At Prospering stage, the player can use up to 20 time manipulation Chimes per day.
+- At Flourishing stage, the player can use up to 30 time manipulation Chimes per day.
+
+| Time Duration | Time Manipulation Duration
+|---|---|
+| 1 to 5 Hours | 1 Hour
+| 6 to 12 Hours | 3 Hours
+| 13 to 18 Hours | 6 Hours
+| 1 to 5 Days | 1 Day
+| 6 to 12 Days | 3 Days
+| 13 Days and Up | 6 Days
