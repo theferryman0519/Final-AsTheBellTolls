@@ -1,0 +1,3 @@
+- In Kitchen, Stove and Blender are unlocked at Rebuilding stage.
+- In Kitchen, Pantry is unlocked at Weathered stage (available at start).
+- In Laboratory, Workbench is unlocked at Rebuilding stage.
