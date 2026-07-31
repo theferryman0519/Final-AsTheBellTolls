@@ -1,3 +1,4 @@
 - At 3 Hearts with Clara, Workbench becomes available for use in Weiss Design Studio.
 - At 3 Hearts with Helen, Stove and Blender become available for use in Winding Banks Inn.
 - At 3 Hearts with Theo, Stove and Blender become available for use in Winding Banks Inn.
+- At 3 Hearts with Julian, Tonic Kit becomes available for use in Rain & Hale.
