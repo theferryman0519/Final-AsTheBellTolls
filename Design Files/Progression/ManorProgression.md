@@ -2,3 +2,4 @@
 - In Kitchen, Pantry is unlocked at Weathered stage (available at start).
 - In Laboratory, Workbench is unlocked at Rebuilding stage.
 - In Laboratory, Tonic Kit is unlocked at Renewed stage.
+- In Central Room, Time Manipulation is unlocked at Rebuilding stage.
