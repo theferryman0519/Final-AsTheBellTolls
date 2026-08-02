@@ -9,17 +9,17 @@ Version: 0.0.1
 
 ## Input Map - Gameplay
 
-| Action | Mac / PC | Switch / 2 | XBox X / S | PlayStation 5
-|---|---|---|---|---|
-| Move | W / A / S / D | Left Stick / D-Pad | Left Stick / D-Pad | Left Stick / D-Pad
-| Interact | Spacebar | A | B | Circle
-| Show Quests | Q / Left Arrow | Y | X | Square
-| Show Inventions | B / Right Arrow | B | A | Cross
-| Show Inventory | I / Up Arrow | X | Y | Triangle
-| Set Time Manipulation Item | M / Down Arrow | L / R | LB / RB | L1 / R1
-| Show Edward Help | E | ZL | LT | L2
-| Wave Hello | H | ZR | RT | R2
-| Pause / Player Menu | Esc / Enter | + | Start | Options
+| Action                     | Mac / PC        | Switch / 2         | XBox X / S         | PlayStation 5
+|----------------------------|-----------------|--------------------|--------------------|---|
+| Move                       | W / A / S / D   | Left Stick / D-Pad | Left Stick / D-Pad | Left Stick / D-Pad
+| Interact                   | Spacebar        | A                  | B                  | Circle
+| Show Quests                | Q / Left Arrow  | Y                  | X                  | Square
+| Show Inventory             | I / Up Arrow    | X                  | Y                  | Triangle
+| Set Time Manipulation Item | T / Right Arrow | B                  | A                  | Cross
+| Show Edward Help           | E               | ZL                 | LT                 | L2
+| Wave Hello                 | H               | ZR                 | RT                 | R2
+| Pause / Player Menu        | Esc / Enter     | +                  | Start              | Options
+| Show Map                   | M / Down Arrow  | -                  | View               | Create
 
 ---
 

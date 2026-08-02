@@ -187,6 +187,20 @@ Relationship Status: Widowed
 
 ---
 
+# Favorite Weather Types
+
+| Type           | Opinion
+|----------------|---|
+| Clear          | Liked
+| Cloudy         | Liked
+| Rainy          | Neutral
+| Rainy (Severe) | Disliked
+| Snowy          | Neutral
+| Snowy (Severe) | Disliked
+| Windy          | Neutral
+
+---
+
 # Visual Appearance
 
 Body Type: Normal

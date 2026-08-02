@@ -1,0 +1,82 @@
+---
+Title: Characters / Systems / Husbandry System
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+## Information
+
+- Animals are kept in Pendrelle Manor depending on the animal type.
+- Dogs and Cats can roam the entire Manor.
+- Bees are kept within the Apriary.
+- Silkworms are kept within the Weaver Cradle.
+- Horses are kept in the Stables.
+- Chickens, Geese, and Ducks are kept in the Coop.
+- Cows, Goats, Pigs, and Sheep are kept in the Barn.
+- Animals are able to be purchased from Jasmine at Mercer Farms (if applicable based on restoration or invention stage).
+- Once purchased and within their designated locations, the animal will need time to mature.
+- Once fully matured, the animal will be able to give a byproduct each morning.
+- Byproducts are collected by Edward and placed in the Byproduct Box in between the Barn and Coop.
+- Each animal produces a byproduct count based on their Friendship Hearts (Bees and Silkworms only ever produce 1 byproduct).
+- Each animal byproduct has a quality based on inventions from the Blueprint Book.
+
+---
+
+## Maximum Animal Counts
+
+| Restoration Stage | Barn Count | Coop Count | Stables Count
+|-------------------|------------|------------|---|
+| Weathered         | 0          | 0          | 0
+| Rebuilding        | 2          | 2          | 1
+| Recovering        | 4          | 4          | 1
+| Renewed           | 6          | 6          | 1
+| Growing           | 8          | 8          | 2
+| Prospering        | 10         | 10         | 2
+| Flourishing       | 15         | 15         | 3
+
+---
+
+## Maximum Bee Counts
+
+| Apiary Invention | Bee Count
+|------------------|---|
+| Honeycomb Apiary | 4
+| Apiary Expander  | 8
+| Apiary Enlarger  | 15
+
+---
+
+## Maximum Silkworm Counts
+
+| Cradle Invention | Silkworm Count
+|------------------|---|
+| Weaver Cradle    | 4
+| Cradle Expander  | 8
+| Cradle Enlarger  | 15
+
+---
+
+## Maximum Pet Counts
+
+| Manor Average Restoration Stage | Dog Count | Cat Count
+|---------------------------------|-----------|---|
+| Weathered                       | 0         | 0
+| Rebuilding                      | 0         | 0
+| Recovering                      | 1         | 1
+| Renewed                         | 1         | 1
+| Growing                         | 2         | 2
+| Prospering                      | 2         | 2
+| Flourishing                     | 3         | 3
+
+---
+
+## Process Flow
+
+### Purchasing Animal
+
+### Petting Animal
+
+### Gathering Byproduct

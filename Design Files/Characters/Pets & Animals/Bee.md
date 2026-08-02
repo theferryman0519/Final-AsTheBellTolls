@@ -3,7 +3,7 @@ Title: Characters / Pets & Animals / Bee
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -29,8 +29,4 @@ Sold Price (Mature): 420 Bellnotes
 
 Byproduct Growth Duration: 4 Days
 
-Byproduct Time Manipulation Duration: 1 Day
-
 Maturity Growth Duration: 5 Days
-
-Maturity Time Manipulation Duration: 3 Days

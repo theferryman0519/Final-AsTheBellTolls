@@ -3,7 +3,7 @@ Title: Characters / Systems / Fishing System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -12,6 +12,8 @@ Version: 0.0.1
 **<u>Activating Mechanics:</u>** When the player walks up and ends adjacent to the water, they can switch their Current Tool to be their Fishing Rod. The player will then be able to interact with the water, casting a line into the water (either into Graythorne Lake or Graythorne River) and start the Fishing Minigame. The player could also use a Fishing Net, which will automatically catch fish after 2 seconds.
 
 **<u>Mechanic:</u>** After casting the line into the water, the player will wait for a random period of time (between 0.5 and 3.5 seconds). After the random time has passed, their is a chance that the Fishing Minigame will appear (that probability is determined by the quality of the Fishing Rod). The Fishing Minigame shows a timer bar below two gears. Each gear has a dial pointing out from the gear's central point. In order to complete the minigame, the player will need to rotate both gears so their dials are facing each other before the timer runs out.
+
+**<u>Fail/Cancel State:</u>** If the player cancels the Fishing Minigame at any time, or if the player fails to successfully catch a fish, the player still loses the stamina consumed by using the Fishing Rod. The amount of stamina lost is determined by the quality of the Fishing Rod. The player is free to attempt to fish as long as they have the stamina available.
 
 ---
 

@@ -187,6 +187,20 @@ Relationship Status: Child
 
 ---
 
+# Favorite Weather Types
+
+| Type           | Opinion
+|----------------|---|
+| Clear          | Liked
+| Cloudy         | Neutral
+| Rainy          | Neutral
+| Rainy (Severe) | Disliked
+| Snowy          | Neutral
+| Snowy (Severe) | Disliked
+| Windy          | Liked
+
+---
+
 # Visual Appearance
 
 Body Type: Slim

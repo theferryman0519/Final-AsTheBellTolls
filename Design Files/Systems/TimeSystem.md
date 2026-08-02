@@ -9,7 +9,7 @@ Version: 0.0.1
 
 ## Information
 
-- Time pauses when the player is not in Gameplay input map.
+- Time pauses when the player is not in Gameplay input map (this includes open menus, partaking in minigames, interacting with objects and dialogue)
 - Clock on HUD updates to the current time every 5 minutes.
 - Clock settings can be toggled to show 12-Hour Format or 24-Hour Format.
 

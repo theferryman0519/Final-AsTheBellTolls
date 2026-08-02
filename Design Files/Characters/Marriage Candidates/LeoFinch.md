@@ -83,7 +83,7 @@ Motivation: Leo wants everyone who walks into Thread & Thimble to leave feeling 
 
 Personality Colors: Cornflower Blue, Lavender, Coral
 
-Personality Summary: Leo is warm, expressive, and effortlessly social. He finds joy in helping others discover styles that reflect who they are and believes creativity should be shared without fear of judgment. His playful humor and infectious enthusiasm make him one of Blackmere's easiest people to befriend, yet beneath his cheerful exterior lies a sensitive heart that struggles to separate criticism of his work from criticism of himself. Through his journey, Leo learns that authenticity is more meaningful than approval.
+Personality Summary: Leo is warm, expressive, flamboyant, and effortlessly social. He finds joy in helping others discover styles that reflect who they are and believes creativity should be shared without fear of judgment. His playful humor and infectious enthusiasm make him one of Blackmere's easiest people to befriend, yet beneath his cheerful exterior lies a sensitive heart that struggles to separate criticism of his work from criticism of himself. Through his journey, Leo learns that authenticity is more meaningful than approval.
 
 Public Persona: Most residents know Leo as the energetic tailor who remembers everyone's favorite colors, enthusiastically compliments new outfits, and somehow convinces even the shyest customers to try something unexpected.
 
@@ -184,6 +184,20 @@ Grand Showcase Inventions: None
 Marriage Candidate: Yes
 
 Relationship Status: Single
+
+---
+
+# Favorite Weather Types
+
+| Type           | Opinion
+|----------------|---|
+| Clear          | Liked
+| Cloudy         | Neutral
+| Rainy          | Neutral
+| Rainy (Severe) | Disliked
+| Snowy          | Liked
+| Snowy (Severe) | Neutral
+| Windy          | Neutral
 
 ---
 

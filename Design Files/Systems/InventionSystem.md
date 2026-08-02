@@ -13,6 +13,10 @@ Version: 0.0.1
 
 **<u>Mechanic:</u>** After interacting with the Workbench, the Crafting Menu will pop up. Here, the player will be able to choose from an available crafting recipe. Once that recipe has been selected, the Crafting Menu will show the player's stored crafting ingredient items (from their Inventory and any Storage Units). The player will be able to choose the appropriate ingredients available for the selected recipe to add to the Workbench. Once all ingredients have been added, the Invention will start its Crafting & Testing Time. Once that time has completed, the Invention's ability will be available for the player.
 
+**<u>Other Information:</u>** Crafting does not take any amount of in-game time. Time pauses when the Crafting Menu is open and does not restart until after the craft has completed. Recipes are only shown as available if they are both discovered and if the player has all necessary ingredient items. The player cannot cancel once confirming all ingredients added to the Workbench.
+
+**<u>Note:</u>** The Workbench is also used for crafting Fabricated items. The mechanics are the same between crafting Fabricated items and crafting Inventions, it just depends on which recipe the player selects.
+
 ---
 
 ## Example Flows

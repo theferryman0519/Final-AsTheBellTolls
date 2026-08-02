@@ -3,7 +3,7 @@ Title: Characters / Pets & Animals / Sheep
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -29,8 +29,15 @@ Sold Price (Mature): 1,540 Bellnotes
 
 Byproduct Growth Duration: 3 Days
 
-Byproduct Time Manipulation Duration: 1 Day
-
 Maturity Growth Duration: 12 Days
 
-Maturity Time Manipulation Duration: 3 Days
+---
+
+# Friendship Hearts
+
+| Heart Count | Byproduct Count
+|-------------|---|
+| 0 Hearts    | 1
+| 1 Hearts    | 2
+| 2 Hearts    | 3
+| 3 Hearts    | 4

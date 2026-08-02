@@ -13,6 +13,8 @@ Version: 0.0.1
 
 **<u>Mechanic:</u>** After interacting with the Stove or Blender, the Cooking Menu will pop up. Here, the player will be able to choose from an available recipe. Once that recipe has been selected, the Cooking Menu will show the player's stored consumable ingredient items (from their Inventory, Pantry, and any Storage Units). The player will be able to choose the appropriate ingredients available for the selected recipe to add to the Stove or Blender. Once all ingredients has been added, the Meal or Drink (depending if using the Stove or Blender) will be added to the player's Inventory. If the player does not have room in their Inventory, the meal will be added to their Pantry.
 
+**<u>Other Information:</u>** Cooking does not take any amount of in-game time. Time pauses when the Cooking Menu is open and does not restart until after the Meal or Drink has completed. Recipes are only shown as available if they are both discovered and if the player has all necessary ingredient items. The player cannot cancel once confirming all ingredients added to the Stove or Blender.
+
 ---
 
 ## Example Flows

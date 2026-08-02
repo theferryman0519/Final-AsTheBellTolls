@@ -3,7 +3,7 @@ Title: Characters / Pets & Animals / Silkworm
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -29,8 +29,4 @@ Sold Price (Mature): 960 Bellnotes
 
 Byproduct Growth Duration: 2 Days
 
-Byproduct Time Manipulation Duration: 1 Day
-
 Maturity Growth Duration: 6 Days
-
-Maturity Time Manipulation Duration: 3 Days

@@ -83,7 +83,7 @@ Motivation: Mara wants every building she helps create to become a place where f
 
 Personality Colors: Walnut Brown, Forest Green, Rust
 
-Personality Summary: Mara is practical, dependable, and endlessly hardworking. She approaches every challenge with determination, preferring action over lengthy discussion and solutions over excuses. Her confidence and resourcefulness make her one of Blackmere's most trusted craftspeople, but her fierce independence often prevents her from accepting help even when she needs it. Through her journey, Mara learns that the strongest things in life—whether buildings or relationships—are built through trust and collaboration.
+Personality Summary: Mara is practical, dependable, tomboyish, and endlessly hardworking. She approaches every challenge with determination, preferring action over lengthy discussion and solutions over excuses. Her confidence and resourcefulness make her one of Blackmere's most trusted craftspeople, but her fierce independence often prevents her from accepting help even when she needs it. Through her journey, Mara learns that the strongest things in life—whether buildings or relationships—are built through trust and collaboration.
 
 Public Persona: Most residents know Mara as the carpenter who can fix almost anything with enough lumber and determination. She's respected for her honesty, admired for her work ethic, and known for speaking plainly, even when the truth is difficult to hear.
 
@@ -184,6 +184,20 @@ Grand Showcase Inventions: None
 Marriage Candidate: Yes
 
 Relationship Status: Single
+
+---
+
+# Favorite Weather Types
+
+| Type           | Opinion
+|----------------|---|
+| Clear          | Liked
+| Cloudy         | Neutral
+| Rainy          | Disliked
+| Rainy (Severe) | Neutral
+| Snowy          | Neutral
+| Snowy (Severe) | Neutral
+| Windy          | Liked
 
 ---
 

@@ -187,6 +187,20 @@ Relationship Status: Single
 
 ---
 
+# Favorite Weather Types
+
+| Type           | Opinion
+|----------------|---|
+| Clear          | Liked
+| Cloudy         | Neutral
+| Rainy          | Neutral
+| Rainy (Severe) | Disliked
+| Snowy          | Neutral
+| Snowy (Severe) | Neutral
+| Windy          | Liked
+
+---
+
 # Visual Appearance
 
 Body Type: Curvy
