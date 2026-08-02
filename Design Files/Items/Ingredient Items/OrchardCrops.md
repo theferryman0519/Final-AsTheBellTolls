@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Orchard Crops
+Title: Items / Ingredient Items / Orchard Crops
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Flower Seeds
+Title: Items / Ingredient Items / Flower Seeds
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

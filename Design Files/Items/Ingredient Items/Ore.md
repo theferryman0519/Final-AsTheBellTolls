@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Ore
+Title: Items / Ingredient Items / Ore
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

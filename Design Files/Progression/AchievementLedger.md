@@ -1,5 +1,5 @@
 ---
-Title: Characters / Progression / Achievement Ledger
+Title: Progression / Achievement Ledger
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026

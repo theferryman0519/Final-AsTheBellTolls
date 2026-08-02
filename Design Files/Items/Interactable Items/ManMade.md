@@ -1,5 +1,5 @@
 ---
-Title: Events / Interactable Items / Man Made
+Title: Items / Interactable Items / Man Made
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

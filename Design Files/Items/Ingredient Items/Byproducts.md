@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Byproducts
+Title: Items / Ingredient Items / Byproducts
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

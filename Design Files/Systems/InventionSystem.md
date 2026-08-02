@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Invention System
+Title: Systems / Invention System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

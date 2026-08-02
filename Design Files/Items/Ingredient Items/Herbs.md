@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Herbs
+Title: Items / Ingredient Items / Herbs
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

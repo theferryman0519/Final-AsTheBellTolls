@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Fishing System
+Title: Systems / Fishing System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / NPC Connection System
+Title: Systems / NPC Connection System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

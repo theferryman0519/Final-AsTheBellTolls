@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / NPC Friendship System
+Title: Systems / NPC Friendship System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

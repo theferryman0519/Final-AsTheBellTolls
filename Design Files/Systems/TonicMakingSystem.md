@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Tonic Making System
+Title: Systems / Tonic Making System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

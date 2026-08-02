@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Universal Fish
+Title: Items / Ingredient Items / Universal Fish
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

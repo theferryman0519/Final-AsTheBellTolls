@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Dialogue System
+Title: Systems / Dialogue System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

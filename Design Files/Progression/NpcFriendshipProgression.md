@@ -1,5 +1,5 @@
 ---
-Title: Characters / Progression / NPC Friendship Progression
+Title: Progression / NPC Friendship Progression
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -11,43 +11,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Little Treasures
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Anya has been collecting flowers and keepsakes from around Memorial Hill, but she’s missing a few special pieces she hoped to preserve. She shyly asks the player if they’d help her complete her collection.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect and deliver 10 Flowers to Anya.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Stories in Bloom
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While pressing flowers together, Anya discovers one of the first flowers she ever preserved with her father.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Anya quietly shares memories of Ian teaching her to notice the little things most people walked past. She explains that every flower she presses reminds her of a person, a place, or a moment worth remembering. Smiling softly, she admits that perhaps memories don’t fade because time passes, they stay alive whenever someone chooses to remember them.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Memory Book
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Anya wants a safe place to preserve the flowers, sketches, and little keepsakes she’s collected over the years. She asks the player to help create something special for her.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Floral Memory Book
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Floral Memory Book permanently appears inside Memorial Hill
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** New Memories
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Anya asks the player to take a quiet walk through Blackmere with her during the first snowfall of winter.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As snow gently settles across the town, Anya pauses to watch children playing nearby. She smiles and quietly says she used to worry that happy moments would make her forget the sad ones. Now she understands that every new memory simply gives the old ones another place to live. Looking toward Memorial Hill, she softly says, “Dad is part of every happy day I have...because he’s part of me.”
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -55,43 +55,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Hidden Wonders
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Felix has heard stories about unusual treasures scattered throughout Blackmere, but he’s too nervous to search for them alone. He asks the player to help him discover a few interesting keepsakes.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect 10 Forageables, then return to Felix.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The First Adventure
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While organizing his growing collection of feathers and stones, Felix discovers the very first shell he ever picked up along the Graythorne River.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Felix excitedly tells the player about the first time he wandered farther from the inn than ever before. Though terrified he might get lost, finding that little shell made the whole adventure worthwhile. Smiling shyly, he admits that maybe being brave doesn’t mean never being scared; it just means taking one more step anyway.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Discovery Counts
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Felix has collected so many little treasures that he’s begun losing track of where they came from. He dreams of creating something that lets him safely organize every feather, shell, stone, and flower he discovers so each one can remind him of the adventure where he found it.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Explorer’s Curio Cabinet
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Explorer’s Curio Cabinet permanently appears inside Felix’s room at the Winding Banks Inn.
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Beyond the River
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Felix invites the player to walk with him to a place he’s never had the courage to explore before.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Standing on a hill overlooking Blackmere, Felix quietly laughs. “I always thought adventures started somewhere far away.” He looks back toward the town. “Maybe they just start one step farther than you’ve ever gone before.” He proudly pulls a new sketchbook from his satchel, excited to fill its pages with discoveries yet to come.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -99,43 +99,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Into the Wild
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Kira has discovered several unexplored trails around Gloamwood Forest, but she’s convinced there are even more hidden paths waiting to be found. She asks the player to accompany her on a day of exploration.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Gather 10 Wild Berries and 10 Wild Nuts, then return to Kira.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Clue Matters
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While sorting through her explorer’s journal, Kira notices several unfinished sketches from adventures she rushed through.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Kira laughs as she realizes she often remembers the exciting parts of exploring while forgetting the tiny clues that actually led her there. She admits she’s always been afraid that slowing down would mean missing the adventure, but maybe paying attention is what makes an adventure possible in the first place.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Ready for Anything
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Kira is tired of digging through her satchel every time she needs a compass, magnifying glass, notebook, or map. She sketches an idea for a wearable invention that keeps all of her exploration tools organized and within reach, then excitedly asks the player to help build it.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Explorer’s Utility Harness
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Explorer’s Utility Harness permanently appears inside Kira’s room at Mercer Farms.
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Looking Closer
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Kira asks the player to join her on one last expedition through Gloamwood Forest.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Halfway through the hike, Kira unexpectedly stops instead of charging ahead. Kneeling beside a tiny mushroom growing beneath a fallen log, she smiles. “I would’ve run right past this before.” She quietly explains that she used to think adventures were about reaching the destination first. Now she thinks, “Maybe the best explorers are the ones who notice what everyone else walks past.” She closes her journal, satisfied not because she found something extraordinary, but because she finally took the time to truly see it.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -143,43 +143,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The Great Adventure
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Milo has declared today “Adventure Day,” but he insists every proper adventure needs a few important supplies before it can begin. He excitedly asks the player to help gather everything his expedition requires.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect 10 Forageables, then return to Milo.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The First Adventure
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While cleaning his room, Milo discovers an old adventure journal tucked beneath his bed. Curious, he excitedly asks the player to look through it with him.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As they flip through pages filled with colorful drawings, imaginary maps, and exaggerated stories, Milo laughs at how every stick became a legendary sword and every puddle became a dangerous swamp. He points to one of the earliest entries (a simple drawing of him following Kira through the fields) and quietly admits that’s when he first realized ordinary places could become extraordinary with enough imagination. He closes the journal with a grin. “I guess...adventures don’t start when you go somewhere new. They start when you decide to look at the world a little differently.”
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Adventure Anywhere
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Milo has filled his pockets with sticks, rocks, string, feathers, and every other “essential adventure supply” he can find. Tired of losing his treasures, he dreams up a special invention that can organize everything needed for the next expedition. He eagerly asks the player to help bring his idea to life.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Awesome Adventure Pack
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Awesome Adventure Pack permanently appears inside Milo’s room at Mercer Farms.
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Day’s an Adventure
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Milo invites the player on one final adventure around Mercer Farms.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** nstead of racing ahead, Milo spends the afternoon skipping stones, watching dragonflies, building a tiny stick fort, and laughing with his friends. As the sun begins to set, he smiles. “I kept looking for the next adventure...” He looks around at everyone together. “Turns out...I was already in one.” For the first time, Milo understands that the best adventures aren’t the ones you chase; they’re the ones you share.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -193,7 +193,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Collect and gather 5 books around the Library, then return to Adrian.
 
-**<u>Reward:</u>** 500 Bellnotes
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
@@ -697,9 +697,9 @@ Version: 0.0.1
 
 **<u>Backstory:</u>** Victor dreams of making Blackmere a destination travelers eagerly seek out rather than simply pass through. He asks the player to invent something that helps merchants organize and display goods from across Morvanya more efficiently.
 
-**<u>Craft Invention:</u>** Merchant Display Terminal
+**<u>Craft Invention:</u>** Caravan Inventory Cabinet
 
-**<u>Reward:</u>** 2,000 Bellnotes / Merchant Display Terminal permanently appears at the Caravan Stall
+**<u>Reward:</u>** 2,000 Bellnotes / Caravan Inventory Cabinet permanently appears at the Caravan Stall
 
 ### 12 Heart Event
 
@@ -727,43 +727,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Lessons of the Past
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Agatha has been sorting decades of journals, photographs, and keepsakes documenting Blackmere’s earliest years. She asks the player to help recover several misplaced family heirlooms before she finishes organizing her collection.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect and return 5 Family Heirlooms to Agatha.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Before There Was Blackmere
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While sharing tea at her home, Agatha retrieves one of her oldest journals from a nearby bookshelf.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Agatha recounts what Blackmere was like before it became a town; dense forests, muddy roads, and a handful of determined families with little more than hope and hard work. She speaks fondly of building the first schoolhouse and library with Roland, explaining that they believed knowledge would outlast any building they could ever construct.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Preserving Tomorrow
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Agatha worries that many of Blackmere’s oldest records continue to deteriorate with age. Rather than simply storing them away, she hopes future generations will be able to study them for centuries to come. She asks the player to invent something capable of preserving delicate documents without damaging them.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Historical Archive Cabinet
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Historical Archive Cabinet permanently appears inside A. Whitmore Public Library
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Living Legacy
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Agatha invites the player to visit both the library and school on the same afternoon.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching children eagerly check out books before hurrying off to class, Agatha smiles quietly. She admits she once believed her greatest achievement was helping build these institutions. Now she realizes their true purpose isn’t preserving yesterday; it’s preparing tomorrow. She tells the player that a town’s legacy isn’t measured by how long its buildings stand, but by the people who continue its values long after its founders are gone.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -771,43 +771,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Community First
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Beatrice is organizing several community improvement projects throughout Blackmere, but she’s fallen behind coordinating supplies. She asks the player to assist with gathering materials needed to prepare the town for the next phase of restoration.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Deliver the requested materials to 5 restoration sites around Blackmere, then report back to Beatrice.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Blackmere Community Board is permanently available for the player
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The Weight of Office
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** After Town Hall closes for the evening, Beatrice remains behind to finish paperwork while the player helps organize old town records.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Looking through photographs taken before the Great Flood, Beatrice reflects on accepting the role of mayor. She admits she never sought leadership, only the opportunity to serve her community. Though the town has come a long way since the flood, she quietly confesses that she still measures every success against the lives Blackmere couldn’t save.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Planning Tomorrow
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** As Blackmere continues to grow, Beatrice dreams of making restoration planning more efficient so community projects can be coordinated with greater confidence. She asks the player to build a device capable of organizing construction schedules, supply inventories, and restoration priorities.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Restoration Planning Table
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Restoration Planning Table permanently appears inside Blackmere Town Hall
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Hope Lives Here
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Beatrice invites the player to Town Square during one of Blackmere’s busiest afternoons.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching neighbors shop, children play, and local businesses thrive once again, Beatrice smiles quietly. She explains that rebuilding Blackmere was never simply about replacing buildings; it was about restoring hope. Looking around the square, she realizes the town no longer survives because of her leadership alone, but because every resident has chosen to carry part of the responsibility together.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -815,43 +815,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Digging Deep
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Claudia has been spending long hours in the Ashfall Mines gathering resources for both Blackmere’s restoration and Mercer Farms. She’s fallen behind on her usual mining routine and asks the player to help replenish essential materials.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect and deliver 20 Copper Ore to Claudia.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Mine Elevator is permanently available for the player to use
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Beneath the Surface
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** After another long day in the mines, Claudia invites the player to share a quiet dinner with her family at Mercer Farms.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Around the dinner table, Claudia reflects on raising Kira and Milo while balancing endless days in the mines. She admits she never wanted her children to worry about whether their family would have enough, so she worked harder than anyone ever asked her to. Watching her family laugh together, she quietly realizes that the happiest moments in her life have never come from what she provided, but from the people she provided for.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Stronger Foundation
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Claudia wants to spend less time hauling heavy mining equipment and more time with her family. She asks the player to create an invention that helps transport materials more efficiently through the Ashfall Mines.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Mine Cart Loader
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Mine Cart Loader permanently appears inside the Ashfall Mines
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Worth Coming Home To
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Claudia invites the player to accompany her on the walk home from the mines one evening.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the lights of Mercer Farms come into view, Claudia smiles and says that every difficult day has always been easier because she knew someone was waiting at home. She explains that Blackmere isn’t special because of its mines or farmland; it’s special because every family helps build something bigger than themselves. Looking toward the farmhouse, she quietly says that no treasure she’s ever uncovered compares to what’s waiting behind that front door.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -859,43 +859,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Well-Kept Manor
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Edward has been so focused on restoring Pendrelle Manor that several routine housekeeping tasks have fallen behind. Though he rarely asks for assistance, he admits the Manor has become too large for one person to maintain alone.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Find and collect 10 piles of rubble around the rooms in the Manor, then return to Edward.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The Lady of the Manor
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While polishing an antique tea set, Edward pauses after recognizing it as one of Myrtle Pendrelle’s favorites.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Edward shares stories about Myrtle, not as the brilliant inventor the town admired, but as the kind woman who always insisted everyone at the Manor sit together for tea. He explains that she believed a home was never defined by its walls, but by the people welcomed inside them. Looking around the Manor, Edward quietly admits that hearing laughter echo through its halls again reminds him of those happier days.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Preserving a Legacy
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Edward hopes to better organize Pendrelle Manor’s growing collection of inventions, blueprints, and family records so future generations can learn from Myrtle’s work. He asks the player to build something worthy of safeguarding her legacy.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Manor Archive Organizer
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Manor Archive Organizer permanently appears inside Pendrelle Manor in the Butler Quarters
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Home Once More
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Edward invites the player to walk through Pendrelle Manor.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the two wander the restored halls, Edward reflects on the years the Manor stood silent after Myrtle’s passing. He smiles as he watches sunlight fill rooms that were once abandoned and says the Manor finally feels alive again. He quietly thanks the player, explaining that Myrtle’s greatest dream was never simply to preserve the Manor, it was to ensure it would always be a place where people felt welcome.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -903,43 +903,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Balancing the Books
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Elise has been reviewing Blackmere’s financial records while helping local businesses recover from the Great Flood. With paperwork piling up, she asks the player to assist by collecting several outstanding financial documents from around town.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect and return 5 Financial Ledgers to Elise.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Loans are now able to be taken out at Blackmere Bank & Exchange
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Number Has a Name
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While organizing old bank records after closing, Elise comes across several loan applications from families rebuilding after the Great Flood.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Elise explains that every approval and denial has always weighed heavily on her because she knows each number represents someone’s future. She admits she has never been afraid of making difficult decisions, only of making the wrong one. Looking through the ledgers, she quietly reflects that protecting people sometimes means believing in them before they’re able to believe in themselves.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Investing in Tomorrow
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Elise wants to modernize Blackmere Bank & Exchange by giving residents a clearer understanding of their finances. She asks the player to create an invention that can securely organize financial records while helping families better plan for the future.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Mechanical Ledger Organizer
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Mechanical Ledger Organizer permanently appears inside Blackmere Bank & Exchange
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** More Than Wealth
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Elise invites the player to join her for an evening walk along the Graythorne River after the bank closes.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching the lights of Blackmere reflect across the water, Elise admits that true prosperity isn’t measured by full vaults or balanced ledgers. It’s measured by the confidence people have that tomorrow can be better than today. She smiles softly, realizing that the town’s greatest investment has always been its people.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -947,43 +947,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Full House
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** The Winding Banks Inn has been busier than ever with workers helping restore Blackmere. Frederick has fallen behind preparing supplies for the coming week and asks the player to help restock the inn.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Deliver 20 Crops and 10 Herbs to Frederick.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Guest Rooms at the Winding Banks Inn are permanently available for the player to rent
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Seat at the Table
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** After the dinner rush, Frederick invites the player to stay while he and Helen share a quiet family meal.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Frederick talks about inheriting the inn and how he and Helen always dreamed of creating a place where strangers would feel like family. Smiling as Felix joins the table, he admits that his favorite memories aren’t the busiest nights; they’re the quiet evenings spent surrounded by the people he loves.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Hospitality Refined
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Frederick wants to spend less time running between the kitchen and guest rooms and more time talking with the people who visit the inn. He asks the player to create an invention that helps the inn operate more smoothly.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Automated Service Bell
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Automated Service Bell permanently appears inside the Winding Banks Inn
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Everyone’s Welcome
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Frederick asks the player to stop by the inn during one of Blackmere’s seasonal celebrations.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As residents gather around the fireplace sharing food, music, and stories, Frederick smiles and says the inn has finally become exactly what he always hoped it would be; not simply a place to eat or sleep, but a place where people feel like they belong. Looking around the room, he quietly thanks the player for helping restore more than just the building.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -991,43 +991,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** From the Heart
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Helen is preparing for a busy weekend at the Winding Banks Inn and wants to expand the menu with several comforting seasonal dishes. She asks the player to help gather fresh ingredients before the dinner rush begins.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Cook 5 Meals using the Stove, then return to Helen.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Stove at the Winding Banks Inn is permanently available for the player to use
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Family Recipes
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While organizing the kitchen after closing, Helen discovers one of the oldest recipes in her handwritten cookbook.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Helen shares stories of learning to cook alongside Theo and the generations of family recipes that shaped her love of food. She explains that every favorite meal reminds her of someone she loves, and that the happiest moments of her life have always happened around a shared table.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Cooking with Love
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Helen dreams of spending less time managing the kitchen and more time enjoying meals with her family and guests. She asks the player to invent something that helps prepare meals more efficiently without sacrificing the warmth of home cooking.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Precision Oven
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Precision Oven permanently appears inside the Winding Banks Inn Kitchen
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Around the Table
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Helen invites the player to join the Holt family for a quiet dinner after the inn has closed.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As everyone laughs over a home-cooked meal, Helen smiles and reflects that food has never simply been about feeding people. It’s about creating moments they’ll carry with them long after the plates are cleared. Looking around the table, she says that Blackmere feels like one big family because there’s always someone willing to pull up another chair.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1035,43 +1035,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Right on Time
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Irene has noticed that several mechanisms throughout Blackmere’s Bell Tower are beginning to wear with age. She asks the player to help maintain the tower before the town’s daily schedule is disrupted.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Craft 5 Copper Ingots and give them to Irene.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Bell Has a Story
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** After the evening bell rings, Irene invites the player to remain in the bell tower a little longer than usual.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Irene explains how each daily bell has marked important moments throughout Blackmere’s history: celebrations, weddings, harvests, and even times of mourning. She quietly shares how James taught her that ringing the bell wasn’t simply about keeping time, but about reminding the town that every moment has meaning.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Echoes Through Time
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Irene hopes to better preserve the Bell Tower for future generations without sacrificing its traditions. She asks the player to create an invention that assists with maintaining the tower’s intricate clockwork while respecting its historic craftsmanship.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Automatic Bell Regulator
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Automatic Bell Regulator permanently appears inside Blackmere Bell Tower
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Tomorrow’s Bell
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Irene invites the player to join her atop the Bell Tower just before sunrise.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the first light reaches Blackmere, Irene reflects that every morning begins with the same bell, yet no two days are ever alike. She smiles softly and admits that perhaps tradition was never meant to keep life unchanged; it exists to give each new day a familiar beginning. Looking over the town, she says James would have wanted her to keep living, not simply keep remembering.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1079,43 +1079,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Happy Herd
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Mercer Farms has welcomed several new animals, and Jasmine is determined to make each one feel safe and cared for. With so much to do, she asks the player to help tend to the animals before the day is over.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Own 5 animals, then return to Jasmine.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Home on the Farm
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** After finishing the evening chores, Jasmine invites the player to sit outside the barn while the animals settle in for the night.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Jasmine shares stories about joining the Mercer family and how quickly Mercer Farms came to feel like home. Laughing, she admits she never expected a farm full of animals, children, and noisy family dinners to become the happiest chapter of her life. She quietly reflects that the greatest gift Blackmere ever gave her wasn’t a place to live; it was people who made her feel like she belonged.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Happier Together
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Jasmine wants to spend less time worrying about routine chores and more time caring for both the animals and the people who visit Mercer Farms. She asks the player to invent something that makes daily ranch work easier.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Automatic Animal Groomer
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Automatic Animal Groomer permanently appears at Mercer Farms
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Place to Gather
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Jasmine invites the player to Mercer Farms during one of Blackmere’s seasonal community picnics.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching neighbors laugh together while children chase chickens through the fields, Jasmine smiles and says that a community grows strongest when people simply spend time together. She explains that Mercer Farms was never meant to be just a ranch; it was meant to be a place where no one ever felt alone.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1123,43 +1123,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Good Harvest
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Jonas is preparing Mercer Farms for the coming season but has fallen behind planting several important crops. He asks the player to lend a hand so the fields will be ready on time.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Harvest 25 Crops, then return to Jonas.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Fields at Mercer Farms are permanently available for the player to use
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Seasons Together
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** After a successful harvest, Jonas invites the player to sit with his family on the farmhouse porch as the sun begins to set.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Jonas reflects on growing up at Mercer Farms and the joy of raising Kira and Milo alongside Claudia. He explains that farming taught him every season brings both hardship and abundance, and that family is what makes every season worth enduring. Looking at the fields, he quietly says that the farm has never belonged to one person; it belongs to every generation that leaves it a little better than they found it.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Growing Tomorrow
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Jonas wants to spend less time maintaining irrigation and more time working alongside his family. He asks the player to invent something that helps keep the crops healthy while giving him more time with the people he loves.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Field Irrigation System
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Field Irrigation System permanently appears at Mercer Farms
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Roots That Remain
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Jonas invites the player to walk through Mercer Farms at sunrise before the rest of the family wakes.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the morning light stretches across the fields, Jonas smiles and explains that every harvest begins with faith in something you can’t yet see. He says Blackmere reminds him of farming: people care for one another year after year, trusting that small acts of kindness eventually grow into something much larger. Looking toward the farmhouse, he quietly says that’s the kind of future he hopes to leave behind.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1167,43 +1167,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Curious Mind
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Julian is cataloging several newly discovered medicinal herbs, but he needs additional specimens before he can complete his latest research. He asks the player to help gather them from around Blackmere.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Craft 5 Tonics using the Tonic Kit, then return to Julian.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Tonic Kit at Rain & Hale is permanently available for the player to use
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Lessons in Observation
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While organizing dried herbs and field journals, Julian uncovers one of his earliest notebooks from his first years in Blackmere.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Julian shares stories of arriving in Blackmere alongside Agatha and Roland, describing how every unfamiliar plant, mushroom, and mineral felt like a mystery waiting to be understood. Smiling faintly, he admits that discovering new knowledge has always been exciting, but helping others discover it may be even more rewarding.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Knowledge Preserved
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Julian hopes to make his years of research more accessible without risking damage to his fragile journals. He asks the player to invent something capable of organizing and preserving his growing collection of scientific observations.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Botanical Catalog Station
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Botanical Catalog Station permanently appears inside Rain & Hale
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Questions That Never End
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Julian invites the player on one final walk through Gloamwood Forest.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the two pause to observe wild herbs growing beneath the trees, Julian quietly reflects that every answer simply leads to another question. He smiles and says that Blackmere has remained remarkable because each generation has continued asking those questions for themselves. Looking toward the forest, he remarks that curiosity (not certainty) is what keeps a town truly alive.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1211,43 +1211,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Garden of Remembrance
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Lena is preparing Memorial Hill for the changing season by planting fresh flowers around the grounds. She asks the player to help gather and plant flowers so every family who visits is welcomed by a place of beauty rather than sorrow.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect 15 Flowers and give them to Lena.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Remembering Ian
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While tending the flower garden at Memorial Hill, Lena pauses beside a patch of forget-me-nots that Ian once helped her plant.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Lena shares stories about Ian, not the sheriff Blackmere remembers, but the husband who made her laugh, the father who adored Anya, and the man who believed every day was worth appreciating. Smiling softly, she admits that remembering him has gradually become less painful and more comforting, because love has a way of remaining even after someone is gone.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Place of Peace
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Lena hopes to make Memorial Hill a place where visitors can quietly reflect without worrying about the endless upkeep required to maintain its gardens. She asks the player to invent something that helps care for the grounds while preserving the peaceful atmosphere.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Garden Irrigation Fountain
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Garden Irrigation Fountain permanently appears at Memorial Hill
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Love Remains
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Lena invites the player to Memorial Hill during the annual Day of Remembrance ceremony.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching families gather to celebrate the lives of those they’ve lost, Lena quietly reflects that Memorial Hill has never been a place about endings. It’s a place where stories continue to be shared and love continues to be remembered. Looking toward Ian’s grave, she smiles and says that Blackmere has taught her something she never thought possible: that grief and gratitude can exist together.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1255,43 +1255,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Special Delivery
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Martin has an unusually large number of parcels to deliver across Blackmere and worries some residents may have to wait longer than usual. Reluctantly, he asks the player to help complete his route before sunset.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Deliver 5 Letters and Parcels to residents around Blackmere, then return to Martin.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Mailbox at Pendrelle Manor can now be used to receive mail
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Letters That Last
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While organizing old correspondence, Martin discovers one of the first letters he ever delivered after becoming Blackmere’s postmaster.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Martin reflects on following in his mother’s footsteps and how every letter he carries represents far more than paper and ink. Whether delivering joyful news, heartfelt apologies, or simple greetings, he realizes his work has always been about keeping people connected. Smiling softly, he admits that his mother’s greatest lesson wasn’t how to deliver the mail; it was how to care about the people waiting for it.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Connected Together
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Martin hopes to spend less time organizing mail and more time ensuring every resident feels connected to one another. He asks the player to invent something that makes sorting and preparing deliveries more efficient.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Automated Mail Sorter
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Automated Mail Sorter permanently appears inside Blackmere Town Hall
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Road Leads Home
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Martin invites the player to accompany him on his delivery route one quiet morning before the town fully awakens.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As they walk through every district of Blackmere, Martin remarks that every path eventually brings him back to familiar faces. He quietly explains that a town isn’t held together by roads alone; it is held together by the relationships that travel across them. Looking around, he smiles and says that Blackmere has always felt like one extended family connected by countless small acts of kindness.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1299,43 +1299,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Hands That Build
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Roland has volunteered to help with several community improvement projects around Blackmere, but age has taught him that knowing when to ask for help is just as important as doing the work yourself. He asks the player to lend a hand with the day’s restoration efforts.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Collect and bring 20 Wood and 20 Stone to Roland.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The First Foundation
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While walking through Blackmere, Roland pauses beside one of the town’s oldest buildings.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Roland shares stories of Blackmere’s earliest days with Agatha, remembering how every home, business, and road began with little more than determination and neighbors willing to help one another. Smiling, he admits that he has never been proud of the buildings themselves, but of the people who built them together.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Building the Future
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Roland believes every generation should have the tools to improve upon the work of those who came before. He asks the player to invent something that will help future builders and inventors continue strengthening Blackmere.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Community Workshop Planner
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Community Workshop Planner permanently appears in the Town Hall
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** A Town Well Loved
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Roland invites the player to accompany him on a quiet walk through Blackmere during the annual town festival.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching children play where muddy streets once stood and neighbors greet one another like family, Roland smiles warmly. “When Agatha and I first arrived, we dreamed of building a town where people would care for one another. Looking around now...I’d say we did alright.” He quietly tells the player that Blackmere’s greatest achievement has never been its buildings; it has always been the kindness of its people.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1343,43 +1343,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Fresh From the Oven
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Theo is preparing for another busy day at the Winding Banks Inn and wants to bake enough bread and pastries for everyone before breakfast begins. He asks the player to lend a hand in the kitchen.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Prepare 5 Drinks using the Blender, then return to Theo.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 500 Bellnotes / Blender at the Winding Banks Inn is permanently available for the player to use
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The Recipe for Home
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While organizing his childhood recipe journal, Theo comes across one of the very first recipes he and Helen made together.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Theo shares stories about growing up alongside Helen and discovering that baking wasn’t simply about food; it was about creating moments where people felt welcomed and cared for. Smiling, he admits that every loaf of bread reminds him of the family and friends who gathered around the table to enjoy it.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Everyday Comfort
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Theo dreams of spending less time preparing ingredients and more time baking the comforting treats Blackmere has come to love. He asks the player to invent something that helps streamline the bakery without sacrificing its homemade charm.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Precision Dough Mixer
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Precision Dough Mixer permanently appears inside the Winding Banks Inn Bakery
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The Best Kind of Day
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Theo invites the player to join him outside the inn one quiet morning before the town fully wakes.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Watching the sunrise while the smell of fresh bread drifts through Blackmere, Theo quietly smiles. “People always talk about chasing bigger dreams. But mornings like this...good food, familiar faces, and another day together… I’ve never wanted anything more.” He explains that Blackmere taught him success isn’t measured by how far you travel, but by the comfort you bring to the people around you. Looking toward the inn, he says he’s grateful he chose the life that always felt right.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1387,43 +1387,43 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Stocking the Shelves
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Walter has fallen behind restocking the Blackmere General Store after several busy weeks. Though he insists he can handle it himself, he reluctantly accepts the player’s offer to help organize and replenish the store’s inventory.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Craft 10 Wood Beams and deliver them to Walter.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** The Store We Built
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While repairing one of the oldest shelves in the General Store, Walter pauses after recognizing Opal’s handwriting carved beneath the wood.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Walter shares stories about building the General Store alongside Opal, explaining that every shelf, counter, and display carries a memory of the life they created together. Smiling quietly, he admits that people often think the store is successful because of him, when in truth it has always carried both of their hearts.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Built for Tomorrow
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Walter wants the General Store to continue serving Blackmere for generations without losing the welcoming atmosphere he and Opal created. He asks the player to invent something that helps organize inventory while preserving the store’s familiar charm.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Automated Stock Organizer
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Automated Stock Organizer permanently appears inside the Blackmere General Store
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Open Every Morning
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Walter invites the player to help open the General Store before sunrise.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the morning light pours through the windows, Walter smiles and says that every day he unlocks the front door, he still feels as though Opal is opening it beside him. Looking around at familiar customers entering the shop, he quietly reflects, “This place never belonged to either of us...it belongs to everyone who walks through those doors.” He realizes that Blackmere’s greatest strength has always been the ordinary routines people share together, and he’s grateful to remain part of them.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---
 
@@ -1431,42 +1431,42 @@ Version: 0.0.1
 
 ### 3 Heart Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Perfect Timing
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Lucian/Vivian has been restoring several damaged timepieces from around Blackmere but needs additional mechanical components before the work can continue. Though reluctant to ask for assistance, they trust the player enough to lend a hand.
 
-**<u>Objective:</u>** xx
+**<u>Objective:</u>** Craft 10 Fabrications using the Workbench, then return to Lucian/Vivian.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 1,000 Bellnotes
 
 ### 6 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Myrtle’s Apprentice
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** While carefully restoring an antique clock, Lucian/Vivian uncovers one of Myrtle Pendrelle’s original workshop sketches tucked inside its casing.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** Lucian/Vivian reflects on their years apprenticing under Myrtle, sharing stories of the patience, discipline, and care she demanded from every clockmaker. They admit Myrtle rarely praised perfection, she praised perseverance. Looking at the sketch, they quietly realize that her greatest lesson was never about clocks, but about the people who built them.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ### 9 Heart Invention Quest
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Precision Through Patience
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Lucian/Vivian believes even the smallest imperfections can shorten the life of an intricate mechanism. They ask the player to invent a workstation capable of assembling delicate clockwork with unmatched precision.
 
-**<u>Craft Invention:</u>** xx
+**<u>Craft Invention:</u>** Clockmaker’s Calibration Bench
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** 2,000 Bellnotes / Clockmaker’s Calibration Bench permanently appears inside their home
 
 ### 12 Heart Event
 
-**<u>Title:</u>** xx
+**<u>Title:</u>** Every Second Matters
 
-**<u>Backstory:</u>** xx
+**<u>Backstory:</u>** Lucian/Vivian invites the player to the Bell Tower shortly before midnight.
 
-**<u>Event:</u>** xx
+**<u>Event:</u>** As the town grows quiet beneath the stars, Lucian/Vivian watches the Bell Tower clock strike the hour. “A clock isn’t valuable because it stops time...it’s valuable because it reminds us not to waste it.” They explain that Blackmere has endured because its people accepted every passing season together. Looking over the town, they finally admit that perhaps the greatest act of trust isn’t controlling tomorrow; it’s believing the people you care about will use today wisely.
 
-**<u>Reward:</u>** xx
+**<u>Reward:</u>** None
 
 ---

@@ -1,5 +1,5 @@
 ---
-Title: Characters / Progression / Main Story Progression
+Title: Progression / Main Story Progression
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026

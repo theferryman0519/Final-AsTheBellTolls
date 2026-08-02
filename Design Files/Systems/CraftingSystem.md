@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Crafting System
+Title: Systems / Crafting System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

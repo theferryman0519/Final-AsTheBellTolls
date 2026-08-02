@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / River Fish
+Title: Items / Ingredient Items / River Fish
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

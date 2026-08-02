@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Quest System
+Title: Systems / Quest System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

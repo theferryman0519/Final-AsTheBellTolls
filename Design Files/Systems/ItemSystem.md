@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Item System
+Title: Systems / Item System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

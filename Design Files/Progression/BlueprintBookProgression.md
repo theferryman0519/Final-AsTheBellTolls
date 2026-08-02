@@ -1,5 +1,5 @@
 ---
-Title: Characters / Progression / Blueprint Book Progression
+Title: Progression / Blueprint Book Progression
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026

@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Weather System
+Title: Systems / Weather System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026

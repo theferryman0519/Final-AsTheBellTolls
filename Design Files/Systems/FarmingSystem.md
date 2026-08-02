@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Farming System
+Title: Systems / Farming System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -17,7 +17,7 @@ Version: 0.0.1
 - Once the Orchard reaches Prospering restoration stage, crops can be planted from any season.
 - Once a soil square has been harvested, it needs 3 days to refuel due to damage from the flood.
 - Once a soil square has been refueled, it can be tilled and used for planting.
-- Crops or flowers that are harvested are all at a count of 1, unless increased through inventions from the Blueprint Book (only at the Manor).
+- Crops or flowers that are harvested are all at a count of 1, unless increased through quest rewards (only at the Manor).
 
 ---
 

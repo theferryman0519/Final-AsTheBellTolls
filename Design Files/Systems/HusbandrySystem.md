@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Husbandry System
+Title: Systems / Husbandry System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -61,7 +61,7 @@ Version: 0.0.1
 
 ## Maximum Pet Counts
 
-| Manor Average Restoration Stage | Dog Count | Cat Count
+| Restoration Stage | Dog Count | Cat Count
 |---------------------------------|-----------|---|
 | Weathered                       | 0         | 0
 | Rebuilding                      | 0         | 0

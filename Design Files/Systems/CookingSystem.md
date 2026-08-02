@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Cooking System
+Title: Systems / Cooking System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

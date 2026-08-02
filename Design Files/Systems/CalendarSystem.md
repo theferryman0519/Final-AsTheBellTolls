@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / Calendar System
+Title: Systems / Calendar System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

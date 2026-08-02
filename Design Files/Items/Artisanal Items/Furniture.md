@@ -1,5 +1,5 @@
 ---
-Title: Events / Artisinal Items / Furniture
+Title: Items / Artisinal Items / Furniture
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

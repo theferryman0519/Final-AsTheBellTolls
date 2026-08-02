@@ -1,5 +1,5 @@
 ---
-Title: Events / Ingredient Items / Gemstones
+Title: Items / Ingredient Items / Gemstones
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026

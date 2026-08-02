@@ -1,5 +1,5 @@
 ---
-Title: Characters / Systems / NPC Mood System
+Title: Systems / NPC Mood System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026

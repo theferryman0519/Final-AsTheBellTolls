@@ -1,5 +1,5 @@
 ---
-Title: Events / Recipe Items / Meals
+Title: Items / Recipe Items / Meals
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
