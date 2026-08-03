@@ -17,6 +17,18 @@ Version: 0.0.1
 
 ---
 
+## Tonic Buff Types
+
+- Gathering Double: Creates a 25% probability that a foraged, harvested, or Tool-collected item is doubled in its count.
+- Gathering Quality: Creates a 25% probability that a foraged, harvested, or Tool-collected item has its quality increased by one tier (max Cobalt).
+- Gathering Type: Increases the probability for gathering rarer foraged, harvested, or Tool-collected items by 25%.
+- Social Increase: Increases all earned NPC Relationship Points by 2.
+- Speed Increase: Increases the player movement speed by 25%.
+- Stamina Max: Increases the player's maximum stamina by 10.
+- Stamina Slow: Reduces all stamina-consuming actions by 1.
+
+---
+
 ## Example Flows
 
 ### Laboratory below Renewed Stage
