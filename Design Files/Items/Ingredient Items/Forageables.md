@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Forageables
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Soft natural clay ready to be shaped and hardened.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: A dense black fuel that burns with long-lasting heat.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Tough natural fibers gathered from hardy plants.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Dried grasses bundled into a useful, lightweight material.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Soft green moss collected from damp stones and trees.
 
 Spoil Duration: None
 
@@ -213,6 +223,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Tall, flexible reeds harvested from the water's edge.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Fine grains of sand gathered from riverbanks and shores.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Thick tree sap with a naturally sticky consistency.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Luxuriously smooth silk woven from delicate natural fibers.
 
 Spoil Duration: None
 
@@ -357,6 +375,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: A sturdy piece of natural rock suited for countless projects.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -392,6 +412,8 @@ Replenishment Amount: 3
 Seasons Found: Spring, Summer, Autumn
 
 Seasons Sold: None
+
+Short Description: A handful of sweet and tart berries gathered from the wild.
 
 Spoil Duration: None
 
@@ -429,6 +451,8 @@ Seasons Found: Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: Fresh woodland mushrooms with rich earthy flavors.
+
 Spoil Duration: None
 
 Used In Cooking: Yes
@@ -465,6 +489,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A hearty assortment of freshly foraged woodland nuts.
+
 Spoil Duration: None
 
 Used In Cooking: Yes
@@ -500,6 +526,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Solid timber cut from healthy trees and ready for use.
 
 Spoil Duration: None
 
