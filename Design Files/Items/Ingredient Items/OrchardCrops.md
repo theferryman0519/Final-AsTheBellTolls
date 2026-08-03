@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Orchard Crops
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: 20
 Seasons Found: Autumn
 
 Seasons Sold: None
+
+Short Description: A crisp orchard apple with a sweet, refreshing flavor.
 
 Spoil Duration: 12 Days
 
@@ -69,6 +71,8 @@ Seasons Found: Spring
 
 Seasons Sold: None
 
+Short Description: A soft golden fruit with delicate sweetness.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: Yes
@@ -104,6 +108,8 @@ Replenishment Amount: 12
 Seasons Found: Summer
 
 Seasons Sold: None
+
+Short Description: A handful of juicy berries bursting with natural sweetness.
 
 Spoil Duration: 7 Days
 
@@ -141,6 +147,8 @@ Seasons Found: Spring
 
 Seasons Sold: None
 
+Short Description: A plump red cherry with a bright, juicy flavor.
+
 Spoil Duration: 8 Days
 
 Used In Cooking: Yes
@@ -176,6 +184,8 @@ Replenishment Amount: 14
 Seasons Found: Summer
 
 Seasons Sold: None
+
+Short Description: A cluster of sweet grapes fresh from the vine.
 
 Spoil Duration: 6 Days
 
@@ -213,6 +223,8 @@ Seasons Found: Autumn
 
 Seasons Sold: None
 
+Short Description: A ripe pear with tender flesh and mellow sweetness.
+
 Spoil Duration: 6 Days
 
 Used In Cooking: Yes
@@ -248,6 +260,8 @@ Replenishment Amount: 17
 Seasons Found: Summer
 
 Seasons Sold: None
+
+Short Description: A smooth-skinned fruit with rich, juicy flesh.
 
 Spoil Duration: 8 Days
 
@@ -285,6 +299,8 @@ Seasons Found: Autumn
 
 Seasons Sold: None
 
+Short Description: A delicate berry with a sweet and tangy flavor.
+
 Spoil Duration: 5 Days
 
 Used In Cooking: Yes
@@ -320,6 +336,8 @@ Replenishment Amount: 15
 Seasons Found: Spring
 
 Seasons Sold: None
+
+Short Description: A bright red berry with a wonderfully sweet aroma.
 
 Spoil Duration: 7 Days
 
