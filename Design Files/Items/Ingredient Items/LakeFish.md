@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Lake Fish
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -34,6 +34,8 @@ Schooling Type: Schooling
 Seasons Found: Summer, Autumn
 
 Seasons Sold: None
+
+Short Description: A sturdy freshwater fish with broad golden scales.
 
 Spoil Duration: 5 Days
 
@@ -73,6 +75,8 @@ Seasons Found: Summer, Winter
 
 Seasons Sold: None
 
+Short Description: A large whiskered fish that thrives in deep waters.
+
 Spoil Duration: 6 Days
 
 Used In Cooking: Yes
@@ -110,6 +114,8 @@ Schooling Type: Solitary
 Seasons Found: Spring, Summer
 
 Seasons Sold: None
+
+Short Description: A sleek freshwater fish with silvery shimmering scales.
 
 Spoil Duration: 4 Days
 
@@ -149,6 +155,8 @@ Seasons Found: Summer
 
 Seasons Sold: None
 
+Short Description: A small freshwater crustacean protected by a sturdy shell.
+
 Spoil Duration: 4 Days
 
 Used In Cooking: Yes
@@ -186,6 +194,8 @@ Schooling Type: Schooling
 Seasons Found: Summer, Autumn
 
 Seasons Sold: None
+
+Short Description: A striped freshwater fish known for its sharp fins.
 
 Spoil Duration: 4 Days
 
@@ -225,6 +235,8 @@ Seasons Found: Autumn
 
 Seasons Sold: None
 
+Short Description: A powerful fish with vibrant pink flesh and silver scales.
+
 Spoil Duration: 4 Days
 
 Used In Cooking: Yes
@@ -263,6 +275,8 @@ Seasons Found: Spring, Winter
 
 Seasons Sold: None
 
+Short Description: A spotted freshwater fish with colorful, iridescent markings.
+
 Spoil Duration: 3 Days
 
 Used In Cooking: Yes
@@ -300,6 +314,8 @@ Schooling Type: Schooling
 Seasons Found: Winter
 
 Seasons Sold: None
+
+Short Description: A pale silver fish prized for its delicate appearance.
 
 Spoil Duration: 3 Days
 
