@@ -12,6 +12,7 @@ Version: 0.0.1
 - Contains the bed and dresser of the player, where they go to sleep at night and can change their clothes and appearance.
 - Bed and Dresser are available starting at the Weathered stage.
 - Dogs and Cats are available for purchase starting at the Recovering stage.
+- Player stamina also increases with each restoration stage.
 
 ---
 
@@ -19,10 +20,10 @@ Version: 0.0.1
 
 | Restoration Stage | Unlocks
 |-------------------|---|
-| Weathered         | Bed / Dresser
-| Rebuilding        | n/a
-| Recovering        | 1 Max Dog / 1 Max Cat
-| Renewed           | 1 Max Dog / 1 Max Cat
-| Growing           | 2 Max Dogs / 2 Max Cats
-| Prospering        | 2 Max Dogs / 2 Max Cats
-| Flourishing       | 3 Max Dogs / 3 Max Cats
+| Weathered         | Bed / Dresser / 100 Max Stamina
+| Rebuilding        | n/a / 120 Max Stamina
+| Recovering        | 1 Max Dog / 1 Max Cat / 140 Max Stamina
+| Renewed           | 1 Max Dog / 1 Max Cat / 180 Max Stamina
+| Growing           | 2 Max Dogs / 2 Max Cats / 240 Max Stamina
+| Prospering        | 2 Max Dogs / 2 Max Cats / 300 Max Stamina
+| Flourishing       | 3 Max Dogs / 3 Max Cats / 400 Max Stamina
