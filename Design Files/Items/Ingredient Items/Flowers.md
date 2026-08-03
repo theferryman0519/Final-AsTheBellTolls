@@ -33,6 +33,8 @@ Seasons Found: Autumn
 
 Seasons Sold: None
 
+Short Description: A delicate autumn bloom with bright, star-shaped petals.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -68,6 +70,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: None
+
+Short Description: A full, colorful blossom that flourishes in cooler weather.
 
 Spoil Duration: 10 Days
 
@@ -105,6 +109,8 @@ Seasons Found: Winter
 
 Seasons Sold: None
 
+Short Description: A graceful winter flower with elegantly swept-back petals.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -140,6 +146,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: None
+
+Short Description: A vibrant flower admired for its intricate layers of petals.
 
 Spoil Duration: 10 Days
 
@@ -177,6 +185,8 @@ Seasons Found: Summer
 
 Seasons Sold: None
 
+Short Description: A tall flowering stem crowned with brilliant blue blossoms.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -212,6 +222,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: None
+
+Short Description: Tiny blue flowers cherished as symbols of remembrance.
 
 Spoil Duration: 10 Days
 
@@ -249,6 +261,8 @@ Seasons Found: Spring
 
 Seasons Sold: None
 
+Short Description: Elegant bell-shaped blooms that sway gently in the breeze.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -284,6 +298,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: None
+
+Short Description: Bright golden flowers that bring warmth to autumn fields.
 
 Spoil Duration: 10 Days
 
@@ -321,6 +337,8 @@ Seasons Found: Summer
 
 Seasons Sold: None
 
+Short Description: Clusters of delicate blossoms with a soft woodland charm.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -356,6 +374,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: None
+
+Short Description: A cheerful flower with fiery colors that brighten late summer.
 
 Spoil Duration: 10 Days
 
@@ -393,6 +413,8 @@ Seasons Found: Winter
 
 Seasons Sold: None
 
+Short Description: A rare winter bloom with timeless beauty and quiet elegance.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -428,6 +450,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: None
+
+Short Description: A charming spring flower with delicate, colorful petals.
 
 Spoil Duration: 10 Days
 
@@ -465,6 +489,8 @@ Seasons Found: Summer
 
 Seasons Sold: None
 
+Short Description: Tall flowering stalks covered in vibrant blossoms from top to bottom.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -500,6 +526,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: None
+
+Short Description: Tiny white bells with a wonderfully sweet fragrance.
 
 Spoil Duration: 10 Days
 
@@ -537,6 +565,8 @@ Seasons Found: Spring
 
 Seasons Sold: None
 
+Short Description: A lush flower with large, fragrant blossoms in full bloom.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -572,6 +602,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: None
+
+Short Description: Bright silky petals that flutter with every passing breeze.
 
 Spoil Duration: 10 Days
 
@@ -609,6 +641,8 @@ Seasons Found: Spring
 
 Seasons Sold: None
 
+Short Description: A cheerful spring flower with soft, colorful blossoms.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -644,6 +678,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: None
+
+Short Description: A towering flower that always seems to greet the sun.
 
 Spoil Duration: 10 Days
 
@@ -681,6 +717,8 @@ Seasons Found: Winter
 
 Seasons Sold: None
 
+Short Description: Bright yellow blossoms that bring color to winter days.
+
 Spoil Duration: 10 Days
 
 Used In Cooking: No
@@ -716,6 +754,8 @@ Replenishment Amount: None
 Seasons Found: Winter
 
 Seasons Sold: None
+
+Short Description: A unique winter flower with delicate ribbon-like petals.
 
 Spoil Duration: 10 Days
 
