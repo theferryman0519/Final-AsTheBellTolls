@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Byproducts
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: 16
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: A fresh farm egg with a smooth shell and rich golden yolk.
 
 Spoil Duration: 5 Days
 
@@ -69,6 +71,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Fresh milk with a rich, creamy taste straight from the dairy barn.
+
 Spoil Duration: 3 Days
 
 Used In Cooking: Yes
@@ -104,6 +108,8 @@ Replenishment Amount: 28
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: A large, hearty egg prized for its rich flavor.
 
 Spoil Duration: 8 Days
 
@@ -141,6 +147,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A soft feather with a smooth texture and natural sheen.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: 35
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: Rich, creamy milk with a distinct and refreshing taste.
 
 Spoil Duration: 3 Days
 
@@ -213,6 +223,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: Exceptionally soft down prized for warmth and comfort.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A long, sturdy feather with many practical uses.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Golden honey gathered from hardworking bees and bursting with sweetness.
+
 Spoil Duration: None
 
 Used In Cooking: Yes
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: Strong, durable strands collected from a well-groomed horse.
 
 Spoil Duration: None
 
@@ -357,6 +375,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Thick, fluffy wool freshly sheared from a healthy sheep.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -393,6 +413,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: Luxuriously smooth silk woven from delicate natural fibers.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -428,6 +450,8 @@ Replenishment Amount: 60
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A rare barn delicacy treasured for its rich earthy aroma.
 
 Spoil Duration: 2 Days
 
