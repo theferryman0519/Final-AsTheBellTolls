@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Gemstones
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: Warm golden fossilized resin with a smooth natural glow.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A brilliant purple gemstone with remarkable clarity.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A pale blue gemstone as clear as calm waters.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A golden gemstone that sparkles with sunny warmth.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A flawless crystal prized for its unmatched brilliance.
 
 Spoil Duration: None
 
@@ -213,6 +223,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A vivid green gemstone with timeless natural beauty.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A deep red gemstone with a rich, polished luster.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A smooth green stone admired for its elegant appearance.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A colorful stone with unique natural patterns and textures.
 
 Spoil Duration: None
 
@@ -357,6 +375,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A luminous gemstone that shimmers with a soft glow.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -392,6 +412,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A glossy volcanic glass with a striking black finish.
 
 Spoil Duration: None
 
@@ -429,6 +451,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A polished black gemstone with a smooth, reflective surface.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -464,6 +488,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A radiant gemstone that dances with shifting colors.
 
 Spoil Duration: None
 
@@ -501,6 +527,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A lustrous natural pearl with a smooth, iridescent surface.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -536,6 +564,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A clear crystal with remarkable natural brilliance.
 
 Spoil Duration: None
 
@@ -573,6 +603,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A brilliant red gemstone treasured for its fiery beauty.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -608,6 +640,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A deep blue gemstone with exceptional clarity and shine.
 
 Spoil Duration: None
 
@@ -645,6 +679,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A warm gemstone flecked with shimmering golden light.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -681,6 +717,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A sparkling gemstone with a clear golden hue.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -716,6 +754,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A vibrant blue-green stone with distinctive natural charm.
 
 Spoil Duration: None
 
