@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Ore
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: A rare blue-tinted ore with remarkable natural strength.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: A reddish metal ore commonly found beneath the earth.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: A precious ore flecked with brilliant golden veins.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
 
+Short Description: A dense, dependable ore prized for its durability.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: Spring, Summer, Autumn, Winter
+
+Short Description: A gleaming ore with bright metallic luster.
 
 Spoil Duration: None
 
