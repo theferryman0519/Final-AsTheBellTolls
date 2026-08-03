@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Flower Seeds
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: Autumn
+
+Short Description: Tiny seeds ready to grow into colorful autumn asters.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Carefully selected seeds for growing vibrant autumn blossoms.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Winter
 
 Seasons Sold: Winter
+
+Short Description: Hardy seeds that flourish during the colder months.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Premium seeds destined to produce spectacular layered blooms.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Fine seeds that grow into elegant summer flowers.
 
 Spoil Duration: None
 
@@ -213,6 +223,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Small seeds that bloom into delicate blue flowers.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Quality seeds for cultivating graceful bell-shaped flowers.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Sturdy seeds that produce bright golden autumn blooms.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Tiny woodland seeds that grow into clusters of soft blossoms.
 
 Spoil Duration: None
 
@@ -357,6 +375,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Reliable seeds for growing colorful late-season flowers.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -392,6 +412,8 @@ Replenishment Amount: None
 Seasons Found: Winter
 
 Seasons Sold: Winter
+
+Short Description: Rare seeds that thrive even through the heart of winter.
 
 Spoil Duration: None
 
@@ -429,6 +451,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Spring seeds that produce charming woodland blossoms.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -464,6 +488,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Large seeds that grow into towering flowering stalks.
 
 Spoil Duration: None
 
@@ -501,6 +527,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Delicate seeds that produce fragrant woodland blooms.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -536,6 +564,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Carefully cultivated seeds for growing lush, fragrant flowers.
 
 Spoil Duration: None
 
@@ -573,6 +603,8 @@ Seasons Found: Summer
 
 Seasons Sold: Summer
 
+Short Description: Tiny seeds that bloom into bright, silky flowers.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -608,6 +640,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Small spring seeds that quickly grow into cheerful blossoms.
 
 Spoil Duration: None
 
@@ -645,6 +679,8 @@ Seasons Found: Summer
 
 Seasons Sold: Summer
 
+Short Description: Large seeds that grow into towering golden sunflowers.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -681,6 +717,8 @@ Seasons Found: Winter
 
 Seasons Sold: Winter
 
+Short Description: Cold-hardy seeds that bloom with bright winter flowers.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -716,6 +754,8 @@ Replenishment Amount: None
 Seasons Found: Winter
 
 Seasons Sold: Winter
+
+Short Description: Hardy seeds that produce elegant blossoms in winter.
 
 Spoil Duration: None
 
