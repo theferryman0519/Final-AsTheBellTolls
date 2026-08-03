@@ -3,7 +3,7 @@ Title: Events / Seasonal Data / Summer
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -51,8 +51,6 @@ Fish: Carp, Catfish, Chub, Crayfish, Minnow, Mussel, Perch
 Flowers: Delphinium, Heather, Hollyhock, Poppy, Sunflower
 
 Herbs: Alfalfa, Basil, Coriander, Dill, Fennel, Lavender, Rosemary, Sage
-
-Wood: Ash, Cedar, Elm, Oak, Pine
 
 ---
 
