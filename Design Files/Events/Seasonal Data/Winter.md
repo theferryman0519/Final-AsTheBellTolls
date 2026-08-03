@@ -3,7 +3,7 @@ Title: Events / Seasonal Data / Winter
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -48,8 +48,6 @@ Fish: Catfish, Dace, Lamprey, Mussel, Pike, Trout, Whitefish
 Flowers: Cyclamen, Hellebore, Winter Jasmine, Witch Hazel
 
 Herbs: Horseradish, Rosemary, Sage, Thyme
-
-Wood: Beech, Cedar, Oak, Pine
 
 ---
 
