@@ -3,7 +3,7 @@ Title: Events / Seasonal Data / Spring
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -50,8 +50,6 @@ Fish: Barbel, Bream, Chub, Dace, Mussel, Pike, Trout, Roach
 Flowers: Forget-Me-Not, Foxglove, Hepatica, Lily of the Valley, Peony, Primrose
 
 Herbs: Chives, Dandelion, Mint, Oregano, Parsley, Peppermint, Thyme
-
-Wood: Ash, Cedar, Elm, Maple, Oak, Pine
 
 ---
 
