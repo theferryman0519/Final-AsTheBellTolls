@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Herbs
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Fresh leafy sprigs with a mild, earthy aroma.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Summer
 
 Seasons Sold: Summer
 
+Short Description: Fragrant green leaves with a sweet, peppery scent.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: Autumn
+
+Short Description: Aromatic seeds with a warm, slightly sweet fragrance.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Slender green stalks with a delicate onion-like flavor.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: Autumn
+
+Short Description: Soft green leaves gathered from open meadows.
 
 Spoil Duration: None
 
@@ -213,6 +223,8 @@ Seasons Found: Summer
 
 Seasons Sold: Summer
 
+Short Description: Fresh leaves with a bright, citrusy aroma.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Hardy leaves and blossoms gathered from the wild.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Summer, Autumn
 
 Seasons Sold: Summer, Autumn
 
+Short Description: Feathery green fronds with a fresh, tangy scent.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Summer, Autumn
 
 Seasons Sold: Summer, Autumn
+
+Short Description: Fragrant fronds with a sweet, anise-like aroma.
 
 Spoil Duration: None
 
@@ -357,6 +375,8 @@ Seasons Found: Autumn, Winter
 
 Seasons Sold: Autumn, Winter
 
+Short Description: A pungent root with a bold, spicy bite.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -392,6 +412,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Delicate purple blossoms with a calming floral fragrance.
 
 Spoil Duration: None
 
@@ -429,6 +451,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Bright green leaves bursting with cool, refreshing aroma.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -464,6 +488,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Aromatic leaves with a warm, earthy fragrance.
 
 Spoil Duration: None
 
@@ -501,6 +527,8 @@ Seasons Found: Spring, Autumn
 
 Seasons Sold: Spring, Autumn
 
+Short Description: Fresh green sprigs with a clean, vibrant flavor.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -536,6 +564,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Crisp leaves with an invigorating minty scent.
 
 Spoil Duration: None
 
@@ -573,6 +603,8 @@ Seasons Found: Summer, Winter
 
 Seasons Sold: Summer, Winter
 
+Short Description: Woody sprigs with a rich, evergreen fragrance.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -609,6 +641,8 @@ Seasons Found: Summer, Winter
 
 Seasons Sold: Summer, Winter
 
+Short Description: Soft silvery leaves with a warm, earthy aroma.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -644,6 +678,8 @@ Replenishment Amount: None
 Seasons Found: Spring, Winter
 
 Seasons Sold: Spring, Winter
+
+Short Description: Tiny fragrant leaves with a subtle herbal scent.
 
 Spoil Duration: None
 
