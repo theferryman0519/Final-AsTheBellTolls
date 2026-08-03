@@ -3,7 +3,7 @@ Title: Items / Recipe Items / Fabrications
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -11,1102 +11,1154 @@ Version: 0.0.1
 
 ---
 
-## Item
+## Adhesive Paste
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Adhesive Paste
 
-ID: item_recipe_
+ID: item_recipe_adhesive-paste
 
-Items Needed: xx
+Items Needed: Sap (3), Moss (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 230 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A thick bonding paste with exceptional holding strength.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 92 Bellnotes
 
 ---
 
-## Item
+## Arc Tube
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Arc Tube
 
-ID: item_recipe_
+ID: item_recipe_arc-tube
 
-Items Needed: xx
+Items Needed: Glass Tube (1), Copper Wiring (2), Conductor Coil (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 6,630 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A precision glass tube built to channel concentrated energy.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 3,145 Bellnotes
 
 ---
 
-## Item
+## Brush Fibers
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Brush Fibers
 
-ID: item_recipe_
+ID: item_recipe_brush-fibers
 
-Items Needed: xx
+Items Needed: Fiber (4), Horse Hair (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 725 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: Durable bristles bundled for precision cleaning and polishing.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 540 Bellnotes
 
 ---
 
-## Item
+## Canvas
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Canvas
 
-ID: item_recipe_
+ID: item_recipe_canvas
 
-Items Needed: xx
+Items Needed: Fiber (5), Rope (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 280 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A tightly woven fabric stretched for strength and durability.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 112 Bellnotes
 
 ---
 
-## Item
+## Ceramic Casing
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Ceramic Casing
 
-ID: item_recipe_
+ID: item_recipe_ceramic-casing
 
-Items Needed: xx
+Items Needed: Clay (4), Coal (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 575 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A heat-resistant ceramic shell built to protect delicate components.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 285 Bellnotes
 
 ---
 
-## Item
+## Clockwork Spring
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Clockwork Spring
 
-ID: item_recipe_
+ID: item_recipe_clockwork-spring
 
-Items Needed: xx
+Items Needed: Iron Ingot (2), Metal Bearings (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 5,255 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A finely wound spring storing precise mechanical tension.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 2,502 Bellnotes
 
 ---
 
-## Item
+## Cloth
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Cloth
 
-ID: item_recipe_
+ID: item_recipe_cloth
 
-Items Needed: xx
+Items Needed: Fiber (4), Sheep Wool (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 650 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A durable woven fabric suited for countless applications.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 465 Bellnotes
 
 ---
 
-## Item
+## Cobalt Core
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Cobalt Core
 
-ID: item_recipe_
+ID: item_recipe_cobalt-core
 
-Items Needed: xx
+Items Needed: Cobalt Ingot (2), Copper Wiring (2), Energy Conduit (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 34,060 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A dense mechanical core crafted from refined cobalt alloys.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 18,100 Bellnotes
 
 ---
 
-## Item
+## Cobalt Ingot
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Cobalt Ingot
 
-ID: item_recipe_
+ID: item_recipe_cobalt-ingot
 
-Items Needed: xx
+Items Needed: Cobalt Ore (5), Coal (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 4,760 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A refined cobalt bar with remarkable strength and resilience.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 2,280 Bellnotes
 
 ---
 
-## Item
+## Cog Wheel
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Cog Wheel
 
-ID: item_recipe_
+ID: item_recipe_cog-wheel
 
-Items Needed: xx
+Items Needed: Copper Ingot (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 1,515 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A finely machined gear with evenly spaced teeth.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 711 Bellnotes
 
 ---
 
-## Item
+## Concave Lens
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Concave Lens
 
-ID: item_recipe_
+ID: item_recipe_concave-lens
 
-Items Needed: xx
+Items Needed: Glass Panel (1), Sand (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 1,095 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A polished lens that curves inward with perfect clarity.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 512 Bellnotes
 
 ---
 
-## Item
+## Conductor Coil
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Conductor Coil
 
-ID: item_recipe_
+ID: item_recipe_conductor-coil
 
-Items Needed: xx
+Items Needed: Copper Wiring (3), Iron Ingot (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 5,335 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A tightly wound coil designed for efficient conductivity.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 2,520 Bellnotes
 
 ---
 
-## Item
+## Convex Lens
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Convex Lens
 
-ID: item_recipe_
+ID: item_recipe_convex-lens
 
-Items Needed: xx
+Items Needed: Glass Panel (1), Sand (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 1,095 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A polished lens that curves outward with crystal clarity.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 512 Bellnotes
 
 ---
 
-## Item
+## Copper Ingot
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Copper Ingot
 
-ID: item_recipe_
+ID: item_recipe_copper-ingot
 
-Items Needed: xx
+Items Needed: Copper Ore (5), Coal (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 505 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A refined copper bar ready for skilled craftsmanship.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 237 Bellnotes
 
 ---
 
-## Item
+## Copper Pipe
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Copper Pipe
 
-ID: item_recipe_
+ID: item_recipe_copper-pipe
 
-Items Needed: xx
+Items Needed: Copper Ingot (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 1,515 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A sturdy metal pipe with a smooth polished finish.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 711 Bellnotes
 
 ---
 
-## Item
+## Copper Wiring
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Copper Wiring
 
-ID: item_recipe_
+ID: item_recipe_copper-wiring
 
-Items Needed: xx
+Items Needed: Copper Ingot (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 755 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: Flexible copper wire bundled for reliable conductivity.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 355 Bellnotes
 
 ---
 
-## Item
+## Energy Conduit
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Energy Conduit
 
-ID: item_recipe_
+ID: item_recipe_energy-conduit
 
-Items Needed: xx
+Items Needed: Copper Wiring (3), Insulated Padding (1), Metal Plate (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 17,320 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A reinforced conduit engineered to carry powerful energy safely.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 9,198 Bellnotes
 
 ---
 
-## Item
+## Filter Mesh
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Filter Mesh
 
-ID: item_recipe_
+ID: item_recipe_filter-mesh
 
-Items Needed: xx
+Items Needed: Gold Ingot (1), Fiber (3)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 3,285 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A finely woven mesh that captures even tiny particles.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 1,582 Bellnotes
 
 ---
 
-## Item
+## Flask
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Flask
 
-ID: item_recipe_
+ID: item_recipe_flask
 
-Items Needed: xx
+Items Needed: Glass Tube (1), Glass Panel (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 1,275 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A sturdy glass flask crafted for storing liquids safely.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 600 Bellnotes
 
 ---
 
-## Item
+## Foundation Slab
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Foundation Slab
 
-ID: item_recipe_
+ID: item_recipe_foundation-slab
 
-Items Needed: xx
+Items Needed: Stone Brick (4), Masonry Tile (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 6,390 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A solid stone slab built to provide lasting support.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 2,961 Bellnotes
 
 ---
 
-## Item
+## Gear Assembly
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Gear Assembly
 
-ID: item_recipe_
+ID: item_recipe_gear-assembly
 
-Items Needed: xx
+Items Needed: Cog Wheel (2), Metal Bearings (1), Nuts & Bolts (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 10,405 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A complete assembly of interlocking gears built for precision.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 4,914 Bellnotes
 
 ---
 
-## Item
+## Glass Bulb
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Glass Bulb
 
-ID: item_recipe_
+ID: item_recipe_glass-bulb
 
-Items Needed: xx
+Items Needed: Glass Panel (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 1,515 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A smooth glass bulb blown with remarkable clarity.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 711 Bellnotes
 
 ---
 
-## Item
+## Glass Panel
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Glass Panel
 
-ID: item_recipe_
+ID: item_recipe_glass-panel
 
-Items Needed: xx
+Items Needed: Sand (5), Coal (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 505 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A crystal-clear pane of polished glass.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 237 Bellnotes
 
 ---
 
-## Item
+## Glass Tube
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Glass Tube
 
-ID: item_recipe_
+ID: item_recipe_glass-tube
 
-Items Needed: xx
+Items Needed: Sand (4), Coal (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 515 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A hollow glass tube crafted with remarkable precision.
 
----
-
-## Item
-
-Can Be Different Qualities: xx
-
-Display Name: xx
-
-ID: item_recipe_
-
-Items Needed: xx
-
-Location Sold: xx
-
-Place Made: xx
-
-Purchase Price: xx
-
-Replenishment Amount: xx
-
-Value Price: xx
+Value Price: 243 Bellnotes
 
 ---
 
-## Item
+## Gold Ingot
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Gold Ingot
 
-ID: item_recipe_
+ID: item_recipe_gold-ingot
 
-Items Needed: xx
+Items Needed: Gold Ore (5), Coal (1)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 2,130 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A refined gold bar polished to a brilliant shine.
+
+Value Price: 1,031 Bellnotes
 
 ---
 
-## Item
+## Hinges
 
-Can Be Different Qualities: xx
+Can Be Different Qualities: No
 
-Display Name: xx
+Display Name: Hinges
 
-ID: item_recipe_
+ID: item_recipe_hinges
 
-Items Needed: xx
+Items Needed: Iron Ingot (1), Nuts & Bolts (2)
 
-Location Sold: xx
+Location Sold: Blackmere General Store
 
-Place Made: xx
+Place Made: Laboratory (Workbench)
 
-Purchase Price: xx
+Purchase Price: 3,430 Bellnotes
 
-Replenishment Amount: xx
+Replenishment Amount: None
 
-Value Price: xx
+Short Description: A sturdy pair of metal hinges built for smooth movement.
+
+Value Price: 1,638 Bellnotes
+
+---
+
+## Insulated Padding
+
+Can Be Different Qualities: No
+
+Display Name: Insulated Padding
+
+ID: item_recipe_insulated-padding
+
+Items Needed: Cloth (2), Moss (2)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 2,025 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: Thick padded material designed to resist heat and impact.
+
+Value Price: 1,425 Bellnotes
+
+---
+
+## Iron Ingot
+
+Can Be Different Qualities: No
+
+Display Name: Iron Ingot
+
+ID: item_recipe_iron-ingot
+
+Items Needed: Iron Ore (5), Coal (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 785 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A refined iron bar forged for dependable strength.
+
+Value Price: 375 Bellnotes
+
+---
+
+## Iron Pipe
+
+Can Be Different Qualities: No
+
+Display Name: Iron Pipe
+
+ID: item_recipe_iron-pipe
+
+Items Needed: Iron Ingot (2)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 2,355 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A heavy-duty pipe forged from solid iron.
+
+Value Price: 1,125 Bellnotes
+
+---
+
+## Masonry Tile
+
+Can Be Different Qualities: No
+
+Display Name: Masonry Tile
+
+ID: item_recipe_masonry-tile
+
+Items Needed: Stone Brick (2), Clay (2)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 1,260 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A carefully cut stone tile with a clean finish.
+
+Value Price: 587 Bellnotes
+
+---
+
+## Metal Bearings
+
+Can Be Different Qualities: No
+
+Display Name: Metal Bearings
+
+ID: item_recipe_metal-bearings
+
+Items Needed: Copper Ingot (1), Iron Ingot (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 1,935 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: Smooth precision bearings built for effortless movement.
+
+Value Price: 918 Bellnotes
+
+---
+
+## Metal Plate
+
+Can Be Different Qualities: No
+
+Display Name: Metal Plate
+
+ID: item_recipe_metal-plate
+
+Items Needed: Iron Ingot (1), Gold Ingot (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 4,370 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A thick metal plate forged for lasting durability.
+
+Value Price: 2,109 Bellnotes
+
+---
+
+## Nuts & Bolts
+
+Can Be Different Qualities: No
+
+Display Name: Nuts & Bolts
+
+ID: item_recipe_nuts-and-bolts
+
+Items Needed: Iron Ingot (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 980 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A collection of sturdy fasteners for secure assembly.
+
+Value Price: 468 Bellnotes
+
+---
+
+## Precision Gears
+
+Can Be Different Qualities: No
+
+Display Name: Precision Gears
+
+ID: item_recipe_precision-gears
+
+Items Needed: Cog Wheel (2), Metal Bearings (2), Clockwork Spring (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 17,220 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: Expertly crafted gears engineered for flawless mechanical movement.
+
+Value Price: 8,158 Bellnotes
+
+---
+
+## Pressure Valve
+
+Can Be Different Qualities: No
+
+Display Name: Pressure Valve
+
+ID: item_recipe_pressure-valve
+
+Items Needed: Gold Ingot (1), Metal Bearings (1), Nuts & Bolts (2)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 10,545 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A reinforced valve built to regulate intense pressure.
+
+Value Price: 5,048 Bellnotes
+
+---
+
+## Reinforced Glass
+
+Can Be Different Qualities: No
+
+Display Name: Reinforced Glass
+
+ID: item_recipe_reinforced-glass
+
+Items Needed: Glass Panel (2), Iron Ingot (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 3,140 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: Crystal-clear glass strengthened against heavy impacts.
+
+Value Price: 1,485 Bellnotes
+
+---
+
+## Reinforced Plate
+
+Can Be Different Qualities: No
+
+Display Name: Reinforced Plate
+
+ID: item_recipe_reinforced-plate
+
+Items Needed: Metal Plate (2), Iron Ingot (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 14,285 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A fortified metal plate built for maximum durability.
+
+Value Price: 6,889 Bellnotes
+
+---
+
+## Resin
+
+Can Be Different Qualities: No
+
+Display Name: Resin
+
+ID: item_recipe_resin
+
+Items Needed: Sap (3), Coal (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 300 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A hardened tree resin with a smooth glossy finish.
+
+Value Price: 130 Bellnotes
+
+---
+
+## Rope
+
+Can Be Different Qualities: No
+
+Display Name: Rope
+
+ID: item_recipe_rope
+
+Items Needed: Fiber (5)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 125 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A tightly braided rope woven for dependable strength.
+
+Value Price: 50 Bellnotes
+
+---
+
+## Silk Cloth
+
+Can Be Different Qualities: No
+
+Display Name: Silk Cloth
+
+ID: item_recipe_silk-cloth
+
+Items Needed: Silk (3), Cloth (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 1,830 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: Luxuriously smooth fabric woven from fine silk fibers.
+
+Value Price: 1,102 Bellnotes
+
+---
+
+## Silver Ingot
+
+Can Be Different Qualities: No
+
+Display Name: Silver Ingot
+
+ID: item_recipe_silver-ingot
+
+Items Needed: Silver Ore (5), Coal (1)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 1,320 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A refined silver bar with a brilliant metallic sheen.
+
+Value Price: 625 Bellnotes
+
+---
+
+## Smoke Filter
+
+Can Be Different Qualities: No
+
+Display Name: Smoke Filter
+
+ID: item_recipe_smoke-filter
+
+Items Needed: Filter Mesh (1), Cloth (2), Coal (5)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 7,665 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A layered filter designed to trap smoke and fine particles.
+
+Value Price: 4,143 Bellnotes
+
+---
+
+## Steel Pipe
+
+Can Be Different Qualities: No
+
+Display Name: Steel Pipe
+
+ID: item_recipe_steel-pipe
+
+Items Needed: Iron Ingot (2), Copper Ingot (2), Coal (5)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 4,655 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A reinforced steel pipe built for exceptional durability.
+
+Value Price: 2,211 Bellnotes
+
+---
+
+## Stone Brick
+
+Can Be Different Qualities: No
+
+Display Name: Stone Brick
+
+ID: item_recipe_stone-brick
+
+Items Needed: Stone (5)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 435 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A carefully shaped stone block ready for sturdy construction.
+
+Value Price: 200 Bellnotes
+
+---
+
+## Support Frame
+
+Can Be Different Qualities: No
+
+Display Name: Support Frame
+
+ID: item_recipe_support-frame
+
+Items Needed: Wood Beam (4), Metal Plate (2), Nuts & Bolts (4)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 21,240 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A reinforced structural frame built to bear heavy loads.
+
+Value Price: 10,185 Bellnotes
+
+---
+
+## Thermal Insulation
+
+Can Be Different Qualities: No
+
+Display Name: Thermal Insulation
+
+ID: item_recipe_thermal-insulation
+
+Items Needed: Moss (2), Cloth (2), Goose Down (2)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 2,625 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A dense insulating material that retains warmth efficiently.
+
+Value Price: 1,905 Bellnotes
+
+---
+
+## Waterproof Sealant
+
+Can Be Different Qualities: No
+
+Display Name: Waterproof Sealant
+
+ID: item_recipe_waterproof-sealant
+
+Items Needed: Resin (1), Adhesive Paste (2)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 1,140 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A durable sealant that forms a watertight protective barrier.
+
+Value Price: 471 Bellnotes
+
+---
+
+## Wood Beam
+
+Can Be Different Qualities: No
+
+Display Name: Wood Beam
+
+ID: item_recipe_wood-beam
+
+Items Needed: Wood (5)
+
+Location Sold: Blackmere General Store
+
+Place Made: Laboratory (Workbench)
+
+Purchase Price: 375 Bellnotes
+
+Replenishment Amount: None
+
+Short Description: A solid timber beam cut for dependable structural support.
+
+Value Price: 175 Bellnotes
 
 ---
