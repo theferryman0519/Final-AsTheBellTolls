@@ -3,7 +3,7 @@ Title: Events / Seasonal Data / Autumn
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -51,8 +51,6 @@ Fish: Bream, Carp, Eel, Mussel, Perch, Pike, Roach, Salmon
 Flowers: Aster, Chrysanthemum, Dahlia, Goldenrod, Helenium
 
 Herbs: Caraway, Clover, Dill, Fennel, Horseradish, Parsley
-
-Wood: Ash, Beech, Cedar, Maple, Oak, Pine
 
 ---
 
