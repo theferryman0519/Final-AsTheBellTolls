@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Garden Seeds
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Summer, Autumn
 
 Seasons Sold: Summer, Autumn
+
+Short Description: Hardy seeds that grow into sturdy stalks of barley.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Spring, Autumn
 
 Seasons Sold: Spring, Autumn
 
+Short Description: Small seeds that produce sweet, earthy beets.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Quality seeds for growing crisp, colorful peppers.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Carefully selected seeds that produce hearty cabbage heads.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Tiny seeds that grow into sweet, crunchy carrots.
 
 Spoil Duration: None
 
@@ -213,6 +223,8 @@ Seasons Found: Summer, Autumn
 
 Seasons Sold: Summer, Autumn
 
+Short Description: Plump kernels ready to grow into tall corn stalks.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Fresh seeds that produce cool, crisp cucumbers.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Carefully prepared cloves ready for planting and growth.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: Autumn
+
+Short Description: Hardy seeds that grow into nutritious leafy greens.
 
 Spoil Duration: None
 
@@ -357,6 +375,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Small seeds that quickly produce crisp garden lettuce.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -392,6 +412,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Tiny seeds that grow into sweet, tender parsnips.
 
 Spoil Duration: None
 
@@ -429,6 +451,8 @@ Seasons Found: Spring, Autumn
 
 Seasons Sold: Spring, Autumn
 
+Short Description: Round seeds ready to sprout into climbing pea vines.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -464,6 +488,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Healthy seed potatoes prepared for a plentiful harvest.
 
 Spoil Duration: None
 
@@ -501,6 +527,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Large seeds destined to grow impressive autumn pumpkins.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -536,6 +564,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Tiny seeds that quickly produce crisp, peppery radishes.
 
 Spoil Duration: None
 
@@ -573,6 +603,8 @@ Seasons Found: Spring, Autumn
 
 Seasons Sold: Spring, Autumn
 
+Short Description: Carefully selected grains ready for planting in fertile soil.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -608,6 +640,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Hardy seeds that grow into resilient rye stalks.
 
 Spoil Duration: None
 
@@ -645,6 +679,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Small seeds that produce tender, leafy spinach.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -680,6 +716,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Thick seeds that grow into flavorful summer squash.
 
 Spoil Duration: None
 
@@ -717,6 +755,8 @@ Seasons Found: Summer
 
 Seasons Sold: Summer
 
+Short Description: Fine seeds ready to produce juicy garden tomatoes.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -753,6 +793,8 @@ Seasons Found: Summer, Autumn
 
 Seasons Sold: Summer, Autumn
 
+Short Description: Small seeds that quickly grow into tender turnips.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -788,6 +830,8 @@ Replenishment Amount: None
 Seasons Found: Summer, Autumn
 
 Seasons Sold: Summer, Autumn
+
+Short Description: Golden grains prepared for planting into healthy wheat fields.
 
 Spoil Duration: None
 
