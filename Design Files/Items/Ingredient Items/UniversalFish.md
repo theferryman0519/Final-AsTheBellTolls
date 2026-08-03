@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Universal Fish
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -34,6 +34,8 @@ Schooling Type: Solitary
 Seasons Found: Spring, Summer, Autumn, Winter
 
 Seasons Sold: None
+
+Short Description: A hardy freshwater shellfish protected by a smooth dark shell.
 
 Spoil Duration: 7 Days
 
