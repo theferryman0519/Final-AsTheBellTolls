@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / River Fish
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -34,6 +34,8 @@ Schooling Type: Solitary
 Seasons Found: Spring
 
 Seasons Sold: None
+
+Short Description: A sturdy river fish recognized by its whisker-like barbels.
 
 Spoil Duration: 5 Days
 
@@ -73,6 +75,8 @@ Seasons Found: Spring, Autumn
 
 Seasons Sold: None
 
+Short Description: A broad-bodied freshwater fish with shimmering silver scales.
+
 Spoil Duration: 4 Days
 
 Used In Cooking: Yes
@@ -110,6 +114,8 @@ Schooling Type: Schooling
 Seasons Found: Spring, Winter
 
 Seasons Sold: None
+
+Short Description: A slender silver fish that darts through flowing streams.
 
 Spoil Duration: 2 Days
 
@@ -149,6 +155,8 @@ Seasons Found: Autumn
 
 Seasons Sold: None
 
+Short Description: A long, smooth-bodied fish that glides effortlessly through the water.
+
 Spoil Duration: 5 Days
 
 Used In Cooking: Yes
@@ -186,6 +194,8 @@ Schooling Type: Solitary
 Seasons Found: Winter
 
 Seasons Sold: None
+
+Short Description: An ancient jawless fish with a distinctive eel-like body.
 
 Spoil Duration: 5 Days
 
@@ -225,6 +235,8 @@ Seasons Found: Summer
 
 Seasons Sold: None
 
+Short Description: A tiny silvery fish often found swimming in lively schools.
+
 Spoil Duration: 2 Days
 
 Used In Cooking: Yes
@@ -263,6 +275,8 @@ Seasons Found: Spring, Autumn, Winter
 
 Seasons Sold: None
 
+Short Description: A large freshwater predator with a long, streamlined body.
+
 Spoil Duration: 5 Days
 
 Used In Cooking: Yes
@@ -300,6 +314,8 @@ Schooling Type: Schooling
 Seasons Found: Spring, Autumn
 
 Seasons Sold: None
+
+Short Description: A small silver fish with bright red-tinted fins.
 
 Spoil Duration: 3 Days
 
