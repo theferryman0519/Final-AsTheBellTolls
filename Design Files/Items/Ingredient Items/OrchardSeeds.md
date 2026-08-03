@@ -3,7 +3,7 @@ Title: Items / Ingredient Items / Orchard Seeds
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -32,6 +32,8 @@ Replenishment Amount: None
 Seasons Found: Autumn
 
 Seasons Sold: Autumn
+
+Short Description: Fresh seeds that grow into crisp orchard apples.
 
 Spoil Duration: None
 
@@ -69,6 +71,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Carefully selected seeds for growing sweet apricots.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -104,6 +108,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Tiny seeds that produce sweet, juicy blueberries.
 
 Spoil Duration: None
 
@@ -141,6 +147,8 @@ Seasons Found: Spring
 
 Seasons Sold: Spring
 
+Short Description: Healthy seeds ready to grow vibrant cherries.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -176,6 +184,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Fine seeds that grow into fruitful grapevines.
 
 Spoil Duration: None
 
@@ -213,6 +223,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Quality seeds that produce tender, sweet pears.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -248,6 +260,8 @@ Replenishment Amount: None
 Seasons Found: Summer
 
 Seasons Sold: Summer
+
+Short Description: Hardy seeds destined to grow flavorful plums.
 
 Spoil Duration: None
 
@@ -285,6 +299,8 @@ Seasons Found: Autumn
 
 Seasons Sold: Autumn
 
+Short Description: Small seeds that grow into sweet raspberries.
+
 Spoil Duration: None
 
 Used In Cooking: No
@@ -320,6 +336,8 @@ Replenishment Amount: None
 Seasons Found: Spring
 
 Seasons Sold: Spring
+
+Short Description: Tiny seeds that produce bright, juicy strawberries.
 
 Spoil Duration: None
 
