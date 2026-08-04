@@ -3,8 +3,28 @@ Title: Items / Interactable Items / Natural
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
+---
+
+## Flower Deposit
+
+Display Name: Flower Deposit
+
+ID: item_interactable_flower-deposit
+
+Interaction Action: Harvest flowers
+
+Interaction Tool: None
+
+Items Received: Various Flowers
+
+Items Received Count Range: 1-3
+
+Locations Found: Gloamwood Forest, Gloamwood Depths, Ironveil Peak, Graythorne Lake, Steelridge Watch
+
+Spawn Type: Random
+
 ---
 
 ## Gemstone Deposit
@@ -41,7 +61,7 @@ Items Received: Fiber, Hay, Moss, Silk
 
 Items Received Count Range: 6-14
 
-Locations Found: Gloamwood Forest, Gloamwood Depths, Ironveil Peak, Graythorne Lake
+Locations Found: Gloamwood Forest, Gloamwood Depths, Ironveil Peak, Graythorne Lake, Steelridge Watch
 
 Spawn Type: Random
 
@@ -61,7 +81,7 @@ Items Received: Various Herbs
 
 Items Received Count Range: 4-12
 
-Locations Found: Gloamwood Forest, Gloamwood Depths, Blackmere, Graythorne Lake
+Locations Found: Gloamwood Forest, Gloamwood Depths, Blackmere, Graythorne Lake, Steelridge Watch
 
 Spawn Type: Random
 
