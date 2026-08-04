@@ -19,13 +19,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Broken windows and faded signage leave the clinic unwelcoming.
+| Rebuilding        | Repairs restore the building while medical supplies slowly return.
+| Recovering        | Bright interiors and repaired rooms improve patient care.
+| Renewed           | The restored clinic feels clean, safe, and comforting.
+| Growing           | Decorative gardens and updated furnishings create a calming atmosphere.
+| Prospering        | Expanded treatment rooms and refined decor improve every visit.
+| Flourishing       | The clinic stands as a beautiful symbol of health and hope.
 
 ---
 
