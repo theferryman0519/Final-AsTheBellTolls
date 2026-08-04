@@ -19,10 +19,10 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Cracked walls and faded sketches leave the studio uninspiring.
+| Rebuilding        | Structural repairs create a solid foundation for new ideas.
+| Recovering        | Bright interiors and restored workspaces inspire creativity again.
+| Renewed           | The studio feels modern, organized, and beautifully designed.
+| Growing           | Decorative models and landscaping showcase architectural talent.
+| Prospering        | Expanded drafting rooms and refined finishes elevate the workspace.
+| Flourishing       | The studio becomes a celebrated center of architectural excellence.
