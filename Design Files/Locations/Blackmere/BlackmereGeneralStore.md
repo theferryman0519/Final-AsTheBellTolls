@@ -35,86 +35,38 @@ Version: 0.0.1
 
 | Item        | Bellnote Amount | Season in Store
 |-------------|-----------------|---|
-| Alfalfa     | 170 Bellnotes   | Spring, Summer, Autumn, Winter
-
-
-Clay
-
-Coal
-
-Fiber
-
-Hay
-
-Moss
-
-Reed
-
-Sand
-
-Sap
-
-Stone
-
-Wild Berries
-
-Wild Mushrooms
-
-Wild Nuts
-
-Wood
-
-Cobalt
-
-Copper
-
-Gold
-
-Iron
-
-Silver
-
-Aster Seeds
-
-Chrysanthemum Seeds
-
-Cyclamen Seeds
-
-Dahlia Seeds
-
-Delphinium Seeds
-
-Forget-Me-Not Seeds
-
-Foxglove Seeds
-
-Goldenrod Seeds
-
-Heather Seeds
-
-Helenium Seeds
-
-Hellebore Seeds
-
-Hepatica Seeds
-
-Hollyhock Seeds
-
-Lily Of The Valley Seeds
-
-Peony Seeds
-
-Poppy Seeds
-
-Primrose Seeds
-
-Sunflower Seeds
-
-Winter Jasmine Seeds
-
-Witch Hazel Seeds
-
-
-Flower Seeds
-Forageables
-Ore
+| Clay     | 70 Bellnotes   | Spring, Summer, Autumn, Winter
+| Coal     | 105 Bellnotes   | Spring, Summer, Autumn, Winter
+| Fiber     | 20 Bellnotes   | Spring, Summer, Autumn, Winter
+| Hay     | 45 Bellnotes   | Spring, Summer, Autumn, Winter
+| Moss     | 25 Bellnotes   | Spring, Summer, Autumn, Winter
+| Reed     | 30 Bellnotes   | Spring, Summer, Autumn, Winter
+| Sand     | 60 Bellnotes   | Spring, Summer, Autumn, Winter
+| Sap     | 35 Bellnotes   | Spring, Summer, Autumn, Winter
+| Stone     | 70 Bellnotes   | Spring, Summer, Autumn, Winter
+| Wood     | 60 Bellnotes   | Spring, Summer, Autumn, Winter
+| Cobalt     | 455 Bellnotes   | Spring, Summer, Autumn, Winter
+| Copper     | 60 Bellnotes   | Spring, Summer, Autumn, Winter
+| Gold     | 320 Bellnotes   | Spring, Summer, Autumn, Winter
+| Iron     | 105 Bellnotes   | Spring, Summer, Autumn, Winter
+| Silver     | 190 Bellnotes   | Spring, Summer, Autumn, Winter
+| Aster Seeds     | 35 Bellnotes   | Autumn
+| Chrysanthemum Seeds     | 90 Bellnotes   | Autumn
+| Cyclamen Seeds     | 120 Bellnotes   | Winter
+| Dahlia Seeds     | 220 Bellnotes   | Autumn
+| Delphinium Seeds     | 170 Bellnotes   | Summer
+| Forget-Me-Not Seeds     | 45 Bellnotes   | Spring
+| Foxglove Seeds     | 205 Bellnotes   | Spring
+| Goldenrod Seeds     | 60 Bellnotes   | Autumn
+| Heather Seeds     | 70 Bellnotes   | Summer
+| Helenium Seeds     | 140 Bellnotes   | Autumn
+| Hellebore Seeds     | 320 Bellnotes   | Winter
+| Hepatica Seeds     | 240 Bellnotes   | Spring
+| Hollyhock Seeds     | 155 Bellnotes   | Summer
+| Lily Of The Valley Seeds     | 355 Bellnotes   | Spring
+| Peony Seeds     | 290 Bellnotes   | Spring
+| Poppy Seeds     | 190 Bellnotes   | Summer
+| Primrose Seeds     | 30 Bellnotes   | Spring
+| Sunflower Seeds     | 390 Bellnotes   | Summer
+| Winter Jasmine Seeds     | 105 Bellnotes   | Winter
+| Witch Hazel Seeds     | 255 Bellnotes   | Winter
