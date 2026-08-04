@@ -45,3 +45,5 @@ Version: 0.0.1
 | Museum Gemstones      | 20
 | Library Books         | 50
 | Record Discs          | 19
+
+Total Item Count: 650
