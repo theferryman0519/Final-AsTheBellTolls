@@ -36,7 +36,7 @@ Version: 0.0.1
 | Drinks                | 41
 | Tonics                | 35
 | Fabrications          | 48
-| Inventions            | TODO
+| Inventions            | 119
 | NPC Friendship Bonds  | 31
 | NPC Connection Bonds  | 31
 | Pendrelle Manor Rooms | 15
