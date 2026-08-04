@@ -18,10 +18,10 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Dusty exhibits and damaged displays leave the museum forgotten.
+| Rebuilding        | Galleries undergo repairs while exhibits are carefully restored.
+| Recovering        | Restored halls begin welcoming visitors again.
+| Renewed           | The museum proudly showcases its collections in pristine condition.
+| Growing           | New displays and decorative lighting enrich every exhibit.
+| Prospering        | Expanded galleries celebrate Blackmere's history and discoveries.
+| Flourishing       | The museum becomes a renowned cultural destination filled with wonder.
