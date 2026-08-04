@@ -66,6 +66,7 @@ Version: 0.0.1
 ### Cobalt Tier
 
 - Cobalt Ore Scanner
+- Manor Audio System
 - Automatic Harvester
 - Cobalt Cultivator
 - Cobalt Reel
