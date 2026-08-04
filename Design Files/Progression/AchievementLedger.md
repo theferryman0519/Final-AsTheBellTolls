@@ -32,10 +32,10 @@ Version: 0.0.1
 | Fish                  | 17
 | Flowers               | 20
 | Crops                 | 31
-| Meals                 | TODO
-| Drinks                | TODO
+| Meals                 | 91
+| Drinks                | 41
 | Tonics                | 35
-| Fabrications          | TODO
+| Fabrications          | 48
 | Inventions            | TODO
 | NPC Friendship Bonds  | 31
 | NPC Connection Bonds  | 31
