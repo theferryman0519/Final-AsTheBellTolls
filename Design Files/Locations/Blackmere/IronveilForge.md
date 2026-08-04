@@ -19,13 +19,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Rusted equipment and soot-covered walls reveal years of neglect.
+| Rebuilding        | New stonework and repaired furnaces bring the forge back to life.
+| Recovering        | The forge operates again with restored equipment and tidy workspaces.
+| Renewed           | Bright fires and polished tools fill the fully restored workshop.
+| Growing           | Decorative ironwork and expanded workstations enhance the forge.
+| Prospering        | Premium equipment and ornate craftsmanship showcase master smithing.
+| Flourishing       | The forge stands as one of the finest workshops in the region.
 
 ---
 
