@@ -41,7 +41,7 @@ Version: 0.0.1
 | NPC Connection Bonds  | 31
 | Pendrelle Manor Rooms | 15
 | Blackmere Buildings   | 21
-| Museum Artifacts      | TODO
+| Museum Artifacts      | 60
 | Museum Gemstones      | 20
-| Library Books         | TODO
+| Library Books         | 50
 | Record Discs          | 19
