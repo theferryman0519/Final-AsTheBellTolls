@@ -19,13 +19,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Weathered fabric displays and faded paint dull the boutique.
+| Rebuilding        | Repairs restore the storefront and sewing rooms.
+| Recovering        | Fresh decor and organized displays welcome shoppers again.
+| Renewed           | The tailor shop feels elegant, colorful, and inviting.
+| Growing           | Decorative awnings and floral displays enhance its charm.
+| Prospering        | Luxurious fabrics and stylish storefront displays attract visitors.
+| Flourishing       | The boutique becomes Blackmere's premier destination for fashion.
 
 ---
 
