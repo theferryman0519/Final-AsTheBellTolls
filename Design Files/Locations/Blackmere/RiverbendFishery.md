@@ -19,13 +19,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Worn docks and damaged nets show years of hardship.
+| Rebuilding        | Piers and fishing equipment are steadily repaired.
+| Recovering        | Restored docks and fresh nets return the fishery to operation.
+| Renewed           | The fishery feels lively with sturdy docks and clean buildings.
+| Growing           | Decorative barrels, flowers, and fresh paint add waterfront charm.
+| Prospering        | Expanded docks and premium equipment support a thriving business.
+| Flourishing       | The vibrant fishery becomes Blackmere's proud riverside centerpiece.
 
 ---
 
