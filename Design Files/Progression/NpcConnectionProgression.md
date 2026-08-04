@@ -61,7 +61,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Felix’s Explorer’s Journal, then return it to Felix.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Explorer’s Journal decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -163,7 +163,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover the Manuscript Archive, then return it to Adrian.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Manuscript Archive decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -197,7 +197,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover the Locked Portfolio, then to Clara.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Draft Portfolio decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -231,7 +231,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover the Gallery Poster, then return it to Dante.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Museum Exhibition Poster decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -265,7 +265,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover the Patched Sketchpad, then return it to Leo.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Designer’s Sketchbook decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -299,7 +299,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Ian Thorne’s Sheriff Badge, then return it to Madison.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Sheriff Badge decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -333,7 +333,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Mara’s First Wooden Sign, then return it to Mara.
 
-**<u>Reward:</u>** 1,500 Bellnotes / First Wooden Sign decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -367,7 +367,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Marcus’s Apprenticeship Letter, then return it to Marcus.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Master Blacksmith’s Letter decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -401,7 +401,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Travel to the forgotten riverbank, recover Nora’s Keepsake Lure, then return it to Nora.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Weathered Fishing Lure decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -435,7 +435,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover the Student Letters, then return them to Sabrina.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Keepsake Letter Box decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -469,7 +469,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Victor’s Travel Bag, then return it to Victor.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Traveler’s Satchel decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -503,7 +503,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Agatha’s Founder’s Journal, then return it to Agatha.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Founder’s Journal decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -537,7 +537,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search Memorial Hill and the surrounding area to recover Beatrice’s Silver Dahlia Brooch, then return it to Beatrice.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Silver Dahlia Brooch decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
@@ -571,7 +571,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Search several locations around Blackmere to recover Claudia’s Keepsake Box, then return it to Claudia.
 
-**<u>Reward:</u>** 1,500 Bellnotes / Family Keepsake Box decor
+**<u>Reward:</u>** 2,500 Bellnotes
 
 ### 6 Key Event
 
