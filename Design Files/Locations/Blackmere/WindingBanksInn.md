@@ -20,13 +20,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Weathered walls and worn furnishings make the inn feel tired.
+| Rebuilding        | Guest rooms and common areas undergo extensive repairs.
+| Recovering        | Cozy interiors and repaired rooms welcome travelers once more.
+| Renewed           | The restored inn feels warm, comfortable, and bustling.
+| Growing           | Decorative gardens and inviting outdoor seating add character.
+| Prospering        | Elegant furnishings and expanded amenities attract more guests.
+| Flourishing       | The flourishing inn becomes Blackmere's most beloved gathering place.
 
 ---
 
