@@ -19,13 +19,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Weathered walls and empty shelves reflect difficult times.
+| Rebuilding        | Repairs restore the storefront while supplies slowly return.
+| Recovering        | Fresh paint and stocked shelves welcome customers again.
+| Renewed           | The fully restored shop feels warm, bright, and inviting.
+| Growing           | Decorative displays and flower boxes give the store extra charm.
+| Prospering        | Expanded displays and premium decor create a thriving marketplace.
+| Flourishing       | The bustling general store becomes the heart of daily commerce.
 
 ---
 
