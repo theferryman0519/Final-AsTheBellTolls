@@ -18,13 +18,13 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Flood-stained stonework and boarded windows leave the bank looking abandoned.
+| Rebuilding        | Fresh masonry and scaffolding surround ongoing repairs.
+| Recovering        | Clean stone and repaired windows restore the bank's dignity.
+| Renewed           | The bank stands polished with restored brass details and neat landscaping.
+| Growing           | Decorative planters and refined trim give the bank a welcoming elegance.
+| Prospering        | Premium stonework and ornate lighting reflect the town's growing wealth.
+| Flourishing       | The bank serves as a prestigious landmark with immaculate grounds and grand architecture.
 
 ---
 
