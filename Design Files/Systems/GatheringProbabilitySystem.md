@@ -9,6 +9,7 @@ Version: 0.0.1
 
 ## Base Information
 
+- Flower Deposit holds Various Flowers.
 - Gemstone Deposit holds Stone, Clay, Coal, Various Gemstones.
 - Grass holds Fiber, Hay, Moss, Silk.
 - Herb Bush holds Various Herbs.
@@ -24,6 +25,46 @@ Version: 0.0.1
 ## Probability Breakdowns
 
 *Note: Buff for shifting the probability is Gathering Type.*
+
+### Flower Deposit - Spring
+
+| Item Gathered | Base Probability | Buffed Probability
+|-----------------------|------------------|---|
+| Forget-Me-Not         | 17%              | 17%
+| Foxglove              | 17%              | 17%
+| Hepatica              | 16%              | 17%
+| Lily of the Valley    | 17%              | 16%
+| Peony                 | 16%              | 17%
+| Primrose              | 17%              | 16%
+
+### Flower Deposit - Summer
+
+| Item Gathered | Base Probability | Buffed Probability
+|--------------------|------------------|---|
+| Delphinium         | 20%              | 20%
+| Heather            | 20%              | 20%
+| Hollyhock          | 20%              | 20%
+| Poppy              | 20%              | 20%
+| Sunflower          | 20%              | 20%
+
+### Flower Deposit - Autumn
+
+| Item Gathered | Base Probability | Buffed Probability
+|-----------------------|------------------|---|
+| Aster                 | 20%              | 20%
+| Chrysanthemum         | 20%              | 20%
+| Dahlia                | 20%              | 20%
+| Goldenrod             | 20%              | 20%
+| Helenium              | 20%              | 20%
+
+### Flower Deposit - Winter
+
+| Item Gathered | Base Probability | Buffed Probability
+|-----------------------|------------------|---|
+| Cyclamen              | 25%              | 25%
+| Hellebore             | 25%              | 25%
+| Winter Jasmine        | 25%              | 25%
+| Witch Hazel           | 25%              | 25%
 
 ### Gemstone Deposit - Amber
 
