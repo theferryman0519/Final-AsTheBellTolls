@@ -44,3 +44,4 @@ Version: 0.0.1
 | Museum Artifacts      | TODO
 | Museum Gemstones      | 20
 | Library Books         | TODO
+| Record Discs          | 17
