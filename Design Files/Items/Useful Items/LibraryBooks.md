@@ -726,3 +726,181 @@ Text: Some stories are only written after someone chooses to live them.
 Title: The Book That Shouldn't Exist
 
 ---
+
+## Book 41
+
+Author: Helen Holt
+
+Category: NPC Journals & Letters
+
+Display Name: Helen's Shopping List
+
+ID: item_useful_helens-shopping-list
+
+Short Description: A neatly organized grocery list with personal notes.
+
+Text: Remember to buy fresh herbs for Sabrina. She always smiles when lavender is in the house. Marcus says iron is more exciting than flowers, though I cannot imagine why anyone would think that.
+
+Title: Helen's Shopping List
+
+---
+
+## Book 42
+
+Author: Victor Cross
+
+Category: NPC Journals & Letters
+
+Display Name: Trader's Customer Ledger
+
+ID: item_useful_traders-customer-ledger
+
+Short Description: Notes about memorable customers.
+
+Text: Clara inspected every gemstone before buying a single one. Leo spent twice as long choosing ribbon colors as he did paying. Never offer Marcus decorative cushions. I learned that lesson exactly once.
+
+Title: Trader's Customer Ledger
+
+---
+
+## Book 43
+
+Author: Nora Reed
+
+Category: NPC Journals & Letters
+
+Display Name: Riverbank Scribbles
+
+ID: item_useful_riverbank-scribbles
+
+Short Description: A page tucked inside an old fishing journal.
+
+Text: Caught enough fish for supper. Adrian wandered by with peppermint tea again. Nice fellow. Fish don't seem to like peppermint much, but Adrian certainly does.
+
+Title: Riverbank Scribbles
+
+---
+
+## Book 44
+
+Author: Frederick Holt
+
+Category: NPC Journals & Letters
+
+Display Name: Inn Guest Preferences
+
+ID: item_useful_inn-guest-preferences
+
+Short Description: Notes to help remember returning guests.
+
+Text: Mara always asks for hearty portions after work. Dante forgets to eat unless reminded. Felix can be convinced to finish dessert if strawberries are involved.
+
+Title: Inn Guest Preferences
+
+---
+
+## Book 45
+
+Author: Claudia Mercer
+
+Category: NPC Journals & Letters
+
+Display Name: A Note for Kira
+
+ID: item_useful_note-for-kira
+
+Short Description: A folded note left on a workbench.
+
+Text: If you visit Victor today, don't let him talk you into buying shiny trinkets again. If you really want to make Clara smile, save your Bells for a nice emerald instead.
+
+Title: A Note for Kira
+
+---
+
+## Book 46
+
+Author: Sabrina Fairchild
+
+Category: NPC Journals & Letters
+
+Display Name: Classroom Rewards
+
+ID: item_useful_classroom-rewards
+
+Short Description: Ideas for encouraging good behavior.
+
+Text: Gold stars work well. Fresh flowers work even better. Anya carefully pressed every Forget-Me-Not she found into her notebook today. I think she treasures them more than anyone realizes.
+
+Title: Classroom Rewards
+
+---
+
+## Book 47
+
+Author: Leo Finch
+
+Category: NPC Journals & Letters
+
+Display Name: Fabric Samples
+
+ID: item_useful_fabric-samples
+
+Short Description: Swatches pinned beside handwritten notes.
+
+Text: Coral pairs beautifully with lavender. Whoever keeps bringing me rough chunks of ore clearly doesn't understand tailoring. Marcus would probably appreciate them far more than I do.
+
+Title: Fabric Samples
+
+---
+
+## Book 48
+
+Author: Marcus Rowan
+
+Category: NPC Journals & Letters
+
+Display Name: Forge Deliveries
+
+ID: item_useful_forge-deliveries
+
+Short Description: Records of incoming materials.
+
+Text: Copper delivery arrived late. Iron arrived on time. Someone left flowers on the anvil again. Appreciated the thought, but I'd rather have another shipment of quality metal.
+
+Title: Forge Deliveries
+
+---
+
+## Book 49
+
+Author: Edward Ashcroft
+
+Category: NPC Journals & Letters
+
+Display Name: Manor Birthday Notes
+
+ID: item_useful_manor-birthday-notes
+
+Short Description: Edward's reminders for special occasions.
+
+Text: Miss Sabrina always appreciates thoughtful bouquets. Mr. Adrian is happiest with peppermint. Young Milo can rarely resist honey. It costs very little to remember what brings joy to others.
+
+Title: Manor Birthday Notes
+
+---
+
+## Book 50
+
+Author: Unknown
+
+Category: NPC Journals & Letters
+
+Display Name: A Letter Never Sent
+
+ID: item_useful_letter-never-sent
+
+Short Description: An unfinished letter found between library shelves.
+
+Text: I spent years trying to impress people with expensive presents, only to discover that the gifts they cherished most were the ones chosen with care. Learn what someone loves, and you'll never struggle to find the right gift again.
+
+Title: A Letter Never Sent
