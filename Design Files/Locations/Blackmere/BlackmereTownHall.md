@@ -18,10 +18,10 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Cracked stone and faded banners leave the town hall neglected.
+| Rebuilding        | Structural repairs and fresh stonework restore its foundation.
+| Recovering        | New windows and cleaned walls return civic pride.
+| Renewed           | The town hall stands fully restored with polished architecture.
+| Growing           | Decorative landscaping and banners celebrate Blackmere's recovery.
+| Prospering        | Elegant stone accents and vibrant gardens elevate its appearance.
+| Flourishing       | The grand town hall symbolizes the town's complete renewal.
