@@ -9,7 +9,7 @@ Version: 0.0.1
 
 ## Information
 
-- Location for player to shop for decorations and furniture.
+- Location for player to shop for fabricated items.
 - Residence for Mara Klein.
 - Located in Town Square District.
 
@@ -19,18 +19,18 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Damaged beams and broken lumber piles clutter the workshop.
+| Rebuilding        | Fresh timber repairs strengthen the aging building.
+| Recovering        | Organized work areas and repaired walls restore production.
+| Renewed           | The workshop feels warm, sturdy, and beautifully handcrafted.
+| Growing           | Decorative carvings and tidy lumber yards reflect growing success.
+| Prospering        | Expanded facilities and elegant woodworking displays impress visitors.
+| Flourishing       | The workshop becomes a showcase of exceptional craftsmanship.
 
 ---
 
 ## Shop Items
 
-*TODO: Add in all decor and furniture items when complete.*
+*TODO: Add in all fabricated items when complete.*
 
 *Note: A rotation of 16 items are visible at once when shopping.*
