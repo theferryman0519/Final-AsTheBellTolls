@@ -510,7 +510,7 @@ The various songs of the soundtrack include:
 
 **<u>Spring Themes</u>** - *After the High Water* / *First Sprouts*
 
-**<u>Summer Themes</u>** - *Along the Southern Shore* / *Amber Waters*
+**<u>Summer Themes</u>** - *Along the River Shore* / *Amber Waters*
 
 **<u>Autumn Themes</u>** - *Measure of the Harvest* / *Lantern Lights & Falling Leaves*
 
