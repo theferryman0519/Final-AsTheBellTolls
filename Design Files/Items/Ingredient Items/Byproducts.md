@@ -23,7 +23,7 @@ Growth Duration: None
 
 ID: item_ingredient_chicken-egg
 
-Location Sold: Mercer Farms
+Location Sold: None
 
 Purchase Price: 100 Bellnotes
 
@@ -61,7 +61,7 @@ Growth Duration: None
 
 ID: item_ingredient_cow-milk
 
-Location Sold: Mercer Farms
+Location Sold: None
 
 Purchase Price: 150 Bellnotes
 
@@ -99,7 +99,7 @@ Growth Duration: None
 
 ID: item_ingredient_duck-egg
 
-Location Sold: Mercer Farms
+Location Sold: None
 
 Purchase Price: 130 Bellnotes
 
@@ -175,7 +175,7 @@ Growth Duration: None
 
 ID: item_ingredient_goat-milk
 
-Location Sold: Mercer Farms
+Location Sold: None
 
 Purchase Price: 200 Bellnotes
 
@@ -289,7 +289,7 @@ Growth Duration: None
 
 ID: item_ingredient_honey
 
-Location Sold: Mercer Farms
+Location Sold: None
 
 Purchase Price: 180 Bellnotes
 
@@ -365,7 +365,7 @@ Growth Duration: None
 
 ID: item_ingredient_sheep-wool
 
-Location Sold: Mercer Farms
+Location Sold: None
 
 Purchase Price: 220 Bellnotes
 
