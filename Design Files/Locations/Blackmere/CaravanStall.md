@@ -19,10 +19,10 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | A worn canopy and sparse goods reflect struggling trade.
+| Rebuilding        | A sturdier stall and new stock slowly return.
+| Recovering        | Bright displays and organized merchandise attract customers again.
+| Renewed           | The restored stall feels colorful, welcoming, and well-stocked.
+| Growing           | Decorative banners and upgraded displays enhance its charm.
+| Prospering        | Premium goods and expanded displays draw shoppers from afar.
+| Flourishing       | The bustling market stall becomes one of the town's favorite attractions.
