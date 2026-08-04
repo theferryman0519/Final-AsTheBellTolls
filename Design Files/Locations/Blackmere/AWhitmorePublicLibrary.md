@@ -18,10 +18,10 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | Dusty shelves and damaged books leave the library quiet.
+| Rebuilding        | Shelving and reading areas are carefully restored.
+| Recovering        | Bright reading rooms and repaired collections reopen to the public.
+| Renewed           | The library feels peaceful, organized, and welcoming.
+| Growing           | Decorative reading nooks and gardens encourage visitors to linger.
+| Prospering        | Expanded collections and refined interiors enrich the experience.
+| Flourishing       | The library becomes a treasured sanctuary of knowledge.
