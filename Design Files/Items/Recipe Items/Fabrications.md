@@ -21,7 +21,7 @@ ID: item_recipe_adhesive-paste
 
 Items Needed: Sap (3), Moss (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -45,7 +45,7 @@ ID: item_recipe_arc-tube
 
 Items Needed: Glass Tube (1), Copper Wiring (2), Conductor Coil (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -69,7 +69,7 @@ ID: item_recipe_brush-fibers
 
 Items Needed: Fiber (4), Horse Hair (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -93,7 +93,7 @@ ID: item_recipe_canvas
 
 Items Needed: Fiber (5), Rope (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -117,7 +117,7 @@ ID: item_recipe_ceramic-casing
 
 Items Needed: Clay (4), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -141,7 +141,7 @@ ID: item_recipe_clockwork-spring
 
 Items Needed: Iron Ingot (2), Metal Bearings (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -165,7 +165,7 @@ ID: item_recipe_cloth
 
 Items Needed: Fiber (4), Sheep Wool (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -189,7 +189,7 @@ ID: item_recipe_cobalt-core
 
 Items Needed: Cobalt Ingot (2), Copper Wiring (2), Energy Conduit (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -213,7 +213,7 @@ ID: item_recipe_cobalt-ingot
 
 Items Needed: Cobalt Ore (5), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -237,7 +237,7 @@ ID: item_recipe_cog-wheel
 
 Items Needed: Copper Ingot (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -261,7 +261,7 @@ ID: item_recipe_concave-lens
 
 Items Needed: Glass Panel (1), Sand (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -285,7 +285,7 @@ ID: item_recipe_conductor-coil
 
 Items Needed: Copper Wiring (3), Iron Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -309,7 +309,7 @@ ID: item_recipe_convex-lens
 
 Items Needed: Glass Panel (1), Sand (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -333,7 +333,7 @@ ID: item_recipe_copper-ingot
 
 Items Needed: Copper Ore (5), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -357,7 +357,7 @@ ID: item_recipe_copper-pipe
 
 Items Needed: Copper Ingot (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -381,7 +381,7 @@ ID: item_recipe_copper-wiring
 
 Items Needed: Copper Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -405,7 +405,7 @@ ID: item_recipe_energy-conduit
 
 Items Needed: Copper Wiring (3), Insulated Padding (1), Metal Plate (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -429,7 +429,7 @@ ID: item_recipe_filter-mesh
 
 Items Needed: Gold Ingot (1), Fiber (3)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -453,7 +453,7 @@ ID: item_recipe_flask
 
 Items Needed: Glass Tube (1), Glass Panel (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -477,7 +477,7 @@ ID: item_recipe_foundation-slab
 
 Items Needed: Stone Brick (4), Masonry Tile (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -501,7 +501,7 @@ ID: item_recipe_gear-assembly
 
 Items Needed: Cog Wheel (2), Metal Bearings (1), Nuts & Bolts (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -525,7 +525,7 @@ ID: item_recipe_glass-bulb
 
 Items Needed: Glass Panel (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -549,7 +549,7 @@ ID: item_recipe_glass-panel
 
 Items Needed: Sand (5), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -573,7 +573,7 @@ ID: item_recipe_glass-tube
 
 Items Needed: Sand (4), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -597,7 +597,7 @@ ID: item_recipe_gold-ingot
 
 Items Needed: Gold Ore (5), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -621,7 +621,7 @@ ID: item_recipe_hinges
 
 Items Needed: Iron Ingot (1), Nuts & Bolts (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -645,7 +645,7 @@ ID: item_recipe_insulated-padding
 
 Items Needed: Cloth (2), Moss (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -669,7 +669,7 @@ ID: item_recipe_iron-ingot
 
 Items Needed: Iron Ore (5), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -693,7 +693,7 @@ ID: item_recipe_iron-pipe
 
 Items Needed: Iron Ingot (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -717,7 +717,7 @@ ID: item_recipe_masonry-tile
 
 Items Needed: Stone Brick (2), Clay (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -741,7 +741,7 @@ ID: item_recipe_metal-bearings
 
 Items Needed: Copper Ingot (1), Iron Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -765,7 +765,7 @@ ID: item_recipe_metal-plate
 
 Items Needed: Iron Ingot (1), Gold Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -789,7 +789,7 @@ ID: item_recipe_nuts-and-bolts
 
 Items Needed: Iron Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -813,7 +813,7 @@ ID: item_recipe_precision-gears
 
 Items Needed: Cog Wheel (2), Metal Bearings (2), Clockwork Spring (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -837,7 +837,7 @@ ID: item_recipe_pressure-valve
 
 Items Needed: Gold Ingot (1), Metal Bearings (1), Nuts & Bolts (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -861,7 +861,7 @@ ID: item_recipe_reinforced-glass
 
 Items Needed: Glass Panel (2), Iron Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -885,7 +885,7 @@ ID: item_recipe_reinforced-plate
 
 Items Needed: Metal Plate (2), Iron Ingot (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -909,7 +909,7 @@ ID: item_recipe_resin
 
 Items Needed: Sap (3), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -933,7 +933,7 @@ ID: item_recipe_rope
 
 Items Needed: Fiber (5)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -957,7 +957,7 @@ ID: item_recipe_silk-cloth
 
 Items Needed: Silk (3), Cloth (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -981,7 +981,7 @@ ID: item_recipe_silver-ingot
 
 Items Needed: Silver Ore (5), Coal (1)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1005,7 +1005,7 @@ ID: item_recipe_smoke-filter
 
 Items Needed: Filter Mesh (1), Cloth (2), Coal (5)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1029,7 +1029,7 @@ ID: item_recipe_steel-pipe
 
 Items Needed: Iron Ingot (2), Copper Ingot (2), Coal (5)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1053,7 +1053,7 @@ ID: item_recipe_stone-brick
 
 Items Needed: Stone (5)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1077,7 +1077,7 @@ ID: item_recipe_support-frame
 
 Items Needed: Wood Beam (4), Metal Plate (2), Nuts & Bolts (4)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1101,7 +1101,7 @@ ID: item_recipe_thermal-insulation
 
 Items Needed: Moss (2), Cloth (2), Goose Down (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1125,7 +1125,7 @@ ID: item_recipe_waterproof-sealant
 
 Items Needed: Resin (1), Adhesive Paste (2)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 
@@ -1149,7 +1149,7 @@ ID: item_recipe_wood-beam
 
 Items Needed: Wood (5)
 
-Location Sold: Blackmere General Store
+Location Sold: None
 
 Place Made: Laboratory (Workbench)
 

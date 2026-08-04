@@ -23,7 +23,7 @@ Growth Duration: None
 
 ID: item_ingredient_cobalt-ore
 
-Location Sold: Ironveil Forge
+Location Sold: Blackmere General Store
 
 Purchase Price: 455 Bellnotes
 
@@ -61,7 +61,7 @@ Growth Duration: None
 
 ID: item_ingredient_copper-ore
 
-Location Sold: Ironveil Forge
+Location Sold: Blackmere General Store
 
 Purchase Price: 60 Bellnotes
 
@@ -99,7 +99,7 @@ Growth Duration: None
 
 ID: item_ingredient_gold-ore
 
-Location Sold: Ironveil Forge
+Location Sold: Blackmere General Store
 
 Purchase Price: 320 Bellnotes
 
@@ -137,7 +137,7 @@ Growth Duration: None
 
 ID: item_ingredient_iron-ore
 
-Location Sold: Ironveil Forge
+Location Sold: Blackmere General Store
 
 Purchase Price: 105 Bellnotes
 
@@ -175,7 +175,7 @@ Growth Duration: None
 
 ID: item_ingredient_silver-or
 
-Location Sold: Ironveil Forge
+Location Sold: Blackmere General Store
 
 Purchase Price: 190 Bellnotes
 

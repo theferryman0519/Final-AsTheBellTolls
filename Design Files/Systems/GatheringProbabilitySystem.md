@@ -28,20 +28,20 @@ Version: 0.0.1
 ### Gemstone Deposit - Amber
 
 | Item Gathered | Base Probability | Buffed Probability
-|---|---|---|
-| Stone | 30% | 10%
-| Clay | 25% | 25%
-| Coal | 25% | 25%
-| Amber | 20% | 40%
+|---------------|------------------|---|
+| Stone         | 30%              | 10%
+| Clay          | 25%              | 25%
+| Coal          | 25%              | 25%
+| Amber         | 20%              | 40%
 
 ### Gemstone Deposit - Amethyst
 
 | Item Gathered | Base Probability | Buffed Probability
-|---|---|---|
-| Stone | 30% | 10%
-| Clay | 25% | 25%
-| Coal | 25% | 25%
-| Amethyst | 20% | 40%
+|---------------|------------------|---|
+| Stone         | 30%              | 10%
+| Clay          | 25%              | 25%
+| Coal          | 25%              | 25%
+| Amethyst      | 20%              | 40%
 
 ### Gemstone Deposit - Aquamarine
 
