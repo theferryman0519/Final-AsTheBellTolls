@@ -18,10 +18,10 @@ Version: 0.0.1
 
 | Restoration Stage | Appearance
 |-------------------|---|
-| Weathered         | xx
-| Rebuilding        | xx
-| Recovering        | xx
-| Renewed           | xx
-| Growing           | xx
-| Prospering        | xx
-| Flourishing       | xx
+| Weathered         | The bell tower is cracked, weathered, and partially silent.
+| Rebuilding        | Damaged stone and the bell mechanism are actively being repaired.
+| Recovering        | The structure is stabilized and the bell rings once again.
+| Renewed           | The restored tower proudly overlooks the town with renewed strength.
+| Growing           | Decorative banners and landscaping brighten the historic landmark.
+| Prospering        | Elegant stonework and lighting make it a centerpiece of the square.
+| Flourishing       | The magnificent bell tower becomes the iconic symbol of Blackmere.
