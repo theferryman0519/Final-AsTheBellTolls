@@ -7,188 +7,178 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-8
-- Apiary Enlarger
-- Silver Ore Scanner
-- Cardle Enlarger
-- Silver Cultivator
-- Silver Reel
-- Harvest Multiplier
-- Silver Husbandry Kit
-- Silver Flask
+## Apiary Enlarger
 
-## Invention
+Crafting & Testing Duration: 11 Hours
 
-Carfting & Testing Duration: xx
+Display Name: Apiary Enlarger
 
-Display Name: xx
+Gemstone Needed: Aquamarine
 
-Gemstone Needed: xx
+Grand Showcase Score Range: 6.3 to 7.8
 
-Grand Showcase Score Range: xx
-
-ID: invention_
+ID: invention_apiary-enlarger
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Wood Beam (6), Waterproof Sealant (4), Reinforced Glass (3), Steel Pipe (2)
 
-Short Description: xx
+Short Description: A major structural expansion that transforms the apiary into a thriving multi-chamber hive capable of supporting a flourishing bee colony.
 
-Usage: xx
+Usage: Apiary can now hold a maximum of 15 bees
 
 ---
 
-## Invention
+## Silver Ore Scanner
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 11 Hours
 
-Display Name: xx
+Display Name: Silver Ore Scanner
 
-Gemstone Needed: xx
+Gemstone Needed: Aquamarine
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 6.5 to 8.0
 
-ID: invention_
+ID: invention_silver-ore-scanner
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Arc Tube (2), Reinforced Glass (3), Glass Bulb (2), Glass Panel (3), Copper Wiring (4)
 
-Short Description: xx
+Short Description: An advanced geological scanner capable of locating valuable silver deposits deep beneath the surface.
 
-Usage: xx
+Usage: Silver ore deposits are now more common in the overworld
 
 ---
 
-## Invention
+## Cradle Enlarger
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 12 Hours
 
-Display Name: xx
+Display Name: Cradle Enlarger
 
-Gemstone Needed: xx
+Gemstone Needed: Onyx
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 6.7 to 8.2
 
-ID: invention_
+ID: invention_cradle-enlarger
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Canvas (4), Waterproof Sealant (4), Reinforced Glass (3), Steel Pipe (2)
 
-Short Description: xx
+Short Description: A spacious climate-controlled enclosure that allows a much larger silkworm colony to thrive comfortably.
 
-Usage: xx
+Usage: Weaver Cradle can now hold a maximum of 15 silkworms
 
 ---
 
-## Invention
+## Silver Cultivator
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 12 Hours
 
-Display Name: xx
+Display Name: Silver Cultivator
 
-Gemstone Needed: xx
+Gemstone Needed: Onyx
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 6.9 to 8.4
 
-ID: invention_
+ID: invention_silver-cultivator
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Silver Ingot (3), Steel Pipe (3), Clockwork Spring (2), Hinges (3), Reinforced Glass (2)
 
-Short Description: xx
+Short Description: A precision agricultural attachment engineered to consistently produce Silver-quality crops and flowers.
 
-Usage: xx
+Usage: Crops and flowers harvested at the Manor are at Silver quality
 
 ---
 
-## Invention
+## Silver Reel
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 13 Hours
 
-Display Name: xx
+Display Name: Silver Reel
 
-Gemstone Needed: xx
+Gemstone Needed: Turquoise
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 7.1 to 8.6
 
-ID: invention_
+ID: invention_silver-reel
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Silver Ingot (3), Clockwork Spring (2), Steel Pipe (2), Hinges (3), Brush Fibers (3)
 
-Short Description: xx
+Short Description: A beautifully balanced reel that dramatically improves control while consistently catching Silver-quality fish.
 
-Usage: xx
+Usage: Fish gathered while fishing are caught at Silver quality
 
 ---
 
-## Invention
+## Harvest Multiplier
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 13 Hours
 
-Display Name: xx
+Display Name: Harvest Multiplier
 
-Gemstone Needed: xx
+Gemstone Needed: Turquoise
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 7.3 to 8.8
 
-ID: invention_
+ID: invention_harvest-multiplier
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Silver Ingot (3), Steel Pipe (3), Clockwork Spring (2), Hinges (3), Waterproof Sealant (3), Reinforced Glass (2)
 
-Short Description: xx
+Short Description: An ingenious cultivation system that encourages healthier plants capable of producing additional harvests.
 
-Usage: xx
+Usage: Crops and flowers harvested at the Manor are doubled in amount gathered
 
 ---
 
-## Invention
+## Silver Husbandry Kit
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 13 Hours
 
-Display Name: xx
+Display Name: Silver Husbandry Kit
 
-Gemstone Needed: xx
+Gemstone Needed: Opal
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 7.5 to 9.0
 
-ID: invention_
+ID: invention_silver-husbandry-kit
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Silver Ingot (2), Steel Pipe (2), Thermal Insulation (2), Brush Fibers (4), Waterproof Sealant (2), Hinges (3)
 
-Short Description: xx
+Short Description: A highly refined collection of ranching equipment that consistently produces Silver-quality animal byproducts.
 
-Usage: xx
+Usage: Animal byproducts are now collected at Silver quality
 
 ---
 
-## Invention
+## Silver Flask
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 13 Hours
 
-Display Name: xx
+Display Name: Silver Flask
 
-Gemstone Needed: xx
+Gemstone Needed: Opal
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 7.7 to 9.2
 
-ID: invention_
+ID: invention_silver-flask
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Flask (2), Silver Ingot (2), Reinforced Glass (3), Thermal Insulation (2), Waterproof Sealant (2), Glass Tube (2)
 
-Short Description: xx
+Short Description: A masterfully engineered alchemical vessel capable of brewing tonics with remarkable purity and Silver-quality results.
 
-Usage: xx
+Usage: All tonics are crafted at Silver quality
 
 ---
