@@ -179,7 +179,7 @@ First Available Date: Day 1 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Soup Warming Kettle, Multi-Pot Cooking Range, Master Chef's Workstation
 
 Marriage Candidate: No
 
