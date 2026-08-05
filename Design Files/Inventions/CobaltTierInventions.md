@@ -7,188 +7,178 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-8
-- Cobalt Ore Scanner
-- Manor Audio System
-- Automatic Harvester
-- Cobalt Cultivator
-- Cobalt Reel
-- Automatic Distiller
-- Cobalt Husbandry Kit
-- Cobalt Flask
+## Cobalt Ore Scanner
 
-## Invention
+Crafting & Testing Duration: 17 Hours
 
-Carfting & Testing Duration: xx
+Display Name: Cobalt Ore Scanner
 
-Display Name: xx
+Gemstone Needed: Sapphire
 
-Gemstone Needed: xx
+Grand Showcase Score Range: 8.8 to 10.0
 
-Grand Showcase Score Range: xx
-
-ID: invention_
+ID: invention_cobalt-ore-scanner
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Arc Tube (4), Reinforced Glass (4), Glass Bulb (4), Energy Conduit (3), Precision Gears (2)
 
-Short Description: xx
+Short Description: The finest geological scanner ever constructed, capable of locating the rarest cobalt deposits hidden deep underground.
 
-Usage: xx
+Usage: Cobalt ore deposits are now more common in the overworld
 
 ---
 
-## Invention
+## Manor Audio System
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 17 Hours
 
-Display Name: xx
+Display Name: Manor Audio System
 
-Gemstone Needed: xx
+Gemstone Needed: Sapphire
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.9 to 10.0
 
-ID: invention_
+ID: invention_manor-audio-system
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Core (2), Energy Conduit (3), Precision Gears (2), Reinforced Plate (2), Glass Bulb (4)
 
-Short Description: xx
+Short Description: An elegant sound system that fills Pendrelle Manor with music selected from collected record discs.
 
-Usage: xx
+Usage: Record discs are able to be played for control over which songs are played
 
 ---
 
-## Invention
+## Automatic Harvester
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 18 Hours
 
-Display Name: xx
+Display Name: Automatic Harvester
 
-Gemstone Needed: xx
+Gemstone Needed: Diamond
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 9.0 to 10.0
 
-ID: invention_
+ID: invention_automatic-harvester
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Core (2), Precision Gears (3), Support Frame (2), Reinforced Plate (3), Pressure Valve (3)
 
-Short Description: xx
+Short Description: A fully autonomous harvesting machine that gathers mature crops and stores them without player intervention.
 
-Usage: xx
+Usage: Crops are automatically harvested and added to the Pantry
 
 ---
 
-## Invention
+## Cobalt Cultivator
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 18 Hours
 
-Display Name: xx
+Display Name: Cobalt Cultivator
 
-Gemstone Needed: xx
+Gemstone Needed: Diamond
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 9.1 to 10.0
 
-ID: invention_
+ID: invention_cobalt-cultivator
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Ingot (4), Cobalt Core (2), Precision Gears (3), Support Frame (2), Pressure Valve (3)
 
-Short Description: xx
+Short Description: The pinnacle of agricultural engineering, producing flawless Cobalt-quality crops and flowers every harvest.
 
-Usage: xx
+Usage: Crops and flowers harvested at the Manor are at Cobalt quality
 
 ---
 
-## Invention
+## Cobalt Reel
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 18 Hours
 
-Display Name: xx
+Display Name: Cobalt Reel
 
-Gemstone Needed: xx
+Gemstone Needed: Diamond
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 9.2 to 10.0
 
-ID: invention_
+ID: invention_cobalt-reel
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Ingot (4), Cobalt Core (2), Precision Gears (3), Reinforced Plate (2), Clockwork Spring (3)
 
-Short Description: xx
+Short Description: The ultimate fishing reel, engineered for unparalleled precision and flawless Cobalt-quality catches.
 
-Usage: xx
+Usage: Fish gathered while fishing are caught at Cobalt quality
 
 ---
 
-## Invention
+## Automatic Distiller
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 18 Hours
 
-Display Name: xx
+Display Name: Automatic Distiller
 
-Gemstone Needed: xx
+Gemstone Needed: Diamond
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 9.3 to 10.0
 
-ID: invention_
+ID: invention_automatic-distiller
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Core (2), Filter Mesh (3), Pressure Valve (3), Energy Conduit (3), Reinforced Glass (4)
 
-Short Description: xx
+Short Description: A sophisticated distillation system capable of brewing tonics automatically with unmatched consistency.
 
-Usage: xx
+Usage: Tonic can be automatically crafted, bypassing the minigame
 
 ---
 
-## Invention
+## Cobalt Husbandry Kit
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 18 Hours
 
-Display Name: xx
+Display Name: Cobalt Husbandry Kit
 
-Gemstone Needed: xx
+Gemstone Needed: Diamond
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 9.4 to 10.0
 
-ID: invention_
+ID: invention_cobalt-husbandry-kit
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Core (2), Support Frame (2), Precision Gears (3), Reinforced Plate (3), Thermal Insulation (3), Brush Fibers (5)
 
-Short Description: xx
+Short Description: The ultimate livestock management system, producing consistently flawless Cobalt-quality animal byproducts.
 
-Usage: xx
+Usage: Animal byproducts are now collected at Cobalt quality
 
 ---
 
-## Invention
+## Cobalt Flask
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 18 Hours
 
-Display Name: xx
+Display Name: Cobalt Flask
 
-Gemstone Needed: xx
+Gemstone Needed: Diamond
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 9.5 to 10.0
 
-ID: invention_
+ID: invention_cobalt-flask
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Cobalt Core (2), Cobalt Ingot (3), Filter Mesh (3), Pressure Valve (3), Reinforced Glass (4), Flask (3)
 
-Short Description: xx
+Short Description: The greatest alchemical vessel ever designed, capable of producing flawless Cobalt-quality tonics with extraordinary purity.
 
-Usage: xx
+Usage: All tonics are crafted at Cobalt quality
 
 ---
