@@ -179,7 +179,7 @@ First Available Date: Day 1 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Supply Crate Organizer, Mechanical Warehouse Rack, Warehouse Control System
 
 Marriage Candidate: No
 
