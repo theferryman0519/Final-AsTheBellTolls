@@ -7,188 +7,178 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-8
-- Gem Detector
-- Gold Ore Scanner
-- Automatic Reel
-- Gold Cultivator
-- Gold Reel
-- Overhead Sprinkler System
-- Gold Husbandry Kit
-- Gold Flask
+## Gem Detector
 
-## Invention
+Crafting & Testing Duration: 14 Hours
 
-Carfting & Testing Duration: xx
+Display Name: Gem Detector
 
-Display Name: xx
+Gemstone Needed: Amethyst
 
-Gemstone Needed: xx
+Grand Showcase Score Range: 8.0 to 9.5
 
-Grand Showcase Score Range: xx
-
-ID: invention_
+ID: invention_gem-detector
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Arc Tube (2), Reinforced Glass (3), Glass Bulb (3), Copper Wiring (4), Clockwork Spring (2)
 
-Short Description: xx
+Short Description: An advanced resonance detector capable of identifying valuable gemstones hidden deep within mineral deposits.
 
-Usage: xx
+Usage: Gems gathered from deposits now double in the amount acquired
 
 ---
 
-## Invention
+## Gold Ore Scanner
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Gold Ore Scanner
 
-Gemstone Needed: xx
+Gemstone Needed: Amethyst
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.2 to 9.7
 
-ID: invention_
+ID: invention_gold-ore-scanner
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Arc Tube (3), Reinforced Glass (3), Glass Bulb (3), Copper Wiring (4), Clockwork Spring (2)
 
-Short Description: xx
+Short Description: A highly sensitive geological scanner engineered to detect hidden gold deposits with remarkable accuracy.
 
-Usage: xx
+Usage: Gold ore deposits are now more common in the overworld
 
 ---
 
-## Invention
+## Automatic Reel
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Automatic Reel
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.4 to 9.9
 
-ID: invention_
+ID: invention_automatic-reel
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Precision Gears (2), Clockwork Spring (3), Pressure Valve (2), Reinforced Plate (2), Support Frame (1)
 
-Short Description: xx
+Short Description: An ingenious self-operating fishing mechanism capable of landing catches without manual reeling.
 
-Usage: xx
+Usage: Fish can be automatically caught, bypassing the minigame
 
 ---
 
-## Invention
+## Gold Cultivator
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Gold Cultivator
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_gold-cultivator
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Gold Ingot (4), Precision Gears (2), Pressure Valve (2), Reinforced Plate (2), Support Frame (1)
 
-Short Description: xx
+Short Description: A masterfully engineered cultivation attachment capable of consistently producing Gold-quality crops and flowers.
 
-Usage: xx
+Usage: Crops and flowers harvested at the Manor are at Gold quality
 
 ---
 
-## Invention
+## Gold Reel
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Gold Reel
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_gold-reel
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Gold Ingot (4), Precision Gears (2), Clockwork Spring (3), Reinforced Plate (2), Support Frame (1)
 
-Short Description: xx
+Short Description: A premium fishing reel built with extraordinary precision, producing Gold-quality catches with exceptional consistency.
 
-Usage: xx
+Usage: Fish gathered while fishing are caught at Gold quality
 
 ---
 
-## Invention
+## Overhead Sprinkler System
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Overhead Sprinkler System
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.6 to 10.0
 
-ID: invention_
+ID: invention_overhead-sprinkler-system
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Steel Pipe (4), Pressure Valve (3), Energy Conduit (2), Support Frame (2), Waterproof Sealant (4)
 
-Short Description: xx
+Short Description: A fully automated irrigation network that waters every tilled plot throughout the Manor each morning.
 
-Usage: xx
+Usage: Tilled soil at the Manor is automatically watered in the morning
 
 ---
 
-## Invention
+## Gold Husbandry Kit
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 17 Hours
 
-Display Name: xx
+Display Name: Gold Husbandry Kit
 
-Gemstone Needed: xx
+Gemstone Needed: Ruby
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.7 to 10.0
 
-ID: invention_
+ID: invention_gold-husbandry-kit
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Gold Ingot (3), Precision Gears (2), Thermal Insulation (3), Support Frame (2), Reinforced Plate (2), Brush Fibers (4)
 
-Short Description: xx
+Short Description: A comprehensive automated ranching system that consistently produces Gold-quality animal byproducts.
 
-Usage: xx
+Usage: Animal byproducts are now collected at Gold quality
 
 ---
 
-## Invention
+## Gold Flask
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 17 Hours
 
-Display Name: xx
+Display Name: Gold Flask
 
-Gemstone Needed: xx
+Gemstone Needed: Ruby
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.8 to 10.0
 
-ID: invention_
+ID: invention_gold-flask
 
 Invention Type: Blueprint
 
-Items Needed: xx
+Items Needed: Gold Ingot (3), Flask (3), Pressure Valve (2), Filter Mesh (2), Reinforced Glass (3), Thermal Insulation (2)
 
-Short Description: xx
+Short Description: A state-of-the-art alchemical vessel capable of producing exceptionally pure Gold-quality tonics with unmatched consistency.
 
-Usage: xx
+Usage: All tonics are crafted at Gold quality
 
 ---
