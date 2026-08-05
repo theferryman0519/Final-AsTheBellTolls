@@ -179,7 +179,7 @@ First Available Date: Day 1 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Decorative Water Basin, Garden Water Circulator, Grand Botanical Fountain
 
 Marriage Candidate: No
 
