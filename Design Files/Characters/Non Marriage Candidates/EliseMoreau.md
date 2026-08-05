@@ -179,7 +179,7 @@ First Available Date: Day 1 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Coin Sorting Tray, Automatic Ledger Calculator, Grand Banking Exchange Console
 
 Marriage Candidate: No
 
