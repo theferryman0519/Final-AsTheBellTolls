@@ -179,7 +179,7 @@ First Available Date: Day 1 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Adjustable Measuring Gauge, Mechanical Alignment Jig, Precision Gear Cutter, Clockwork Drafting Compass, Resonance Analyzer, Automated Calibration Rig, Mechanical Synchronizer, Harmonic Power Regulator, Grand Clockwork Engine, Temporal Resonance Array, Pendrelle Chronometer
 
 Marriage Candidate: No
 
