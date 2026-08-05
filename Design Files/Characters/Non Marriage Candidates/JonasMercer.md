@@ -179,7 +179,7 @@ First Available Date: Day 7 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Water Distribution Trough, Crop Hydration Network, Grand Agricultural Irrigation System
 
 Marriage Candidate: No
 
