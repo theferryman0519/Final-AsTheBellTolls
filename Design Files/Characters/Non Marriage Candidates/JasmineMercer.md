@@ -179,7 +179,7 @@ First Available Date: Day 7 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Livestock Feeding Station, Comfort Stall System, Ranch Management Console
 
 Marriage Candidate: No
 
