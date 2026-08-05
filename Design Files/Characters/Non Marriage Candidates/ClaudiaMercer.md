@@ -179,7 +179,7 @@ First Available Date: Day 7 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Portable Ore Cradle, Mechanical Ore Sorter, Automated Ore Processing Station
 
 Marriage Candidate: No
 
