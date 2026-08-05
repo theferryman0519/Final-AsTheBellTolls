@@ -179,7 +179,7 @@ First Available Date: Day 1 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
-Grand Showcase Inventions: TODO
+Grand Showcase Inventions: Field Plant Press, Botanical Preservation Cabinet, Grand Botanical Research Conservatory
 
 Marriage Candidate: No
 
