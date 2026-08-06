@@ -20,9 +20,9 @@ Version: 0.0.1
 ### Copper Tier
 
 - Satchel Extender
+- Copper Ore Scanner
 - Mini Belt Lantern
 - Harvest Booster
-- Copper Ore Scanner
 - Honeycomb Apiary
 - Copper Cultivator
 - Copper Reel

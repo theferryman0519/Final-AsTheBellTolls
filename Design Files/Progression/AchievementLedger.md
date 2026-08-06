@@ -20,7 +20,7 @@ Version: 0.0.1
   - Maxing out all NPC Friendship and Connection Bonds
   - Fully restoring every room in Pendrelle Manor
   - Fully restoring all buildings in Blackmere
-  - Fully funishing the Hall of Wonder museum
+  - Fully furnishing the Hall of Wonder museum
   - Fully furnishing the A. Whitmore Public Library
 
 ---
