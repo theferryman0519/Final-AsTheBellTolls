@@ -21,6 +21,7 @@ Version: 0.0.1
 - Once fully matured, the animal will be able to give a byproduct each morning.
 - Byproducts are collected by Edward and placed in the Byproduct Box in between the Barn and Coop.
 - Each animal produces a byproduct count based on their Friendship Hearts (Bees and Silkworms only ever produce 1 byproduct).
+- Animal hearts are based on the restoration of the Barn, Coop, Stables, and/or Master Bedroom.
 - Each animal byproduct has a quality based on inventions from the Blueprint Book.
 
 ---
@@ -62,21 +63,25 @@ Version: 0.0.1
 ## Maximum Pet Counts
 
 | Restoration Stage | Dog Count | Cat Count
-|---------------------------------|-----------|---|
-| Weathered                       | 0         | 0
-| Rebuilding                      | 0         | 0
-| Recovering                      | 1         | 1
-| Renewed                         | 1         | 1
-| Growing                         | 2         | 2
-| Prospering                      | 2         | 2
-| Flourishing                     | 3         | 3
+|-------------------|-----------|---|
+| Weathered         | 0         | 0
+| Rebuilding        | 0         | 0
+| Recovering        | 1         | 1
+| Renewed           | 1         | 1
+| Growing           | 2         | 2
+| Prospering        | 2         | 2
+| Flourishing       | 3         | 3
 
 ---
 
-## Process Flow
+## Animal Hearts
 
-### Purchasing Animal
-
-### Petting Animal
-
-### Gathering Byproduct
+| Restoration Stage | Heart Amount
+|-------------------|---|
+| Weathered         | 0
+| Rebuilding        | 0
+| Recovering        | 1
+| Renewed           | 1
+| Growing           | 2
+| Prospering        | 2
+| Flourishing       | 3
