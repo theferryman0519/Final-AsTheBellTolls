@@ -1,5 +1,5 @@
 ---
-Title: Dialogue / Generic Weather
+Title: Dialogue / Intro
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -11,7 +11,7 @@ Version: 0.0.1
 
 Dialogue: xx
 
-Event: Generic
+Event: xx
 
 ID: dialogue_
 

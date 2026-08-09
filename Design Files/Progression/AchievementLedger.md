@@ -36,6 +36,7 @@ Version: 0.0.1
 | Drinks                | 41
 | Tonics                | 35
 | Fabrications          | 48
+| Clothing              | 240
 | Inventions            | 120
 | NPC Friendship Bonds  | 31
 | NPC Connection Bonds  | 31
@@ -46,4 +47,4 @@ Version: 0.0.1
 | Library Books         | 50
 | Record Discs          | 19
 
-Total Item Count: 650
+Total Item Count: 890
