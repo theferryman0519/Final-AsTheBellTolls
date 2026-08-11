@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Elise Moreau
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Purposeful
 
 Skin Tone: Espresso
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.93
+
+Pitch Variation: 0.020
+
+Volume: 0.44
+
+Volume Variation: 0.015
+
+Minimal Interval: 0.062
+
+Base Clip Set: Female A
 
 ---
 
