@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Jasmine Mercer
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Energetic
 
 Skin Tone: Fair
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.07
+
+Pitch Variation: 0.065
+
+Volume: 0.45
+
+Volume Variation: 0.040
+
+Minimal Interval: 0.050
+
+Base Clip Set: Female A
 
 ---
 
