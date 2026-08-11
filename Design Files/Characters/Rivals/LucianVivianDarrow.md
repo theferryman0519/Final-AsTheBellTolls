@@ -221,17 +221,17 @@ Skin Tone: [Same tone as the player]
 
 # Voice Audio Information
 
-Base Pitch: 0.97
+Base Pitch: 0.97 / 0.98
 
-Pitch Variation: 0.035
+Pitch Variation: 0.035 / 0.035
 
-Volume: 0.47
+Volume: 0.47 / 0.47
 
-Volume Variation: 0.020
+Volume Variation: 0.020 / 0.020
 
-Minimal Interval: 0.054
+Minimal Interval: 0.054 / 0.054
 
-Base Clip Set: Male B
+Base Clip Set: Male B / Female B
 
 ---
 
