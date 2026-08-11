@@ -1,0 +1,350 @@
+---
+Title: Table of Contents
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+- Game Design Document
+- Table of Contents
+
+---
+
+## Characters
+
+### Children
+
+- Anya Thorne
+- Felix Holt
+- Kira Mercer
+- Milo Mercer
+
+### Deceased
+
+- Erika Ashcroft
+- Ian Thorne
+- James Calder
+- Myrtle Pendrelle
+- Opal Pierce
+
+### Marriage Candidates
+
+- Adrian Lockwood
+- Clara Weiss
+- Dante Menici
+- Leo Finch
+- Madison Remington
+- Mara Klein
+- Marcus Rowan
+- Nora Reed
+- Sabrina Fairchild
+- Victor Cross
+
+### Non-Marriage Candidates
+
+- Agatha Whitmore
+- Beatrice Whitmore
+- Claudia Mercer
+- Edward Ashcroft
+- Elise Moreau
+- Frederick Holt
+- Helen Holt
+- Irene Calder
+- Jasmine Mercer
+- Jonas Mercer
+- Julian Hale
+- Lena Thorne
+- Martin Ashcroft
+- Roland Whitmore
+- Theo Bennett
+- Walter Pierce
+
+### Pets & Animals
+
+- Bee
+- Cat
+- Chicken
+- Cow
+- Dog
+- Duck
+- Goat
+- Goose
+- Horse
+- Pig
+- Sheep
+- Silkworm
+
+### Politicians
+
+- Rupert Munro
+
+### Rivals
+
+- Lucian/Vivian Darrow
+
+### Traders
+
+- Kai Vale
+- Kay Vale
+- Kegan Vale
+- Kiki Vale
+
+---
+
+## Code Setup
+
+- Controllers
+- Enums
+- Models
+- Save Data
+- Scriptable Objects
+- Services
+
+---
+
+## Dialogue
+
+- Bond Events
+- Disliked Gifts
+- Edward Help
+- Favorite Gifts
+- Festivals
+- First Meet
+- Generic Connection Level
+- Generic Daylight
+- Generic Friendship Level
+- Generic Memorial
+- Generic Profession
+- Generic Season
+- Generic Tip
+- Generic Weather
+- Greetings
+- Hated Gifts
+- Intro
+- Liked Gifts
+- Loved Gifts
+- Married Life
+- Proposals
+- Quests (Mid)
+- Quests (Post)
+- Quests (Pre)
+- Shopping
+- Tolerated Gifts
+
+---
+
+## Events
+
+### Main Festivals
+
+- Blackmere Trade Festival
+- Fun in the Sun Festival
+- Grand Showcase
+- Harvest Supper
+- Hollow Moon Night
+- River Remembrance Day
+- Seedwake Brunch
+- Snow Bell's Eve
+- Toll of Hearths
+
+### Mini Festivals
+
+- Aurora Watch
+- Cooking with the Twins
+- Player Wedding
+- Salmon Run
+- Trout Trials
+
+### Ongoing Events
+
+- Breakfast at the Inn
+- International Trade Cart
+- Supper with the Mercers
+
+### Seasonal Data
+
+- Autumn
+- Spring
+- Summer
+- Winter
+
+---
+
+## Inventions
+
+- Cobalt Tier Inventions
+- Copper Tier Inventions
+- Gold Tier Inventions
+- Grand Showcase Inventions
+- Iron Tier Inventions
+- NPC Quest Inventions
+- Silver Tier Inventions
+
+---
+
+## Items
+
+### Clothing Items
+
+- Accessories
+- Bottoms
+- Footwear
+- Headwear
+- Outfits
+- Tops
+
+### Ingredient Items
+
+- Byproducts
+- Flowers
+- Flower Seeds
+- Forageables
+- Garden Crops
+- Garden Seeds
+- Gemstones
+- Herbs
+- Lake Fish
+- Orchard Crops
+- Orchard Seeds
+- Ore
+- River Fish
+- Universal Fish
+
+### Interactable Items
+
+- Man Made
+- Natural
+
+### Mail Items
+
+- Event Reminders
+- Event Requests
+- Humor Notes
+- Overflow Item
+- Quest Requests
+
+### Quest Items
+
+- Recovery
+
+### Recipe Items
+
+- Drinks
+- Fabrications
+- Meals
+- Tonics
+
+### Useful Items
+
+- Library Books
+- Museum Artifacts
+- Record Discs
+- Statues
+- Tools
+
+---
+
+## Locations
+
+### Blackmere
+
+- 1 Resident Lane
+- 2 Resident Lane
+- 3 Resident Lane
+- 4 Resident Lane
+- 5 Resident Lane
+- 6 Resident Lane
+- A. Whitmore Public Library
+- A. Whitmore Public School
+- Blackmere Bank & Exchange
+- Blackmere Bell Tower
+- Blackmere General Store
+- Blackmere Town Hall
+- Caravan Stall
+- Hall of Wonder
+- Ironveil Forge
+- Klein Woodworks
+- Rain & Hale
+- Riverbend Fishery
+- Thread & Thimble
+- Weiss Design Studio
+- Winding Banks Inn
+
+### Morvanya
+
+- Ashfall Mines
+- Gloamwood Depths
+- Gloamwood Forest
+- Graythorne Lake
+- Ironveil Peak
+- Memorial Hill
+- Mercer Farms
+- Steelridge Watch
+
+### Pendrelle Manor
+
+- Barn
+- Butler Quarters
+- Central Room
+- Coop
+- Dining Hall
+- Garden
+- Kitchen
+- Laboratory
+- Master Bedroom
+- Nursery
+- Orchard
+- Stables
+
+---
+
+## Progression
+
+- Achievement Ledger
+- Blueprint Book Progression
+- Main Story Progression
+- NPC Connection Progression
+- NPC Friendship Progression
+
+---
+
+## Quests
+
+- Achievement Quests
+- Connection Quests
+- Daily Quests
+- Friendship Quests
+- Tutorial Quests
+
+---
+
+## Systems
+
+- Calendar System
+- Cooking System
+- Crafting System
+- Dialogue System
+- Farming System
+- Fishing System
+- Gathering Probability System
+- Husbandry System
+- Input System
+- Invention System
+- Inventory System
+- Item System
+- Loan System
+- Mail System
+- NPC Connection System
+- NPC Friendship System
+- NPC Mood System
+- Quest System
+- Restoration System
+- Save System
+- Time System
+- Time Manipulation System
+- Tonic Making System
+- Weather System
+
+---
