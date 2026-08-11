@@ -14,6 +14,7 @@ Version: 0.0.1
 ---
 
 - Game Design Document (COMPLETE)
+- Progress Pieces (IN PROGRESS - Other necessary additions)
 - Table of Contents (IN PROGRESS - Other necessary additions)
 
 ---
