@@ -31,7 +31,7 @@ Type: Connection Quest
 
 Backstory: Felix quietly reveals that the notebook where he secretly recorded every discovery disappeared during the Great Flood. Inside are sketches, pressed flowers, feathers, maps, and little notes about places he dreamed of exploring someday. He never showed it to anyone because he worried they’d think his dream of becoming an explorer was childish.
 
-ID: quest_explorer-s-journal
+ID: quest_explorers-journal
 
 Objective: Search several locations around Blackmere to recover Felix’s Explorer’s Journal, then return it to Felix.
 
