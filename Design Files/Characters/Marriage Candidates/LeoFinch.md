@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidates / Leo Finch
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Energetic
 
 Skin Tone: Pale
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.09
+
+Pitch Variation: 0.070
+
+Volume: 0.43
+
+Volume Variation: 0.040
+
+Minimal Interval: 0.052
+
+Base Clip Set: Male A
 
 ---
 
