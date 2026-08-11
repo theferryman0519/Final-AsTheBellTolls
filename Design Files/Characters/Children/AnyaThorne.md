@@ -3,7 +3,7 @@ Title: Characters / Children / Anya Thorne
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Hesitant
 
 Skin Tone: Espresso
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.18
+
+Pitch Variation: 0.035
+
+Volume: 0.42
+
+Volume Variation: 0.025
+
+Minimal Interval: 0.068
+
+Base Clip Set: Female A
 
 ---
 
