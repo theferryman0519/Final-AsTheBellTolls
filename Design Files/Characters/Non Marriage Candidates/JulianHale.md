@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Julian Hale
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tall
 Movement Style: Purposeful
 
 Skin Tone: Pale
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.00
+
+Pitch Variation: 0.030
+
+Volume: 0.41
+
+Volume Variation: 0.018
+
+Minimal Interval: 0.067
+
+Base Clip Set: Male A
 
 ---
 
