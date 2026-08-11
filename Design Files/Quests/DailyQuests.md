@@ -253,7 +253,7 @@ Type: Daily Quest
 
 Backstory: Clara likes the sharp fragrance of Basil because it helps clear her mind during long drafting sessions. She asks the player to bring her one Basil.
 
-ID: quest-a-designer-s-refreshment
+ID: quest-a-designers-refreshment
 
 Objective: Deliver 1 Basil to Clara.
 
@@ -275,7 +275,7 @@ Type: Daily Quest
 
 Backstory: Dante is fascinated by Foxglove because its beauty and danger make it feel like an artifact with a story. He asks the player to bring him one Foxglove.
 
-ID: quest-a-curator-s-curiosity
+ID: quest-a-curators-curiosity
 
 Objective: Deliver 1 Foxglove to Dante.
 
@@ -363,7 +363,7 @@ Type: Daily Quest
 
 Backstory: Madison values Topaz for its warm color, which reminds her of sunrise patrols during her years as a ranger. She asks the player to bring her one Topaz.
 
-ID: quest-a-ranger-s-keepsake
+ID: quest-a-rangers-keepsake
 
 Objective: Deliver 1 Topaz to Madison.
 
