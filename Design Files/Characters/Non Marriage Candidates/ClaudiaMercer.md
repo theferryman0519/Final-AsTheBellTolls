@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Claudia Mercer
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Heavy
 
 Skin Tone: Pale
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.91
+
+Pitch Variation: 0.035
+
+Volume: 0.53
+
+Volume Variation: 0.025
+
+Minimal Interval: 0.050
+
+Base Clip Set: Female B
 
 ---
 
