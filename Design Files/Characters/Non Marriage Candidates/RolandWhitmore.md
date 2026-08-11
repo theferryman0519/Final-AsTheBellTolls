@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Roland Whitmore
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tall
 Movement Style: Hesitant
 
 Skin Tone: Deep
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.95
+
+Pitch Variation: 0.040
+
+Volume: 0.45
+
+Volume Variation: 0.025
+
+Minimal Interval: 0.070
+
+Base Clip Set: Male B
 
 ---
 
