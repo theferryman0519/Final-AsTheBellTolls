@@ -7,20 +7,20 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-## Dialogue
+## Dialogue - Greeting - Anya
 
-Dialogue: xx
+Dialogue: "xx"
 
-Event: xx
+Event: Greeting
 
-ID: dialogue_
+ID: dialogue_greeting-anya
 
-Options: xx
+Options: None
 
-Order Number: xx
+Order Number: 1
 
-Speaker: xx
+Speaker: Anya Thorne
 
-Variant: xx
+Variant: None
 
 ---
