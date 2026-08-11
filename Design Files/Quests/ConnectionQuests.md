@@ -171,7 +171,7 @@ Type: Connection Quest
 
 Backstory: Madison reveals that Ian Thorne’s original sheriff’s badge disappeared while Blackmere was being repaired after the Great Flood. Though she now wears her own badge, losing Ian’s feels like losing the promise she made to honor his legacy.
 
-ID: quest_ian-s-legacy
+ID: quest_ians-legacy
 
 Objective: Search several locations around Blackmere to recover Ian Thorne’s Sheriff Badge, then return it to Madison.
 
