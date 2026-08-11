@@ -3,7 +3,7 @@ Title: Characters / Rivals / Lucian/Vivian Darrow
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Purposeful
 
 Skin Tone: [Same tone as the player]
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.97
+
+Pitch Variation: 0.035
+
+Volume: 0.47
+
+Volume Variation: 0.020
+
+Minimal Interval: 0.054
+
+Base Clip Set: Male B
 
 ---
 
