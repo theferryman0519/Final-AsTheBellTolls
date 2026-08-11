@@ -3,7 +3,7 @@ Title: Characters / Children / Milo Mercer
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Energetic
 
 Skin Tone: Fair
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.28
+
+Pitch Variation: 0.125
+
+Volume: 0.50
+
+Volume Variation: 0.075
+
+Minimal Interval: 0.037
+
+Base Clip Set: Male A
 
 ---
 
