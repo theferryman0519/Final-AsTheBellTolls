@@ -3,7 +3,7 @@ Title: Characters / Children / Kira Mercer
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Energetic
 
 Skin Tone: Fair
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.15
+
+Pitch Variation: 0.110
+
+Volume: 0.52
+
+Volume Variation: 0.065
+
+Minimal Interval: 0.040
+
+Base Clip Set: Female B
 
 ---
 
