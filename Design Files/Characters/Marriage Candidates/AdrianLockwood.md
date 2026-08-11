@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidate / Adrian Lockwood
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Hesitant
 
 Skin Tone: Deep
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.04
+
+Pitch Variation: 0.045
+
+Volume: 0.39
+
+Volume Variation: 0.025
+
+Minimal Interval: 0.064
+
+Base Clip Set: Male A
 
 ---
 
