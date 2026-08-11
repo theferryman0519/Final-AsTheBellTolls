@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Lena Thorne
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Graceful
 
 Skin Tone: Espresso
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.96
+
+Pitch Variation: 0.055
+
+Volume: 0.44
+
+Volume Variation: 0.035
+
+Minimal Interval: 0.064
+
+Base Clip Set: Female B
 
 ---
 
