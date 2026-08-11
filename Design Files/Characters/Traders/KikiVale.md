@@ -3,7 +3,7 @@ Title: Characters / Traders / Kiki Vale
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -60,6 +60,22 @@ Height Range: Average
 Movement Style: Purposeful
 
 Skin Tone: Bronze
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.02
+
+Pitch Variation: 0.055
+
+Volume: 0.45
+
+Volume Variation: 0.035
+
+Minimal Interval: 0.053
+
+Base Clip Set: Female B
 
 ---
 
