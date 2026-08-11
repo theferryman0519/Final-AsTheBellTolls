@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidates / Dante Menici
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tal
 Movement Style: Graceful
 
 Skin Tone: Bronze
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.92
+
+Pitch Variation: 0.025
+
+Volume: 0.44
+
+Volume Variation: 0.018
+
+Minimal Interval: 0.073
+
+Base Clip Set: Male B
 
 ---
 
