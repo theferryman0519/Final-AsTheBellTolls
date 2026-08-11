@@ -193,7 +193,7 @@ Version: 0.0.1
 - Gold Tier Inventions (COMPLETE)
 - Grand Showcase Inventions (COMPLETE)
 - Iron Tier Inventions (COMPLETE)
-- NPC Quest Inventions (COMPLETE)
+- NPC Quest Inventions (NOT STARTED)
 - Silver Tier Inventions (COMPLETE)
 
 ---
