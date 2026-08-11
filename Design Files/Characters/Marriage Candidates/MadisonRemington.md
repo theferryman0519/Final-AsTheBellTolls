@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidates
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tall
 Movement Style: Purposeful
 
 Skin Tone: Olive
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.94
+
+Pitch Variation: 0.035
+
+Volume: 0.52
+
+Volume Variation: 0.020
+
+Minimal Interval: 0.058
+
+Base Clip Set: Female B
 
 ---
 
