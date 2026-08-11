@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Agatha Whitmore
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Heavy
 
 Skin Tone: Deep
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.82
+
+Pitch Variation: 0.020
+
+Volume: 0.45
+
+Volume Variation: 0.015
+
+Minimal Interval: 0.082
+
+Base Clip Set: Female B
 
 ---
 
