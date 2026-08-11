@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Theo Bennett
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Heavy
 
 Skin Tone: Olive
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.06
+
+Pitch Variation: 0.060
+
+Volume: 0.44
+
+Volume Variation: 0.035
+
+Minimal Interval: 0.052
+
+Base Clip Set: Male A
 
 ---
 
