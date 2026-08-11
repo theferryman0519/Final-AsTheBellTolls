@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidates / Nora Reed
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Energetic
 
 Skin Tone: Fair
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.08
+
+Pitch Variation: 0.105
+
+Volume: 0.48
+
+Volume Variation: 0.060
+
+Minimal Interval: 0.043
+
+Base Clip Set: Female A
 
 ---
 
