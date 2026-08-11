@@ -3,7 +3,7 @@ Title: Characters / Politicians / Rupert Munro
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -60,6 +60,22 @@ Height Range: Average
 Movement Style: Purposeful
 
 Skin Tone: Pale
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.88
+
+Pitch Variation: 0.030
+
+Volume: 0.51
+
+Volume Variation: 0.020
+
+Minimal Interval: 0.060
+
+Base Clip Set: Male A
 
 ---
 
