@@ -7,20 +7,56 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-## Dialogue
+## Dialogue - Married Life - Adrian - A
 
-Dialogue: xx
+Dialogue: "xx"
 
-Event: xx
+Event: Married Life
 
-ID: dialogue_
+ID: dialogue_married-life-adrian-a
 
-Options: xx
+Options: None
 
-Order Number: xx
+Order Number: 1
 
-Speaker: xx
+Speaker: Adrian Lockwood
 
-Variant: xx
+Variant: A
+
+---
+
+## Dialogue - Married Life - Adrian - B
+
+Dialogue: "xx"
+
+Event: Married Life
+
+ID: dialogue_married-life-adrian-b
+
+Options: None
+
+Order Number: 1
+
+Speaker: Adrian Lockwood
+
+Variant: B
+
+---
+
+## Dialogue - Married Life - Adrian - C
+
+Dialogue: "xx"
+
+Event: Married Life
+
+ID: dialogue_married-life-adrian-c
+
+Options: None
+
+Order Number: 1
+
+Speaker: Adrian Lockwood
+
+Variant: C
 
 ---
