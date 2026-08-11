@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidates / Marcus Rowan
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tall
 Movement Style: Heavy
 
 Skin Tone: Fair
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.89
+
+Pitch Variation: 0.045
+
+Volume: 0.48
+
+Volume Variation: 0.030
+
+Minimal Interval: 0.066
+
+Base Clip Set: Male B
 
 ---
 
