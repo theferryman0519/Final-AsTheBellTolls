@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Edward Ashcroft
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tall
 Movement Style: Graceful
 
 Skin Tone: Pale
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.78
+
+Pitch Variation: 0.018
+
+Volume: 0.43
+
+Volume Variation: 0.012
+
+Minimal Interval: 0.086
+
+Base Clip Set: Male B
 
 ---
 
