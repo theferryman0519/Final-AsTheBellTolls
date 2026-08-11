@@ -15,7 +15,7 @@ Display Name: Kay
 
 Full Name: Kay Vale
 
-ID: npv_kay-vale
+ID: npc_kay-vale
 
 Profession: International Trader of Summer
 
