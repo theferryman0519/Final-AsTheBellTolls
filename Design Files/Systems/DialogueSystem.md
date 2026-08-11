@@ -3,7 +3,7 @@ Title: Systems / Dialogue System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -12,6 +12,20 @@ Version: 0.0.1
 **<u>Activating Mechanics:</u>** When the player is adjacent and facing a non-player character (NPC), they can interact with that character. Once the player interacts with the NPC, it will open the Dialogue Panel and the NPC will start to speak.
 
 **<u>Mechanic:</u>** Once spoken to, the NPC will have a piece of dialogue that they will speak toward the player. This can include an initial greeting (if meeting for the first time), a reaction to a quest, a tip to help the player, or even just a generic comment about the weather, time of day, or friendship level. After this first piece of dialogue, the player will have certain options, depending on the context with that NPC. Any further action could be taken, or the player could leave the conversation.
+
+---
+
+## Speech Audio Information
+
+- Each character uses one of four base clip sets
+    - Female A (softer / lighter)
+    - Female B (fuller / deeper)
+    - Male A (softer / lighter)
+    - Male B (fuller / deeper)
+- Pitch is randomized from base pitch plus/minus pitch variation
+- Volume is randomized from base volume plus/minus volume variation (clamped between 0 and 1)
+- Interval is pausing between vocalizations
+- Audio is able to be adjusted in the settings menu
 
 ---
 
