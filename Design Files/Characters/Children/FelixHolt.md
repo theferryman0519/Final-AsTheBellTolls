@@ -3,7 +3,7 @@ Title: Characters / Children / Felix Holt
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Short
 Movement Style: Hesitant
 
 Skin Tone: Olive
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.24
+
+Pitch Variation: 0.045
+
+Volume: 0.39
+
+Volume Variation: 0.030
+
+Minimal Interval: 0.064
+
+Base Clip Set: Male A
 
 ---
 
