@@ -3,7 +3,7 @@ Title: Characters / Marriage Candidates / Mara Klein
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Purposeful
 
 Skin Tone: Olive
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.00
+
+Pitch Variation: 0.025
+
+Volume: 0.48
+
+Volume Variation: 0.020
+
+Minimal Interval: 0.052
+
+Base Clip Set: Female A
 
 ---
 
