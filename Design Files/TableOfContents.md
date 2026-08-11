@@ -8,6 +8,7 @@ Version: 0.0.1
 ---
 
 - Game Design Document
+- Progress Pieces
 - Table of Contents
 
 ---
@@ -96,6 +97,7 @@ Version: 0.0.1
 ## Code Setup
 
 - Controllers
+- Data IDs
 - Enums
 - Models
 - Save Data
