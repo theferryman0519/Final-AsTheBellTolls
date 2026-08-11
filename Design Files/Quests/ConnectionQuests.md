@@ -291,7 +291,7 @@ Type: Connection Quest
 
 Backstory: Agatha reluctantly reveals that one of her oldest journals disappeared during the Great Flood. Inside are firsthand accounts from Blackmere’s earliest days, including memories she and Roland recorded together. Though she remembers many of the stories by heart, losing the journal feels like losing a piece of the people who lived them.
 
-ID: quest_the-founder-s-journal
+ID: quest_the-founders-journal
 
 Objective: Search several locations around Blackmere to recover Agatha’s Founder’s Journal, then return it to Agatha.
 
@@ -331,7 +331,7 @@ Type: Connection Quest
 
 Backstory: Claudia reluctantly reveals that a small wooden keepsake box disappeared during the Great Flood. Inside are childhood drawings from Kira and Milo, handwritten notes from Jonas, and little reminders of the family she’s spent her life protecting. She has searched for it countless times but could never bring herself to ask anyone else for help.
 
-ID: quest_a-mother-s-keepsakes
+ID: quest_a-mothers-keepsakes
 
 Objective: Search several locations around Blackmere to recover Claudia’s Keepsake Box, then return it to Claudia.
 
@@ -351,7 +351,7 @@ Type: Connection Quest
 
 Backstory: Edward quietly reveals that Myrtle’s treasured pocket watch disappeared during the confusion following the Great Flood. Though the watch itself possesses no extraordinary power, it was the last personal gift she ever entrusted to him. Losing it has always felt like failing the promise he made to protect her legacy.
 
-ID: quest_myrtle-s-pocket-watch
+ID: quest_myrtles-pocket-watch
 
 Objective: Search several locations around Pendrelle Manor and Blackmere to recover Myrtle’s Pocket Watch, then return it to Edward.
 
@@ -411,7 +411,7 @@ Type: Connection Quest
 
 Backstory: Helen reveals that her treasured family cookbook disappeared during the Great Flood. More than a collection of recipes, it contains handwritten memories, family traditions, and stories she hoped to one day pass on to Felix.
 
-ID: quest_grandma-s-cookbook
+ID: quest_grandmas-cookbook
 
 Objective: Search several locations around Blackmere to recover Helen’s Family Cookbook, then return it to Helen.
 
@@ -431,7 +431,7 @@ Type: Connection Quest
 
 Backstory: Irene reveals that James’s treasured pocket watch disappeared during the Great Flood. Though it no longer keeps perfect time, it was the watch he carried every day while serving as Blackmere’s Bellwarden. Recovering it would mean recovering one of the last tangible pieces of the life they shared.
 
-ID: quest_james-s-pocket-watch
+ID: quest_jamess-pocket-watch
 
 Objective: Search several locations around Blackmere to recover James’s Pocket Chime Watch, then return it to Irene.
 
@@ -511,7 +511,7 @@ Type: Connection Quest
 
 Backstory: Lena reveals that a letter Ian wrote shortly before the Great Flood disappeared in the chaos that followed. She never had the strength to search for it herself because she feared what it might say or what it might remind her of. Though she remembers every word she can, she longs to hold the letter one more time.
 
-ID: quest_ian-s-letter
+ID: quest_ians-letter
 
 Objective: Search several locations around Memorial Hill and Blackmere to recover Ian’s Love Letter, then return it to Lena.
 
@@ -531,7 +531,7 @@ Type: Connection Quest
 
 Backstory: Martin reveals that a bundle of letters his mother wrote to Edward during her illness disappeared during the Great Flood. He has reread those letters countless times over the years, drawing strength from her kindness and resilience. Though deeply personal, he finally trusts the player enough to ask for help recovering them.
 
-ID: quest_erika-s-letters
+ID: quest_erikas-letters
 
 Objective: Search several locations around Blackmere to recover Erika’s Letters from Mother, then return them to Martin.
 
@@ -551,7 +551,7 @@ Type: Connection Quest
 
 Backstory: Roland reveals that his hand-drawn map of Blackmere disappeared during the Great Flood. More than a map, it contains decades of handwritten notes marking births, new families, beloved gathering places, and memories of how the town grew together. To Roland, it has always been a record of people, not places.
 
-ID: quest_the-founder-s-map
+ID: quest_the-founders-map
 
 Objective: Search several locations around Blackmere to recover Roland’s Founder’s Map, then return it to Roland.
 
@@ -591,7 +591,7 @@ Type: Connection Quest
 
 Backstory: Walter reveals that Opal’s favorite shop apron disappeared during the Great Flood. Though worn and patched countless times, it still carries embroidered flowers she stitched by hand when they first opened the General Store together. Recovering it would mean reclaiming one of the last everyday reminders of the life they built.
 
-ID: quest_opal-s-apron
+ID: quest_opals-apron
 
 Objective: Search several locations around Blackmere to recover Opal’s Apron, then return it to Walter.
 
