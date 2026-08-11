@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Jonas Mercer
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Tall
 Movement Style: Purposeful
 
 Skin Tone: Fair
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 1.02
+
+Pitch Variation: 0.050
+
+Volume: 0.43
+
+Volume Variation: 0.030
+
+Minimal Interval: 0.058
+
+Base Clip Set: Male A
 
 ---
 
