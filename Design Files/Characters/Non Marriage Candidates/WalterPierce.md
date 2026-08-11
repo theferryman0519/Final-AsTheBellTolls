@@ -3,7 +3,7 @@ Title: Characters / Non Marriage Candidates / Walter Pierce
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -216,6 +216,22 @@ Height Range: Average
 Movement Style: Heavy
 
 Skin Tone: Bronze
+
+---
+
+# Voice Audio Information
+
+Base Pitch: 0.84
+
+Pitch Variation: 0.018
+
+Volume: 0.47
+
+Volume Variation: 0.015
+
+Minimal Interval: 0.078
+
+Base Clip Set: Male B
 
 ---
 
