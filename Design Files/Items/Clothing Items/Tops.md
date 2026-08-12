@@ -995,7 +995,7 @@ Category: Tops
 
 Display Name: Merchant's Jacket
 
-ID: item_clothing_merchant-s-jacket
+ID: item_clothing_merchants-jacket
 
 Location Sold: Thread & Thimble
 
@@ -1015,7 +1015,7 @@ Category: Tops
 
 Display Name: Bellmaker's Apron
 
-ID: item_clothing_bellmaker-s-apron
+ID: item_clothing_bellmakers-apron
 
 Location Sold: Thread & Thimble
 
@@ -1035,7 +1035,7 @@ Category: Tops
 
 Display Name: Clockmaker's Coat
 
-ID: item_clothing_clockmaker-s-coat
+ID: item_clothing_clockmakers-coat
 
 Location Sold: Thread & Thimble
 
@@ -1115,7 +1115,7 @@ Category: Tops
 
 Display Name: Traveler's Poncho
 
-ID: item_clothing_traveler-s-poncho
+ID: item_clothing_travelers-poncho
 
 Location Sold: Thread & Thimble
 
