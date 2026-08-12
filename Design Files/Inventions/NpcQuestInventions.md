@@ -7,655 +7,622 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-31
-- Anya: Floral Memory Book
-- Felix: Explorer's Curio Cabinet
-- Kira: Explorer's Utility Harness
-- Milo: Awesome Adventure Pack
-- Adrian: Preservation Display Case
-- Clara: Architectural Drafting Table
-- Dante: Interactive Exhibition Display
-- Leo: Precision Pattern Press
-- Madison: Emergency Response Cabinet
-- Mara: Automated Lumber Mill
-- Marcus: Automated Forge Bellows
-- Nora: River Current Analyzer
-- Sabrina: Interactive Learning Station
-- Victor: Caravan Inventory Cabinet
-- Agatha: Historical Archive Cabinet
-- Beatrice: Restoration Planning Table
-- Claudia: Mine Cart Loader
-- Edward: Manor Archive Organizer
-- Elise: Mechanical Ledger Organizer
-- Frederick: Automated Service Bell
-- Helen: Precision Oven
-- Irene: Automatic Bell Regulator
-- Jasmine: Automatic Animal Groomer
-- Jonas: Field Irrigation System
-- Julian: Botanical Catalog Station
-- Lena: Garden Irrigation Fountain
-- Martin: Automated Mail Sorter
-- Roland: Community Workshop Planner
-- Theo: Precision Dough Mixer
-- Walter: Automated Stock Organizer
-- Lucian/Vivian: Clockmaker's Calibration Bench
+## Floral Memory Book
 
-## Invention
+Crafting & Testing Duration: 14 Hours
 
-Carfting & Testing Duration: xx
+Display Name: Floral Memory Book
 
-Display Name: xx
+Gemstone Needed: Amethyst
 
-Gemstone Needed: xx
+Grand Showcase Score Range: 8.0 to 9.5
 
-Grand Showcase Score Range: xx
-
-ID: invention_
+ID: invention_floral-memory-book
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Silk Cloth (3), Reinforced Glass (2), Adhesive Paste (3), Waterproof Sealant (2), Gold Ingot (1)
 
-Short Description: xx
+Short Description: A finely crafted preservation book designed to protect pressed flowers, sketches, and small keepsakesmfor years to come.
 
 ---
 
-## Invention
+## Explorer's Curio Cabinet
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Explorer's Curio Cabinet
 
-Gemstone Needed: xx
+Gemstone Needed: Amethyst
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.1 to 9.6
 
-ID: invention_
+ID: invention_explorers-curio-cabinet
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Wood Beam (6), Reinforced Glass (3), Hinges (3), Silk Cloth (2), Waterproof Sealant (3)
 
-Short Description: xx
+Short Description: A reinforced display cabinet with protected compartments for organizing feathers, shells, stones, flowers, and other treasured discoveries.
 
 ---
 
-## Invention
+## Explorer's Utility Harness
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Explorer's Utility Harness
 
-Gemstone Needed: xx
+Gemstone Needed: Amethyst
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.2 to 9.7
 
-ID: invention_
+ID: invention_explorers-utility-harness
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Canvas (4), Cloth (4), Reinforced Plate (2), Hinges (3), Precision Gears (1), Waterproof Sealant (3)
 
-Short Description: xx
+Short Description: A durable wearable harness that keeps maps, notebooks, lenses, and exploration tools organized and within easy reach.
 
 ---
 
-## Invention
+## Awesome Adventure Pack
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Awesome Adventure Pack
 
-Gemstone Needed: xx
+Gemstone Needed: Amethyst
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.3 to 9.8
 
-ID: invention_
+ID: invention_awesome-adventure-pack
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Canvas (5), Cloth (3), Rope (3), Reinforced Plate (2), Hinges (3), Waterproof Sealant (3)
 
-Short Description: xx
+Short Description: A rugged adventure pack filled with secure compartments for carrying every stick, stone, feather, and expedition essential imaginable.
 
 ---
 
-## Invention
+## Preservation Display Case
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Preservation Display Case
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.4 to 9.9
 
-ID: invention_
+ID: invention_preservation-display-case
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (4), Gold Ingot (2), Thermal Insulation (2), Waterproof Sealant (3), Support Frame (1)
 
-Short Description: xx
+Short Description: A climate-stable display case that protects fragile documents and historical materials while keeping them visible to library visitors.
 
 ---
 
-## Invention
+## Architectural Drafting Table
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Architectural Drafting Table
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_architectural-drafting-table
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Support Frame (2), Reinforced Glass (2), Precision Gears (2), Clockwork Spring (2), Hinges (3), Gold Ingot (2)
 
-Short Description: xx
+Short Description: A precision drafting workstation that helps architects organize plans, adjust measurements, and test complex design concepts efficiently.
 
 ---
 
-## Invention
+## Interactive Exhibition Display
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Interactive Exhibition Display
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_interactive-exhibition-display
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (4), Precision Gears (2), Arc Tube (2), Copper Wiring (4), Clockwork Spring (2), Support Frame (2)
 
-Short Description: xx
+Short Description: An interactive museum display that safely presents artifacts while using mechanical features to help visitors explore the stories behind them.
 
 ---
 
-## Invention
+## Precision Pattern Press
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Precision Pattern Press
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_precision-pattern-press
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (2), Reinforced Plate (2), Clockwork Spring (3), Silk Cloth (3), Support Frame (1), Hinges (3)
 
-Short Description: xx
+Short Description: A finely calibrated press that helps reproduce, adjust, and test clothing patterns while preserving the detail of custom designs.
 
 ---
 
-## Invention
+## Emergency Response Cabinet
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Emergency Response Cabinet
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_emergency-response-cabinet
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Plate (3), Support Frame (2), Hinges (4), Waterproof Sealant (3), Thermal Insulation (2), Gold Ingot (2)
 
-Short Description: xx
+Short Description: A reinforced emergency cabinet that keeps critical equipment organized, protected, and immediately accessible during a crisis.
 
 ---
 
-## Invention
+## Automated Lumber Mill
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Automated Lumber Mill
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_automated-lumber-mill
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Support Frame (3), Precision Gears (3), Reinforced Plate (3), Clockwork Spring (3), Iron Pipe (3), Gold Ingot (2)
 
-Short Description: xx
+Short Description: A mechanized lumber-processing station that prepares timber with consistent measurements while reducing repetitive workshop labor.
 
 ---
 
-## Invention
+## Automated Forge Bellows
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Automated Forge Bellows
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_automated-forge-bellows
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Pressure Valve (3), Reinforced Plate (3), Precision Gears (2), Thermal Insulation (3), Iron Pipe (3), Support Frame (2)
 
-Short Description: xx
+Short Description: An automated bellows system that maintains a strong, controlled airflow so forge temperatures remain steady during demanding metalwork.
 
 ---
 
-## Invention
+## River Current Analyzer
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: River Current Analyzer
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_river-current-analyzer
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (3), Pressure Valve (2), Copper Wiring (4), Precision Gears (2), Waterproof Sealant (4), Steel Pipe (2)
 
-Short Description: xx
+Short Description: A water-resistant surveying instrument that measures river movement and helps anglers understand changing currents and fishing conditions.
 
 ---
 
-## Invention
+## Interactive Learning Station
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Interactive Learning Station
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_interactive-learning-station
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (3), Precision Gears (2), Arc Tube (2), Copper Wiring (4), Support Frame (2), Wood Beam (4)
 
-Short Description: xx
+Short Description: A hands-on classroom station with mechanical demonstrations and interchangeable learning tools designed to encourage experimentation and curiosity.
 
 ---
 
-## Invention
+## Caravan Inventory Cabinet
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Caravan Inventory Cabinet
 
-Gemstone Needed: xx
+Gemstone Needed: Amethyst
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.3 to 9.8
 
-ID: invention_
+ID: invention_caravan-inventory-cabinet
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Wood Beam (6), Reinforced Plate (2), Hinges (4), Waterproof Sealant (4), Support Frame (1), Silk Cloth (2)
 
-Short Description: xx
+Short Description: A travel-ready inventory cabinet with secure adjustable compartments for organizing and displaying merchandise from across Morvanya.
 
 ---
 
-## Invention
+## Historical Archive Cabinet
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Historical Archive Cabinet
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_historical-archive-cabinet
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (4), Thermal Insulation (3), Waterproof Sealant (4), Gold Ingot (2), Support Frame (2), Silk Cloth (2)
 
-Short Description: xx
+Short Description: A carefully sealed archive cabinet that shields delicate records from moisture, temperature changes, dust, and handling damage.
 
 ---
 
-## Invention
+## Restoration Planning Table
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Restoration Planning Table
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_restoration-planning-table
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Support Frame (2), Reinforced Glass (3), Precision Gears (2), Clockwork Spring (2), Gold Ingot (2), Wood Beam (4)
 
-Short Description: xx
+Short Description: A coordinated planning workstation that organizes construction schedules, supply inventories, and restoration priorities in one place.
 
 ---
 
-## Invention
+## Mine Cart Loader
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Mine Cart Loader
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_mine-cart-loader
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Support Frame (3), Reinforced Plate (3), Precision Gears (3), Clockwork Spring (3), Steel Pipe (3), Pressure Valve (2)
 
-Short Description: xx
+Short Description: A heavy-duty mechanical loader that lifts and transfers mined materials into carts, reducing the effort required to move resources underground.
 
 ---
 
-## Invention
+## Manor Archive Organizer
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Manor Archive Organizer
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_manor-archive-organizer
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (3), Gold Ingot (2), Precision Gears (2), Silk Cloth (3), Support Frame (2), Waterproof Sealant (3)
 
-Short Description: xx
+Short Description: A refined archival system built to safely organize Pendrelle Manor's blueprints, invention records, and important family documents.
 
 ---
 
-## Invention
+## Mechanical Ledger Organizer
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Mechanical Ledger Organizer
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_mechanical-ledger-organizer
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (3), Clockwork Spring (3), Reinforced Plate (2), Gold Ingot (2), Hinges (3), Support Frame (1)
 
-Short Description: xx
+Short Description: A secure mechanical filing system that sorts financial records into clearly organized sections for faster review and long-term planning.
 
 ---
 
-## Invention
+## Automated Service Bell
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 14 Hours
 
-Display Name: xx
+Display Name: Automated Service Bell
 
-Gemstone Needed: xx
+Gemstone Needed: Amethyst
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.2 to 9.7
 
-ID: invention_
+ID: invention_automated-service-bell
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (2), Clockwork Spring (3), Copper Wiring (3), Gold Ingot (2), Reinforced Plate (1), Wood Beam (2)
 
-Short Description: xx
+Short Description: A responsive service bell system that mechanically routes guest requests, helping inn staff coordinate service without constant trips between rooms.
 
 ---
 
-## Invention
+## Precision Oven
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 17 Hours
 
-Display Name: xx
+Display Name: Precision Oven
 
-Gemstone Needed: xx
+Gemstone Needed: Ruby
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_precision-oven
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Thermal Insulation (4), Pressure Valve (3), Reinforced Plate (3), Precision Gears (2), Gold Ingot (3), Support Frame (2)
 
-Short Description: xx
+Short Description: A precisely regulated oven that maintains steady heat across its chambers, making large batches of home-style meals easier to prepare consistently.
 
 ---
 
-## Invention
+## Automatic Bell Regulator
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 17 Hours
 
-Display Name: xx
+Display Name: Automatic Bell Regulator
 
-Gemstone Needed: xx
+Gemstone Needed: Ruby
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_automatic-bell-regulator
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (3), Clockwork Spring (4), Gold Ingot (3), Reinforced Plate (2), Metal Bearings (3), Support Frame (2)
 
-Short Description: xx
+Short Description: A precision clockwork regulator that stabilizes the Bell Tower's timing mechanisms while preserving the character of its historic machinery.
 
 ---
 
-## Invention
+## Automatic Animal Groomer
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Automatic Animal Groomer
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_automatic-animal-groomer
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Brush Fibers (5), Precision Gears (2), Clockwork Spring (3), Reinforced Plate (2), Support Frame (2), Waterproof Sealant (3)
 
-Short Description: xx
+Short Description: A gentle automated grooming station that brushes livestock safely and consistently, reducing routine ranch work while keeping animals comfortable.
 
 ---
 
-## Invention
+## Field Irrigation System
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Field Irrigation System
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_field-irrigation-system
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Steel Pipe (5), Pressure Valve (3), Waterproof Sealant (4), Precision Gears (2), Support Frame (2), Reinforced Plate (2)
 
-Short Description: xx
+Short Description: A dependable field irrigation network that distributes water evenly across crop rows while reducing the time required for daily watering.
 
 ---
 
-## Invention
+## Botanical Catalog Station
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Botanical Catalog Station
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_botanical-catalog-station
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Reinforced Glass (3), Precision Gears (2), Gold Ingot (2), Silk Cloth (2), Thermal Insulation (2), Support Frame (2)
 
-Short Description: xx
+Short Description: A protected research station that organizes botanical notes and specimens while shielding fragile journals from environmental damage.
 
 ---
 
-## Invention
+## Garden Irrigation Fountain
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Garden Irrigation Fountain
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_garden-irrigation-fountain
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Steel Pipe (4), Pressure Valve (3), Waterproof Sealant (4), Reinforced Plate (2), Support Frame (2), Gold Ingot (2)
 
-Short Description: xx
+Short Description: A quiet decorative fountain that circulates water through the surrounding gardens, reducing upkeep while preserving Memorial Hill's peaceful atmosphere.
 
 ---
 
-## Invention
+## Automated Mail Sorter
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Automated Mail Sorter
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_automated-mail-sorter
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (3), Clockwork Spring (3), Reinforced Plate (2), Support Frame (2), Hinges (4), Gold Ingot (2)
 
-Short Description: xx
+Short Description: A mechanical sorting station that organizes letters and parcels by delivery route, allowing outgoing mail to be prepared more efficiently.
 
 ---
 
-## Invention
+## Community Workshop Planner
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 15 Hours
 
-Display Name: xx
+Display Name: Community Workshop Planner
 
-Gemstone Needed: xx
+Gemstone Needed: Pearl
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_community-workshop-planner
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Support Frame (2), Reinforced Glass (2), Precision Gears (2), Clockwork Spring (2), Gold Ingot (2), Wood Beam (5)
 
-Short Description: xx
+Short Description: A durable planning station that helps builders and inventors organize measurements, materials, and project stages for future community improvements.
 
 ---
 
-## Invention
+## Precision Dough Mixer
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Precision Dough Mixer
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_precision-dough-mixer
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (3), Clockwork Spring (3), Reinforced Plate (2), Gold Ingot (2), Support Frame (2), Metal Bearings (3)
 
-Short Description: xx
+Short Description: A carefully calibrated mechanical mixer that kneads dough evenly and reliably, reducing preparation time without losing the bakery's handmade quality.
 
 ---
 
-## Invention
+## Automated Stock Organizer
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 16 Hours
 
-Display Name: xx
+Display Name: Automated Stock Organizer
 
-Gemstone Needed: xx
+Gemstone Needed: Emerald
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_automated-stock-organizer
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (3), Clockwork Spring (3), Reinforced Plate (2), Hinges (4), Support Frame (2), Gold Ingot (2)
 
-Short Description: xx
+Short Description: A mechanical shelving system that sorts and rotates store inventory while keeping the General Store's familiar displays easy to browse.
 
 ---
 
-## Invention
+## Clockmaker's Calibration Bench
 
-Carfting & Testing Duration: xx
+Crafting & Testing Duration: 17 Hours
 
-Display Name: xx
+Display Name: Clockmaker's Calibration Bench
 
-Gemstone Needed: xx
+Gemstone Needed: Ruby
 
-Grand Showcase Score Range: xx
+Grand Showcase Score Range: 8.5 to 10.0
 
-ID: invention_
+ID: invention_clockmakers-calibration-bench
 
 Invention Type: Quest
 
-Items Needed: xx
+Items Needed: Precision Gears (4), Clockwork Spring (4), Gold Ingot (3), Metal Bearings (3), Reinforced Plate (2), Support Frame (2)
 
-Short Description: xx
+Short Description: An exceptionally precise clockmaker's workstation built for measuring, aligning, and assembling delicate mechanisms with exacting accuracy.
 
 ---
