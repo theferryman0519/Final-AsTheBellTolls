@@ -173,7 +173,7 @@ Display Name: Silver Ore
 
 Growth Duration: None
 
-ID: item_ingredient_silver-or
+ID: item_ingredient_silver-ore
 
 Location Sold: Blackmere General Store
 
