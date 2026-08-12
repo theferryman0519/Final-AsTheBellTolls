@@ -328,6 +328,7 @@ Version: 0.0.1
 - Cooking System
 - Crafting System
 - Dialogue System
+- Economy System
 - Farming System
 - Fishing System
 - Gathering Probability System
