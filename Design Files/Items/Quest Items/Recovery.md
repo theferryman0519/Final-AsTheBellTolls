@@ -144,7 +144,7 @@ Short Description: A worn sketchpad filled with heartfelt clothing designs and i
 
 Display Name: Sheriff Badge
 
-ID: item_recovery_sherff-badge
+ID: item_recovery_sheriff-badge
 
 Location Found: Steelridge Watch
 
