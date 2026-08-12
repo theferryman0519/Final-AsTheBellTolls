@@ -340,6 +340,7 @@ Version: 0.0.1
 - Audio System (NOT STARTED)
 - Calendar System
 - Camera System (NOT STARTED)
+- Cemetery System (NOT STARTED)
 - Cooking System
 - Crafting System
 - Day End System (NOT STARTED)
