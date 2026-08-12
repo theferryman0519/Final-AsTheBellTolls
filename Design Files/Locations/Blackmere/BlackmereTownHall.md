@@ -10,6 +10,7 @@ Version: 0.0.1
 ## Information
 
 - Location for the Community Board for the player to complete daily quests.
+- Location for the player's Public Mailbox for the player to view their mail outside of the manor.
 - Located in Town Square District.
 
 ---
