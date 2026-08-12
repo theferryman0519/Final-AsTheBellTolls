@@ -138,7 +138,7 @@ Version: 0.0.1
 - Intro
 - Liked Gifts
 - Loved Gifts
-- Married Life (NOT STARTED)
+- Married Life
 - Proposals
 - Quests (Mid) (NOT STARTED)
 - Quests (Post) (NOT STARTED)
