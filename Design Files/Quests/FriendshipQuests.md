@@ -179,7 +179,7 @@ Owner: Adrian Lockwood
 
 Prerequisite: Have 2 Hearts with Adrian Lockwood
 
-Reward: 1,000 Bellnotes
+Reward: 1,000 Bellnotes / Library Donation Counter is permanently available for the player to use
 
 Title: A Chapter Begins
 
@@ -251,7 +251,7 @@ Type: Friendship Quest
 
 Backstory: Dante is preparing a new exhibit highlighting everyday objects recovered after the Great Flood. He asks the player to help gather several artifacts that tell the story of Blackmere’s resilience.
 
-ID: quest_curator-s-collection
+ID: quest_curators-collection
 
 Objective: Donate 5 artifacts to the Hall of Wonder, then return to Dante.
 
@@ -347,11 +347,11 @@ Type: Friendship Quest
 
 ---
 
-## Ready for Anything
+## Emergency Cabinet
 
 Backstory: Madison wants to ensure Blackmere is prepared for future emergencies without relying solely on her. She asks the player to create a device that helps organize emergency equipment so every resident can respond quickly when needed.
 
-ID: quest_ready-for-anything
+ID: quest_emergency-cabinet
 
 Objective: Craft the "Emergency Response Cabinet" invention and return to Madison Remington.
 
@@ -361,7 +361,7 @@ Prerequisite: Have 8 Hearts with Madison Remington
 
 Reward: 2,000 Bellnotes / Emergency Response Cabinet permanently appears inside Blackmere Town Hall
 
-Title: Ready for Anything
+Title: Emergency Cabinet
 
 Type: Friendship Quest
 
@@ -531,7 +531,7 @@ Type: Friendship Quest
 
 Backstory: Victor has several trade agreements arriving in Blackmere, but he needs help gathering a variety of local goods before the caravan departs. He asks the player to lend a hand so Blackmere’s finest products can reach neighboring towns.
 
-ID: quest_merchant-s-run
+ID: quest_merchants-run
 
 Objective: Sell 10 items to Victor at the Caravan Stall.
 
