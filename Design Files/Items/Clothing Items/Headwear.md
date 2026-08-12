@@ -315,7 +315,7 @@ Category: Headwear
 
 Display Name: Workman's Cap
 
-ID: item_clothing_workman-s-cap
+ID: item_clothing_workmans-cap
 
 Location Sold: Thread & Thimble
 
