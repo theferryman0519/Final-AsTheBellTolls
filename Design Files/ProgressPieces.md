@@ -379,7 +379,7 @@ Version: 0.0.1
 - Restoration System
 - Romance System (NOT STARTED)
 - Save System
-- Scene System (NOT STARTED)
+- Scene System
 - Shop System (NOT STARTED)
 - Stamina System (NOT STARTED)
 - System Interaction Rules (NOT STARTED)
