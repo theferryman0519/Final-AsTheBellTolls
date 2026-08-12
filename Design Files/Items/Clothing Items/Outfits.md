@@ -415,7 +415,7 @@ Category: Outfits
 
 Display Name: Founder's Day Outfit
 
-ID: item_clothing_founder-s-day-outfit
+ID: item_clothing_founders-day-outfit
 
 Location Sold: Thread & Thimble
 
@@ -455,7 +455,7 @@ Category: Outfits
 
 Display Name: Clockmaker's Apprentice Outfit
 
-ID: item_clothing_clockmaker-s-apprentice-outfit
+ID: item_clothing_clockmakers-apprentice-outfit
 
 Location Sold: Thread & Thimble
 
@@ -515,7 +515,7 @@ Category: Outfits
 
 Display Name: Blacksmith's Best
 
-ID: item_clothing_blacksmith-s-best
+ID: item_clothing_blacksmiths-best
 
 Location Sold: Thread & Thimble
 
@@ -615,7 +615,7 @@ Category: Outfits
 
 Display Name: Bellringer's Ceremonial Outfit
 
-ID: item_clothing_bellringer-s-ceremonial-outfit
+ID: item_clothing_bellringers-ceremonial-outfit
 
 Location Sold: Thread & Thimble
 
@@ -715,7 +715,7 @@ Category: Outfits
 
 Display Name: Children's Festival Outfit
 
-ID: item_clothing_children-s-festival-outfit
+ID: item_clothing_childrens-festival-outfit
 
 Location Sold: Thread & Thimble
 
