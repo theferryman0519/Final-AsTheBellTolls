@@ -7,13 +7,12 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- COMPLETE
 - IN PROGRESS
 - NOT STARTED
 
 ---
 
-- Game Design Document (COMPLETE)
+- Game Design Document
 - Progress Pieces (IN PROGRESS - Other necessary additions)
 - Table of Contents (IN PROGRESS - Other necessary additions)
 
@@ -30,11 +29,11 @@ Version: 0.0.1
 
 ### Deceased
 
-- Erika Ashcroft (COMPLETE)
-- Ian Thorne (COMPLETE)
-- James Calder (COMPLETE)
-- Myrtle Pendrelle (COMPLETE)
-- Opal Pierce (COMPLETE)
+- Erika Ashcroft
+- Ian Thorne
+- James Calder
+- Myrtle Pendrelle
+- Opal Pierce
 
 ### Marriage Candidates
 
@@ -70,22 +69,22 @@ Version: 0.0.1
 
 ### Pets & Animals
 
-- Bee (COMPLETE)
-- Cat (COMPLETE)
-- Chicken (COMPLETE)
-- Cow (COMPLETE)
-- Dog (COMPLETE)
-- Duck (COMPLETE)
-- Goat (COMPLETE)
-- Goose (COMPLETE)
-- Horse (COMPLETE)
-- Pig (COMPLETE)
-- Sheep (COMPLETE)
-- Silkworm (COMPLETE)
+- Bee
+- Cat
+- Chicken
+- Cow
+- Dog
+- Duck
+- Goat
+- Goose
+- Horse
+- Pig
+- Sheep
+- Silkworm
 
 ### Politicians
 
-- Rupert Munro (COMPLETE)
+- Rupert Munro
 
 ### Rivals
 
@@ -93,17 +92,17 @@ Version: 0.0.1
 
 ### Traders
 
-- Kai Vale (COMPLETE)
-- Kay Vale (COMPLETE)
-- Kegan Vale (COMPLETE)
-- Kiki Vale (COMPLETE)
+- Kai Vale
+- Kay Vale
+- Kegan Vale
+- Kiki Vale
 
 ---
 
 ## Code Setup
 
 - Controllers (NOT STARTED)
-- Data IDs (NOT STARTED)
+- Data IDs (IN PROGRESS - Needing dialogue and mail items)
 - Dependencies (NOT STARTED)
 - Enums (NOT STARTED)
 - Event Channels (NOT STARTED)
@@ -121,31 +120,31 @@ Version: 0.0.1
 ## Dialogue
 
 - Bond Events (NOT STARTED)
-- Disliked Gifts (COMPLETE)
+- Disliked Gifts
 - Edward Help (NOT STARTED)
-- Favorite Gifts (COMPLETE)
-- Festivals (COMPLETE)
-- First Meet (COMPLETE)
-- Generic Connection Level (COMPLETE)
-- Generic Daylight (COMPLETE)
-- Generic Friendship Level (COMPLETE)
-- Generic Memorial (COMPLETE)
-- Generic Profession (COMPLETE)
-- Generic Season (COMPLETE)
-- Generic Tip (COMPLETE)
+- Favorite Gifts
+- Festivals
+- First Meet
+- Generic Connection Level
+- Generic Daylight
+- Generic Friendship Level
+- Generic Memorial
+- Generic Profession
+- Generic Season
+- Generic Tip
 - Generic Weather (NOT STARTED)
 - Greetings (NOT STARTED)
-- Hated Gifts (COMPLETE)
+- Hated Gifts
 - Intro (NOT STARTED)
-- Liked Gifts (COMPLETE)
-- Loved Gifts (COMPLETE)
+- Liked Gifts
+- Loved Gifts
 - Married Life (NOT STARTED)
-- Proposals (COMPLETE)
+- Proposals
 - Quests (Mid) (NOT STARTED)
 - Quests (Post) (NOT STARTED)
 - Quests (Pre) (NOT STARTED)
-- Shopping (COMPLETE)
-- Tolerated Gifts (COMPLETE)
+- Shopping
+- Tolerated Gifts
 
 ---
 
@@ -153,48 +152,48 @@ Version: 0.0.1
 
 ### Main Festivals
 
-- Blackmere Trade Festival (COMPLETE)
-- Fun in the Sun Festival (COMPLETE)
-- Grand Showcase (COMPLETE)
-- Harvest Supper (COMPLETE)
-- Hollow Moon Night (COMPLETE)
-- River Remembrance Day (COMPLETE)
-- Seedwake Brunch (COMPLETE)
-- Snow Bell's Eve (COMPLETE)
-- Toll of Hearths (COMPLETE)
+- Blackmere Trade Festival
+- Fun in the Sun Festival
+- Grand Showcase
+- Harvest Supper
+- Hollow Moon Night
+- River Remembrance Day
+- Seedwake Brunch
+- Snow Bell's Eve
+- Toll of Hearths
 
 ### Mini Festivals
 
-- Aurora Watch (COMPLETE)
-- Cooking with the Twins (COMPLETE)
-- Player Wedding (COMPLETE)
-- Salmon Run (COMPLETE)
-- Trout Trials (COMPLETE)
+- Aurora Watch
+- Cooking with the Twins
+- Player Wedding
+- Salmon Run
+- Trout Trials
 
 ### Ongoing Events
 
-- Breakfast at the Inn (COMPLETE)
-- International Trade Cart (COMPLETE)
-- Supper with the Mercers (COMPLETE)
+- Breakfast at the Inn
+- International Trade Cart
+- Supper with the Mercers
 
 ### Seasonal Data
 
-- Autumn (COMPLETE)
-- Spring (COMPLETE)
-- Summer (COMPLETE)
-- Winter (COMPLETE)
+- Autumn
+- Spring
+- Summer
+- Winter
 
 ---
 
 ## Inventions
 
-- Cobalt Tier Inventions (COMPLETE)
-- Copper Tier Inventions (COMPLETE)
-- Gold Tier Inventions (COMPLETE)
-- Grand Showcase Inventions (COMPLETE)
-- Iron Tier Inventions (COMPLETE)
-- NPC Quest Inventions (NOT STARTED)
-- Silver Tier Inventions (COMPLETE)
+- Cobalt Tier Inventions
+- Copper Tier Inventions
+- Gold Tier Inventions
+- Grand Showcase Inventions
+- Iron Tier Inventions
+- NPC Quest Inventions
+- Silver Tier Inventions
 
 ---
 
@@ -202,61 +201,61 @@ Version: 0.0.1
 
 ### Clothing Items
 
-- Accessories (COMPLETE)
-- Bottoms (COMPLETE)
-- Footwear (COMPLETE)
-- Headwear (COMPLETE)
-- Outfits (COMPLETE)
-- Tops (COMPLETE)
+- Accessories
+- Bottoms
+- Footwear
+- Headwear
+- Outfits
+- Tops
 
 ### Ingredient Items
 
-- Byproducts (COMPLETE)
-- Flowers (COMPLETE)
-- Flower Seeds (COMPLETE)
-- Forageables (COMPLETE)
-- Garden Crops (COMPLETE)
-- Garden Seeds (COMPLETE)
-- Gemstones (COMPLETE)
-- Herbs (COMPLETE)
-- Lake Fish (COMPLETE)
-- Orchard Crops (COMPLETE)
-- Orchard Seeds (COMPLETE)
-- Ore (COMPLETE)
-- River Fish (COMPLETE)
-- Universal Fish (COMPLETE)
+- Byproducts
+- Flowers
+- Flower Seeds
+- Forageables
+- Garden Crops
+- Garden Seeds
+- Gemstones
+- Herbs
+- Lake Fish
+- Orchard Crops
+- Orchard Seeds
+- Ore
+- River Fish
+- Universal Fish
 
 ### Interactable Items
 
-- Man Made (COMPLETE)
-- Natural (COMPLETE)
+- Man Made
+- Natural
 
 ### Mail Items
 
 - Event Reminders (NOT STARTED)
 - Event Requests (NOT STARTED)
 - Humor Notes (NOT STARTED)
-- Overflow Item (COMPLETE)
+- Overflow Item
 - Quest Requests (NOT STARTED)
 
 ### Quest Items
 
-- Recovery (COMPLETE)
+- Recovery
 
 ### Recipe Items
 
-- Drinks (COMPLETE)
-- Fabrications (COMPLETE)
-- Meals (COMPLETE)
-- Tonics (COMPLETE)
+- Drinks
+- Fabrications
+- Meals
+- Tonics
 
 ### Useful Items
 
-- Library Books (COMPLETE)
-- Museum Artifacts (COMPLETE)
-- Record Discs (COMPLETE)
-- Statues (COMPLETE)
-- Tools (COMPLETE)
+- Library Books
+- Museum Artifacts
+- Record Discs
+- Statues
+- Tools
 
 ---
 
@@ -264,73 +263,73 @@ Version: 0.0.1
 
 ### Blackmere
 
-- 1 Resident Lane (COMPLETE)
-- 2 Resident Lane (COMPLETE)
-- 3 Resident Lane (COMPLETE)
-- 4 Resident Lane (COMPLETE)
-- 5 Resident Lane (COMPLETE)
-- 6 Resident Lane (COMPLETE)
-- A. Whitmore Public Library (COMPLETE)
-- A. Whitmore Public School (COMPLETE)
-- Blackmere Bank & Exchange (COMPLETE)
-- Blackmere Bell Tower (COMPLETE)
-- Blackmere General Store (COMPLETE)
-- Blackmere Town Hall (COMPLETE)
-- Caravan Stall (COMPLETE)
-- Hall of Wonder (COMPLETE)
-- Ironveil Forge (COMPLETE)
-- Klein Woodworks (COMPLETE)
-- Rain & Hale (COMPLETE)
-- Riverbend Fishery (COMPLETE)
-- Thread & Thimble (COMPLETE)
-- Weiss Design Studio (COMPLETE)
-- Winding Banks Inn (COMPLETE)
+- 1 Resident Lane
+- 2 Resident Lane
+- 3 Resident Lane
+- 4 Resident Lane
+- 5 Resident Lane
+- 6 Resident Lane
+- A. Whitmore Public Library
+- A. Whitmore Public School
+- Blackmere Bank & Exchange
+- Blackmere Bell Tower
+- Blackmere General Store
+- Blackmere Town Hall
+- Caravan Stall
+- Hall of Wonder
+- Ironveil Forge
+- Klein Woodworks
+- Rain & Hale
+- Riverbend Fishery
+- Thread & Thimble
+- Weiss Design Studio
+- Winding Banks Inn
 
 ### Morvanya
 
-- Ashfall Mines (COMPLETE)
-- Gloamwood Depths (COMPLETE)
-- Gloamwood Forest (COMPLETE)
-- Graythorne Lake (COMPLETE)
-- Ironveil Peak (COMPLETE)
-- Memorial Hill (COMPLETE)
-- Mercer Farms (COMPLETE)
-- Steelridge Watch (COMPLETE)
+- Ashfall Mines
+- Gloamwood Depths
+- Gloamwood Forest
+- Graythorne Lake
+- Ironveil Peak
+- Memorial Hill
+- Mercer Farms
+- Steelridge Watch
 
 ### Pendrelle Manor
 
-- Barn (COMPLETE)
-- Butler Quarters (COMPLETE)
-- Central Room (COMPLETE)
-- Coop (COMPLETE)
-- Dining Hall (COMPLETE)
-- Garden (COMPLETE)
-- Kitchen (COMPLETE)
-- Laboratory (COMPLETE)
-- Master Bedroom (COMPLETE)
-- Nursery (COMPLETE)
-- Orchard (COMPLETE)
-- Stables (COMPLETE)
+- Barn
+- Butler Quarters
+- Central Room
+- Coop
+- Dining Hall
+- Garden
+- Kitchen
+- Laboratory
+- Master Bedroom
+- Nursery
+- Orchard
+- Stables
 
 ---
 
 ## Progression
 
-- Achievement Ledger (COMPLETE)
-- Blueprint Book Progression (COMPLETE)
-- Main Story Progression (COMPLETE)
-- NPC Connection Progression (COMPLETE)
-- NPC Friendship Progression (COMPLETE)
+- Achievement Ledger
+- Blueprint Book Progression
+- Main Story Progression
+- NPC Connection Progression
+- NPC Friendship Progression
 
 ---
 
 ## Quests
 
-- Achievement Quests (COMPLETE)
-- Connection Quests (COMPLETE)
-- Daily Quests (COMPLETE)
-- Friendship Quests (COMPLETE)
-- Tutorial Quests (COMPLETE)
+- Achievement Quests
+- Connection Quests
+- Daily Quests
+- Friendship Quests
+- Tutorial Quests
 
 ---
 
@@ -339,62 +338,62 @@ Version: 0.0.1
 - Admin System (NOT STARTED)
 - Ambiance System (NOT STARTED)
 - Audio System (NOT STARTED)
-- Calendar System (COMPLETE)
+- Calendar System
 - Camera System (NOT STARTED)
-- Cooking System (COMPLETE)
-- Crafting System (COMPLETE)
+- Cooking System
+- Crafting System
 - Day End System (NOT STARTED)
 - Day End Selling System (NOT STARTED)
-- Dialogue System (COMPLETE)
+- Dialogue System
 - Economy System (NOT STARTED)
-- Farming System (COMPLETE)
+- Farming System
 - Feedback System (NOT STARTED)
 - Festival System (NOT STARTED)
-- Fishing System (COMPLETE)
+- Fishing System
 - Game Event System (NOT STARTED)
 - Game State System (NOT STARTED)
-- Gathering Probability System (COMPLETE)
+- Gathering Probability System
 - HUD System (NOT STARTED)
 - HUD Notification System (NOT STARTED)
-- Husbandry System (COMPLETE)
-- Input System (COMPLETE)
+- Husbandry System
+- Input System
 - Interaction System (NOT STARTED)
-- Invention System (COMPLETE)
-- Inventory System (COMPLETE)
-- Item System (COMPLETE)
+- Invention System
+- Inventory System
+- Item System
 - Library System (NOT STARTED)
-- Loan System (COMPLETE)
-- Mail System (COMPLETE)
+- Loan System
+- Mail System
 - Map System (NOT STARTED)
 - Marriage System (NOT STARTED)
 - Museum System (NOT STARTED)
-- NPC Connection System (COMPLETE)
-- NPC Friendship System (COMPLETE)
-- NPC Mood System (COMPLETE)
+- NPC Connection System
+- NPC Friendship System
+- NPC Mood System
 - NPC Navigation System (NOT STARTED)
 - NPC Routine System (NOT STARTED)
 - Player Customization System (NOT STARTED)
 - Player Movement System (NOT STARTED)
 - Player Progression System (NOT STARTED)
-- Quest System (COMPLETE)
+- Quest System
 - Resource Respawn System (NOT STARTED)
-- Restoration System (COMPLETE)
+- Restoration System
 - Romance System (NOT STARTED)
-- Save System (COMPLETE)
+- Save System
 - Scene System (NOT STARTED)
 - Shop System (NOT STARTED)
 - Stamina System (NOT STARTED)
 - System Interaction Rules (NOT STARTED)
-- Time System (COMPLETE)
-- Time Manipulation System (COMPLETE)
-- Tonic Making System (COMPLETE)
+- Time System
+- Time Manipulation System
+- Tonic Making System
 - Tool System (NOT STARTED)
 - Tutorial System (NOT STARTED)
 - UI Menu System (NOT STARTED)
 - UI Player Menu System (NOT STARTED)
 - UI System (NOT STARTED)
 - Unlock System (NOT STARTED)
-- Weather System (COMPLETE)
+- Weather System
 - Weather Forecast System (NOT STARTED)
 
 ---
