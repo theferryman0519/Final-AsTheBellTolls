@@ -345,7 +345,7 @@ Version: 0.0.1
 - Day End System (NOT STARTED)
 - Day End Selling System (NOT STARTED)
 - Dialogue System
-- Economy System (NOT STARTED)
+- Economy System
 - Farming System
 - Festival System (NOT STARTED)
 - Fishing System
