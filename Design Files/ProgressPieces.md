@@ -347,7 +347,6 @@ Version: 0.0.1
 - Dialogue System
 - Economy System (NOT STARTED)
 - Farming System
-- Feedback System (NOT STARTED)
 - Festival System (NOT STARTED)
 - Fishing System
 - Game Event System (NOT STARTED)
