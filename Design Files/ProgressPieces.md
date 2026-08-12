@@ -132,7 +132,7 @@ Version: 0.0.1
 - Generic Profession
 - Generic Season
 - Generic Tip
-- Generic Weather (NOT STARTED)
+- Generic Weather
 - Greetings (NOT STARTED)
 - Hated Gifts
 - Intro (NOT STARTED)
