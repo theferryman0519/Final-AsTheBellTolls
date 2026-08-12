@@ -137,7 +137,7 @@ Objective: Restore the Master Bedroom to Rebuilding stage
 
 Owner: Edward Ashcroft
 
-Prerequisite: None
+Prerequisite: Thoughtful Gifts Quest Complete
 
 Reward: 750 Bellnotes
 
