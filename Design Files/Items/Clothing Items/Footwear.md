@@ -595,7 +595,7 @@ Category: Footwear
 
 Display Name: Clockmaker's Shoes
 
-ID: item_clothing_clockmaker-s-shoes
+ID: item_clothing_clockmakers-shoes
 
 Location Sold: Thread & Thimble
 
