@@ -629,7 +629,7 @@ Display Name: Sapphire
 
 Growth Duration: None
 
-ID: item_ingredient_sappire
+ID: item_ingredient_sapphire
 
 Location Sold: None
 
