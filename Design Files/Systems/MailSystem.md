@@ -9,6 +9,8 @@ Version: 0.0.1
 
 ## Base Information
 
+- The player's mailbox is available after reaching 3 Hearts with Martin.
+- Before reaching 3 Hearts with Martin, the player can access their mail from within the Town Hall.
 - Mail is received at the Manor's mailbox at the start of each day, if mail is received.
 - Mail can hold just text or both text and gifted items.
 
