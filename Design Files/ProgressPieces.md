@@ -135,7 +135,7 @@ Version: 0.0.1
 - Generic Weather
 - Greetings (NOT STARTED)
 - Hated Gifts
-- Intro (NOT STARTED)
+- Intro
 - Liked Gifts
 - Loved Gifts
 - Married Life (NOT STARTED)
