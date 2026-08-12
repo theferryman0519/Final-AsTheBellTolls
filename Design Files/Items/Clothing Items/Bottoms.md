@@ -695,7 +695,7 @@ Category: Bottoms
 
 Display Name: Tailor's Trousers
 
-ID: item_clothing_tailor-s-trousers
+ID: item_clothing_tailors-trousers
 
 Location Sold: Thread & Thimble
 
@@ -835,7 +835,7 @@ Category: Bottoms
 
 Display Name: Clockmaker's Trousers
 
-ID: item_clothing_clockmaker-s-trousers
+ID: item_clothing_clockmakers-trousers
 
 Location Sold: Thread & Thimble
 
@@ -855,7 +855,7 @@ Category: Bottoms
 
 Display Name: Merchant's Slacks
 
-ID: item_clothing_merchant-s-slacks
+ID: item_clothing_merchants-slacks
 
 Location Sold: Thread & Thimble
 
@@ -915,7 +915,7 @@ Category: Bottoms
 
 Display Name: Gatherer's Skirt
 
-ID: item_clothing_gatherer-s-skirt
+ID: item_clothing_gatherers-skirt
 
 Location Sold: Thread & Thimble
 
