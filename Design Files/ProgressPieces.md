@@ -133,7 +133,7 @@ Version: 0.0.1
 - Generic Season
 - Generic Tip
 - Generic Weather
-- Greetings (NOT STARTED)
+- Greetings
 - Hated Gifts
 - Intro
 - Liked Gifts
