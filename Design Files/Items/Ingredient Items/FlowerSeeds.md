@@ -59,7 +59,7 @@ Display Name: Chrysanthemum Seeds
 
 Growth Duration: 7 Days
 
-ID: item_ingredient_chyrsanthemum-seeds
+ID: item_ingredient_chrysanthemum-seeds
 
 Location Sold: Blackmere General Store
 
