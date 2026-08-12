@@ -3,7 +3,7 @@ Title: Items / Interactable Items / Man Made
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -142,66 +142,6 @@ Items Received: None
 Items Received Count Range: 0
 
 Locations Found: All buildings
-
-Spawn Type: Placed
-
----
-
-## Storage Unit - Large
-
-Display Name: Large Storage Unit
-
-ID: item_interactable_storage-unit-large
-
-Interaction Action: Store up to 32 items
-
-Interaction Tool: None
-
-Items Received: None
-
-Items Received Count Range: 0
-
-Locations Found: Pendrelle Manor
-
-Spawn Type: Placed
-
----
-
-## Storage Unit - Medium
-
-Display Name: Medium Storage Unit
-
-ID: item_interactable_storage-unit-medium
-
-Interaction Action: Store up to 24 items
-
-Interaction Tool: None
-
-Items Received: None
-
-Items Received Count Range: 0
-
-Locations Found: Pendrelle Manor
-
-Spawn Type: Placed
-
----
-
-## Storage Unit - Small
-
-Display Name: Small Storage Unit
-
-ID: item_interactable_storage-unit-small
-
-Interaction Action: Store up to 16 items
-
-Interaction Tool: None
-
-Items Received: None
-
-Items Received Count Range: 0
-
-Locations Found: Pendrelle Manor
 
 Spawn Type: Placed
 
