@@ -375,7 +375,7 @@ Version: 0.0.1
 - NPC Mood System
 - NPC Navigation System (NOT STARTED)
 - NPC Routine System (NOT STARTED)
-- Player Customization System (NOT STARTED)
+- Player Customization System (IN PROGRESS - Needing hair styles)
 - Player Movement System (NOT STARTED)
 - Player Progression System (NOT STARTED)
 - Quest System
