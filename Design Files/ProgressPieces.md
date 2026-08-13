@@ -252,6 +252,7 @@ Version: 0.0.1
 
 ### Useful Items
 
+- Dove Timepiece
 - Library Books
 - Museum Artifacts
 - Record Discs
