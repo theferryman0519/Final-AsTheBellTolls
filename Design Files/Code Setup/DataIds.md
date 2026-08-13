@@ -445,6 +445,7 @@ Version: 0.0.1
 - item_clothing_new-years-ball-outfit
 - item_clothing_newsboy-cap
 - item_clothing_oilskin-rain-jacket
+- item_clothing_oval-rimmed-glasses
 - item_clothing_oxford-shoes
 - item_clothing_patched-winter-pants
 - item_clothing_patched-work-pants
@@ -480,6 +481,7 @@ Version: 0.0.1
 - item_clothing_river-wading-boots
 - item_clothing_riverside-outfit
 - item_clothing_roll-sleeve-work-shirt
+- item_clothing_round-rimmed-glasses
 - item_clothing_ruffled-blouse
 - item_clothing_seamstress-smock
 - item_clothing_shawl-collar-sweater
