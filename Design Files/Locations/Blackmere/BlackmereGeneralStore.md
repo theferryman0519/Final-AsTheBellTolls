@@ -31,7 +31,7 @@ Version: 0.0.1
 
 ## Shop Items with Walter
 
-*Note: All items are visible at once when shopping based on their season.*
+*Note: All items are visible at once when shopping based on their season. The Dove Timepiece is only available for purchase once the player is at 12 Friendship Hearts with an NPC.*
 
 | Item        | Bellnote Amount | Season in Store
 |-------------|-----------------|---|
@@ -70,3 +70,4 @@ Version: 0.0.1
 | Sunflower Seeds     | 390 Bellnotes   | Summer
 | Winter Jasmine Seeds     | 105 Bellnotes   | Winter
 | Witch Hazel Seeds     | 255 Bellnotes   | Winter
+| Dove Timepiece     | 7,500 Bellnotes   | Spring, Summer, Autumn, Winter
