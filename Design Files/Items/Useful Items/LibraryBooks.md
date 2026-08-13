@@ -99,7 +99,7 @@ Title: Fish Know the Season
 
 ## Book 6
 
-Author: Edmund Pendrelle
+Author: Bernard Wick
 
 Category: Gameplay Tip
 
@@ -117,7 +117,7 @@ Title: The Practical Inventor
 
 ## Book 7
 
-Author: Eleanor Whitmore
+Author: Eleanor Fields
 
 Category: Gameplay Tip
 
@@ -153,7 +153,7 @@ Title: A Traveler's Map
 
 ## Book 9
 
-Author: Helen Ashcroft
+Author: Ruby Rivera
 
 Category: Gameplay Tip
 
@@ -207,7 +207,7 @@ Title: Before the Great Flood
 
 ## Book 12
 
-Author: Miriam Ashcroft
+Author: Miriam Heathrow
 
 Category: Blackmere History
 
@@ -225,7 +225,7 @@ Title: The Great Flood
 
 ## Book 13
 
-Author: Tobias Whitmore
+Author: Tobias Cradle
 
 Category: Blackmere History
 
@@ -279,7 +279,7 @@ Title: Market Days of Old
 
 ## Book 16
 
-Author: Samuel Pendrelle
+Author: Samuel Panter
 
 Category: Blackmere History
 
@@ -297,7 +297,7 @@ Title: Building the Manor
 
 ## Book 17
 
-Author: Gregory Mercer
+Author: Gregory Mire
 
 Category: Blackmere History
 
@@ -333,7 +333,7 @@ Title: Why the River Changed
 
 ## Book 19
 
-Author: Edmund Pendrelle
+Author: Bernard Wick
 
 Category: Pendrelle Manor & Clockmakers
 
@@ -351,7 +351,7 @@ Title: The Language of Gears
 
 ## Book 20
 
-Author: Edmund Pendrelle
+Author: Bernard Wick
 
 Category: Pendrelle Manor & Clockmakers
 
@@ -675,7 +675,7 @@ Title: Why Chickens Should Never Be Mayors
 
 ## Book 38
 
-Author: Olive Finch
+Author: Olive Hunch
 
 Category: Humor / Children's Book
 
