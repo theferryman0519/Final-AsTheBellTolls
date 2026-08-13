@@ -349,6 +349,7 @@ Version: 0.0.1
 - Day End Selling System (NOT STARTED)
 - Dialogue System
 - Economy System
+- Family System (NOT STARTED)
 - Farming System
 - Festival System (NOT STARTED)
 - Fishing System
@@ -367,7 +368,7 @@ Version: 0.0.1
 - Loan System
 - Mail System
 - Map System (NOT STARTED)
-- Marriage System (NOT STARTED)
+- Marriage System
 - Museum System (NOT STARTED)
 - NPC Connection System
 - NPC Friendship System
