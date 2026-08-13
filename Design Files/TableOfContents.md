@@ -342,6 +342,7 @@ Version: 0.0.1
 - Item System
 - Loan System
 - Mail System
+- Marriage System
 - NPC Connection System
 - NPC Friendship System
 - NPC Mood System
