@@ -346,6 +346,7 @@ Version: 0.0.1
 - NPC Connection System
 - NPC Friendship System
 - NPC Mood System
+- Player Customization System
 - Quest System
 - Restoration System
 - Save System
