@@ -227,6 +227,7 @@ Version: 0.0.1
 
 ### Interactable Items
 
+- Gravemarkers
 - Man Made
 - Natural
 
@@ -340,7 +341,7 @@ Version: 0.0.1
 - Audio System (NOT STARTED)
 - Calendar System
 - Camera System (NOT STARTED)
-- Cemetery System (NOT STARTED)
+- Cemetery System
 - Cooking System
 - Crafting System
 - Day End System (NOT STARTED)
