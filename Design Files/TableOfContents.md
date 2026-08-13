@@ -216,6 +216,7 @@ Version: 0.0.1
 
 ### Interactable Items
 
+- Gravemarkers
 - Man Made
 - Natural
 
@@ -325,6 +326,7 @@ Version: 0.0.1
 ## Systems
 
 - Calendar System
+- Cemetery System
 - Cooking System
 - Crafting System
 - Dialogue System
