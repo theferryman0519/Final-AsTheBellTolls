@@ -73,6 +73,64 @@ Version: 0.0.1
 
 ---
 
+## Colors
+
+- color_amber
+- color_black
+- color_blonde
+- color_blue
+- color_brass
+- color_brown
+- color_burgundy
+- color_charcoal
+- color_chestnut
+- color_copper
+- color_cornflower-blue
+- color_cream
+- color_dark-blue
+- color_dark-brown
+- color_dark-green
+- color_dark-purple
+- color_dark-red
+- color_dusty-blue
+- color_forest-green
+- color_green
+- color_hazel
+- color_ivory
+- color_light-blue
+- color_light-brown
+- color_light-green
+- color_light-purple
+- color_light-red
+- color_marigold
+- color_moss
+- color_natural
+- color_navy
+- color_oat
+- color_ochre
+- color_olive
+- color_oxblood
+- color_plum
+- color_purple
+- color_red
+- color_rose
+- color_rust
+- color_sage
+- color_silver
+- color_skin-bronze
+- color_skin-deep
+- color_skin-espresso
+- color_skin-fair
+- color_skin-olive
+- color_skin-pale
+- color_slate
+- color_straw
+- color_tan
+- color_walnut
+- color_white
+
+---
+
 ## Dialogue
 
 ---
