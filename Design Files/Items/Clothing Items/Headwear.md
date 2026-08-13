@@ -427,6 +427,46 @@ Value Price: 215 Bellnotes
 
 ---
 
+## Oval-Rimmed Glasses
+
+Available Colors: Natural, Brown, Charcoal, Burgundy, Ivory
+
+Category: Headwear
+
+Display Name: Oval-Rimmed Glasses
+
+ID: item_clothing_oval-rimmed-glasses
+
+Location Sold: Thread & Thimble
+
+Purchase Price: 400 Bellnotes
+
+Short Description: A handcrafted headwear inspired by Blackmere's traditional fashions and built for both work and celebration.
+
+Value Price: 185 Bellnotes
+
+---
+
+## Round-Rimmed Glasses
+
+Available Colors: Natural, Brown, Charcoal, Burgundy, Ivory
+
+Category: Headwear
+
+Display Name: Round-Rimmed Glasses
+
+ID: item_clothing_round-rimmed-glasses
+
+Location Sold: Thread & Thimble
+
+Purchase Price: 400 Bellnotes
+
+Short Description: A handcrafted headwear inspired by Blackmere's traditional fashions and built for both work and celebration.
+
+Value Price: 185 Bellnotes
+
+---
+
 ## Harvest Straw Bonnet
 
 Available Colors: Natural, Brown, Charcoal, Burgundy
