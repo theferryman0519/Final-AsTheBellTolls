@@ -22,12 +22,12 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | Butler Help
-| Rebuilding        | Daily Advice
-| Recovering        | Weather Forecast
-| Renewed           | Manor Report
-| Growing           | Lost & Found
-| Prospering        | Groundskeeper
-| Flourishing       | Butler Tunnels
+| Restoration Stage | Unlocks          |
+|-------------------|------------------|
+| Weathered         | Butler Help      |
+| Rebuilding        | Daily Advice     |
+| Recovering        | Weather Forecast |
+| Renewed           | Manor Report     |
+| Growing           | Lost & Found     |
+| Prospering        | Groundskeeper    |
+| Flourishing       | Butler Tunnels   |

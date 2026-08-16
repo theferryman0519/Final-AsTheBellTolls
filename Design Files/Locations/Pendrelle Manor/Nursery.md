@@ -16,12 +16,12 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | n/a
-| Rebuilding        | n/a
-| Recovering        | 1 Max Child
-| Renewed           | 1 Max Child
-| Growing           | 2 Max Children
-| Prospering        | 3 Max Children
-| Flourishing       | 4 Max Children
+| Restoration Stage | Unlocks        |
+|-------------------|----------------|
+| Weathered         | n/a            |
+| Rebuilding        | n/a            |
+| Recovering        | 1 Max Child    |
+| Renewed           | 1 Max Child    |
+| Growing           | 2 Max Children |
+| Prospering        | 3 Max Children |
+| Flourishing       | 4 Max Children |

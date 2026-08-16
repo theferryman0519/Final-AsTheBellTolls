@@ -133,7 +133,7 @@ Backstory: Edward has cared for Pendrelle Manor through years of decline. He ask
 
 ID: quest_home-is-where-the-heart-is
 
-Objective: Restore the Master Bedroom to Rebuilding stage
+Objective: Restore the Main Bedroom to Rebuilding stage
 
 Owner: Edward Ashcroft
 

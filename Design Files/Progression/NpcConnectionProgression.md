@@ -921,7 +921,7 @@ Version: 0.0.1
 
 **<u>Event:</u>** As he carefully ties the bundle of letters with fresh ribbon, Martin admits that he spent years believing strength meant never asking for help. Reading one final passage from his mother’s writing, he realizes she often accepted support from others without ever considering herself weak. Looking toward the player, he says, “I’ve spent my life making sure everyone else stayed connected...perhaps it’s time I allowed myself to be connected too.” For the first time, Martin accepts that trusting others isn’t a burden; it is one of the greatest gifts people can give each other. He begins sharing responsibilities instead of quietly carrying them alone.
 
-**<u>Reward:</u>** Requests posted on the Community Board permanently reward 20% more Bellnotes.
+**<u>Reward:</u>** Requests posted on the Community Board permanently reward 25% more Bellnotes.
 
 ---
 

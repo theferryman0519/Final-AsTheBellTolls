@@ -3,7 +3,7 @@ Title: Game Design Document
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -404,7 +404,7 @@ The Heads-Up Display (HUD) in *As The Bell Tolls* showcases a number of differen
 
 In the upper right corner of the screen is the date and time panel. This shows the current time (in a 12-hour format by default, but could be changed to a 24-hour format in the game settings) above the current date. An icon of the current weather sits to the left of the time and date. Below the calendar information is the current amount of Bellnotes owned by the player.
 
-In the bottom right corner sits the current tool icon, showing the item from the player's Tool Belt currently being held by the player. If no item is being held, then the icon shifts to a pair of gloves, signifying that the player is not curently holding any tool. Selecting the tool opens the Tool Wheel, which will appear in the center of the screen. Here, a player may select which tool they would like to be holding in order to use (i.e. Axe, Scythe, Hammer, etc). Once selected, the Tool Wheel disappears and the icon in the panel will show that selected tool. Once the player has the ability to manipulate time, the selected object will be a smaller icon above the current tool.
+In the bottom right corner sits the current tool icon, showing the item from the player's Tool Belt currently being held by the player. If no item is being held, then the icon shifts to a pair of gloves, signifying that the player is not curently holding any tool. Selecting the tool opens the Tool Wheel, which will appear in the center of the screen. Here, a player may select which tool they would like to be holding in order to use (i.e. Axe, Scythe, Hammer, etc). Once selected, the Tool Wheel disappears and the icon in the panel will show that selected tool.
 
 When the player interacts with an object or NPC, a small panel will pop up at the bottom of the screen in the center. The panel will show the interact input button as well as what the player will be interacting with (i.e. talking to an NPC, cutting a tree, opening a door, etc.). If no interactions are available at the time, the pop up panel will be hidden.
 

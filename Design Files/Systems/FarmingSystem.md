@@ -23,15 +23,15 @@ Version: 0.0.1
 
 ## Soil Square Counts
 
-| Restoration Stage | Garden Count | Orchard Count
-|-------------------|--------------|---|
-| Weathered         | 0            | 0
-| Rebuilding        | 9            | 6
-| Recovering        | 12           | 9
-| Renewed           | 15           | 12
-| Growing           | 18           | 15
-| Prospering        | 24           | 18
-| Flourishing       | 30           | 24
+| Restoration Stage | Garden Count | Orchard Count |
+|-------------------|--------------|---------------|
+| Weathered         | 0            | 0             |
+| Rebuilding        | 9            | 6             |
+| Recovering        | 12           | 9             |
+| Renewed           | 15           | 12            |
+| Growing           | 18           | 15            |
+| Prospering        | 24           | 18            |
+| Flourishing       | 30           | 24            |
 
 ---
 

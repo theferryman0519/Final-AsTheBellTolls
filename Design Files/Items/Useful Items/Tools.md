@@ -11,7 +11,7 @@ Version: 0.0.1
 
 Base Item Amount Gathered: 3
 
-Base Stamina Usage: 5
+Base Stamina Usage: 0
 
 Display Name: Fishing Net
 

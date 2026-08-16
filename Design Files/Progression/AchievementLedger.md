@@ -27,24 +27,24 @@ Version: 0.0.1
 
 ## Total Counts
 
-| Item / Action         | Total Count
-|-----------------------|---|
-| Fish                  | 17
-| Flowers               | 20
-| Crops                 | 31
-| Meals                 | 91
-| Drinks                | 41
-| Tonics                | 35
-| Fabrications          | 48
-| Clothing              | 240
-| Inventions            | 120
-| NPC Friendship Bonds  | 31
-| NPC Connection Bonds  | 31
-| Pendrelle Manor Rooms | 15
-| Blackmere Buildings   | 21
-| Museum Artifacts      | 60
-| Museum Gemstones      | 20
-| Library Books         | 50
-| Record Discs          | 19
+| Item / Action         | Total Count |
+|-----------------------|-------------|
+| Fish                  | 17          |
+| Flowers               | 20          |
+| Crops                 | 31          |
+| Meals                 | 91          |
+| Drinks                | 41          |
+| Tonics                | 35          |
+| Fabrications          | 48          |
+| Clothing              | 240         |
+| Inventions            | 120         |
+| NPC Friendship Bonds  | 31          |
+| NPC Connection Bonds  | 31          |
+| Pendrelle Manor Rooms | 15          |
+| Blackmere Buildings   | 21          |
+| Museum Artifacts      | 60          |
+| Museum Gemstones      | 20          |
+| Library Books         | 50          |
+| Record Discs          | 19          |
 
 Total Item Count: 890

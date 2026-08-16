@@ -193,7 +193,7 @@ Version: 0.0.1
 
 **<u>Objective:</u>** Collect and gather 5 books around the Library, then return to Adrian.
 
-**<u>Reward:</u>** 1,000 Bellnotes
+**<u>Reward:</u>** 1,000 Bellnotes / Library Donation Counter is permanently available for the player to use
 
 ### 6 Heart Event
 

@@ -13,6 +13,17 @@ Version: 0.0.1
 
 ---
 
+## Audio
+
+- Ambiance
+- Footsteps
+- Music
+- Sound Effects
+- Speech
+- Weather
+
+---
+
 ## Characters
 
 ### Children
@@ -193,6 +204,7 @@ Version: 0.0.1
 - Accessories
 - Bottoms
 - Footwear
+- Hairstyles
 - Headwear
 - Outfits
 - Tops
@@ -297,7 +309,7 @@ Version: 0.0.1
 - Garden
 - Kitchen
 - Laboratory
-- Master Bedroom
+- Main Bedroom
 - Nursery
 - Orchard
 - Stables
@@ -311,6 +323,8 @@ Version: 0.0.1
 - Main Story Progression
 - NPC Connection Progression
 - NPC Friendship Progression
+- Unlock Progression
+- Version Roadmap
 
 ---
 
@@ -326,34 +340,60 @@ Version: 0.0.1
 
 ## Systems
 
+- Admin System
+- Audio System
 - Calendar System
+- Camera System
 - Cemetery System
 - Cooking System
 - Crafting System
+- Day End Selling System
+- Day End System
 - Dialogue System
 - Economy System
+- Family System
 - Farming System
+- Festival System
 - Fishing System
+- Game Event System
+- Game State System
 - Gathering Probability System
+- HUD System
 - Husbandry System
 - Input System
+- Interaction System
 - Invention System
 - Inventory System
 - Item System
+- Library System
 - Loan System
 - Mail System
+- Map System
 - Marriage System
+- Museum System
 - NPC Connection System
 - NPC Friendship System
 - NPC Mood System
+- NPC Navigation System
+- NPC Routine System
 - Player Customization System
+- Player Movement System
 - Quest System
+- Resource Respawn System
 - Restoration System
 - Save System
 - Scene System
+- Stamina System
+- System Interaction Rules
 - Time System
 - Time Manipulation System
 - Tonic Making System
+- Tool System
+- Tutorial System
+- UI Menu System
+- UI Player Menu System
+- UI System
 - Weather System
+- Weather Forecast System
 
 ---

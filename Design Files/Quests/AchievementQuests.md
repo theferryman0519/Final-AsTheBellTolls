@@ -137,7 +137,7 @@ Objective: Collect all Library Books
 
 Owner: Adrian Lockwood
 
-Prerequisite: Have at least 1 Heart with Adrian Lockwood
+Prerequisite: Have at least 3 Hearts with Adrian Lockwood
 
 Reward: Endless Shelf Statue
 

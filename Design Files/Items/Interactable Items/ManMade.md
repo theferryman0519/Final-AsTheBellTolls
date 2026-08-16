@@ -61,7 +61,7 @@ Items Received: None
 
 Items Received Count Range: 0
 
-Locations Found: Pendrelle Manor (Master Bedroom)
+Locations Found: Pendrelle Manor (Main Bedroom)
 
 Spawn Type: Placed
 

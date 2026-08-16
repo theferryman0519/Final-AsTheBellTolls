@@ -11,7 +11,7 @@ Version: 0.0.1
 
 - Players will be able to customize their avatar at the beginning of the game.
 - Certain aspects of the player will be able to be altered during the game, others are not.
-- In order to change the player's appearance and clothing, they need to interact with the Dresser in the Master Bedroom in Pendrelle Manor.
+- In order to change the player's appearance and clothing, they need to interact with the Dresser in the Main Bedroom in Pendrelle Manor.
 - The player can also change their appearance and clothing at Thread & Thimble once Leo has at least 3 Friendship Hearts.
 
 ---
@@ -24,7 +24,7 @@ Version: 0.0.1
 - Body Size: Skinny, Slim, Fit, Normal, Curvy
 - Body Type: Feminine, Masculine, Middle
 - Pronouns: He/him, She/her, They/them
-- Hair Style: TODO
+- Hairstyle: Custom
 - Hair Color: Black, Blonde, Blue, Brown, Green, Purple, Red, White
 - Eye Color: Amber, Blue, Brown, Green, Hazel
 - Clothing Outfit: Master Inventor Outfit

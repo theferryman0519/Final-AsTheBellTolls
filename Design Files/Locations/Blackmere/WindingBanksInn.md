@@ -10,7 +10,7 @@ Version: 0.0.1
 ## Information
 
 - Location for player to shop for meals and drinks as well as rest and recover stamina.
-- When renting a room, the duration is for 2 hours and it refils 50 points of stamina.
+- When renting a room, the duration is for 2 hours and it refils 50 points of stamina. Players are only able to rent a room before 9:00pm.
 - Residence for Felix Holt, Frederick Holt, Helen Holt, and Theo Bennett.
 - Located in River Wharf District.
 
@@ -18,15 +18,15 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Weathered walls and worn furnishings make the inn feel tired.
-| Rebuilding        | Guest rooms and common areas undergo extensive repairs.
-| Recovering        | Cozy interiors and repaired rooms welcome travelers once more.
-| Renewed           | The restored inn feels warm, comfortable, and bustling.
-| Growing           | Decorative gardens and inviting outdoor seating add character.
-| Prospering        | Elegant furnishings and expanded amenities attract more guests.
-| Flourishing       | The flourishing inn becomes Blackmere's most beloved gathering place.
+| Restoration Stage | Appearance                                                            |
+|-------------------|-----------------------------------------------------------------------|
+| Weathered         | Weathered walls and worn furnishings make the inn feel tired.         |
+| Rebuilding        | Guest rooms and common areas undergo extensive repairs.               |
+| Recovering        | Cozy interiors and repaired rooms welcome travelers once more.        |
+| Renewed           | The restored inn feels warm, comfortable, and bustling.               |
+| Growing           | Decorative gardens and inviting outdoor seating add character.        |
+| Prospering        | Elegant furnishings and expanded amenities attract more guests.       |
+| Flourishing       | The flourishing inn becomes Blackmere's most beloved gathering place. |
 
 ---
 
@@ -34,9 +34,9 @@ Version: 0.0.1
 
 *Note: All items are visible at once when shopping.*
 
-| Item         | Bellnote Amount
-|--------------|---|
-| Renting Room | 0 Bellnotes
+| Item         | Bellnote Amount |
+|--------------|----------------|
+| Renting Room | 500 Bellnotes  |
 
 ---
 

@@ -16,12 +16,12 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | n/a
-| Rebuilding        | 1 Max Horse
-| Recovering        | 1 Max Horse
-| Renewed           | 1 Max Horse
-| Growing           | 2 Max Horses
-| Prospering        | 2 Max Horses
-| Flourishing       | 3 Max Horses
+| Restoration Stage | Unlocks      |
+|-------------------|--------------|
+| Weathered         | n/a          |
+| Rebuilding        | 1 Max Horse  |
+| Recovering        | 1 Max Horse  |
+| Renewed           | 1 Max Horse  |
+| Growing           | 2 Max Horses |
+| Prospering        | 2 Max Horses |
+| Flourishing       | 3 Max Horses |

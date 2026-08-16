@@ -18,6 +18,17 @@ Version: 0.0.1
 
 ---
 
+## Audio
+
+- Ambiance
+- Footsteps
+- Music
+- Sound Effects
+- Speech
+- Weather
+
+---
+
 ## Characters
 
 ### Children
@@ -204,6 +215,7 @@ Version: 0.0.1
 - Accessories
 - Bottoms
 - Footwear
+- Hairstyles
 - Headwear
 - Outfits
 - Tops
@@ -308,7 +320,7 @@ Version: 0.0.1
 - Garden
 - Kitchen
 - Laboratory
-- Master Bedroom
+- Main Bedroom
 - Nursery
 - Orchard
 - Stables
@@ -322,6 +334,8 @@ Version: 0.0.1
 - Main Story Progression
 - NPC Connection Progression
 - NPC Friendship Progression
+- Unlock Progression
+- Version Roadmap
 
 ---
 
@@ -337,66 +351,60 @@ Version: 0.0.1
 
 ## Systems
 
-- Admin System (NOT STARTED)
-- Ambiance System (NOT STARTED)
-- Audio System (NOT STARTED)
+- Admin System
+- Audio System
 - Calendar System
-- Camera System (NOT STARTED)
+- Camera System
 - Cemetery System
 - Cooking System
 - Crafting System
-- Day End System (NOT STARTED)
-- Day End Selling System (NOT STARTED)
+- Day End Selling System
+- Day End System
 - Dialogue System
 - Economy System
-- Family System (NOT STARTED)
+- Family System (IN PROGRESS - Need to figure out the rest of the baby mechanics)
 - Farming System
-- Festival System (NOT STARTED)
+- Festival System
 - Fishing System
-- Game Event System (NOT STARTED)
-- Game State System (NOT STARTED)
+- Game Event System
+- Game State System
 - Gathering Probability System
-- HUD System (NOT STARTED)
-- HUD Notification System (NOT STARTED)
+- HUD System
 - Husbandry System
 - Input System
-- Interaction System (NOT STARTED)
+- Interaction System
 - Invention System
 - Inventory System
 - Item System
-- Library System (NOT STARTED)
+- Library System
 - Loan System
 - Mail System
-- Map System (NOT STARTED)
+- Map System
 - Marriage System
-- Museum System (NOT STARTED)
+- Museum System
 - NPC Connection System
 - NPC Friendship System
 - NPC Mood System
-- NPC Navigation System (NOT STARTED)
-- NPC Routine System (NOT STARTED)
-- Player Customization System (IN PROGRESS - Needing hair styles)
-- Player Movement System (NOT STARTED)
-- Player Progression System (NOT STARTED)
+- NPC Navigation System
+- NPC Routine System
+- Player Customization System
+- Player Movement System
 - Quest System
-- Resource Respawn System (NOT STARTED)
+- Resource Respawn System
 - Restoration System
-- Romance System (NOT STARTED)
 - Save System
 - Scene System
-- Shop System (NOT STARTED)
-- Stamina System (NOT STARTED)
-- System Interaction Rules (NOT STARTED)
+- Stamina System
+- System Interaction Rules
 - Time System
 - Time Manipulation System
 - Tonic Making System
-- Tool System (NOT STARTED)
-- Tutorial System (NOT STARTED)
-- UI Menu System (NOT STARTED)
-- UI Player Menu System (NOT STARTED)
-- UI System (NOT STARTED)
-- Unlock System (NOT STARTED)
+- Tool System
+- Tutorial System
+- UI Menu System
+- UI Player Menu System
+- UI System
 - Weather System
-- Weather Forecast System (NOT STARTED)
+- Weather Forecast System
 
 ---

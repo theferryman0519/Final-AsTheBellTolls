@@ -21,7 +21,7 @@ Version: 0.0.1
 - Once fully matured, the animal will be able to give a byproduct each morning.
 - Byproducts are collected by Edward and placed in the Byproduct Box in between the Barn and Coop.
 - Each animal produces a byproduct count based on their Friendship Hearts (Bees and Silkworms only ever produce 1 byproduct).
-- Animal hearts are based on the restoration of the Barn, Coop, Stables, and/or Master Bedroom.
+- Animal hearts are based on the restoration of the Barn, Coop, Stables, and/or Main Bedroom.
 - Each animal byproduct has a quality based on inventions from the Blueprint Book.
 
 ---
