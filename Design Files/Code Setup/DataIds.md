@@ -927,6 +927,37 @@ Version: 0.0.1
 
 ### Mail Items
 
+- item_mail_humor-an-old-lesson
+- item_mail_humor-bakers-confession
+- item_mail_humor-bell-tower-notice
+- item_mail_humor-botanical-finding
+- item_mail_humor-curatorial-observation
+- item_mail_humor-explorers-warning
+- item_mail_humor-farm-news
+- item_mail_humor-farming-wisdom
+- item_mail_humor-fashion-emergency
+- item_mail_humor-financial-guidance
+- item_mail_humor-forge-advice
+- item_mail_humor-important-discovery
+- item_mail_humor-innkeepers-problem
+- item_mail_humor-library-recommendation
+- item_mail_humor-manor-observation
+- item_mail_humor-mayoral-clarification
+- item_mail_humor-memorial-hill-visitor
+- item_mail_humor-minor-revision
+- item_mail_humor-official-adventure-report
+- item_mail_humor-postal-mystery
+- item_mail_humor-practical-advice
+- item_mail_humor-pressed-flower
+- item_mail_humor-public-safety-notice
+- item_mail_humor-recipe-correction
+- item_mail_humor-small-assignment
+- item_mail_humor-store-policy
+- item_mail_humor-structural-assessment
+- item_mail_humor-the-one-that-got-away
+- item_mail_humor-timing-observation
+- item_mail_humor-travelers-wisdom
+- item_mail_humor-unsolicited-advice
 - item_mail_overflow-item
 
 ### Quest Items

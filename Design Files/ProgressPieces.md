@@ -247,7 +247,7 @@ Version: 0.0.1
 
 - Event Reminders (NOT STARTED)
 - Event Requests (NOT STARTED)
-- Humor Notes (NOT STARTED)
+- Humor Notes
 - Overflow Item
 - Quest Requests (NOT STARTED)
 
