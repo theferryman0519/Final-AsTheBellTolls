@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- IN PROGRESS (35 left)
+- IN PROGRESS (34 left)
 - NOT STARTED (12 left)
 
 ---
@@ -113,7 +113,7 @@ Version: 0.0.1
 ## Code Setup
 
 - Controllers (NOT STARTED)
-- Data IDs (IN PROGRESS - Needing dialogue and mail items)
+- Data IDs
 - Dependencies (NOT STARTED)
 - Enums (NOT STARTED)
 - Event Channels (NOT STARTED)
