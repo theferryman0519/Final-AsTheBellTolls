@@ -53,3 +53,141 @@ Festivals may contain:
 - NPCs may have unique festival dialogue.
 - NPC shops and normal work routines may be unavailable while the NPC is attending a festival.
 - NPCs who do not participate in a festival may continue following their normal routines.
+
+---
+
+## Event Attendance
+
+### Main Festivals
+
+All NPCs attend all main festivals
+
+### Aurora Watch
+
+All NPCs attend the Aurora Watch
+
+### Player Wedding
+
+All NPCs attend the Player Wedding
+
+### Cooking with the Twins
+
+There are 4 different rotation
+
+| NPC Name       | Rotation |
+|----------------|----------|
+| Anya           | 1        |
+| Felix          | All      |
+| Kira           | 2        |
+| Milo           | 2        |
+| Adrian         | 2        |
+| Clara          | 3        |
+| Dante          | 4        |
+| Leo            | 4        |
+| Madison        | 3        |
+| Mara           | 1        |
+| Marcus         | 1        |
+| Nora           | 3        |
+| Sabrina        | 2        |
+| Victor         | 3        |
+| Agatha         | 4        |
+| Beatrice       | 4        |
+| Claudia        | 2        |
+| Edward         | 4        |
+| Elise          | 3        |
+| Frederick      | All      |
+| Helen          | All      |
+| Irene          | 1        |
+| Jasmine        | All      |
+| Jonas          | 2        |
+| Julian         | 1        |
+| Lena           | 1        |
+| Martin         | 3        |
+| Roland         | 4        |
+| Theo           | All      |
+| Walter         | 4        |
+| Lucian/Vivian  | 1        |
+
+### Breakfast at the Inn
+
+There are 6 different rotations
+
+| NPC Name       | Rotation |
+|----------------|----------|
+| Anya           | 1        |
+| Felix          | All      |
+| Kira           | 5        |
+| Milo           | 5        |
+| Adrian         | 2        |
+| Clara          | 6        |
+| Dante          | 4        |
+| Leo            | 4        |
+| Madison        | 1        |
+| Mara           | 6        |
+| Marcus         | 6        |
+| Nora           | 6        |
+| Sabrina        | 2        |
+| Victor         | 4        |
+| Agatha         | 3        |
+| Beatrice       | 1        |
+| Claudia        | 5        |
+| Edward         | 4        |
+| Elise          | 6        |
+| Frederick      | All      |
+| Helen          | All      |
+| Irene          | 2        |
+| Jasmine        | 5        |
+| Jonas          | 5        |
+| Julian         | 1        |
+| Lena           | 1        |
+| Martin         | 2        |
+| Roland         | 3        |
+| Theo           | All      |
+| Walter         | 3        |
+| Lucian/Vivian  | 3        |
+
+### Supper with the Mercers
+
+There are 6 different rotations
+
+| NPC Name       | Rotation |
+|----------------|----------|
+| Anya           | 1        |
+| Felix          | 4        |
+| Kira           | All      |
+| Milo           | All      |
+| Adrian         | 5        |
+| Clara          | 3        |
+| Dante          | 6        |
+| Leo            | 5        |
+| Madison        | 6        |
+| Mara           | 3        |
+| Marcus         | 3        |
+| Nora           | 3        |
+| Sabrina        | 5        |
+| Victor         | 5        |
+| Agatha         | 2        |
+| Beatrice       | 2        |
+| Claudia        | All      |
+| Edward         | 6        |
+| Elise          | 3        |
+| Frederick      | 4        |
+| Helen          | 4        |
+| Irene          | 2        |
+| Jasmine        | All      |
+| Jonas          | All      |
+| Julian         | 1        |
+| Lena           | 1        |
+| Martin         | 6        |
+| Roland         | 2        |
+| Theo           | 4        |
+| Walter         | 2        |
+| Lucian/Vivian  | 1        |
+
+### Salmon Run
+
+No NPCs attend the Salmon Run
+
+### Trout Trials
+
+No NPCs attend the Trout Trials
