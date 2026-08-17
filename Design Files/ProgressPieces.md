@@ -245,11 +245,12 @@ Version: 0.0.1
 
 ### Mail Items
 
-- Event Reminders (NOT STARTED)
-- Event Requests (NOT STARTED)
+- Community Board Requests
+- Event Reminders
+- Event Requests
 - Humor Notes
 - Overflow Item
-- Quest Requests (NOT STARTED)
+- Quest Requests
 
 ### Quest Items
 
