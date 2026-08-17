@@ -7,8 +7,8 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- IN PROGRESS
-- NOT STARTED
+- IN PROGRESS (35 left)
+- NOT STARTED (12 left)
 
 ---
 
