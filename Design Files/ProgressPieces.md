@@ -130,7 +130,7 @@ Version: 0.0.1
 
 ## Dialogue
 
-- Bond Events (NOT STARTED)
+- Bond Events
 - Disliked Gifts
 - Edward Help (NOT STARTED)
 - Favorite Gifts
