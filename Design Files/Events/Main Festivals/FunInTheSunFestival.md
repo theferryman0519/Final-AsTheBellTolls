@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Fun In The Sun Festival
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -27,7 +27,7 @@ Weather: Clear
 
 # Interaction Information
 
-Activity Type: Water Balloon Fight
+Activity Type: Water Splash Event
 
 Is Activity Required: No
 
