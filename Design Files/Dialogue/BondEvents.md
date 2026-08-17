@@ -5863,7 +5863,7 @@ Dialogue: "I keep them in order so I know which one belongs to which memory."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-forgotten-things-01
+ID: dialogue_bond-event-anya-forgotten-things-01
 
 Options: None
 
@@ -5881,7 +5881,7 @@ Dialogue: "This one was from Dad. This one was from Mom. I know they're only flo
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-forgotten-things-02
+ID: dialogue_bond-event-anya-forgotten-things-02
 
 Options: None
 
@@ -5899,7 +5899,7 @@ Dialogue: "Sometimes I worry that if I stop looking at them, I'll forget somethi
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-forgotten-things-03
+ID: dialogue_bond-event-anya-forgotten-things-03
 
 Options: None
 
@@ -5917,7 +5917,7 @@ Dialogue: "Flowers fade eventually, right? What if memories do too?"
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-forgotten-things-04
+ID: dialogue_bond-event-anya-forgotten-things-04
 
 Options: None
 
@@ -5935,7 +5935,7 @@ Dialogue: "I wanted to put everything back where it belongs."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-carrying-tomorrow-01
+ID: dialogue_bond-event-anya-carrying-tomorrow-01
 
 Options: None
 
@@ -5953,7 +5953,7 @@ Dialogue: "This one goes here...and this note goes underneath it."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-carrying-tomorrow-02
+ID: dialogue_bond-event-anya-carrying-tomorrow-02
 
 Options: None
 
@@ -5971,7 +5971,7 @@ Dialogue: "I picked this forget-me-not this morning. I thought maybe it could go
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-carrying-tomorrow-03
+ID: dialogue_bond-event-anya-carrying-tomorrow-03
 
 Options: None
 
@@ -5989,7 +5989,7 @@ Dialogue: "I thought if I made new memories...the old ones would disappear."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-carrying-tomorrow-04
+ID: dialogue_bond-event-anya-carrying-tomorrow-04
 
 Options: None
 
@@ -6007,7 +6007,7 @@ Dialogue: "But maybe...they're happier when they have new friends."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-anya-carrying-tomorrow-05
+ID: dialogue_bond-event-anya-carrying-tomorrow-05
 
 Options: None
 
@@ -6025,7 +6025,7 @@ Dialogue: "They're going pretty far today."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-what-if-i-fail-01
+ID: dialogue_bond-event-felix-what-if-i-fail-01
 
 Options: None
 
@@ -6043,7 +6043,7 @@ Dialogue: "I wanted to go too. I just kept thinking about all the things that co
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-what-if-i-fail-02
+ID: dialogue_bond-event-felix-what-if-i-fail-02
 
 Options: None
 
@@ -6061,7 +6061,7 @@ Dialogue: "What if I get lost? Or I do something wrong? Or I ask something every
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-what-if-i-fail-03
+ID: dialogue_bond-event-felix-what-if-i-fail-03
 
 Options: None
 
@@ -6079,7 +6079,7 @@ Dialogue: "I really do want to explore. I just wish wanting to go made me less s
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-what-if-i-fail-04
+ID: dialogue_bond-event-felix-what-if-i-fail-04
 
 Options: None
 
@@ -6097,7 +6097,7 @@ Dialogue: "Look! I circled all these places because I wanted to visit them somed
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-the-next-adventure-01
+ID: dialogue_bond-event-felix-the-next-adventure-01
 
 Options: None
 
@@ -6115,7 +6115,7 @@ Dialogue: "I kept waiting until I felt brave enough. I think I would've been wai
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-the-next-adventure-02
+ID: dialogue_bond-event-felix-the-next-adventure-02
 
 Options: None
 
@@ -6133,7 +6133,7 @@ Dialogue: "Maybe explorers aren't the people who never get scared..."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-the-next-adventure-03
+ID: dialogue_bond-event-felix-the-next-adventure-03
 
 Options: None
 
@@ -6151,7 +6151,7 @@ Dialogue: "Maybe they're the people who keep walking anyway."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-the-next-adventure-04
+ID: dialogue_bond-event-felix-the-next-adventure-04
 
 Options: None
 
@@ -6169,7 +6169,7 @@ Dialogue: "I'm taking the journal with me this time. I think I know where I want
 
 Event: Connection Event
 
-ID: dialogue_connection-event-felix-the-next-adventure-05
+ID: dialogue_bond-event-felix-the-next-adventure-05
 
 Options: None
 
@@ -6187,7 +6187,7 @@ Dialogue: "I'm fine! I barely even slipped."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-too-fast-01
+ID: dialogue_bond-event-kira-too-fast-01
 
 Options: None
 
@@ -6205,7 +6205,7 @@ Dialogue: "I just saw something ahead and thought if I didn't get there first, s
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-too-fast-02
+ID: dialogue_bond-event-kira-too-fast-02
 
 Options: None
 
@@ -6223,7 +6223,7 @@ Dialogue: "I know I rush. I just hate standing still when there could be somethi
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-too-fast-03
+ID: dialogue_bond-event-kira-too-fast-03
 
 Options: None
 
@@ -6241,7 +6241,7 @@ Dialogue: "Sometimes it feels like if I slow down for even a second, everyone el
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-too-fast-04
+ID: dialogue_bond-event-kira-too-fast-04
 
 Options: None
 
@@ -6259,7 +6259,7 @@ Dialogue: "This map is terrible."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-the-long-way-around-01
+ID: dialogue_bond-event-kira-the-long-way-around-01
 
 Options: None
 
@@ -6277,7 +6277,7 @@ Dialogue: "Look at this path! It doesn't even go where I drew it. And I'm pretty
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-the-long-way-around-02
+ID: dialogue_bond-event-kira-the-long-way-around-02
 
 Options: None
 
@@ -6295,7 +6295,7 @@ Dialogue: "But every mistake reminds me of something I learned."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-the-long-way-around-03
+ID: dialogue_bond-event-kira-the-long-way-around-03
 
 Options: None
 
@@ -6313,7 +6313,7 @@ Dialogue: "I don't think I want to be the fastest explorer anymore. I want to be
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-the-long-way-around-04
+ID: dialogue_bond-event-kira-the-long-way-around-04
 
 Options: None
 
@@ -6331,7 +6331,7 @@ Dialogue: "So...before we go anywhere, let's actually look around first."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-kira-the-long-way-around-05
+ID: dialogue_bond-event-kira-the-long-way-around-05
 
 Options: None
 
@@ -6349,7 +6349,7 @@ Dialogue: "Did you hear about where they went? It sounded amazing."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-don-t-leave-without-me-01
+ID: dialogue_bond-event-milo-don-t-leave-without-me-01
 
 Options: None
 
@@ -6367,7 +6367,7 @@ Dialogue: "I would've gone too if somebody told me!"
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-don-t-leave-without-me-02
+ID: dialogue_bond-event-milo-don-t-leave-without-me-02
 
 Options: None
 
@@ -6385,7 +6385,7 @@ Dialogue: "I just don't want everyone having adventures while I'm somewhere else
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-don-t-leave-without-me-03
+ID: dialogue_bond-event-milo-don-t-leave-without-me-03
 
 Options: None
 
@@ -6403,7 +6403,7 @@ Dialogue: "That's why I always have another idea ready. If I stop, I might miss 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-don-t-leave-without-me-04
+ID: dialogue_bond-event-milo-don-t-leave-without-me-04
 
 Options: None
 
@@ -6421,7 +6421,7 @@ Dialogue: "There are so many things in here! Maps, monsters, treasure...oh! And 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-the-journey-together-01
+ID: dialogue_bond-event-milo-the-journey-together-01
 
 Options: None
 
@@ -6439,7 +6439,7 @@ Dialogue: "Wait. Most of these aren't even about treasure."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-the-journey-together-02
+ID: dialogue_bond-event-milo-the-journey-together-02
 
 Options: None
 
@@ -6457,7 +6457,7 @@ Dialogue: "These adventures weren't exciting because we found treasure..."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-the-journey-together-03
+ID: dialogue_bond-event-milo-the-journey-together-03
 
 Options: None
 
@@ -6475,7 +6475,7 @@ Dialogue: "They were exciting because we were together."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-the-journey-together-04
+ID: dialogue_bond-event-milo-the-journey-together-04
 
 Options: None
 
@@ -6493,7 +6493,7 @@ Dialogue: "I'm keeping this in my Adventure Pack now. I don't want to hide the g
 
 Event: Connection Event
 
-ID: dialogue_connection-event-milo-the-journey-together-05
+ID: dialogue_bond-event-milo-the-journey-together-05
 
 Options: None
 
@@ -6511,7 +6511,7 @@ Dialogue: "I've checked these notes three times already. Possibly four."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-unwritten-conclusions-01
+ID: dialogue_bond-event-adrian-unwritten-conclusions-01
 
 Options: None
 
@@ -6529,7 +6529,7 @@ Dialogue: "The evidence supports the conclusion, but supporting something isn't 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-unwritten-conclusions-02
+ID: dialogue_bond-event-adrian-unwritten-conclusions-02
 
 Options: None
 
@@ -6547,7 +6547,7 @@ Dialogue: "What if I'm wrong? What if someone relies on something I've written?"
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-unwritten-conclusions-03
+ID: dialogue_bond-event-adrian-unwritten-conclusions-03
 
 Options: None
 
@@ -6565,7 +6565,7 @@ Dialogue: "I know history requires interpretation. I simply wish interpretation 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-unwritten-conclusions-04
+ID: dialogue_bond-event-adrian-unwritten-conclusions-04
 
 Options: None
 
@@ -6583,7 +6583,7 @@ Dialogue: "It's finished. Actually finished."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-the-final-draft-01
+ID: dialogue_bond-event-adrian-the-final-draft-01
 
 Options: None
 
@@ -6601,7 +6601,7 @@ Dialogue: "I found three sentences I wanted to revise this morning. I left them 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-the-final-draft-02
+ID: dialogue_bond-event-adrian-the-final-draft-02
 
 Options: None
 
@@ -6619,7 +6619,7 @@ Dialogue: "Knowledge matters...but eventually, someone has to believe they know 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-the-final-draft-03
+ID: dialogue_bond-event-adrian-the-final-draft-03
 
 Options: None
 
@@ -6637,7 +6637,7 @@ Dialogue: "So I'm putting the manuscript here, where people can read it."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-the-final-draft-04
+ID: dialogue_bond-event-adrian-the-final-draft-04
 
 Options: None
 
@@ -6655,7 +6655,7 @@ Dialogue: "I think I'm finally ready for Blackmere's history to belong to more p
 
 Event: Connection Event
 
-ID: dialogue_connection-event-adrian-the-final-draft-05
+ID: dialogue_bond-event-adrian-the-final-draft-05
 
 Options: None
 
@@ -6673,7 +6673,7 @@ Dialogue: "No, I'm not still working. I'm reconsidering. There's a distinction."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-one-more-revision-01
+ID: dialogue_bond-event-clara-one-more-revision-01
 
 Options: None
 
@@ -6691,7 +6691,7 @@ Dialogue: "The design was technically ready two days ago."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-one-more-revision-02
+ID: dialogue_bond-event-clara-one-more-revision-02
 
 Options: None
 
@@ -6709,7 +6709,7 @@ Dialogue: "But if I missed one detail and that becomes the flaw everyone remembe
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-one-more-revision-03
+ID: dialogue_bond-event-clara-one-more-revision-03
 
 Options: None
 
@@ -6727,7 +6727,7 @@ Dialogue: "Yes, I know that's exhausting. I'm the one doing it."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-one-more-revision-04
+ID: dialogue_bond-event-clara-one-more-revision-04
 
 Options: None
 
@@ -6745,7 +6745,7 @@ Dialogue: "There. Signed, dated, finished."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-ready-to-build-01
+ID: dialogue_bond-event-clara-ready-to-build-01
 
 Options: None
 
@@ -6763,7 +6763,7 @@ Dialogue: "I can already see three things I'd change if I unrolled it again, so 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-ready-to-build-02
+ID: dialogue_bond-event-clara-ready-to-build-02
 
 Options: None
 
@@ -6781,7 +6781,7 @@ Dialogue: "There will always be something I could improve. But if I keep waiting
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-ready-to-build-03
+ID: dialogue_bond-event-clara-ready-to-build-03
 
 Options: None
 
@@ -6799,7 +6799,7 @@ Dialogue: "The old portfolio is going into the archive."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-ready-to-build-04
+ID: dialogue_bond-event-clara-ready-to-build-04
 
 Options: None
 
@@ -6817,7 +6817,7 @@ Dialogue: "I'd rather build something imperfect that helps someone than design s
 
 Event: Connection Event
 
-ID: dialogue_connection-event-clara-ready-to-build-05
+ID: dialogue_bond-event-clara-ready-to-build-05
 
 Options: None
 
@@ -6835,7 +6835,7 @@ Dialogue: "Remarkable, isn't it? Someone created this generations ago, and their
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-standing-in-the-shadows-01
+ID: dialogue_bond-event-dante-standing-in-the-shadows-01
 
 Options: None
 
@@ -6853,7 +6853,7 @@ Dialogue: "I find it considerably easier to celebrate achievements such as these
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-standing-in-the-shadows-02
+ID: dialogue_bond-event-dante-standing-in-the-shadows-02
 
 Options: None
 
@@ -6871,7 +6871,7 @@ Dialogue: "Whenever inspiration does occur, comparison follows almost immediatel
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-standing-in-the-shadows-03
+ID: dialogue_bond-event-dante-standing-in-the-shadows-03
 
 Options: None
 
@@ -6889,7 +6889,7 @@ Dialogue: "One begins to wonder whether a life devoted to preserving greatness m
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-standing-in-the-shadows-04
+ID: dialogue_bond-event-dante-standing-in-the-shadows-04
 
 Options: None
 
@@ -6907,7 +6907,7 @@ Dialogue: "I would like you to see the gallery before anyone else arrives."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-the-first-exhibit-01
+ID: dialogue_bond-event-dante-the-first-exhibit-01
 
 Options: None
 
@@ -6925,7 +6925,7 @@ Dialogue: "The Great Flood and the Rebirth of Blackmere. I confess that seeing t
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-the-first-exhibit-02
+ID: dialogue_bond-event-dante-the-first-exhibit-02
 
 Options: None
 
@@ -6943,7 +6943,7 @@ Dialogue: "For years, I treated history as though it ended the moment an object 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-the-first-exhibit-03
+ID: dialogue_bond-event-dante-the-first-exhibit-03
 
 Options: None
 
@@ -6961,7 +6961,7 @@ Dialogue: "Perhaps the greatest privilege isn't preserving history...but helping
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-the-first-exhibit-04
+ID: dialogue_bond-event-dante-the-first-exhibit-04
 
 Options: None
 
@@ -6979,7 +6979,7 @@ Dialogue: "I believe I am finally prepared to participate in that chapter rather
 
 Event: Connection Event
 
-ID: dialogue_connection-event-dante-the-first-exhibit-05
+ID: dialogue_bond-event-dante-the-first-exhibit-05
 
 Options: None
 
@@ -6997,7 +6997,7 @@ Dialogue: "These? Oh, just a few designs that aren't behaving themselves. Very r
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-behind-the-smile-01
+ID: dialogue_bond-event-leo-behind-the-smile-01
 
 Options: None
 
@@ -7015,7 +7015,7 @@ Dialogue: "Compliments are wonderful. I remember every single one for at least..
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-behind-the-smile-02
+ID: dialogue_bond-event-leo-behind-the-smile-02
 
 Options: None
 
@@ -7033,7 +7033,7 @@ Dialogue: "Criticism? That apparently gets a permanent room in my head."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-behind-the-smile-03
+ID: dialogue_bond-event-leo-behind-the-smile-03
 
 Options: None
 
@@ -7051,7 +7051,7 @@ Dialogue: "Sometimes I wonder if people dislike the clothes because they secretl
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-behind-the-smile-04
+ID: dialogue_bond-event-leo-behind-the-smile-04
 
 Options: None
 
@@ -7069,7 +7069,7 @@ Dialogue: "No safe colors today. No polite little designs meant to offend absolu
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-wear-it-proudly-01
+ID: dialogue_bond-event-leo-wear-it-proudly-01
 
 Options: None
 
@@ -7087,7 +7087,7 @@ Dialogue: "These are mine. Completely, unapologetically mine."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-wear-it-proudly-02
+ID: dialogue_bond-event-leo-wear-it-proudly-02
 
 Options: None
 
@@ -7105,7 +7105,7 @@ Dialogue: "Not everyone will love them...and that's alright. They're finally hon
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-wear-it-proudly-03
+ID: dialogue_bond-event-leo-wear-it-proudly-03
 
 Options: None
 
@@ -7123,7 +7123,7 @@ Dialogue: "I spent so long dressing everyone else like themselves while being te
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-wear-it-proudly-04
+ID: dialogue_bond-event-leo-wear-it-proudly-04
 
 Options: None
 
@@ -7141,7 +7141,7 @@ Dialogue: "If someone hates the collection, they may do so while I look fabulous
 
 Event: Connection Event
 
-ID: dialogue_connection-event-leo-wear-it-proudly-05
+ID: dialogue_bond-event-leo-wear-it-proudly-05
 
 Options: None
 
@@ -7159,7 +7159,7 @@ Dialogue: "I should have gone home an hour ago."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-the-weight-of-the-badge-01
+ID: dialogue_bond-event-madison-the-weight-of-the-badge-01
 
 Options: None
 
@@ -7177,7 +7177,7 @@ Dialogue: "Some decisions are easier when you're wearing the badge. Others becom
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-the-weight-of-the-badge-02
+ID: dialogue_bond-event-madison-the-weight-of-the-badge-02
 
 Options: None
 
@@ -7195,7 +7195,7 @@ Dialogue: "Ian made this work look certain. I know he wasn't, but that's how peo
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-the-weight-of-the-badge-03
+ID: dialogue_bond-event-madison-the-weight-of-the-badge-03
 
 Options: None
 
@@ -7213,7 +7213,7 @@ Dialogue: "Every difficult call makes me wonder whether one mistake will prove B
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-the-weight-of-the-badge-04
+ID: dialogue_bond-event-madison-the-weight-of-the-badge-04
 
 Options: None
 
@@ -7231,7 +7231,7 @@ Dialogue: "I wanted to do this before the town woke up."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-a-sheriff-of-her-own-01
+ID: dialogue_bond-event-madison-a-sheriff-of-her-own-01
 
 Options: None
 
@@ -7249,7 +7249,7 @@ Dialogue: "Ian deserves to be remembered as himself, not as a standard I keep fa
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-a-sheriff-of-her-own-02
+ID: dialogue_bond-event-madison-a-sheriff-of-her-own-02
 
 Options: None
 
@@ -7267,7 +7267,7 @@ Dialogue: "I spent so long trying to become Ian Thorne...I forgot Blackmere aske
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-a-sheriff-of-her-own-03
+ID: dialogue_bond-event-madison-a-sheriff-of-her-own-03
 
 Options: None
 
@@ -7285,7 +7285,7 @@ Dialogue: "His example brought me here. It doesn't have to dictate every step I 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-a-sheriff-of-her-own-04
+ID: dialogue_bond-event-madison-a-sheriff-of-her-own-04
 
 Options: None
 
@@ -7303,7 +7303,7 @@ Dialogue: "I'm ready to wear my own badge without comparing it to his."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-madison-a-sheriff-of-her-own-05
+ID: dialogue_bond-event-madison-a-sheriff-of-her-own-05
 
 Options: None
 
@@ -7321,7 +7321,7 @@ Dialogue: "Yes, I'm still working. No, I don't need help."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-carrying-the-weight-01
+ID: dialogue_bond-event-mara-carrying-the-weight-01
 
 Options: None
 
@@ -7339,7 +7339,7 @@ Dialogue: "If I do it myself, I know exactly what was done and exactly who to bl
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-carrying-the-weight-02
+ID: dialogue_bond-event-mara-carrying-the-weight-02
 
 Options: None
 
@@ -7357,7 +7357,7 @@ Dialogue: "Depending on somebody else means trusting them not to make a mistake 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-carrying-the-weight-03
+ID: dialogue_bond-event-mara-carrying-the-weight-03
 
 Options: None
 
@@ -7375,7 +7375,7 @@ Dialogue: "I know how that sounds. Doesn't make handing over the tools any easie
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-carrying-the-weight-04
+ID: dialogue_bond-event-mara-carrying-the-weight-04
 
 Options: None
 
@@ -7393,7 +7393,7 @@ Dialogue: "Look at this thing. Crooked lettering, uneven edges...apparently I wa
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-built-to-last-01
+ID: dialogue_bond-event-mara-built-to-last-01
 
 Options: None
 
@@ -7411,7 +7411,7 @@ Dialogue: "I'm hanging it here."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-built-to-last-02
+ID: dialogue_bond-event-mara-built-to-last-02
 
 Options: None
 
@@ -7429,7 +7429,7 @@ Dialogue: "Turns out...the strongest things I've ever built weren't made by one 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-built-to-last-03
+ID: dialogue_bond-event-mara-built-to-last-03
 
 Options: None
 
@@ -7447,7 +7447,7 @@ Dialogue: "Blackmere came back because everybody carried part of it. Me trying t
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-built-to-last-04
+ID: dialogue_bond-event-mara-built-to-last-04
 
 Options: None
 
@@ -7465,7 +7465,7 @@ Dialogue: "Don't get smug. I'm learning to trust people, not becoming pleasant."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-mara-built-to-last-05
+ID: dialogue_bond-event-mara-built-to-last-05
 
 Options: None
 
@@ -7483,7 +7483,7 @@ Dialogue: "I know what time it is. This won't take much longer."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-the-last-one-to-rest-01
+ID: dialogue_bond-event-marcus-the-last-one-to-rest-01
 
 Options: None
 
@@ -7501,7 +7501,7 @@ Dialogue: "Someone needs this repaired tomorrow. There's another order after tha
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-the-last-one-to-rest-02
+ID: dialogue_bond-event-marcus-the-last-one-to-rest-02
 
 Options: None
 
@@ -7519,7 +7519,7 @@ Dialogue: "It's hard to stop when you know somebody is waiting on what you can p
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-the-last-one-to-rest-03
+ID: dialogue_bond-event-marcus-the-last-one-to-rest-03
 
 Options: None
 
@@ -7537,7 +7537,7 @@ Dialogue: "Taking time for myself always feels a little like asking someone else
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-the-last-one-to-rest-04
+ID: dialogue_bond-event-marcus-the-last-one-to-rest-04
 
 Options: None
 
@@ -7555,7 +7555,7 @@ Dialogue: "I don't regret staying in Blackmere. I want you to know that."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-more-than-the-forge-01
+ID: dialogue_bond-event-marcus-more-than-the-forge-01
 
 Options: None
 
@@ -7573,7 +7573,7 @@ Dialogue: "But I think I convinced myself that choosing to stay meant every othe
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-more-than-the-forge-02
+ID: dialogue_bond-event-marcus-more-than-the-forge-02
 
 Options: None
 
@@ -7591,7 +7591,7 @@ Dialogue: "Helping people has always been my purpose, but maybe I'm allowed to h
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-more-than-the-forge-03
+ID: dialogue_bond-event-marcus-more-than-the-forge-03
 
 Options: None
 
@@ -7609,7 +7609,7 @@ Dialogue: "I'll keep the letter. Not because I wish I'd left...because I want to
 
 Event: Connection Event
 
-ID: dialogue_connection-event-marcus-more-than-the-forge-04
+ID: dialogue_bond-event-marcus-more-than-the-forge-04
 
 Options: None
 
@@ -7627,7 +7627,7 @@ Dialogue: "Quiet? Me? Terrifying, I know."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-between-the-waves-01
+ID: dialogue_bond-event-nora-between-the-waves-01
 
 Options: None
 
@@ -7645,7 +7645,7 @@ Dialogue: "Sometimes I get tired of being the person who makes everyone laugh."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-between-the-waves-02
+ID: dialogue_bond-event-nora-between-the-waves-02
 
 Options: None
 
@@ -7663,7 +7663,7 @@ Dialogue: "After the flood, it was easier to joke than explain what I was actual
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-between-the-waves-03
+ID: dialogue_bond-event-nora-between-the-waves-03
 
 Options: None
 
@@ -7681,7 +7681,7 @@ Dialogue: "I started wondering what would happen if I stopped smiling. Maybe eve
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-between-the-waves-04
+ID: dialogue_bond-event-nora-between-the-waves-04
 
 Options: None
 
@@ -7699,7 +7699,7 @@ Dialogue: "I haven't stood here this long since the flood."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-weathering-the-storm-01
+ID: dialogue_bond-event-nora-weathering-the-storm-01
 
 Options: None
 
@@ -7717,7 +7717,7 @@ Dialogue: "I kept thinking if I stayed cheerful enough, maybe the ugly parts wou
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-weathering-the-storm-02
+ID: dialogue_bond-event-nora-weathering-the-storm-02
 
 Options: None
 
@@ -7735,7 +7735,7 @@ Dialogue: "Guess storms don't end because you ignore them...they end because you
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-weathering-the-storm-03
+ID: dialogue_bond-event-nora-weathering-the-storm-03
 
 Options: None
 
@@ -7753,7 +7753,7 @@ Dialogue: "I can miss what was lost and still laugh tomorrow. Neither one makes 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-weathering-the-storm-04
+ID: dialogue_bond-event-nora-weathering-the-storm-04
 
 Options: None
 
@@ -7771,7 +7771,7 @@ Dialogue: "Come on. Let's head back. I think I'm ready to leave this shore witho
 
 Event: Connection Event
 
-ID: dialogue_connection-event-nora-weathering-the-storm-05
+ID: dialogue_bond-event-nora-weathering-the-storm-05
 
 Options: None
 
@@ -7789,7 +7789,7 @@ Dialogue: "I keep going over today's lessons and wondering what I missed."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-carrying-every-burden-01
+ID: dialogue_bond-event-sabrina-carrying-every-burden-01
 
 Options: None
 
@@ -7807,7 +7807,7 @@ Dialogue: "When a student struggles, my first thought is always that I should ha
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-carrying-every-burden-02
+ID: dialogue_bond-event-sabrina-carrying-every-burden-02
 
 Options: None
 
@@ -7825,7 +7825,7 @@ Dialogue: "I know I can't solve everything for everyone."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-carrying-every-burden-03
+ID: dialogue_bond-event-sabrina-carrying-every-burden-03
 
 Options: None
 
@@ -7843,7 +7843,7 @@ Dialogue: "Knowing that doesn't stop every setback from feeling like evidence th
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-carrying-every-burden-04
+ID: dialogue_bond-event-sabrina-carrying-every-burden-04
 
 Options: None
 
@@ -7861,7 +7861,7 @@ Dialogue: "I had forgotten some of these letters entirely."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-one-life-is-enough-01
+ID: dialogue_bond-event-sabrina-one-life-is-enough-01
 
 Options: None
 
@@ -7879,7 +7879,7 @@ Dialogue: "None of them say I always had the right answer. They remember that I 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-one-life-is-enough-02
+ID: dialogue_bond-event-sabrina-one-life-is-enough-02
 
 Options: None
 
@@ -7897,7 +7897,7 @@ Dialogue: "Maybe changing the whole world was never my job...maybe changing one 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-one-life-is-enough-03
+ID: dialogue_bond-event-sabrina-one-life-is-enough-03
 
 Options: None
 
@@ -7915,7 +7915,7 @@ Dialogue: "I think I've been measuring compassion by an impossible standard."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-one-life-is-enough-04
+ID: dialogue_bond-event-sabrina-one-life-is-enough-04
 
 Options: None
 
@@ -7933,7 +7933,7 @@ Dialogue: "Perhaps being there when someone needs you really can be enough."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-sabrina-one-life-is-enough-05
+ID: dialogue_bond-event-sabrina-one-life-is-enough-05
 
 Options: None
 
@@ -7951,7 +7951,7 @@ Dialogue: "Road looks inviting tonight, doesn't it?"
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-one-more-road-01
+ID: dialogue_bond-event-victor-one-more-road-01
 
 Options: None
 
@@ -7969,7 +7969,7 @@ Dialogue: "I've never stayed anywhere long enough to completely unpack. Seemed p
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-one-more-road-02
+ID: dialogue_bond-event-victor-one-more-road-02
 
 Options: None
 
@@ -7987,7 +7987,7 @@ Dialogue: "If everything's ready to go, every possibility stays open."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-one-more-road-03
+ID: dialogue_bond-event-victor-one-more-road-03
 
 Options: None
 
@@ -8005,7 +8005,7 @@ Dialogue: "The trouble with choosing one road is all the others you aren't takin
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-one-more-road-04
+ID: dialogue_bond-event-victor-one-more-road-04
 
 Options: None
 
@@ -8023,7 +8023,7 @@ Dialogue: "There. Maps on the shelf, souvenirs out where someone can actually se
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-unpacking-01
+ID: dialogue_bond-event-victor-unpacking-01
 
 Options: None
 
@@ -8041,7 +8041,7 @@ Dialogue: "I've carried this bag packed for years just so I could tell myself I 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-unpacking-02
+ID: dialogue_bond-event-victor-unpacking-02
 
 Options: None
 
@@ -8059,7 +8059,7 @@ Dialogue: "Guess I always thought leaving meant I was still free...but maybe cho
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-unpacking-03
+ID: dialogue_bond-event-victor-unpacking-03
 
 Options: None
 
@@ -8077,7 +8077,7 @@ Dialogue: "The bag can stay in the closet."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-unpacking-04
+ID: dialogue_bond-event-victor-unpacking-04
 
 Options: None
 
@@ -8095,7 +8095,7 @@ Dialogue: "Blackmere isn't another stop anymore. It's home."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-victor-unpacking-05
+ID: dialogue_bond-event-victor-unpacking-05
 
 Options: None
 
@@ -8113,7 +8113,7 @@ Dialogue: "These journals are not clutter. They are evidence."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-what-will-remain-01
+ID: dialogue_bond-event-agatha-what-will-remain-01
 
 Options: None
 
@@ -8131,7 +8131,7 @@ Dialogue: "People forget how fragile a town's memory can be once the people who 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-what-will-remain-02
+ID: dialogue_bond-event-agatha-what-will-remain-02
 
 Options: None
 
@@ -8149,7 +8149,7 @@ Dialogue: "Roland and I can tell these stories now. We will not always be here t
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-what-will-remain-03
+ID: dialogue_bond-event-agatha-what-will-remain-03
 
 Options: None
 
@@ -8167,7 +8167,7 @@ Dialogue: "I suppose I fear that when our generation disappears, the sacrifices 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-what-will-remain-04
+ID: dialogue_bond-event-agatha-what-will-remain-04
 
 Options: None
 
@@ -8185,7 +8185,7 @@ Dialogue: "I'm donating the journal."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-passing-the-torch-01
+ID: dialogue_bond-event-agatha-passing-the-torch-01
 
 Options: None
 
@@ -8203,7 +8203,7 @@ Dialogue: "Do try not to look so surprised. I am capable of relinquishing posses
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-passing-the-torch-02
+ID: dialogue_bond-event-agatha-passing-the-torch-02
 
 Options: None
 
@@ -8221,7 +8221,7 @@ Dialogue: "A legacy isn't something you lock away...it's something you place int
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-passing-the-torch-03
+ID: dialogue_bond-event-agatha-passing-the-torch-03
 
 Options: None
 
@@ -8239,7 +8239,7 @@ Dialogue: "Blackmere does not need the next generation to imitate us."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-passing-the-torch-04
+ID: dialogue_bond-event-agatha-passing-the-torch-04
 
 Options: None
 
@@ -8257,7 +8257,7 @@ Dialogue: "It needs them to understand what mattered, then have enough sense to 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-agatha-passing-the-torch-05
+ID: dialogue_bond-event-agatha-passing-the-torch-05
 
 Options: None
 
@@ -8275,7 +8275,7 @@ Dialogue: "There are decisions from the flood I can still reconstruct minute by 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-unfinished-apologies-01
+ID: dialogue_bond-event-beatrice-unfinished-apologies-01
 
 Options: None
 
@@ -8293,7 +8293,7 @@ Dialogue: "Who went where. Which resources were moved. Which warnings came too l
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-unfinished-apologies-02
+ID: dialogue_bond-event-beatrice-unfinished-apologies-02
 
 Options: None
 
@@ -8311,7 +8311,7 @@ Dialogue: "I know leadership does not grant the ability to save everyone."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-unfinished-apologies-03
+ID: dialogue_bond-event-beatrice-unfinished-apologies-03
 
 Options: None
 
@@ -8329,7 +8329,7 @@ Dialogue: "There are nights when knowing that feels considerably less convincing
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-unfinished-apologies-04
+ID: dialogue_bond-event-beatrice-unfinished-apologies-04
 
 Options: None
 
@@ -8347,7 +8347,7 @@ Dialogue: "Every year I came here and apologized."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-carrying-tomorrow-01
+ID: dialogue_bond-event-beatrice-carrying-tomorrow-01
 
 Options: None
 
@@ -8365,7 +8365,7 @@ Dialogue: "I believed carrying the guilt was part of my responsibility to those 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-carrying-tomorrow-02
+ID: dialogue_bond-event-beatrice-carrying-tomorrow-02
 
 Options: None
 
@@ -8383,7 +8383,7 @@ Dialogue: "For years, I believed honoring them meant carrying my guilt forever. 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-carrying-tomorrow-03
+ID: dialogue_bond-event-beatrice-carrying-tomorrow-03
 
 Options: None
 
@@ -8401,7 +8401,7 @@ Dialogue: "I cannot change what happened here."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-carrying-tomorrow-04
+ID: dialogue_bond-event-beatrice-carrying-tomorrow-04
 
 Options: None
 
@@ -8419,7 +8419,7 @@ Dialogue: "I can help make Blackmere worthy of the people who believed it had a 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-beatrice-carrying-tomorrow-05
+ID: dialogue_bond-event-beatrice-carrying-tomorrow-05
 
 Options: None
 
@@ -8437,7 +8437,7 @@ Dialogue: "I'm fine. Tired isn't the same as incapable."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-carrying-too-much-01
+ID: dialogue_bond-event-claudia-carrying-too-much-01
 
 Options: None
 
@@ -8455,7 +8455,7 @@ Dialogue: "Jonas worries enough. The children don't need to know every time work
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-carrying-too-much-02
+ID: dialogue_bond-event-claudia-carrying-too-much-02
 
 Options: None
 
@@ -8473,7 +8473,7 @@ Dialogue: "If I slow down, I start thinking about everything this family depends
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-carrying-too-much-03
+ID: dialogue_bond-event-claudia-carrying-too-much-03
 
 Options: None
 
@@ -8491,7 +8491,7 @@ Dialogue: "Working harder is easier than wondering what happens if I can't provi
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-carrying-too-much-04
+ID: dialogue_bond-event-claudia-carrying-too-much-04
 
 Options: None
 
@@ -8509,7 +8509,7 @@ Dialogue: "Look at these drawings. Kira apparently thought I had arms down to my
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-strong-enough-to-lean-01
+ID: dialogue_bond-event-claudia-strong-enough-to-lean-01
 
 Options: None
 
@@ -8527,7 +8527,7 @@ Dialogue: "I kept all of this because it reminded me what I was working for."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-strong-enough-to-lean-02
+ID: dialogue_bond-event-claudia-strong-enough-to-lean-02
 
 Options: None
 
@@ -8545,7 +8545,7 @@ Dialogue: "Maybe I've been so busy holding everyone up...I forgot they were read
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-strong-enough-to-lean-03
+ID: dialogue_bond-event-claudia-strong-enough-to-lean-03
 
 Options: None
 
@@ -8563,7 +8563,7 @@ Dialogue: "Jonas has been telling me that for years. Don't tell him you heard me
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-strong-enough-to-lean-04
+ID: dialogue_bond-event-claudia-strong-enough-to-lean-04
 
 Options: None
 
@@ -8581,7 +8581,7 @@ Dialogue: "I can still be strong without carrying everything alone."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-claudia-strong-enough-to-lean-05
+ID: dialogue_bond-event-claudia-strong-enough-to-lean-05
 
 Options: None
 
@@ -8599,7 +8599,7 @@ Dialogue: "I had not realized you were awake."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-promises-kept-01
+ID: dialogue_bond-event-edward-promises-kept-01
 
 Options: None
 
@@ -8617,7 +8617,7 @@ Dialogue: "Lady Myrtle entrusted me with this Manor and with knowledge few other
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-promises-kept-02
+ID: dialogue_bond-event-edward-promises-kept-02
 
 Options: None
 
@@ -8635,7 +8635,7 @@ Dialogue: "I have never regretted keeping that promise."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-promises-kept-03
+ID: dialogue_bond-event-edward-promises-kept-03
 
 Options: None
 
@@ -8653,7 +8653,7 @@ Dialogue: "Still...there are evenings when I wonder whether duty became so famil
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-promises-kept-04
+ID: dialogue_bond-event-edward-promises-kept-04
 
 Options: None
 
@@ -8671,7 +8671,7 @@ Dialogue: "I carried Lady Myrtle's watch for years because I believed doing so w
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-more-than-duty-01
+ID: dialogue_bond-event-edward-more-than-duty-01
 
 Options: None
 
@@ -8689,7 +8689,7 @@ Dialogue: "For many years, I believed my purpose was simply to protect this hous
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-more-than-duty-02
+ID: dialogue_bond-event-edward-more-than-duty-02
 
 Options: None
 
@@ -8707,7 +8707,7 @@ Dialogue: "Lady Pendrelle understood something I did not. A home is never protec
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-more-than-duty-03
+ID: dialogue_bond-event-edward-more-than-duty-03
 
 Options: None
 
@@ -8725,7 +8725,7 @@ Dialogue: "Pendrelle Manor is yours to care for now, not merely as an inheritanc
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-more-than-duty-04
+ID: dialogue_bond-event-edward-more-than-duty-04
 
 Options: None
 
@@ -8743,7 +8743,7 @@ Dialogue: "And if you will permit an old butler one personal observation...it is
 
 Event: Connection Event
 
-ID: dialogue_connection-event-edward-more-than-duty-05
+ID: dialogue_bond-event-edward-more-than-duty-05
 
 Options: None
 
@@ -8761,7 +8761,7 @@ Dialogue: "The bank is closed. The consequences of these applications are not."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-calculated-risks-01
+ID: dialogue_bond-event-elise-calculated-risks-01
 
 Options: None
 
@@ -8779,7 +8779,7 @@ Dialogue: "An approval can change someone's future. So can a denial."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-calculated-risks-02
+ID: dialogue_bond-event-elise-calculated-risks-02
 
 Options: None
 
@@ -8797,7 +8797,7 @@ Dialogue: "People assume caution prevents mistakes. Excessive caution merely cre
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-calculated-risks-03
+ID: dialogue_bond-event-elise-calculated-risks-03
 
 Options: None
 
@@ -8815,7 +8815,7 @@ Dialogue: "I remember every decision that went badly. It makes confidence a rath
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-calculated-risks-04
+ID: dialogue_bond-event-elise-calculated-risks-04
 
 Options: None
 
@@ -8833,7 +8833,7 @@ Dialogue: "I had forgotten how many entries in this ledger make absolutely no fi
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-an-investment-in-people-01
+ID: dialogue_bond-event-elise-an-investment-in-people-01
 
 Options: None
 
@@ -8851,7 +8851,7 @@ Dialogue: "Extended terms. Delayed payments. Risks I would struggle to justify o
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-an-investment-in-people-02
+ID: dialogue_bond-event-elise-an-investment-in-people-02
 
 Options: None
 
@@ -8869,7 +8869,7 @@ Dialogue: "Each one was a decision to believe someone deserved another chance."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-an-investment-in-people-03
+ID: dialogue_bond-event-elise-an-investment-in-people-03
 
 Options: None
 
@@ -8887,7 +8887,7 @@ Dialogue: "Perhaps I've spent so long measuring risk...that I forgot some of lif
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-an-investment-in-people-04
+ID: dialogue_bond-event-elise-an-investment-in-people-04
 
 Options: None
 
@@ -8905,7 +8905,7 @@ Dialogue: "I remain fond of evidence. I am simply willing to admit trust occasio
 
 Event: Connection Event
 
-ID: dialogue_connection-event-elise-an-investment-in-people-05
+ID: dialogue_bond-event-elise-an-investment-in-people-05
 
 Options: None
 
@@ -8923,7 +8923,7 @@ Dialogue: "Just a few more tables. Then I'll turn in."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-after-closing-01
+ID: dialogue_bond-event-frederick-after-closing-01
 
 Options: None
 
@@ -8941,7 +8941,7 @@ Dialogue: "One guest remembers a cold meal or an untidy room, and that's the inn
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-after-closing-02
+ID: dialogue_bond-event-frederick-after-closing-02
 
 Options: None
 
@@ -8959,7 +8959,7 @@ Dialogue: "I know nobody expects perfection."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-after-closing-03
+ID: dialogue_bond-event-frederick-after-closing-03
 
 Options: None
 
@@ -8977,7 +8977,7 @@ Dialogue: "It's difficult not to expect it from myself when making people comfor
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-after-closing-04
+ID: dialogue_bond-event-frederick-after-closing-04
 
 Options: None
 
@@ -8995,7 +8995,7 @@ Dialogue: "Listen to these messages. Not one person mentions whether their room 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-a-place-to-rest-01
+ID: dialogue_bond-event-frederick-a-place-to-rest-01
 
 Options: None
 
@@ -9013,7 +9013,7 @@ Dialogue: "They remember being welcomed. They remember Helen's cooking, Felix ta
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-a-place-to-rest-02
+ID: dialogue_bond-event-frederick-a-place-to-rest-02
 
 Options: None
 
@@ -9031,7 +9031,7 @@ Dialogue: "Maybe people never needed me to do everything for them...maybe they j
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-a-place-to-rest-03
+ID: dialogue_bond-event-frederick-a-place-to-rest-03
 
 Options: None
 
@@ -9049,7 +9049,7 @@ Dialogue: "I think I can let the others carry a little more of the inn."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-a-place-to-rest-04
+ID: dialogue_bond-event-frederick-a-place-to-rest-04
 
 Options: None
 
@@ -9067,7 +9067,7 @@ Dialogue: "A rested innkeeper might even be better company."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-frederick-a-place-to-rest-05
+ID: dialogue_bond-event-frederick-a-place-to-rest-05
 
 Options: None
 
@@ -9085,7 +9085,7 @@ Dialogue: "Oh, I ate earlier. Well...I tasted the soup. That counts for somethin
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-one-more-dish-01
+ID: dialogue_bond-event-helen-one-more-dish-01
 
 Options: None
 
@@ -9103,7 +9103,7 @@ Dialogue: "It's easier to notice when everyone else needs something."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-one-more-dish-02
+ID: dialogue_bond-event-helen-one-more-dish-02
 
 Options: None
 
@@ -9121,7 +9121,7 @@ Dialogue: "By the time the kitchen is quiet, I usually realize I forgot about my
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-one-more-dish-03
+ID: dialogue_bond-event-helen-one-more-dish-03
 
 Options: None
 
@@ -9139,7 +9139,7 @@ Dialogue: "I've never minded caring for people. I suppose I never considered tha
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-one-more-dish-04
+ID: dialogue_bond-event-helen-one-more-dish-04
 
 Options: None
 
@@ -9157,7 +9157,7 @@ Dialogue: "Look at this note. 'Sit down before the pie is gone.' My grandmother 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-saving-a-place-at-the-table-01
+ID: dialogue_bond-event-helen-saving-a-place-at-the-table-01
 
 Options: None
 
@@ -9175,7 +9175,7 @@ Dialogue: "There are reminders like it everywhere. I can't believe I forgot."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-saving-a-place-at-the-table-02
+ID: dialogue_bond-event-helen-saving-a-place-at-the-table-02
 
 Options: None
 
@@ -9193,7 +9193,7 @@ Dialogue: "I spent so many years making sure everyone else felt at home...I forg
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-saving-a-place-at-the-table-03
+ID: dialogue_bond-event-helen-saving-a-place-at-the-table-03
 
 Options: None
 
@@ -9211,7 +9211,7 @@ Dialogue: "Frederick can handle breakfast for a little while."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-saving-a-place-at-the-table-04
+ID: dialogue_bond-event-helen-saving-a-place-at-the-table-04
 
 Options: None
 
@@ -9229,7 +9229,7 @@ Dialogue: "Today, I'm going to sit down while the food is still warm."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-helen-saving-a-place-at-the-table-05
+ID: dialogue_bond-event-helen-saving-a-place-at-the-table-05
 
 Options: None
 
@@ -9247,7 +9247,7 @@ Dialogue: "I speak to James after the final bell. Every evening."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-after-the-final-bell-01
+ID: dialogue_bond-event-irene-after-the-final-bell-01
 
 Options: None
 
@@ -9265,7 +9265,7 @@ Dialogue: "Nothing elaborate. I tell him what happened, what changed, who stoppe
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-after-the-final-bell-02
+ID: dialogue_bond-event-irene-after-the-final-bell-02
 
 Options: None
 
@@ -9283,7 +9283,7 @@ Dialogue: "I know memory does not vanish because a ritual changes."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-after-the-final-bell-03
+ID: dialogue_bond-event-irene-after-the-final-bell-03
 
 Options: None
 
@@ -9301,7 +9301,7 @@ Dialogue: "Still...some part of me fears that if I stop doing this exactly as we
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-after-the-final-bell-04
+ID: dialogue_bond-event-irene-after-the-final-bell-04
 
 Options: None
 
@@ -9319,7 +9319,7 @@ Dialogue: "James carried this watch up these stairs more mornings than I could c
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-carrying-the-bell-forward-01
+ID: dialogue_bond-event-irene-carrying-the-bell-forward-01
 
 Options: None
 
@@ -9337,7 +9337,7 @@ Dialogue: "For years, I believed keeping James close meant keeping everything th
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-carrying-the-bell-forward-02
+ID: dialogue_bond-event-irene-carrying-the-bell-forward-02
 
 Options: None
 
@@ -9355,7 +9355,7 @@ Dialogue: "Now I understand...every new sunrise carries him forward with me."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-carrying-the-bell-forward-03
+ID: dialogue_bond-event-irene-carrying-the-bell-forward-03
 
 Options: None
 
@@ -9373,7 +9373,7 @@ Dialogue: "The watch belongs here, where someone else can hear its story someday
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-carrying-the-bell-forward-04
+ID: dialogue_bond-event-irene-carrying-the-bell-forward-04
 
 Options: None
 
@@ -9391,7 +9391,7 @@ Dialogue: "Come. The morning bell is due. I would rather welcome today than ask 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-irene-carrying-the-bell-forward-05
+ID: dialogue_bond-event-irene-carrying-the-bell-forward-05
 
 Options: None
 
@@ -9409,7 +9409,7 @@ Dialogue: "I'm alright. Just...quiet, I suppose."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-the-quiet-smile-01
+ID: dialogue_bond-event-jasmine-the-quiet-smile-01
 
 Options: None
 
@@ -9427,7 +9427,7 @@ Dialogue: "When somebody's sad, I always feel like I should know how to make it 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-the-quiet-smile-02
+ID: dialogue_bond-event-jasmine-the-quiet-smile-02
 
 Options: None
 
@@ -9445,7 +9445,7 @@ Dialogue: "If I'm not helping or making someone smile, I start wondering what I'
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-the-quiet-smile-03
+ID: dialogue_bond-event-jasmine-the-quiet-smile-03
 
 Options: None
 
@@ -9463,7 +9463,7 @@ Dialogue: "Sometimes I worry people won't need me if I don't have the right thin
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-the-quiet-smile-04
+ID: dialogue_bond-event-jasmine-the-quiet-smile-04
 
 Options: None
 
@@ -9481,7 +9481,7 @@ Dialogue: "Look at this journal! Birthdays, favorite foods, stories I was absolu
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-just-being-there-01
+ID: dialogue_bond-event-jasmine-just-being-there-01
 
 Options: None
 
@@ -9499,7 +9499,7 @@ Dialogue: "I thought remembering every little thing was how I proved I cared."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-just-being-there-02
+ID: dialogue_bond-event-jasmine-just-being-there-02
 
 Options: None
 
@@ -9517,7 +9517,7 @@ Dialogue: "Maybe love isn't about always knowing the right thing to say...maybe 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-just-being-there-03
+ID: dialogue_bond-event-jasmine-just-being-there-03
 
 Options: None
 
@@ -9535,7 +9535,7 @@ Dialogue: "People didn't keep me around because I remembered everything."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-just-being-there-04
+ID: dialogue_bond-event-jasmine-just-being-there-04
 
 Options: None
 
@@ -9553,7 +9553,7 @@ Dialogue: "They kept making room for me because they wanted me there. That's...r
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jasmine-just-being-there-05
+ID: dialogue_bond-event-jasmine-just-being-there-05
 
 Options: None
 
@@ -9571,7 +9571,7 @@ Dialogue: "They'll work it out. They usually do."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-keeping-the-peace-01
+ID: dialogue_bond-event-jonas-keeping-the-peace-01
 
 Options: None
 
@@ -9589,7 +9589,7 @@ Dialogue: "I almost said something earlier, but I wasn't sure it would help."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-keeping-the-peace-02
+ID: dialogue_bond-event-jonas-keeping-the-peace-02
 
 Options: None
 
@@ -9607,7 +9607,7 @@ Dialogue: "I've always been better at keeping the peace than risking a conversat
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-keeping-the-peace-03
+ID: dialogue_bond-event-jonas-keeping-the-peace-03
 
 Options: None
 
@@ -9625,7 +9625,7 @@ Dialogue: "Sometimes I wonder whether keeping things to myself protects anybody.
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-keeping-the-peace-04
+ID: dialogue_bond-event-jonas-keeping-the-peace-04
 
 Options: None
 
@@ -9643,7 +9643,7 @@ Dialogue: "Every mark on this board is a year I thought went by too quickly."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-honest-harvest-01
+ID: dialogue_bond-event-jonas-honest-harvest-01
 
 Options: None
 
@@ -9661,7 +9661,7 @@ Dialogue: "I tried to protect this family by keeping my worries out of their way
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-honest-harvest-02
+ID: dialogue_bond-event-jonas-honest-harvest-02
 
 Options: None
 
@@ -9679,7 +9679,7 @@ Dialogue: "I spent so much time trying to protect the people I love...I forgot t
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-honest-harvest-03
+ID: dialogue_bond-event-jonas-honest-harvest-03
 
 Options: None
 
@@ -9697,7 +9697,7 @@ Dialogue: "Claudia's right. Silence isn't the same thing as peace."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-honest-harvest-04
+ID: dialogue_bond-event-jonas-honest-harvest-04
 
 Options: None
 
@@ -9715,7 +9715,7 @@ Dialogue: "I think I'd rather trust the people I love with the truth."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-jonas-honest-harvest-05
+ID: dialogue_bond-event-jonas-honest-harvest-05
 
 Options: None
 
@@ -9733,7 +9733,7 @@ Dialogue: "These volumes represent several decades of observation. An absurd qua
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-the-final-volume-01
+ID: dialogue_bond-event-julian-the-final-volume-01
 
 Options: None
 
@@ -9751,7 +9751,7 @@ Dialogue: "I have never particularly feared the end of my own work. All investig
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-the-final-volume-02
+ID: dialogue_bond-event-julian-the-final-volume-02
 
 Options: None
 
@@ -9769,7 +9769,7 @@ Dialogue: "What concerns me is whether the understanding recorded here will rema
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-the-final-volume-03
+ID: dialogue_bond-event-julian-the-final-volume-03
 
 Options: None
 
@@ -9787,7 +9787,7 @@ Dialogue: "Knowledge unread is preserved, technically speaking, but preservation
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-the-final-volume-04
+ID: dialogue_bond-event-julian-the-final-volume-04
 
 Options: None
 
@@ -9805,7 +9805,7 @@ Dialogue: "There. The missing volume has returned to its proper place."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-wisdom-shared-01
+ID: dialogue_bond-event-julian-wisdom-shared-01
 
 Options: None
 
@@ -9823,7 +9823,7 @@ Dialogue: "For many years, I believed these books were my greatest legacy. I was
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-wisdom-shared-02
+ID: dialogue_bond-event-julian-wisdom-shared-02
 
 Options: None
 
@@ -9841,7 +9841,7 @@ Dialogue: "Knowledge survives not because it is written...but because someone is
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-wisdom-shared-03
+ID: dialogue_bond-event-julian-wisdom-shared-03
 
 Options: None
 
@@ -9859,7 +9859,7 @@ Dialogue: "I have spent sufficient time recording what I know."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-wisdom-shared-04
+ID: dialogue_bond-event-julian-wisdom-shared-04
 
 Options: None
 
@@ -9877,7 +9877,7 @@ Dialogue: "I believe I should devote more of it to ensuring someone else knows h
 
 Event: Connection Event
 
-ID: dialogue_connection-event-julian-wisdom-shared-05
+ID: dialogue_bond-event-julian-wisdom-shared-05
 
 Options: None
 
@@ -9895,7 +9895,7 @@ Dialogue: "I tell Ian everything that's happened since the last time I came."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-before-sunrise-01
+ID: dialogue_bond-event-lena-before-sunrise-01
 
 Options: None
 
@@ -9913,7 +9913,7 @@ Dialogue: "Anya, the town, little things he'd have laughed at."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-before-sunrise-02
+ID: dialogue_bond-event-lena-before-sunrise-02
 
 Options: None
 
@@ -9931,7 +9931,7 @@ Dialogue: "Sometimes I think being happy again would mean I'm walking farther aw
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-before-sunrise-03
+ID: dialogue_bond-event-lena-before-sunrise-03
 
 Options: None
 
@@ -9949,7 +9949,7 @@ Dialogue: "I know he would never ask me to live that way. Grief isn't always rea
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-before-sunrise-04
+ID: dialogue_bond-event-lena-before-sunrise-04
 
 Options: None
 
@@ -9967,7 +9967,7 @@ Dialogue: "He wrote that he wanted me to laugh often. I had forgotten that line.
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-living-forward-01
+ID: dialogue_bond-event-lena-living-forward-01
 
 Options: None
 
@@ -9985,7 +9985,7 @@ Dialogue: "All this time, I was afraid moving forward meant leaving him behind."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-living-forward-02
+ID: dialogue_bond-event-lena-living-forward-02
 
 Options: None
 
@@ -10003,7 +10003,7 @@ Dialogue: "I thought moving forward meant leaving him behind...but now I see tha
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-living-forward-03
+ID: dialogue_bond-event-lena-living-forward-03
 
 Options: None
 
@@ -10021,7 +10021,7 @@ Dialogue: "Ian loved our life. He would never have wanted grief to become the on
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-living-forward-04
+ID: dialogue_bond-event-lena-living-forward-04
 
 Options: None
 
@@ -10039,7 +10039,7 @@ Dialogue: "I think I'm ready to let tomorrow be something I look forward to agai
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lena-living-forward-05
+ID: dialogue_bond-event-lena-living-forward-05
 
 Options: None
 
@@ -10057,7 +10057,7 @@ Dialogue: "The bag is manageable. Truly."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-carried-alone-01
+ID: dialogue_bond-event-martin-carried-alone-01
 
 Options: None
 
@@ -10075,7 +10075,7 @@ Dialogue: "My mother raised me to be dependable. After she was gone, I suppose I
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-carried-alone-02
+ID: dialogue_bond-event-martin-carried-alone-02
 
 Options: None
 
@@ -10093,7 +10093,7 @@ Dialogue: "If I can carry something myself, asking another person to carry it fe
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-carried-alone-03
+ID: dialogue_bond-event-martin-carried-alone-03
 
 Options: None
 
@@ -10111,7 +10111,7 @@ Dialogue: "Though I admit there are days when being dependable begins to resembl
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-carried-alone-04
+ID: dialogue_bond-event-martin-carried-alone-04
 
 Options: None
 
@@ -10129,7 +10129,7 @@ Dialogue: "Mother accepted help far more readily than I remembered."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-shared-burdens-01
+ID: dialogue_bond-event-martin-shared-burdens-01
 
 Options: None
 
@@ -10147,7 +10147,7 @@ Dialogue: "I spent years reading these letters for her strength and somehow over
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-shared-burdens-02
+ID: dialogue_bond-event-martin-shared-burdens-02
 
 Options: None
 
@@ -10165,7 +10165,7 @@ Dialogue: "I've spent my life making sure everyone else stayed connected...perha
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-shared-burdens-03
+ID: dialogue_bond-event-martin-shared-burdens-03
 
 Options: None
 
@@ -10183,7 +10183,7 @@ Dialogue: "There is no virtue in carrying a burden alone simply because one can.
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-shared-burdens-04
+ID: dialogue_bond-event-martin-shared-burdens-04
 
 Options: None
 
@@ -10201,7 +10201,7 @@ Dialogue: "I believe I shall remember that on today's route."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-martin-shared-burdens-05
+ID: dialogue_bond-event-martin-shared-burdens-05
 
 Options: None
 
@@ -10219,7 +10219,7 @@ Dialogue: "I'm content watching. Younger folks don't need an old founder hoverin
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-watching-from-afar-01
+ID: dialogue_bond-event-roland-watching-from-afar-01
 
 Options: None
 
@@ -10237,7 +10237,7 @@ Dialogue: "When you've had a hand in building something, it can be difficult to 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-watching-from-afar-02
+ID: dialogue_bond-event-roland-watching-from-afar-02
 
 Options: None
 
@@ -10255,7 +10255,7 @@ Dialogue: "So I stay back."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-watching-from-afar-03
+ID: dialogue_bond-event-roland-watching-from-afar-03
 
 Options: None
 
@@ -10273,7 +10273,7 @@ Dialogue: "Lately I've wondered whether I stepped back so far that experience I 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-watching-from-afar-04
+ID: dialogue_bond-event-roland-watching-from-afar-04
 
 Options: None
 
@@ -10291,7 +10291,7 @@ Dialogue: "Every mark on this map belonged to a moment when Blackmere became a l
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-passing-the-compass-01
+ID: dialogue_bond-event-roland-passing-the-compass-01
 
 Options: None
 
@@ -10309,7 +10309,7 @@ Dialogue: "For a long time, I thought my work was finished."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-passing-the-compass-02
+ID: dialogue_bond-event-roland-passing-the-compass-02
 
 Options: None
 
@@ -10327,7 +10327,7 @@ Dialogue: "But perhaps the final thing a builder must construct...is confidence 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-passing-the-compass-03
+ID: dialogue_bond-event-roland-passing-the-compass-03
 
 Options: None
 
@@ -10345,7 +10345,7 @@ Dialogue: "The next generation doesn't need me holding the compass for them."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-passing-the-compass-04
+ID: dialogue_bond-event-roland-passing-the-compass-04
 
 Options: None
 
@@ -10363,7 +10363,7 @@ Dialogue: "Maybe they only need me nearby when they ask how we found the road th
 
 Event: Connection Event
 
-ID: dialogue_connection-event-roland-passing-the-compass-05
+ID: dialogue_bond-event-roland-passing-the-compass-05
 
 Options: None
 
@@ -10381,7 +10381,7 @@ Dialogue: "I know they were joking. Doesn't mean the question disappears afterwa
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-enough-01
+ID: dialogue_bond-event-theo-enough-01
 
 Options: None
 
@@ -10399,7 +10399,7 @@ Dialogue: "I like this life. I like baking. I like knowing what tomorrow morning
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-enough-02
+ID: dialogue_bond-event-theo-enough-02
 
 Options: None
 
@@ -10417,7 +10417,7 @@ Dialogue: "Sometimes I still wonder whether everyone else sees that as a lack of
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-enough-03
+ID: dialogue_bond-event-theo-enough-03
 
 Options: None
 
@@ -10435,7 +10435,7 @@ Dialogue: "The strange part is, I don't want something bigger. I just wish that 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-enough-04
+ID: dialogue_bond-event-theo-enough-04
 
 Options: None
 
@@ -10453,7 +10453,7 @@ Dialogue: "Look at these notes. 'Made for Helen's birthday.' 'Traveler came back
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-a-life-well-lived-01
+ID: dialogue_bond-event-theo-a-life-well-lived-01
 
 Options: None
 
@@ -10471,7 +10471,7 @@ Dialogue: "I thought this was a recipe journal. Turns out I was recording a life
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-a-life-well-lived-02
+ID: dialogue_bond-event-theo-a-life-well-lived-02
 
 Options: None
 
@@ -10489,7 +10489,7 @@ Dialogue: "Maybe I was chasing something after all...I just didn't realize it wa
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-a-life-well-lived-03
+ID: dialogue_bond-event-theo-a-life-well-lived-03
 
 Options: None
 
@@ -10507,7 +10507,7 @@ Dialogue: "I don't need my life to look impressive from far away."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-a-life-well-lived-04
+ID: dialogue_bond-event-theo-a-life-well-lived-04
 
 Options: None
 
@@ -10525,7 +10525,7 @@ Dialogue: "It feels pretty good from where I'm standing."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-theo-a-life-well-lived-05
+ID: dialogue_bond-event-theo-a-life-well-lived-05
 
 Options: None
 
@@ -10543,7 +10543,7 @@ Dialogue: "The second cup is Opal's."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-two-cups-01
+ID: dialogue_bond-event-walter-two-cups-01
 
 Options: None
 
@@ -10561,7 +10561,7 @@ Dialogue: "I know she isn't going to drink it. I'm old, not confused."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-two-cups-02
+ID: dialogue_bond-event-walter-two-cups-02
 
 Options: None
 
@@ -10579,7 +10579,7 @@ Dialogue: "We had tea together every morning for more years than I care to count
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-two-cups-03
+ID: dialogue_bond-event-walter-two-cups-03
 
 Options: None
 
@@ -10597,7 +10597,7 @@ Dialogue: "If I stop making it, something about the kitchen feels like I've deci
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-two-cups-04
+ID: dialogue_bond-event-walter-two-cups-04
 
 Options: None
 
@@ -10615,7 +10615,7 @@ Dialogue: "Opal wore this apron until I thought the patches had more fabric than
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-carrying-her-forward-01
+ID: dialogue_bond-event-walter-carrying-her-forward-01
 
 Options: None
 
@@ -10633,7 +10633,7 @@ Dialogue: "I kept trying to keep everything exactly the way she left it...becaus
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-carrying-her-forward-02
+ID: dialogue_bond-event-walter-carrying-her-forward-02
 
 Options: None
 
@@ -10651,7 +10651,7 @@ Dialogue: "But Opal never wanted life to stand still. She wanted this place full
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-carrying-her-forward-03
+ID: dialogue_bond-event-walter-carrying-her-forward-03
 
 Options: None
 
@@ -10669,7 +10669,7 @@ Dialogue: "So the apron stays here, where everybody can see it."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-carrying-her-forward-04
+ID: dialogue_bond-event-walter-carrying-her-forward-04
 
 Options: None
 
@@ -10687,7 +10687,7 @@ Dialogue: "She helped build this place to be lived in. I think it's time I let i
 
 Event: Connection Event
 
-ID: dialogue_connection-event-walter-carrying-her-forward-05
+ID: dialogue_bond-event-walter-carrying-her-forward-05
 
 Options: None
 
@@ -10705,7 +10705,7 @@ Dialogue: "Myrtle told me enough about this clock to understand why she feared c
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-the-weight-of-time-01
+ID: dialogue_bond-event-lucian-vivian-the-weight-of-time-01
 
 Options: None
 
@@ -10723,7 +10723,7 @@ Dialogue: "People imagine changing a mistake would make the world cleaner. They 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-the-weight-of-time-02
+ID: dialogue_bond-event-lucian-vivian-the-weight-of-time-02
 
 Options: None
 
@@ -10741,7 +10741,7 @@ Dialogue: "I do not distrust you personally."
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-the-weight-of-time-03
+ID: dialogue_bond-event-lucian-vivian-the-weight-of-time-03
 
 Options: None
 
@@ -10759,7 +10759,7 @@ Dialogue: "I distrust the idea that any good person remains entirely unchanged o
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-the-weight-of-time-04
+ID: dialogue_bond-event-lucian-vivian-the-weight-of-time-04
 
 Options: None
 
@@ -10777,7 +10777,7 @@ Dialogue: "I left this watch unfinished because failure taught me more than repa
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-trust-over-time-01
+ID: dialogue_bond-event-lucian-vivian-trust-over-time-01
 
 Options: None
 
@@ -10795,7 +10795,7 @@ Dialogue: "For years...I believed the safest future was the one no one could cha
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-trust-over-time-02
+ID: dialogue_bond-event-lucian-vivian-trust-over-time-02
 
 Options: None
 
@@ -10813,7 +10813,7 @@ Dialogue: "Myrtle trusted me to protect this secret. I thought that meant protec
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-trust-over-time-03
+ID: dialogue_bond-event-lucian-vivian-trust-over-time-03
 
 Options: None
 
@@ -10831,7 +10831,7 @@ Dialogue: "Now I understand...she was waiting for someone worthy of trusting wit
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-trust-over-time-04
+ID: dialogue_bond-event-lucian-vivian-trust-over-time-04
 
 Options: None
 
@@ -10849,7 +10849,7 @@ Dialogue: "The clock does not require another jailer. It requires a steward who 
 
 Event: Connection Event
 
-ID: dialogue_connection-event-lucian-vivian-trust-over-time-05
+ID: dialogue_bond-event-lucian-vivian-trust-over-time-05
 
 Options: None
 
