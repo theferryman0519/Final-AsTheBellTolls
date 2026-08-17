@@ -132,7 +132,7 @@ Version: 0.0.1
 
 - Bond Events
 - Disliked Gifts
-- Edward Help (NOT STARTED)
+- Edward Help
 - Favorite Gifts
 - Festivals
 - First Meet
