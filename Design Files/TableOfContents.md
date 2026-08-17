@@ -234,6 +234,7 @@ Version: 0.0.1
 
 ### Mail Items
 
+- Community Board Requests
 - Event Reminders
 - Event Requests
 - Humor Notes
