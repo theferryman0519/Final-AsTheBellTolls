@@ -3,7 +3,7 @@ Title: Events / Mini Festivals / Aurora Watch
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -31,8 +31,8 @@ Activity Type: Stargazing
 
 Is Activity Required: No
 
-Is Activity Rewarded: Yes
+Is Activity Rewarded: No
 
 Movement Type: Automatic
 
-Reward: TODO
+Reward: None
