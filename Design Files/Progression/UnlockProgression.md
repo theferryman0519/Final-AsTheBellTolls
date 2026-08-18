@@ -200,3 +200,73 @@ Version: 0.0.1
 - Cooked drinks restore 25% more stamina (Theo 6 Keys)
 - General Store prices are reduced by 15% Bellnotes (Walter 6 Keys)
 - Time manipulation doubles the duration for each use (Lucian/Vivian 6 Keys)
+
+---
+
+## Location Unlocks
+
+- 1 Resident Lane: Day 1 of Spring, Year 1
+- 2 Resident Lane: Day 1 of Spring, Year 1
+- 4 Resident Lane: Day 1 of Spring, Year 1
+- 5 Resident Lane: Day 1 of Spring, Year 1
+- 6 Resident Lane: Day 1 of Spring, Year 1
+- Blackmere Bank & Exchange: Day 1 of Spring, Year 1
+- Blackmere Bell Tower: Day 1 of Spring, Year 1
+- Blackmere General Store: Day 1 of Spring, Year 1
+- Blackmere Town Hall: Day 1 of Spring, Year 1
+- Caravan Stall: Day 1 of Spring, Year 1
+- Gloamwood Depths: Day 1 of Spring, Year 1
+- Gloamwood Forest: Day 1 of Spring, Year 1
+- Graythorne Lake: Day 1 of Spring, Year 1
+- Ironveil Forge: Day 1 of Spring, Year 1
+- Ironveil Peak: Day 1 of Spring, Year 1
+- Klein Woodworks: Day 1 of Spring, Year 1
+- Memorial Hill: Day 1 of Spring, Year 1
+- Rain & Hale: Day 1 of Spring, Year 1
+- Riverbend Fishery: Day 1 of Spring, Year 1
+- Steelridge Watch: Day 1 of Spring, Year 1
+- Weiss Design Studio: Day 1 of Spring, Year 1
+- Winding Banks Inn: Day 1 of Spring, Year 1
+- 3 Resident Lane: Day 4 of Spring, Year 1
+- A. Whitmore Public Library: Day 4 of Spring, Year 1
+- A. Whitmore Public School: Day 4 of Spring, Year 1
+- Mercer Farms: Day 4 of Spring, Year 1
+- Ashfall Mines: Day 9 of Spring, Year 1
+- Hall of Wonder: Day 30 of Spring, Year 1
+- Thread & Thimble: Day 23 of Summer, Year 1
+
+---
+
+## Character Unlocks
+
+- Agatha: Day 1 of Spring, Year 1
+- Anya: Day 1 of Spring, Year 1
+- Beatrice: Day 1 of Spring, Year 1
+- Clara: Day 1 of Spring, Year 1
+- Edward: Day 1 of Spring, Year 1
+- Elise: Day 1 of Spring, Year 1
+- Felix: Day 1 of Spring, Year 1
+- Frederick: Day 1 of Spring, Year 1
+- Helen: Day 1 of Spring, Year 1
+- Irene: Day 1 of Spring, Year 1
+- Julian: Day 1 of Spring, Year 1
+- Kira: Day 4 of Spring, Year 1
+- Lena: Day 1 of Spring, Year 1
+- Lucian/Vivian: Day 1 of Spring, Year 1
+- Mara: Day 1 of Spring, Year 1
+- Marcus: Day 1 of Spring, Year 1
+- Martin: Day 1 of Spring, Year 1
+- Nora: Day 1 of Spring, Year 1
+- Roland: Day 1 of Spring, Year 1
+- Theo: Day 1 of Spring, Year 1
+- Victor: Day 1 of Spring, Year 1
+- Walter: Day 1 of Spring, Year 1
+- Adrian: Day 4 of Spring, Year 1
+- Claudia: Day 4 of Spring, Year 1
+- Jasmine: Day 4 of Spring, Year 1
+- Jonas: Day 4 of Spring, Year 1
+- Milo: Day 4 of Spring, Year 1
+- Sabrina: Day 4 of Spring, Year 1
+- Dante: Day 30 of Spring, Year 1
+- Madison: Day 12 of Summer, Year 1
+- Leo: Day 23 of Summer, Year 1
