@@ -1416,6 +1416,13 @@ Version: 0.0.1
 - dialogue_festivals-fun-in-the-sun-festival-anya-a
 - dialogue_festivals-fun-in-the-sun-festival-anya-b
 - dialogue_festivals-fun-in-the-sun-festival-anya-c
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-01
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-02
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-03
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-04
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-05
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-06
+- dialogue_festivals-fun-in-the-sun-festival-beatrice-07
 - dialogue_festivals-fun-in-the-sun-festival-beatrice-a
 - dialogue_festivals-fun-in-the-sun-festival-beatrice-b
 - dialogue_festivals-fun-in-the-sun-festival-beatrice-c
@@ -1509,6 +1516,11 @@ Version: 0.0.1
 - dialogue_festivals-grand-showcase-anya-a
 - dialogue_festivals-grand-showcase-anya-b
 - dialogue_festivals-grand-showcase-anya-c
+- dialogue_festivals-grand-showcase-beatrice-01
+- dialogue_festivals-grand-showcase-beatrice-02
+- dialogue_festivals-grand-showcase-beatrice-03
+- dialogue_festivals-grand-showcase-beatrice-04
+- dialogue_festivals-grand-showcase-beatrice-05
 - dialogue_festivals-grand-showcase-beatrice-a
 - dialogue_festivals-grand-showcase-beatrice-b
 - dialogue_festivals-grand-showcase-beatrice-c
@@ -1602,6 +1614,8 @@ Version: 0.0.1
 - dialogue_festivals-harvest-supper-anya-a
 - dialogue_festivals-harvest-supper-anya-b
 - dialogue_festivals-harvest-supper-anya-c
+- dialogue_festivals-harvest-supper-beatrice-01
+- dialogue_festivals-harvest-supper-beatrice-02
 - dialogue_festivals-harvest-supper-beatrice-a
 - dialogue_festivals-harvest-supper-beatrice-b
 - dialogue_festivals-harvest-supper-beatrice-c
@@ -1695,6 +1709,12 @@ Version: 0.0.1
 - dialogue_festivals-hollow-moon-night-anya-a
 - dialogue_festivals-hollow-moon-night-anya-b
 - dialogue_festivals-hollow-moon-night-anya-c
+- dialogue_festivals-hollow-moon-night-beatrice-01
+- dialogue_festivals-hollow-moon-night-beatrice-02
+- dialogue_festivals-hollow-moon-night-beatrice-03
+- dialogue_festivals-hollow-moon-night-beatrice-04
+- dialogue_festivals-hollow-moon-night-beatrice-05
+- dialogue_festivals-hollow-moon-night-beatrice-06
 - dialogue_festivals-hollow-moon-night-beatrice-a
 - dialogue_festivals-hollow-moon-night-beatrice-b
 - dialogue_festivals-hollow-moon-night-beatrice-c
@@ -1788,6 +1808,8 @@ Version: 0.0.1
 - dialogue_festivals-river-remembrance-day-anya-a
 - dialogue_festivals-river-remembrance-day-anya-b
 - dialogue_festivals-river-remembrance-day-anya-c
+- dialogue_festivals-river-remembrance-day-beatrice-01
+- dialogue_festivals-river-remembrance-day-beatrice-02
 - dialogue_festivals-river-remembrance-day-beatrice-a
 - dialogue_festivals-river-remembrance-day-beatrice-b
 - dialogue_festivals-river-remembrance-day-beatrice-c
@@ -1881,6 +1903,8 @@ Version: 0.0.1
 - dialogue_festivals-seedwake-brunch-anya-a
 - dialogue_festivals-seedwake-brunch-anya-b
 - dialogue_festivals-seedwake-brunch-anya-c
+- dialogue_festivals-seedwake-brunch-beatrice-01
+- dialogue_festivals-seedwake-brunch-beatrice-02
 - dialogue_festivals-seedwake-brunch-beatrice-a
 - dialogue_festivals-seedwake-brunch-beatrice-b
 - dialogue_festivals-seedwake-brunch-beatrice-c
@@ -1974,6 +1998,9 @@ Version: 0.0.1
 - dialogue_festivals-snow-bells-eve-anya-a
 - dialogue_festivals-snow-bells-eve-anya-b
 - dialogue_festivals-snow-bells-eve-anya-c
+- dialogue_festivals-snow-bells-eve-beatrice-01
+- dialogue_festivals-snow-bells-eve-beatrice-02
+- dialogue_festivals-snow-bells-eve-beatrice-03
 - dialogue_festivals-snow-bells-eve-beatrice-a
 - dialogue_festivals-snow-bells-eve-beatrice-b
 - dialogue_festivals-snow-bells-eve-beatrice-c
@@ -2160,6 +2187,10 @@ Version: 0.0.1
 - dialogue_festivals-toll-of-hearths-anya-a
 - dialogue_festivals-toll-of-hearths-anya-b
 - dialogue_festivals-toll-of-hearths-anya-c
+- dialogue_festivals-toll-of-hearths-beatrice-01
+- dialogue_festivals-toll-of-hearths-beatrice-02
+- dialogue_festivals-toll-of-hearths-beatrice-03
+- dialogue_festivals-toll-of-hearths-beatrice-04
 - dialogue_festivals-toll-of-hearths-beatrice-a
 - dialogue_festivals-toll-of-hearths-beatrice-b
 - dialogue_festivals-toll-of-hearths-beatrice-c
