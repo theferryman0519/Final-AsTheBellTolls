@@ -31,7 +31,7 @@ Activity Type: Shared Meal
 
 Is Activity Required: Yes
 
-Is Activity Rewarded: Yes
+Is Activity Rewarded: No
 
 Movement Type: Automatic
 
