@@ -16,6 +16,15 @@ Version: 0.0.1
 
 ---
 
+## Availability
+
+- First Available: Day 4 of Spring, Year 1
+- Hours: 6am to 9pm
+- Days Closed: None
+- Weather Closures: None
+
+---
+
 ## Shop Items with Jonas
 
 *Note: All items are visible at once when shopping based on their season.*
