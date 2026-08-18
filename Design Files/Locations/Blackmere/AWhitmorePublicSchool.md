@@ -14,6 +14,16 @@ Version: 0.0.1
 
 ---
 
+## Availability
+
+- First Available: Day 4 of Spring, Year 1
+- Hours: 8am to 3pm
+- Days Closed: Saturday, Sunday
+- Weather Closures: Rain (Severe), Snow (Severe)
+- Other Closures: Close from Day 18 of Winter to Day 4 of Spring
+
+---
+
 ## Restoration Progression
 
 | Restoration Stage | Appearance
