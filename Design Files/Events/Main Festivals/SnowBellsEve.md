@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Snow Bell's Eve
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -41,8 +41,8 @@ Reward: None
 
 # Shop Information
 
-Are Items Sold: Yes
+Are Items Sold: No
 
-Are Items Sold At A Discount: Yes
+Are Items Sold At A Discount: No
 
-Items Sold: TODO
+Items Sold: None
