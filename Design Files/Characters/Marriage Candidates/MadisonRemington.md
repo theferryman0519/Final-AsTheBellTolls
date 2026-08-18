@@ -175,7 +175,7 @@ Weakness: Isolated
 
 Can Send Mail: Yes
 
-First Available Date: Day 14 of Autumn, Year 1
+First Available Date: Day 12 of Summer, Year 1
 
 Grand Showcase Contestant: No
 
