@@ -15,6 +15,15 @@ Version: 0.0.1
 
 ---
 
+## Availability
+
+- First Available: Day 1 of Spring, Year 1
+- Hours: 6am to 2pm
+- Days Closed: None
+- Weather Closures: None
+
+---
+
 ## Restoration Progression
 
 | Restoration Stage | Appearance
@@ -35,4 +44,4 @@ Version: 0.0.1
 
 | Item        | Bellnote Amount
 |-------------|---|
-| Fishing Net | 2,000 Bellnotes
+| Fishing Net | 200 Bellnotes
