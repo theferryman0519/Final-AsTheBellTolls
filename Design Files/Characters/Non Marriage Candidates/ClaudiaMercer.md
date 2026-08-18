@@ -175,7 +175,7 @@ Weakness: Emotional Hardness
 
 Can Send Mail: Yes
 
-First Available Date: Day 7 of Spring, Year 1
+First Available Date: Day 4 of Spring, Year 1
 
 Grand Showcase Contestant: Yes
 
