@@ -9,7 +9,16 @@ Version: 0.0.1
 
 ## Information
 
-- Location is the site for the Fun In The Sun festival.
+- Location is the site for the Fun In The Sun Festival.
+
+---
+
+## Availability
+
+- First Available: Day 1 of Spring, Year 1
+- Hours: 6am to 12am
+- Days Closed: None
+- Weather Closures: None
 
 ---
 
