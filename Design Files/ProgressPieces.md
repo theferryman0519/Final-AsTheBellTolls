@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- IN PROGRESS (34 left)
+- IN PROGRESS (29 left)
 - NOT STARTED (12 left)
 
 ---
@@ -33,10 +33,12 @@ Version: 0.0.1
 
 ### Children
 
-- Anya Thorne (IN PROGRESS - Schedule and routines)
-- Felix Holt (IN PROGRESS - Schedule and routines)
-- Kira Mercer (IN PROGRESS - Schedule and routines)
-- Milo Mercer (IN PROGRESS - Schedule and routines)
+- Anya Thorne
+- Child Pendrelle (Boy)
+- Child Pendrelle (Girl)
+- Felix Holt
+- Kira Mercer
+- Milo Mercer
 
 ### Deceased
 
@@ -363,7 +365,7 @@ Version: 0.0.1
 - Day End System
 - Dialogue System
 - Economy System
-- Family System (IN PROGRESS - Need to figure out the rest of the baby mechanics)
+- Family System
 - Farming System
 - Festival System
 - Fishing System
