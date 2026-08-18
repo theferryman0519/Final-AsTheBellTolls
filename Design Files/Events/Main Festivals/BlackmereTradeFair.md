@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Blackmere Trade Fair
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -45,4 +45,4 @@ Are Items Sold: Yes
 
 Are Items Sold At A Discount: Yes
 
-Items Sold: TODO
+Items Sold: Gemstones, Ore, Fabrications, Garden Crop Seeds, Orchard Crops Seeds, Flower Seeds
