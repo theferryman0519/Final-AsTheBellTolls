@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- IN PROGRESS (19 left)
+- IN PROGRESS (3 left)
 - NOT STARTED (12 left)
 
 ---
@@ -63,22 +63,22 @@ Version: 0.0.1
 
 ### Non-Marriage Candidates
 
-- Agatha Whitmore (IN PROGRESS - Schedule and routines)
-- Beatrice Whitmore (IN PROGRESS - Schedule and routines)
-- Claudia Mercer (IN PROGRESS - Schedule and routines)
-- Edward Ashcroft (IN PROGRESS - Schedule and routines)
-- Elise Moreau (IN PROGRESS - Schedule and routines)
-- Frederick Holt (IN PROGRESS - Schedule and routines)
-- Helen Holt (IN PROGRESS - Schedule and routines)
-- Irene Calder (IN PROGRESS - Schedule and routines)
-- Jasmine Mercer (IN PROGRESS - Schedule and routines)
-- Jonas Mercer (IN PROGRESS - Schedule and routines)
-- Julian Hale (IN PROGRESS - Schedule and routines)
-- Lena Thorne (IN PROGRESS - Schedule and routines)
-- Martin Ashcroft (IN PROGRESS - Schedule and routines)
-- Roland Whitmore (IN PROGRESS - Schedule and routines)
-- Theo Bennett (IN PROGRESS - Schedule and routines)
-- Walter Pierce (IN PROGRESS - Schedule and routines)
+- Agatha Whitmore
+- Beatrice Whitmore
+- Claudia Mercer
+- Edward Ashcroft
+- Elise Moreau
+- Frederick Holt
+- Helen Holt
+- Irene Calder
+- Jasmine Mercer
+- Jonas Mercer
+- Julian Hale
+- Lena Thorne
+- Martin Ashcroft
+- Roland Whitmore
+- Theo Bennett
+- Walter Pierce
 
 ### Pets & Animals
 
