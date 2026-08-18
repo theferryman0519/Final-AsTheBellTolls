@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Hollow Moon Night
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -21,13 +21,13 @@ Location: Graythorne Lake
 
 Setting: Outdoor
 
-Weather: Windy
+Weather: Cloudy
 
 ---
 
 # Interaction Information
 
-Activity Type: Spooky Story
+Activity Type: Orb Hunt
 
 Is Activity Required: No
 
@@ -35,7 +35,7 @@ Is Activity Rewarded: Yes
 
 Movement Type: Manual
 
-Reward: TODO
+Reward: Diamond
 
 ---
 
