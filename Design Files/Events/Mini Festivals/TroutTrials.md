@@ -3,7 +3,7 @@ Title: Events / Mini Festivals / Trout Trials
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -35,4 +35,4 @@ Is Activity Rewarded: Yes
 
 Movement Type: Manual
 
-Reward: TODO
+Reward: Amber (5 Trout), Aquamarine (10 Trout), Paerl (20 Trout), Emerald (40 Trout)
