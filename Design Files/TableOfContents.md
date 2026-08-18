@@ -1,5 +1,5 @@
 ---
-Title: Table of Contents
+Title: Progress Pieces
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -7,9 +7,14 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
+- IN PROGRESS (33 left)
+- NOT STARTED (12 left)
+
+---
+
 - Game Design Document
-- Progress Pieces
-- Table of Contents
+- Progress Pieces (IN PROGRESS - Other necessary additions)
+- Table of Contents (IN PROGRESS - Other necessary additions)
 
 ---
 
@@ -28,12 +33,12 @@ Version: 0.0.1
 
 ### Children
 
-- Anya Thorne
+- Anya Thorne (IN PROGRESS - Schedule and routines)
 - Child Pendrelle (Boy)
 - Child Pendrelle (Girl)
-- Felix Holt
-- Kira Mercer
-- Milo Mercer
+- Felix Holt (IN PROGRESS - Schedule and routines)
+- Kira Mercer (IN PROGRESS - Schedule and routines)
+- Milo Mercer (IN PROGRESS - Schedule and routines)
 
 ### Deceased
 
@@ -45,35 +50,35 @@ Version: 0.0.1
 
 ### Marriage Candidates
 
-- Adrian Lockwood
-- Clara Weiss
-- Dante Menici
-- Leo Finch
-- Madison Remington
-- Mara Klein
-- Marcus Rowan
-- Nora Reed
-- Sabrina Fairchild
-- Victor Cross
+- Adrian Lockwood (IN PROGRESS - Schedule and routines)
+- Clara Weiss (IN PROGRESS - Schedule and routines)
+- Dante Menici (IN PROGRESS - Schedule and routines)
+- Leo Finch (IN PROGRESS - Schedule and routines)
+- Madison Remington (IN PROGRESS - Schedule and routines)
+- Mara Klein (IN PROGRESS - Schedule and routines)
+- Marcus Rowan (IN PROGRESS - Schedule and routines)
+- Nora Reed (IN PROGRESS - Schedule and routines)
+- Sabrina Fairchild (IN PROGRESS - Schedule and routines)
+- Victor Cross (IN PROGRESS - Schedule and routines)
 
 ### Non-Marriage Candidates
 
-- Agatha Whitmore
-- Beatrice Whitmore
-- Claudia Mercer
-- Edward Ashcroft
-- Elise Moreau
-- Frederick Holt
-- Helen Holt
-- Irene Calder
-- Jasmine Mercer
-- Jonas Mercer
-- Julian Hale
-- Lena Thorne
-- Martin Ashcroft
-- Roland Whitmore
-- Theo Bennett
-- Walter Pierce
+- Agatha Whitmore (IN PROGRESS - Schedule and routines)
+- Beatrice Whitmore (IN PROGRESS - Schedule and routines)
+- Claudia Mercer (IN PROGRESS - Schedule and routines)
+- Edward Ashcroft (IN PROGRESS - Schedule and routines)
+- Elise Moreau (IN PROGRESS - Schedule and routines)
+- Frederick Holt (IN PROGRESS - Schedule and routines)
+- Helen Holt (IN PROGRESS - Schedule and routines)
+- Irene Calder (IN PROGRESS - Schedule and routines)
+- Jasmine Mercer (IN PROGRESS - Schedule and routines)
+- Jonas Mercer (IN PROGRESS - Schedule and routines)
+- Julian Hale (IN PROGRESS - Schedule and routines)
+- Lena Thorne (IN PROGRESS - Schedule and routines)
+- Martin Ashcroft (IN PROGRESS - Schedule and routines)
+- Roland Whitmore (IN PROGRESS - Schedule and routines)
+- Theo Bennett (IN PROGRESS - Schedule and routines)
+- Walter Pierce (IN PROGRESS - Schedule and routines)
 
 ### Pets & Animals
 
@@ -96,7 +101,7 @@ Version: 0.0.1
 
 ### Rivals
 
-- Lucian/Vivian Darrow
+- Lucian/Vivian Darrow (IN PROGRESS - Schedule and routines)
 
 ### Traders
 
@@ -109,13 +114,19 @@ Version: 0.0.1
 
 ## Code Setup
 
-- Controllers
+- Controllers (NOT STARTED)
 - Data IDs
-- Enums
-- Models
-- Save Data
-- Scriptable Objects
-- Services
+- Dependencies (NOT STARTED)
+- Enums (NOT STARTED)
+- Event Channels (NOT STARTED)
+- Game Architecture (NOT STARTED)
+- Game Flags (NOT STARTED)
+- Initialization Order (NOT STARTED)
+- Models (NOT STARTED)
+- Save Data (NOT STARTED)
+- Save Versioning (NOT STARTED)
+- Scriptable Objects (NOT STARTED)
+- Services (NOT STARTED)
 
 ---
 
