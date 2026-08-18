@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Seedwake Brunch
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -33,16 +33,16 @@ Is Activity Required: No
 
 Is Activity Rewarded: Yes
 
-Movement Type: Manual
+Movement Type: Automatic
 
-Reward: TODO
+Reward: None
 
 ---
 
 # Shop Information
 
-Are Items Sold: Yes
+Are Items Sold: No
 
-Are Items Sold At A Discount: Yes
+Are Items Sold At A Discount: No
 
-Items Sold: TODO
+Items Sold: None
