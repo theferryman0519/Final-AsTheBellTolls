@@ -29,6 +29,8 @@ Version: 0.0.1
 ### Children
 
 - Anya Thorne
+- Child Pendrelle (Boy)
+- Child Pendrelle (Girl)
 - Felix Holt
 - Kira Mercer
 - Milo Mercer
