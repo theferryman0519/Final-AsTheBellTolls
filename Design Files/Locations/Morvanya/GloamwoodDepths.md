@@ -10,6 +10,17 @@ Version: 0.0.1
 ## Information
 
 - Location is the site for finding various museum artifacts.
+- Players may even catch a glimpse of the infamous and rare White Doe.
+- The air is extremely foggy, and the external weather does not affect this area.
+
+---
+
+## Availability
+
+- First Available: Day 1 of Spring, Year 1
+- Hours: 6am to 12am
+- Days Closed: None
+- Weather Closures: None
 
 ---
 
