@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- IN PROGRESS (29 left)
+- IN PROGRESS (19 left)
 - NOT STARTED (12 left)
 
 ---
@@ -50,16 +50,16 @@ Version: 0.0.1
 
 ### Marriage Candidates
 
-- Adrian Lockwood (IN PROGRESS - Schedule and routines)
-- Clara Weiss (IN PROGRESS - Schedule and routines)
-- Dante Menici (IN PROGRESS - Schedule and routines)
-- Leo Finch (IN PROGRESS - Schedule and routines)
-- Madison Remington (IN PROGRESS - Schedule and routines)
-- Mara Klein (IN PROGRESS - Schedule and routines)
-- Marcus Rowan (IN PROGRESS - Schedule and routines)
-- Nora Reed (IN PROGRESS - Schedule and routines)
-- Sabrina Fairchild (IN PROGRESS - Schedule and routines)
-- Victor Cross (IN PROGRESS - Schedule and routines)
+- Adrian Lockwood
+- Clara Weiss
+- Dante Menici
+- Leo Finch
+- Madison Remington
+- Mara Klein
+- Marcus Rowan
+- Nora Reed
+- Sabrina Fairchild
+- Victor Cross
 
 ### Non-Marriage Candidates
 
