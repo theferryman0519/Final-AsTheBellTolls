@@ -14,6 +14,15 @@ Version: 0.0.1
 
 ---
 
+## Availability
+
+- First Available: Day 30 of Spring, Year 1
+- Hours: 7am to 8pm
+- Days Closed: Wednesday
+- Weather Closures: None
+
+---
+
 ## Restoration Progression
 
 | Restoration Stage | Appearance
