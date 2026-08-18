@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Toll of Hearths
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -35,7 +35,7 @@ Is Activity Rewarded: Yes
 
 Movement Type: Automatic
 
-Reward: TODO
+Reward: None
 
 ---
 
