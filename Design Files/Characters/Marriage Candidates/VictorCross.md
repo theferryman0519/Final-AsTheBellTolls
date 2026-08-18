@@ -698,7 +698,7 @@ And then he comes back.
 
 His packed travel bag serves the same purpose inside 5 Resident Lane.
 
-Victor's profile explicitly establishes that he keeps it beneath his bed. :contentReference[oaicite:1]{index=1}
+Victor's profile explicitly establishes that he keeps it beneath his bed.
 
 The bag should therefore be part of his normal routine rather than appearing only during a relationship event.
 
