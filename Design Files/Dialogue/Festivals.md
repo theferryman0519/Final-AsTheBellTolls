@@ -21768,3 +21768,561 @@ Speaker: Lucian/Vivian Darrow
 Variant: C
 
 ---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 01
+
+Dialogue: "I trust you've had the opportunity to enjoy yourself. We've set aside the day's usual responsibilities for a reason, after all."
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 02
+
+Dialogue: "The rules are straightforward. You'll each begin with a bucket of water, and your objective is to splash as many people as you can before time is called."
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-02
+
+Options: None
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 03
+
+Dialogue: "Your bucket won't last indefinitely. If you run out of water, refill it from the barrel in the center and continue. I suggest you mind who might be waiting for you there."
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-03
+
+Options: None
+
+Order Number: 3
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 04
+
+Dialogue: "That should cover everything. Are you ready to take your place?"
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-04
+
+Options: I'm ready. / Give me a moment.
+
+Order Number: 4
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 05
+
+Dialogue: "And that's time. Buckets down, if you please. I believe everyone has been thoroughly drenched enough for one afternoon."
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-05
+
+Options: None
+
+Order Number: 5
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 06
+
+Dialogue: "No scores, no prizes, and no winners to announce. Today was simply an opportunity for Blackmere to set its responsibilities aside and enjoy itself for a while."
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-06
+
+Options: None
+
+Order Number: 6
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Fun In The Sun Festival - Beatrice - 07
+
+Dialogue: "Thank you all for participating. Now, I suggest everyone find somewhere to dry off before going about the rest of their day."
+
+Event: Festivals
+
+ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-07
+
+Options: None
+
+Order Number: 7
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Grand Showcase - Beatrice - 01
+
+Dialogue: "Quite a turnout, isn't it? The Grand Showcase has always been an opportunity to demonstrate what ingenuity can accomplish when given the proper encouragement."
+
+Event: Festivals
+
+ID: dialogue_festivals-grand-showcase-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Grand Showcase - Beatrice - 02
+
+Dialogue: "When you're ready, please submit your chosen invention on the pedestal. Once you've made your selection, we'll begin the judging."
+
+Event: Festivals
+
+ID: dialogue_festivals-grand-showcase-beatrice-02
+
+Options: None
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Grand Showcase - Beatrice - 03
+
+Dialogue: "That concludes the judging. The final scores have been recorded, and the results are ready."
+
+Event: Festivals
+
+ID: dialogue_festivals-grand-showcase-beatrice-03
+
+Options: None
+
+Order Number: 3
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Grand Showcase - Beatrice - 04
+
+Dialogue: "Before I announce them, I'd like to thank everyone who submitted an invention this year. The work displayed here is a fine testament to the ingenuity we continue to foster in Blackmere."
+
+Event: Festivals
+
+ID: dialogue_festivals-grand-showcase-beatrice-04
+
+Options: None
+
+Order Number: 4
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Grand Showcase - Beatrice - 05
+
+Dialogue: "With a final score of [Score], this year's Grand Showcase winner is [Winner]. Congratulations on a well-earned victory."
+
+Event: Festivals
+
+ID: dialogue_festivals-grand-showcase-beatrice-05
+
+Options: None
+
+Order Number: 5
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Snow Bell's Eve - Beatrice - 01
+
+Dialogue: "The musicians are nearly ready. Snow Bell's Eve has brought Blackmere together for this dance for generations, and I see no reason tonight should be any different."
+
+Event: Festivals
+
+ID: dialogue_festivals-snow-bells-eve-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Snow Bell's Eve - Beatrice - 02
+
+Dialogue: "Once the music begins, everyone will join the waltz together. There's no need for ceremony beyond that—simply follow the dance and enjoy yourself."
+
+Event: Festivals
+
+ID: dialogue_festivals-snow-bells-eve-beatrice-02
+
+Options: None
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Snow Bell's Eve - Beatrice - 03
+
+Dialogue: "The musicians are waiting for my signal. Shall I have them begin?"
+
+Event: Festivals
+
+ID: dialogue_festivals-snow-bells-eve-beatrice-03
+
+Options: Start the music. / Not quite yet.
+
+Order Number: 3
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Toll of Hearths - Beatrice - 01
+
+Dialogue: "It's remarkable to see Pendrelle Manor like this. There was a time when I wasn't certain these halls would ever be filled with people again."
+
+Event: Festivals
+
+ID: dialogue_festivals-toll-of-hearths-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Toll of Hearths - Beatrice - 02
+
+Dialogue: "You've given this place a future when it very easily could have remained another reminder of what Blackmere lost. I hope you understand what that means to those of us who remember how things were."
+
+Event: Festivals
+
+ID: dialogue_festivals-toll-of-hearths-beatrice-02
+
+Options: None
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Toll of Hearths - Beatrice - 03
+
+Dialogue: "And, on behalf of everyone here, thank you for opening your home to us tonight. Hosting an entire town is no small responsibility."
+
+Event: Festivals
+
+ID: dialogue_festivals-toll-of-hearths-beatrice-03
+
+Options: None
+
+Order Number: 3
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Toll of Hearths - Beatrice - 04
+
+Dialogue: "Everything appears to be ready. Whenever you are, shall we invite everyone to the table?"
+
+Event: Festivals
+
+ID: dialogue_festivals-toll-of-hearths-beatrice-04
+
+Options: Let's begin the meal. / I'd like another moment.
+
+Order Number: 4
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Harvest Supper - Beatrice - 01
+
+Dialogue: "There's something reassuring about seeing everyone gathered around the same table. Whatever the year has brought us, tonight we share in what Blackmere has produced together."
+
+Event: Festivals
+
+ID: dialogue_festivals-harvest-supper-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Harvest Supper - Beatrice - 02
+
+Dialogue: "Everything appears to be in order, and I believe we've made everyone wait quite long enough. Shall we begin the supper?"
+
+Event: Festivals
+
+ID: dialogue_festivals-harvest-supper-beatrice-02
+
+Options: Let's eat. / Not just yet.
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Seedwake Brunch - Beatrice - 01
+
+Dialogue: "Seedwake has always marked more than the arrival of spring. It's a reminder that what we tend carefully today may sustain Blackmere for months to come."
+
+Event: Festivals
+
+ID: dialogue_festivals-seedwake-brunch-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Seedwake Brunch - Beatrice - 02
+
+Dialogue: "The tables are set and everyone appears to have arrived. If you're ready, we can formally welcome the new season."
+
+Event: Festivals
+
+ID: dialogue_festivals-seedwake-brunch-beatrice-02
+
+Options: Welcome the season. / Give me a little longer.
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Hollow Moon Night - Beatrice - 01
+
+Dialogue: "Some dismiss the White Doe as little more than an old Blackmere tale. Nevertheless, we've hidden her likeness somewhere along Graythorne Lake, just as generations before us have done."
+
+Event: Festivals
+
+ID: dialogue_festivals-hollow-moon-night-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Hollow Moon Night - Beatrice - 02
+
+Dialogue: "Once the search begins, the first person to find the White Doe Orb claims the honor—and, if the old stories are to be believed, the luck of seeing the White Doe for the coming year."
+
+Event: Festivals
+
+ID: dialogue_festivals-hollow-moon-night-beatrice-02
+
+Options: None
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Hollow Moon Night - Beatrice - 03
+
+Dialogue: "I believe I've given you all the warning you're going to receive. Shall I begin the hunt?"
+
+Event: Festivals
+
+ID: dialogue_festivals-hollow-moon-night-beatrice-03
+
+Options: Begin the hunt. / I want to look around first.
+
+Order Number: 3
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Hollow Moon Night - Beatrice - 04
+
+Dialogue: "There we have it. The White Doe has been found, and this year's hunt has come to an end."
+
+Event: Festivals
+
+ID: dialogue_festivals-hollow-moon-night-beatrice-04
+
+Options: None
+
+Order Number: 4
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Hollow Moon Night - Beatrice - 05
+
+Dialogue: "[Winner] found the White Doe Orb. If the old stories are to be believed, they'll carry the luck of seeing the White Doe until we gather here again next year."
+
+Event: Festivals
+
+ID: dialogue_festivals-hollow-moon-night-beatrice-05
+
+Options: None
+
+Order Number: 5
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - Hollow Moon Night - Beatrice - 06
+
+Dialogue: "Whether you place much faith in the legend is your own affair. Still, traditions endure for a reason. Congratulations, [Winner]."
+
+Event: Festivals
+
+ID: dialogue_festivals-hollow-moon-night-beatrice-06
+
+Options: None
+
+Order Number: 6
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - River Remembrance Day - Beatrice - 01
+
+Dialogue: "Today asks something different of us. We gather not to dwell upon what Blackmere has lost, but to ensure that those losses are never reduced to names and dates."
+
+Event: Festivals
+
+ID: dialogue_festivals-river-remembrance-day-beatrice-01
+
+Options: None
+
+Order Number: 1
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
+
+## Festivals - River Remembrance Day - Beatrice - 02
+
+Dialogue: "Everyone deserves the opportunity to observe the day in their own way. When you're prepared, we'll begin the remembrance."
+
+Event: Festivals
+
+ID: dialogue_festivals-river-remembrance-day-beatrice-02
+
+Options: I'm ready. / I need more time.
+
+Order Number: 2
+
+Speaker: Beatrice Whitmore
+
+Variant: None
+
+---
