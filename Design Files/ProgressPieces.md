@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-- IN PROGRESS (3 left)
+- IN PROGRESS (2 left)
 - NOT STARTED (12 left)
 
 ---
@@ -101,7 +101,7 @@ Version: 0.0.1
 
 ### Rivals
 
-- Lucian/Vivian Darrow (IN PROGRESS - Schedule and routines)
+- Lucian/Vivian Darrow
 
 ### Traders
 
