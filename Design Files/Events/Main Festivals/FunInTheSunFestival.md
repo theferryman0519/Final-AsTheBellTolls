@@ -31,7 +31,7 @@ Activity Type: Water Splash Event
 
 Is Activity Required: No
 
-Is Activity Rewarded: Yes
+Is Activity Rewarded: No
 
 Movement Type: Manual
 
