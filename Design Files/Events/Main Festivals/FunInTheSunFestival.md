@@ -35,14 +35,14 @@ Is Activity Rewarded: Yes
 
 Movement Type: Manual
 
-Reward: TODO
+Reward: None
 
 ---
 
 # Shop Information
 
-Are Items Sold: Yes
+Are Items Sold: No
 
-Are Items Sold At A Discount: Yes
+Are Items Sold At A Discount: No
 
-Items Sold: TODO
+Items Sold: None
