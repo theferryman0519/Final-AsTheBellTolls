@@ -3,7 +3,7 @@ Title: Events / Main Festivals / Grand Showcase
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -33,9 +33,9 @@ Is Activity Required: No
 
 Is Activity Rewarded: Yes
 
-Movement Type: Manual
+Movement Type: Automatic
 
-Reward: TODO
+Reward: Sapphire
 
 ---
 
