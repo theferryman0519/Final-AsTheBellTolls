@@ -9,7 +9,16 @@ Version: 0.0.1
 
 ## Information
 
-- Location is the site for the Hollow Night Festival.
+- Location is the site for the Hollow Moon Night Festival.
+
+---
+
+## Availability
+
+- First Available: Day 1 of Spring, Year 1
+- Hours: 6am to 12am
+- Days Closed: None
+- Weather Closures: None
 
 ---
 
