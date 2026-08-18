@@ -8,7 +8,7 @@ Version: 0.0.1
 ---
 
 - IN PROGRESS (2 left)
-- NOT STARTED (12 left)
+- NOT STARTED (11 left)
 
 ---
 
@@ -117,7 +117,7 @@ Version: 0.0.1
 - Controllers (NOT STARTED)
 - Data IDs
 - Dependencies (NOT STARTED)
-- Enums (NOT STARTED)
+- Enums
 - Event Channels (NOT STARTED)
 - Game Architecture (NOT STARTED)
 - Game Flags (NOT STARTED)
