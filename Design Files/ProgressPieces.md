@@ -8,7 +8,7 @@ Version: 0.0.1
 ---
 
 - IN PROGRESS (2 left)
-- NOT STARTED (11 left)
+- NOT STARTED (8 left)
 
 ---
 
@@ -114,13 +114,13 @@ Version: 0.0.1
 
 ## Code Setup
 
-- Controllers (NOT STARTED)
+- Controllers
 - Data IDs
-- Dependencies (NOT STARTED)
+- Dependencies
 - Enums
 - Event Channels (NOT STARTED)
 - Game Architecture (NOT STARTED)
-- Game Flags (NOT STARTED)
+- Game Flags
 - Initialization Order (NOT STARTED)
 - Models (NOT STARTED)
 - Save Data (NOT STARTED)
