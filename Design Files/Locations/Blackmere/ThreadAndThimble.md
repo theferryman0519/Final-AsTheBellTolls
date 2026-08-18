@@ -12,6 +12,16 @@ Version: 0.0.1
 - Location for player to shop for clothing and alter their apparance and clothes.
 - Residence for Leo Finch.
 - Located in Trades Quarter District.
+- All clothing items sold are 8 random items, no matter the season.
+
+---
+
+## Availability
+
+- First Available: Day 23 of Summer, Year 1
+- Hours: 10am to 7pm
+- Days Closed: Monday
+- Weather Closures: Rain (Severe), Snow (Severe)
 
 ---
 
@@ -28,9 +38,3 @@ Version: 0.0.1
 | Flourishing       | The boutique becomes Blackmere's premier destination for fashion.
 
 ---
-
-## Shop Items
-
-*TODO: Add in all clothing items when complete.*
-
-*Note: A rotation of 8 items are visible at once when shopping.*
