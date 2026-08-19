@@ -679,7 +679,7 @@ Version: 0.0.1
 - Cooking
 - Stargazing
 - Wedding
-- OrbHunt
+- LanternWalk
 - Memorial
 - Dance
 - JudgeShow
