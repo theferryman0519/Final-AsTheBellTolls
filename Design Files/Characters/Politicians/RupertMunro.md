@@ -39,12 +39,6 @@ Speaking Tone: Dry
 
 ---
 
-# Schedule & Routine
-
--- TODO
-
----
-
 # Visual Appearance
 
 Body Type: Normal
