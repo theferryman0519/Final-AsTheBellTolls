@@ -1,5 +1,5 @@
 ---
-Title: Dialogue / 
+Title: Dialogue / Greetings
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -127,7 +127,7 @@ Options: None
 
 Order Number: 1
 
-Speaker: Dante Mencini
+Speaker: Dante Menici
 
 Variant: None
 
