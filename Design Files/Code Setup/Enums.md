@@ -527,8 +527,20 @@ Version: 0.0.1
 - Brown (default)
 - Amber
 - Blue
+- DarkBrown
+- DarkBlue
+- DarkGreen
+- DarkPurple
+- DarkRed
 - Green
 - Hazel
+- LightBrown
+- LightBlue
+- LightGreen
+- LightPurple
+- LightRed
+- Purple
+- Red
 
 ### CharacterMovementStyleType
 
