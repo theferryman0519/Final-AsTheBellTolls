@@ -161,7 +161,7 @@ Version: 0.0.1
 ### Main Festivals
 
 - Blackmere Trade Festival
-- Fun in the Sun Festival
+- Midsummer Splash
 - Grand Showcase
 - Harvest Supper
 - Hollow Moon Night

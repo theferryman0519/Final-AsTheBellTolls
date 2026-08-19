@@ -72,7 +72,7 @@ Version: 0.0.1
 - scene_festival-02-trout-trials
 - scene_festival-03-grand-showcase
 - scene_festival-04-blackmere-trade-fair
-- scene_festival-05-fun-in-the-sun-festival
+- scene_festival-05-midsummer-splash
 - scene_festival-06-cooking-with-the-twins
 - scene_festival-07-salmon-run
 - scene_festival-08-harvest-supper

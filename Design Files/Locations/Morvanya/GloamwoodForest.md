@@ -9,7 +9,7 @@ Version: 0.0.1
 
 ## Information
 
-- Location is the site for the Fun In The Sun Festival.
+- Location is the site for the Midsummer Splash.
 
 ---
 

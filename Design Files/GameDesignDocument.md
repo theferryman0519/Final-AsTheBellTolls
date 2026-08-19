@@ -522,7 +522,7 @@ The various songs of the soundtrack include:
 
 **<u>Blackmere Trade Fair Theme</u>** - *Market Bells*
 
-**<u>Fun in the Sun Festival Theme</u>** - *The Brightest Day*
+**<u>Midsummer Splash Theme</u>** - *The Brightest Day*
 
 **<u>Grand Showcase Theme</u>** - *Sparks of Inspiration*
 

@@ -26,13 +26,13 @@ Type: Event Reminders
 
 ---
 
-## Fun In The Sun Festival
+## Midsummer Splash
 
-Body Text: Tomorrow's Fun In The Sun Festival will be held in Gloamwood Forest from 12pm until 5pm. The day's activities will include our annual water splash fun, so I recommend arriving prepared to participate...or, at minimum, prepared to get wet.
+Body Text: Tomorrow's Midsummer Splash will be held in Gloamwood Forest from 12pm until 5pm. The day's activities will include our annual water splash fun, so I recommend arriving prepared to participate...or, at minimum, prepared to get wet.
 
-Display Name: Fun In The Sun Festival
+Display Name: Midsummer Splash
 
-ID: item_mail_event-reminders-fun-in-the-sun-festival
+ID: item_mail_event-reminders-midsummer-splash
 
 Sender: Beatrice Whitmore
 

@@ -1,5 +1,5 @@
 ---
-Title: Events / Main Festivals / Fun In The Sun Festival
+Title: Events / Main Festivals / Midsummer Splash
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
@@ -11,11 +11,11 @@ Version: 0.0.1
 
 Dates: Day 24 of Summer
 
-Display Name: Fun In The Sun Festival
+Display Name: Midsummer Splash
 
 Hours: 12pm to 5pm
 
-ID: event_festival_fun-in-the-sun-festival
+ID: event_festival_midsummer-splash
 
 Location: Gloamwood Forest
 

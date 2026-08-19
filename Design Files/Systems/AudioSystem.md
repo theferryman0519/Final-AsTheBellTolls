@@ -33,7 +33,7 @@ Version: 0.0.1
 - River Remembrance Day Theme: *Where the River Keeps Their Names*
 - Seedwake Brunch Theme: *A Place for Everyone*
 - Blackmere Trade Fair Theme: *Market Bells*
-- Fun in the Sun Festival Theme: *The Brightest Day*
+- Midsummer Splash Theme: *The Brightest Day*
 - Grand Showcase Theme: *Sparks of Inspiration*
 - Harvest Supper Theme: *A Meal Worth Remembering*
 - Hollow Moon Night Theme: *Under the Hollow Moon*

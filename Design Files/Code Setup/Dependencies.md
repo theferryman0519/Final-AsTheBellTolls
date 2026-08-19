@@ -993,7 +993,7 @@ Content includes:
 
 * Seedwake Brunch
 * River Remembrance Day
-* Fun in the Sun Festival
+* Midsummer Splash
 * Blackmere Trade Fair
 * Harvest Supper
 * Hollow Moon Night

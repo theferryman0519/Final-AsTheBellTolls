@@ -34,7 +34,7 @@ Version: 0.0.1
 | 18  | Birthday      | Frederick's Birthday
 | 20  | Ongoing Event | International Trade Cart
 | 21  | Birthday      | Martin's Birthday
-| 24  | Main Festival | Fun In The Sun Festival
+| 24  | Main Festival | Midsummer Splash
 | 25  | Birthday      | Irene's Birthday
 | 28  | Mini Festival | Cooking With The Twins
 | 29  | Birthday      | Ian's Birthday (deceased)

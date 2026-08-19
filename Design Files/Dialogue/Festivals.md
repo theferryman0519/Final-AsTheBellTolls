@@ -61,13 +61,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Anya - A
+## Festivals - Midsummer Splash - Anya - A
 
 Dialogue: "Kira keeps trying to convince me to join in. I'm starting to think saying no just makes her more determined."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-anya-a
+ID: dialogue_festivals-midsummer-splash-anya-a
 
 Options: None
 
@@ -79,13 +79,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Anya - B
+## Festivals - Midsummer Splash - Anya - B
 
 Dialogue: "Everyone gets louder when they're carrying a bucket of water. I'm not sure why."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-anya-b
+ID: dialogue_festivals-midsummer-splash-anya-b
 
 Options: None
 
@@ -97,13 +97,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Anya - C
+## Festivals - Midsummer Splash - Anya - C
 
 Dialogue: "I thought I'd rather watch...but it does look fun. Maybe I'll try once."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-anya-c
+ID: dialogue_festivals-midsummer-splash-anya-c
 
 Options: None
 
@@ -763,13 +763,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Felix - A
+## Festivals - Midsummer Splash - Felix - A
 
 Dialogue: "Milo says he has a strategy. He won't tell me what it is, which probably means I'm part of it somehow."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-felix-a
+ID: dialogue_festivals-midsummer-splash-felix-a
 
 Options: None
 
@@ -781,13 +781,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Felix - B
+## Festivals - Midsummer Splash - Felix - B
 
 Dialogue: "I almost stayed out of the contest this year. Then I thought...well, getting soaked isn't exactly the worst thing that could happen."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-felix-b
+ID: dialogue_festivals-midsummer-splash-felix-b
 
 Options: None
 
@@ -799,13 +799,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Felix - C
+## Festivals - Midsummer Splash - Felix - C
 
 Dialogue: "Hey, you're not planning to splash me, are you? Actually, don't answer that. Now I'll know to watch you."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-felix-c
+ID: dialogue_festivals-midsummer-splash-felix-c
 
 Options: None
 
@@ -1465,13 +1465,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Kira - A
+## Festivals - Midsummer Splash - Kira - A
 
 Dialogue: "There you are! Grab a bucket. I've already found the best ambush spot in the forest, and I'm not wasting it."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-kira-a
+ID: dialogue_festivals-midsummer-splash-kira-a
 
 Options: None
 
@@ -1483,13 +1483,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Kira - B
+## Festivals - Midsummer Splash - Kira - B
 
 Dialogue: "Everyone keeps running straight at their target. Amateur mistake. Circle around, stay behind the trees, wait until they're distracted...then SPLASH!"
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-kira-b
+ID: dialogue_festivals-midsummer-splash-kira-b
 
 Options: None
 
@@ -1501,13 +1501,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Kira - C
+## Festivals - Midsummer Splash - Kira - C
 
 Dialogue: "If Milo tells you we have a temporary truce, he's lying. If Felix tells you I'm taking this too seriously, he's probably right. Either way, keep moving!"
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-kira-c
+ID: dialogue_festivals-midsummer-splash-kira-c
 
 Options: None
 
@@ -2167,13 +2167,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Milo - A
+## Festivals - Midsummer Splash - Milo - A
 
 Dialogue: "AMBUSH! Oh. Wait. I don't have my bucket. Pretend I didn't say that."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-milo-a
+ID: dialogue_festivals-midsummer-splash-milo-a
 
 Options: None
 
@@ -2185,13 +2185,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Milo - B
+## Festivals - Midsummer Splash - Milo - B
 
 Dialogue: "Kira thinks she has the best hiding place. She doesn't know that I know that she thinks that. So really, I have the advantage."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-milo-b
+ID: dialogue_festivals-midsummer-splash-milo-b
 
 Options: None
 
@@ -2203,13 +2203,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Milo - C
+## Festivals - Midsummer Splash - Milo - C
 
 Dialogue: "I got Felix twice, Kira got me three times, and somebody got me from behind a tree. I don't know who. Best festival ever!"
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-milo-c
+ID: dialogue_festivals-midsummer-splash-milo-c
 
 Options: None
 
@@ -2869,13 +2869,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Adrian - A
+## Festivals - Midsummer Splash - Adrian - A
 
 Dialogue: "I've positioned myself well away from the water. Deliberately, I should add. This isn't an invitation to remedy that."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-adrian-a
+ID: dialogue_festivals-midsummer-splash-adrian-a
 
 Options: None
 
@@ -2887,13 +2887,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Adrian - B
+## Festivals - Midsummer Splash - Adrian - B
 
 Dialogue: "There is apparently a strategy to this beyond throwing water at whoever happens to be nearby. I learned that shortly after being thoroughly outmaneuvered."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-adrian-b
+ID: dialogue_festivals-midsummer-splash-adrian-b
 
 Options: None
 
@@ -2905,13 +2905,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Adrian - C
+## Festivals - Midsummer Splash - Adrian - C
 
 Dialogue: "I considered sitting this one out. Then everyone seemed to be enjoying themselves so much that...well, perhaps being ridiculous occasionally has some merit."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-adrian-c
+ID: dialogue_festivals-midsummer-splash-adrian-c
 
 Options: None
 
@@ -3571,13 +3571,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Clara - A
+## Festivals - Midsummer Splash - Clara - A
 
 Dialogue: "I made the mistake of wearing decent clothes today. That was optimistic."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-clara-a
+ID: dialogue_festivals-midsummer-splash-clara-a
 
 Options: None
 
@@ -3589,13 +3589,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Clara - B
+## Festivals - Midsummer Splash - Clara - B
 
 Dialogue: "There are three approaches: speed, concealment, or superior range. I'm testing the third."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-clara-b
+ID: dialogue_festivals-midsummer-splash-clara-b
 
 Options: None
 
@@ -3607,13 +3607,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Clara - C
+## Festivals - Midsummer Splash - Clara - C
 
 Dialogue: "Mara splashed me earlier and immediately ran. Sensible woman."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-clara-c
+ID: dialogue_festivals-midsummer-splash-clara-c
 
 Options: None
 
@@ -4273,13 +4273,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Dante - A
+## Festivals - Midsummer Splash - Dante - A
 
 Dialogue: "I had intended to observe from a respectable distance. Evidently, the other participants interpreted my distance as a tactical vulnerability. My waistcoat has yet to recover."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-dante-a
+ID: dialogue_festivals-midsummer-splash-dante-a
 
 Options: None
 
@@ -4291,13 +4291,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Dante - B
+## Festivals - Midsummer Splash - Dante - B
 
 Dialogue: "There is something strangely liberating about an event whose sole objective is to behave with absolutely no dignity whatsoever. I confess, I underestimated its appeal."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-dante-b
+ID: dialogue_festivals-midsummer-splash-dante-b
 
 Options: None
 
@@ -4309,13 +4309,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Dante - C
+## Festivals - Midsummer Splash - Dante - C
 
 Dialogue: "One could approach this competition through careful positioning, observation, and strategic patience. Alternatively, one could do what Milo did and charge directly toward everyone while screaming. Disturbingly, his method appears more successful."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-dante-c
+ID: dialogue_festivals-midsummer-splash-dante-c
 
 Options: None
 
@@ -4975,13 +4975,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Leo - A
+## Festivals - Midsummer Splash - Leo - A
 
 Dialogue: "Before you say anything, yes, I chose this outfit knowing there would be water involved. Looking fabulous and making sensible decisions are occasionally incompatible."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-leo-a
+ID: dialogue_festivals-midsummer-splash-leo-a
 
 Options: None
 
@@ -4993,13 +4993,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Leo - B
+## Festivals - Midsummer Splash - Leo - B
 
 Dialogue: "Oh, don't give me that innocent look. You've got a bucket, I've got a bucket, and we're standing within splashing distance. We both know how this ends."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-leo-b
+ID: dialogue_festivals-midsummer-splash-leo-b
 
 Options: None
 
@@ -5011,13 +5011,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Leo - C
+## Festivals - Midsummer Splash - Leo - C
 
 Dialogue: "My hair is ruined, my shoes are soaked, and somebody dumped an entire bucket down my back. I'm having a wonderful time."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-leo-c
+ID: dialogue_festivals-midsummer-splash-leo-c
 
 Options: None
 
@@ -5677,13 +5677,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Madison - A
+## Festivals - Midsummer Splash - Madison - A
 
 Dialogue: "Running through wet forest trails while throwing water at one another violates several principles I learned as a ranger. Apparently we're ignoring those today."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-madison-a
+ID: dialogue_festivals-midsummer-splash-madison-a
 
 Options: None
 
@@ -5695,13 +5695,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Madison - B
+## Festivals - Midsummer Splash - Madison - B
 
 Dialogue: "Watch your footing near the creek, don't climb anything unstable, and if you intend to splash me, commit to the attempt. Hesitation gives me time to retaliate."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-madison-b
+ID: dialogue_festivals-midsummer-splash-madison-b
 
 Options: None
 
@@ -5713,13 +5713,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Madison - C
+## Festivals - Midsummer Splash - Madison - C
 
 Dialogue: "Someone managed to catch me off guard earlier. I'm not naming them. They deserve to enjoy the accomplishment while it lasts."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-madison-c
+ID: dialogue_festivals-midsummer-splash-madison-c
 
 Options: None
 
@@ -6379,13 +6379,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Mara - A
+## Festivals - Midsummer Splash - Mara - A
 
 Dialogue: "I spend enough time in Gloamwood to know every shortcut through these trees. Seems unfair. I'm using them anyway."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-mara-a
+ID: dialogue_festivals-midsummer-splash-mara-a
 
 Options: None
 
@@ -6397,13 +6397,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Mara - B
+## Festivals - Midsummer Splash - Mara - B
 
 Dialogue: "Clara got me once. She's been looking pleased with herself ever since. I'll fix that."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-mara-b
+ID: dialogue_festivals-midsummer-splash-mara-b
 
 Options: None
 
@@ -6415,13 +6415,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Mara - C
+## Festivals - Midsummer Splash - Mara - C
 
 Dialogue: "You planning to throw that water or carry it around all afternoon? Pick one."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-mara-c
+ID: dialogue_festivals-midsummer-splash-mara-c
 
 Options: None
 
@@ -7081,13 +7081,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Marcus - A
+## Festivals - Midsummer Splash - Marcus - A
 
 Dialogue: "I was told standing still makes me an easy target. They're right."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-marcus-a
+ID: dialogue_festivals-midsummer-splash-marcus-a
 
 Options: None
 
@@ -7099,13 +7099,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Marcus - B
+## Festivals - Midsummer Splash - Marcus - B
 
 Dialogue: "Milo can't lift a full bucket very high. Doesn't matter. He aims for the boots."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-marcus-b
+ID: dialogue_festivals-midsummer-splash-marcus-b
 
 Options: None
 
@@ -7117,13 +7117,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Marcus - C
+## Festivals - Midsummer Splash - Marcus - C
 
 Dialogue: "Careful where you step. Ground's getting slick. After that, splash whoever you like."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-marcus-c
+ID: dialogue_festivals-midsummer-splash-marcus-c
 
 Options: None
 
@@ -7783,13 +7783,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Nora - A
+## Festivals - Midsummer Splash - Nora - A
 
 Dialogue: "Word of advice from someone who spends her life around water: never trust the person holding an empty bucket. Means they've already thrown it somewhere."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-nora-a
+ID: dialogue_festivals-midsummer-splash-nora-a
 
 Options: None
 
@@ -7801,13 +7801,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Nora - B
+## Festivals - Midsummer Splash - Nora - B
 
 Dialogue: "Oh, you're dry! That's terrible. Hold still. I can fix that."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-nora-b
+ID: dialogue_festivals-midsummer-splash-nora-b
 
 Options: None
 
@@ -7819,13 +7819,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Nora - C
+## Festivals - Midsummer Splash - Nora - C
 
 Dialogue: "Leo tried hiding behind a tree. Good strategy, except his shirt could probably be seen from the next county. Poor thing never stood a chance."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-nora-c
+ID: dialogue_festivals-midsummer-splash-nora-c
 
 Options: None
 
@@ -8485,13 +8485,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Sabrina - A
+## Festivals - Midsummer Splash - Sabrina - A
 
 Dialogue: "The children assured me teachers are legitimate targets today. Apparently my professional authority ends wherever the water buckets begin."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-sabrina-a
+ID: dialogue_festivals-midsummer-splash-sabrina-a
 
 Options: None
 
@@ -8503,13 +8503,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Sabrina - B
+## Festivals - Midsummer Splash - Sabrina - B
 
 Dialogue: "Anya was hanging back earlier, so I worried she wasn't enjoying herself. Then she caught me with an entire bucket while I wasn't looking. I believe she's doing just fine."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-sabrina-b
+ID: dialogue_festivals-midsummer-splash-sabrina-b
 
 Options: None
 
@@ -8521,13 +8521,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Sabrina - C
+## Festivals - Midsummer Splash - Sabrina - C
 
 Dialogue: "You know what I like most? Nobody cares who's winning for very long. Someone gets soaked, everyone laughs, and five seconds later they're chasing somebody else."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-sabrina-c
+ID: dialogue_festivals-midsummer-splash-sabrina-c
 
 Options: None
 
@@ -9187,13 +9187,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Victor - A
+## Festivals - Midsummer Splash - Victor - A
 
 Dialogue: "I once attended a summer festival where everyone threw colored powder at one another. Beautiful tradition. Took three days to get it out of my hair. Water is an improvement."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-victor-a
+ID: dialogue_festivals-midsummer-splash-victor-a
 
 Options: None
 
@@ -9205,13 +9205,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Victor - B
+## Festivals - Midsummer Splash - Victor - B
 
 Dialogue: "Here's the mistake everyone makes: they watch the person carrying the bucket. Watch the person standing near the water instead. That's the one planning their next move."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-victor-b
+ID: dialogue_festivals-midsummer-splash-victor-b
 
 Options: None
 
@@ -9223,13 +9223,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Victor - C
+## Festivals - Midsummer Splash - Victor - C
 
 Dialogue: "You're looking remarkably dry. Either you're very good at this or you've been hiding. Come on, which is it?"
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-victor-c
+ID: dialogue_festivals-midsummer-splash-victor-c
 
 Options: None
 
@@ -9889,13 +9889,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Agatha - A
+## Festivals - Midsummer Splash - Agatha - A
 
 Dialogue: "When I was young, we managed to enjoy summer without throwing buckets of water at one another. We were apparently deprived."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-agatha-a
+ID: dialogue_festivals-midsummer-splash-agatha-a
 
 Options: None
 
@@ -9907,13 +9907,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Agatha - B
+## Festivals - Midsummer Splash - Agatha - B
 
 Dialogue: "I have informed the children that splashing me would be profoundly unwise. Whether they possess the judgment to heed that warning remains to be seen."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-agatha-b
+ID: dialogue_festivals-midsummer-splash-agatha-b
 
 Options: None
 
@@ -9925,13 +9925,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Agatha - C
+## Festivals - Midsummer Splash - Agatha - C
 
 Dialogue: "Go on, enjoy yourself. There will be plenty of opportunities to behave respectably when you're older. I should know."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-agatha-c
+ID: dialogue_festivals-midsummer-splash-agatha-c
 
 Options: None
 
@@ -10591,13 +10591,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - A
+## Festivals - Midsummer Splash - Beatrice - A
 
 Dialogue: "Apparently being mayor offers no immunity from a bucket of water. Several people have taken great satisfaction in demonstrating that."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-a
+ID: dialogue_festivals-midsummer-splash-beatrice-a
 
 Options: None
 
@@ -10609,13 +10609,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - B
+## Festivals - Midsummer Splash - Beatrice - B
 
 Dialogue: "I considered remaining outside the competition. Then Kira informed me that would be 'extremely boring.' Her argument was unexpectedly persuasive."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-b
+ID: dialogue_festivals-midsummer-splash-beatrice-b
 
 Options: None
 
@@ -10627,13 +10627,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - C
+## Festivals - Midsummer Splash - Beatrice - C
 
 Dialogue: "No speeches, no schedules, no decisions requiring my approval. Just half the town running through the forest with buckets. I admit there's something refreshing about it."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-c
+ID: dialogue_festivals-midsummer-splash-beatrice-c
 
 Options: None
 
@@ -11293,13 +11293,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Claudia - A
+## Festivals - Midsummer Splash - Claudia - A
 
 Dialogue: "Milo thinks I can't catch him because he's small. He's forgetting who taught him to run through these woods."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-claudia-a
+ID: dialogue_festivals-midsummer-splash-claudia-a
 
 Options: None
 
@@ -11311,13 +11311,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Claudia - B
+## Festivals - Midsummer Splash - Claudia - B
 
 Dialogue: "Kira hit me square in the back with a full bucket. Good throw. Still getting her back for it."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-claudia-b
+ID: dialogue_festivals-midsummer-splash-claudia-b
 
 Options: None
 
@@ -11329,13 +11329,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Claudia - C
+## Festivals - Midsummer Splash - Claudia - C
 
 Dialogue: "I work underground most days. Sun, trees, cold water...could be worse ways to spend an afternoon."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-claudia-c
+ID: dialogue_festivals-midsummer-splash-claudia-c
 
 Options: None
 
@@ -11995,13 +11995,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Edward - A
+## Festivals - Midsummer Splash - Edward - A
 
 Dialogue: "I was assured that spectators would remain reasonably dry. I confess I questioned that promise the moment I saw the young Milo carrying a bucket."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-edward-a
+ID: dialogue_festivals-midsummer-splash-edward-a
 
 Options: None
 
@@ -12013,13 +12013,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Edward - B
+## Festivals - Midsummer Splash - Edward - B
 
 Dialogue: "There is something rather wonderful about seeing Blackmere's young people allowed to be thoroughly undignified for an afternoon. I shall endeavor not to spoil the occasion by appearing too responsible."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-edward-b
+ID: dialogue_festivals-midsummer-splash-edward-b
 
 Options: None
 
@@ -12031,13 +12031,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Edward - C
+## Festivals - Midsummer Splash - Edward - C
 
 Dialogue: "You appear to be enjoying yourself, [Player]. Good. A life filled entirely with productive endeavors would be admirably efficient and terribly dull."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-edward-c
+ID: dialogue_festivals-midsummer-splash-edward-c
 
 Options: None
 
@@ -12697,13 +12697,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Elise - A
+## Festivals - Midsummer Splash - Elise - A
 
 Dialogue: "Running through a forest while carrying an open bucket of water is inefficient on several levels. Everyone appears delighted by this."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-elise-a
+ID: dialogue_festivals-midsummer-splash-elise-a
 
 Options: None
 
@@ -12715,13 +12715,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Elise - B
+## Festivals - Midsummer Splash - Elise - B
 
 Dialogue: "Nora has been watching me for the past several minutes. She has a bucket. I dislike the implications."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-elise-b
+ID: dialogue_festivals-midsummer-splash-elise-b
 
 Options: None
 
@@ -12733,13 +12733,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Elise - C
+## Festivals - Midsummer Splash - Elise - C
 
 Dialogue: "My original strategy was simply not to participate. That proved ineffective almost immediately."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-elise-c
+ID: dialogue_festivals-midsummer-splash-elise-c
 
 Options: None
 
@@ -13399,13 +13399,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Frederick - A
+## Festivals - Midsummer Splash - Frederick - A
 
 Dialogue: "Felix warned me that Milo had a bucket and a plan. I should have taken that more seriously."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-frederick-a
+ID: dialogue_festivals-midsummer-splash-frederick-a
 
 Options: None
 
@@ -13417,13 +13417,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Frederick - B
+## Festivals - Midsummer Splash - Frederick - B
 
 Dialogue: "I'm trying not to spend the whole afternoon reminding everyone to drink water, watch their footing, and come dry off if they get cold. Helen says that's missing the point of the festival."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-frederick-b
+ID: dialogue_festivals-midsummer-splash-frederick-b
 
 Options: None
 
@@ -13435,13 +13435,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Frederick - C
+## Festivals - Midsummer Splash - Frederick - C
 
 Dialogue: "Honestly, it's good seeing Felix run around with everyone. He used to hesitate before joining anything this loud. Now I can barely keep track of where he went."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-frederick-c
+ID: dialogue_festivals-midsummer-splash-frederick-c
 
 Options: None
 
@@ -14101,13 +14101,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Helen - A
+## Festivals - Midsummer Splash - Helen - A
 
 Dialogue: "Felix tried sneaking past me with a bucket behind his back. Sweet boy. Terrible liar."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-helen-a
+ID: dialogue_festivals-midsummer-splash-helen-a
 
 Options: None
 
@@ -14119,13 +14119,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Helen - B
+## Festivals - Midsummer Splash - Helen - B
 
 Dialogue: "I've packed towels, drinks, snacks, and a change of clothes for Felix. Frederick says that's too much. Frederick also asked me where the towels were ten minutes ago."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-helen-b
+ID: dialogue_festivals-midsummer-splash-helen-b
 
 Options: None
 
@@ -14137,13 +14137,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Helen - C
+## Festivals - Midsummer Splash - Helen - C
 
 Dialogue: "Go on, get soaked! Clothes dry. Hair can be fixed. A good summer memory is worth the trouble."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-helen-c
+ID: dialogue_festivals-midsummer-splash-helen-c
 
 Options: None
 
@@ -14803,13 +14803,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Irene - A
+## Festivals - Midsummer Splash - Irene - A
 
 Dialogue: "I have spent decades maintaining brass mechanisms. I see no reason to volunteer for a soaking."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-irene-a
+ID: dialogue_festivals-midsummer-splash-irene-a
 
 Options: None
 
@@ -14821,13 +14821,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Irene - B
+## Festivals - Midsummer Splash - Irene - B
 
 Dialogue: "The children have been told not to splash me. I expect that instruction to survive another five minutes."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-irene-b
+ID: dialogue_festivals-midsummer-splash-irene-b
 
 Options: None
 
@@ -14839,13 +14839,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Irene - C
+## Festivals - Midsummer Splash - Irene - C
 
 Dialogue: "They are loud. Wet. Completely undisciplined. They also seem happy. I suppose that is the intention."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-irene-c
+ID: dialogue_festivals-midsummer-splash-irene-c
 
 Options: None
 
@@ -15505,13 +15505,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Jasmine - A
+## Festivals - Midsummer Splash - Jasmine - A
 
 Dialogue: "Don't you dare trust Kira! She gave me the sweetest little smile five minutes ago, and then dumped an entire bucket over my head. I was so proud."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-jasmine-a
+ID: dialogue_festivals-midsummer-splash-jasmine-a
 
 Options: None
 
@@ -15523,13 +15523,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Jasmine - B
+## Festivals - Midsummer Splash - Jasmine - B
 
 Dialogue: "Milo and I have an alliance. A very serious, very strategic alliance. If he turns that bucket toward me, however, all agreements are immediately void."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-jasmine-b
+ID: dialogue_festivals-midsummer-splash-jasmine-b
 
 Options: None
 
@@ -15541,13 +15541,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Jasmine - C
+## Festivals - Midsummer Splash - Jasmine - C
 
 Dialogue: "You're still dry! How did that happen? No, no, we have to fix this. You can't come all the way out here and leave looking respectable."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-jasmine-c
+ID: dialogue_festivals-midsummer-splash-jasmine-c
 
 Options: None
 
@@ -16207,13 +16207,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Jonas - A
+## Festivals - Midsummer Splash - Jonas - A
 
 Dialogue: "Milo told me he had a foolproof plan. Kira told me he absolutely did not. I've decided to stay out of that argument."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-jonas-a
+ID: dialogue_festivals-midsummer-splash-jonas-a
 
 Options: None
 
@@ -16225,13 +16225,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Jonas - B
+## Festivals - Midsummer Splash - Jonas - B
 
 Dialogue: "I spend enough summer days wishing for water while I'm working the fields. Seems wrong to complain about getting some today."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-jonas-b
+ID: dialogue_festivals-midsummer-splash-jonas-b
 
 Options: None
 
@@ -16243,13 +16243,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Jonas - C
+## Festivals - Midsummer Splash - Jonas - C
 
 Dialogue: "Claudia's pretending she's taking it easy. Kira's already planning an ambush. Give it five minutes."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-jonas-c
+ID: dialogue_festivals-midsummer-splash-jonas-c
 
 Options: None
 
@@ -16909,13 +16909,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Julian - A
+## Festivals - Midsummer Splash - Julian - A
 
 Dialogue: "Repeated exposure to cold water on a warm day is unlikely to cause harm in healthy adults. That is not permission to empty a bucket over me."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-julian-a
+ID: dialogue_festivals-midsummer-splash-julian-a
 
 Options: None
 
@@ -16927,13 +16927,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Julian - B
+## Festivals - Midsummer Splash - Julian - B
 
 Dialogue: "The children have transformed the forest into a remarkably effective study in pursuit behavior, concealment, and poor judgment."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-julian-b
+ID: dialogue_festivals-midsummer-splash-julian-b
 
 Options: None
 
@@ -16945,13 +16945,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Julian - C
+## Festivals - Midsummer Splash - Julian - C
 
 Dialogue: "Kira asked which route through the trees would minimize her chance of being seen. I gave her an answer. In retrospect, perhaps I should not have provided tactical consultation."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-julian-c
+ID: dialogue_festivals-midsummer-splash-julian-c
 
 Options: None
 
@@ -17611,13 +17611,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Lena - A
+## Festivals - Midsummer Splash - Lena - A
 
 Dialogue: "Anya told me she wasn't going to participate. She's currently hiding behind a tree with a bucket. I'm choosing not to mention the contradiction."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-lena-a
+ID: dialogue_festivals-midsummer-splash-lena-a
 
 Options: None
 
@@ -17629,13 +17629,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Lena - B
+## Festivals - Midsummer Splash - Lena - B
 
 Dialogue: "I used to worry that enjoying days like this meant I was forgetting something important. It doesn't. Joy doesn't erase anything."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-lena-b
+ID: dialogue_festivals-midsummer-splash-lena-b
 
 Options: None
 
@@ -17647,13 +17647,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Lena - C
+## Festivals - Midsummer Splash - Lena - C
 
 Dialogue: "If you're planning to splash me, at least have the courtesy to look guilty beforehand."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-lena-c
+ID: dialogue_festivals-midsummer-splash-lena-c
 
 Options: None
 
@@ -18313,13 +18313,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Martin - A
+## Festivals - Midsummer Splash - Martin - A
 
 Dialogue: "I was told standing at the edge would keep me dry. That information was inaccurate."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-martin-a
+ID: dialogue_festivals-midsummer-splash-martin-a
 
 Options: None
 
@@ -18331,13 +18331,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Martin - B
+## Festivals - Midsummer Splash - Martin - B
 
 Dialogue: "The children appear to have abandoned any concept of alliances. Probably wise."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-martin-b
+ID: dialogue_festivals-midsummer-splash-martin-b
 
 Options: None
 
@@ -18349,13 +18349,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Martin - C
+## Festivals - Midsummer Splash - Martin - C
 
 Dialogue: "I considered leaving before someone noticed I was still dry. I waited too long."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-martin-c
+ID: dialogue_festivals-midsummer-splash-martin-c
 
 Options: None
 
@@ -19015,13 +19015,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Roland - A
+## Festivals - Midsummer Splash - Roland - A
 
 Dialogue: "I was informed that my age grants me immunity from being splashed. I have lived long enough to recognize a lie when I hear one."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-roland-a
+ID: dialogue_festivals-midsummer-splash-roland-a
 
 Options: None
 
@@ -19033,13 +19033,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Roland - B
+## Festivals - Midsummer Splash - Roland - B
 
 Dialogue: "Watch the children carefully. Years from now, they'll remember who chased them through these trees far better than they'll remember who won."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-roland-b
+ID: dialogue_festivals-midsummer-splash-roland-b
 
 Options: None
 
@@ -19051,13 +19051,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Roland - C
+## Festivals - Midsummer Splash - Roland - C
 
 Dialogue: "Agatha says I'd be foolish to join in. She is correct. Fortunately, foolishness and old age aren't mutually exclusive."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-roland-c
+ID: dialogue_festivals-midsummer-splash-roland-c
 
 Options: None
 
@@ -19717,13 +19717,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Theo - A
+## Festivals - Midsummer Splash - Theo - A
 
 Dialogue: "Felix promised he wouldn't splash me. Very sincere about it too. That's how I knew I shouldn't believe him."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-theo-a
+ID: dialogue_festivals-midsummer-splash-theo-a
 
 Options: None
 
@@ -19735,13 +19735,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Theo - B
+## Festivals - Midsummer Splash - Theo - B
 
 Dialogue: "I thought about staying somewhere dry and watching. Then somebody handed me a bucket. Hard to argue with that."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-theo-b
+ID: dialogue_festivals-midsummer-splash-theo-b
 
 Options: None
 
@@ -19753,13 +19753,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Theo - C
+## Festivals - Midsummer Splash - Theo - C
 
 Dialogue: "Everyone will go home soaked, tired, and hungry. That last part I know how to fix."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-theo-c
+ID: dialogue_festivals-midsummer-splash-theo-c
 
 Options: None
 
@@ -20419,13 +20419,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Walter - A
+## Festivals - Midsummer Splash - Walter - A
 
 Dialogue: "I'm fifty-something years old. I own dry clothes. I intend to keep them that way."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-walter-a
+ID: dialogue_festivals-midsummer-splash-walter-a
 
 Options: None
 
@@ -20437,13 +20437,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Walter - B
+## Festivals - Midsummer Splash - Walter - B
 
 Dialogue: "Children running through a forest with buckets of water. Somebody thought this through poorly."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-walter-b
+ID: dialogue_festivals-midsummer-splash-walter-b
 
 Options: None
 
@@ -20455,13 +20455,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Walter - C
+## Festivals - Midsummer Splash - Walter - C
 
 Dialogue: "They can splash me if they want. Won't make me chase them. Probably."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-walter-c
+ID: dialogue_festivals-midsummer-splash-walter-c
 
 Options: None
 
@@ -21121,13 +21121,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Lucian/Vivian - A
+## Festivals - Midsummer Splash - Lucian/Vivian - A
 
 Dialogue: "I made the mistake of assuming there were rules governing whom one may splash. Apparently there is only opportunity."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-lucian-vivian-a
+ID: dialogue_festivals-midsummer-splash-lucian-vivian-a
 
 Options: None
 
@@ -21139,13 +21139,13 @@ Variant: A
 
 ---
 
-## Festivals - Fun In The Sun Festival - Lucian/Vivian - B
+## Festivals - Midsummer Splash - Lucian/Vivian - B
 
 Dialogue: "You appear suspiciously dry. I would correct that before someone interprets it as a challenge."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-lucian-vivian-b
+ID: dialogue_festivals-midsummer-splash-lucian-vivian-b
 
 Options: None
 
@@ -21157,13 +21157,13 @@ Variant: B
 
 ---
 
-## Festivals - Fun In The Sun Festival - Lucian/Vivian - C
+## Festivals - Midsummer Splash - Lucian/Vivian - C
 
 Dialogue: "My pocket watch is safely at home. I am therefore willing to concede that being soaked may not constitute a complete disaster."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-lucian-vivian-c
+ID: dialogue_festivals-midsummer-splash-lucian-vivian-c
 
 Options: None
 
@@ -21769,13 +21769,13 @@ Variant: C
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 01
+## Festivals - Midsummer Splash - Beatrice - 01
 
 Dialogue: "I trust you've had the opportunity to enjoy yourself. We've set aside the day's usual responsibilities for a reason, after all."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-01
+ID: dialogue_festivals-midsummer-splash-beatrice-01
 
 Options: None
 
@@ -21787,13 +21787,13 @@ Variant: None
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 02
+## Festivals - Midsummer Splash - Beatrice - 02
 
 Dialogue: "The rules are straightforward. You'll each begin with a bucket of water, and your objective is to splash as many people as you can before time is called."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-02
+ID: dialogue_festivals-midsummer-splash-beatrice-02
 
 Options: None
 
@@ -21805,13 +21805,13 @@ Variant: None
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 03
+## Festivals - Midsummer Splash - Beatrice - 03
 
 Dialogue: "Your bucket won't last indefinitely. If you run out of water, refill it from the barrel in the center and continue. I suggest you mind who might be waiting for you there."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-03
+ID: dialogue_festivals-midsummer-splash-beatrice-03
 
 Options: None
 
@@ -21823,13 +21823,13 @@ Variant: None
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 04
+## Festivals - Midsummer Splash - Beatrice - 04
 
 Dialogue: "That should cover everything. Are you ready to take your place?"
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-04
+ID: dialogue_festivals-midsummer-splash-beatrice-04
 
 Options: I'm ready. / Give me a moment.
 
@@ -21841,13 +21841,13 @@ Variant: None
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 05
+## Festivals - Midsummer Splash - Beatrice - 05
 
 Dialogue: "And that's time. Buckets down, if you please. I believe everyone has been thoroughly drenched enough for one afternoon."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-05
+ID: dialogue_festivals-midsummer-splash-beatrice-05
 
 Options: None
 
@@ -21859,13 +21859,13 @@ Variant: None
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 06
+## Festivals - Midsummer Splash - Beatrice - 06
 
 Dialogue: "No scores, no prizes, and no winners to announce. Today was simply an opportunity for Blackmere to set its responsibilities aside and enjoy itself for a while."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-06
+ID: dialogue_festivals-midsummer-splash-beatrice-06
 
 Options: None
 
@@ -21877,13 +21877,13 @@ Variant: None
 
 ---
 
-## Festivals - Fun In The Sun Festival - Beatrice - 07
+## Festivals - Midsummer Splash - Beatrice - 07
 
 Dialogue: "Thank you all for participating. Now, I suggest everyone find somewhere to dry off before going about the rest of their day."
 
 Event: Festivals
 
-ID: dialogue_festivals-fun-in-the-sun-festival-beatrice-07
+ID: dialogue_festivals-midsummer-splash-beatrice-07
 
 Options: None
 

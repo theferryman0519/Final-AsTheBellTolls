@@ -505,7 +505,7 @@ Story events, friendship events, festivals, birthdays, quests, and other scripte
 
 During events involving Anya, Milo, Felix, Sabrina, Claudia, Jonas, Jasmine, Adrian, Clara, Dante, Edward, Leo, Martin, Nora, Roland, Theo, Gloamwood Forest, Gloamwood Depths, Rain & Hale, or exploration-related discoveries, Kira may temporarily use a unique schedule appropriate to the event.
 
-The Fun In The Sun festival takes priority over her normal Gloamwood Forest routine.
+The Midsummer Splash takes priority over her normal Gloamwood Forest routine.
 
 The Seedwake Brunch and Harvest Supper festivals take priority over her normal Mercer Farms routine.
 
