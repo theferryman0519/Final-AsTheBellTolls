@@ -9,7 +9,7 @@ Version: 0.0.1
 
 ## Information
 
-- Location is the site for the Midsummer Splash.
+- Location is the site for the Midsummer Splash Festival.
 
 ---
 
