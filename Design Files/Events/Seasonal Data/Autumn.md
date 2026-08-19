@@ -65,3 +65,15 @@ Herbs: Caraway, Clover, Dill, Fennel, Horseradish, Parsley
 | Snowy          | 0     | None
 | Snowy (Severe) | 0     | None
 | Windy          | 6     | None
+
+---
+
+## Special Events
+
+- Day 5 at 7:00am: Residents begin hanging woven bundles of dried wheat, grasses, herbs, and autumn leaves beside doors throughout Blackmere. Traditionally, the bundles remain until the first snowfall.
+
+- Day 12 at 5:00pm: Fallen leaves are swept from Town Square into several large piles before dusk. Children gather to play in them while adults finish clearing paths and storefronts.
+
+- Day 20 at 6:00pm: Residents place candles or small lanterns in their windows for the first evening of the year's noticeably shorter days. Businesses and homes throughout Blackmere remain illuminated after sunset.
+
+- Day 28 at 5:00pm: The Bell Tower sounds an additional toll at dusk marking the approach of winter. Residents begin bringing outdoor furniture, decorations, and seasonal equipment indoors.
