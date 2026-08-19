@@ -761,11 +761,14 @@ Version: 0.0.1
 - Dialogue
 - Fishing
 - TonicMaking
+- Cinematic
+- AutomaticEvent
 
 ### InputDeviceType
 
 - Unknown (default)
 - KeyboardMouse
+- GenericController
 - Xbox
 - PlayStation
 - Switch
@@ -817,6 +820,13 @@ Version: 0.0.1
 - EventRequest
 - OverflowItem
 
+### MailStateType
+
+- Unavailable (default)
+- Delivered
+- Read
+- Archived
+
 ---
 
 ## Dialogue
@@ -837,6 +847,7 @@ Version: 0.0.1
 - Greeting
 - MarriedLife
 - Intro
+- Repossession
 
 ### DialogueVariantType
 
