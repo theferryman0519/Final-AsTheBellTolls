@@ -70,7 +70,7 @@ Type: Event Reminders
 
 ## Eve of the White Doe
 
-Body Text: Eve of the White Doe begins tomorrow at Graythorne Lake at 8pm and concludes at 11pm. Those attending should expect an evening of unsettling stories and appropriately unsettling surroundings. I will leave it to you to determine whether that constitutes an invitation or a warning.
+Body Text: Eve of the White Doe begins tomorrow at Graythorne Lake at 8pm and concludes at 11pm. Those attending will carry lanterns through the woods before gathering along the lake for the traditional arrival of the White Doe. I recommend arriving on time. The deer are under no obligation to accommodate Blackmere's schedule.
 
 Display Name: Eve of the White Doe
 
