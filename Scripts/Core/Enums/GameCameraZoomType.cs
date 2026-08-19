@@ -10,7 +10,9 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Core {
+public enum GameCameraZoomType {
+    Middle = 0,
+    Near,
+    Far,
 }}

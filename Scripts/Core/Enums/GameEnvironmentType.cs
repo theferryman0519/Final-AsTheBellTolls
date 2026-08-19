@@ -10,7 +10,9 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Core {
+public enum GameEnvironmentType {
+    None = 0,
+    Indoor,
+    Outdoor,
 }}

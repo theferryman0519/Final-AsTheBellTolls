@@ -10,7 +10,14 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Calendar {
+public enum CalendarWeekDayType {
+    None = 0,
+    Monday,
+    Tuesday,
+    Wednesday,
+    Thursday,
+    Friday,
+    Saturday,
+    Sunday,
 }}

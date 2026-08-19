@@ -10,7 +10,8 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Time {
+public enum TimeClockFormatType {
+    TwelveHour = 0,
+    TwentyFourHour,
 }}

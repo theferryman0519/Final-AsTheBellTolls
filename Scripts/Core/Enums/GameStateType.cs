@@ -10,7 +10,16 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Core {
+public enum GameStateType {
+    None = 0,
+    Gameplay,
+    Dialogue,
+    Menu,
+    Minigame,
+    Cinematic,
+    Festival,
+    Transition,
+    DayEnd,
+    Paused,
 }}

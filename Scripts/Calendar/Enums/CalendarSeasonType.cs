@@ -10,7 +10,11 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Calendar {
+public enum CalendarSeasonType {
+    None = 0,
+    Spring,
+    Summer,
+    Autumn,
+    Winter,
 }}

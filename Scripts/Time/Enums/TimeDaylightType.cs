@@ -10,7 +10,11 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Template {
-public enum EnumsTemplate {
-    
+namespace AsTheBellTolls.Time {
+public enum TimeDaylightType {
+    None = 0,
+    Dawn,
+    Day,
+    Dusk,
+    Night,
 }}
