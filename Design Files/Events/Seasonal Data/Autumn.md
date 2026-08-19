@@ -58,8 +58,8 @@ Herbs: Caraway, Clover, Dill, Fennel, Horseradish, Parsley
 
 | Weather Type   | Count | Specific Days
 |----------------|-------|---|
-| Clear          | 10    | 13, 14
-| Cloudy         | 7     | 31
+| Clear          | 10    | 13, 14, 31
+| Cloudy         | 7     | None
 | Rainy          | 6     | None
 | Rainy (Severe) | 2     | None
 | Snowy          | 0     | None
