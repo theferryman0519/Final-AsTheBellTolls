@@ -8,7 +8,7 @@ Version: 0.0.1
 ---
 
 - IN PROGRESS (2 left)
-- NOT STARTED (8 left)
+- NOT STARTED (0 left)
 
 ---
 
@@ -118,15 +118,15 @@ Version: 0.0.1
 - Data IDs
 - Dependencies
 - Enums
-- Event Channels (NOT STARTED)
-- Game Architecture (NOT STARTED)
+- Event Channels
+- Game Architecture
 - Game Flags
-- Initialization Order (NOT STARTED)
-- Models (NOT STARTED)
-- Save Data (NOT STARTED)
-- Save Versioning (NOT STARTED)
-- Scriptable Objects (NOT STARTED)
-- Services (NOT STARTED)
+- Initialization Order
+- Models
+- Save Data
+- Save Versioning
+- Scriptable Objects
+- Services
 
 ---
 
