@@ -21,7 +21,7 @@ Location: Graythorne Lake
 
 Setting: Outdoor
 
-Weather: Cloudy
+Weather: Clear
 
 ---
 
