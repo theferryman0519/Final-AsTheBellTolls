@@ -21,7 +21,7 @@ Profession: International Trader of Summer
 
 Pronouns: She/her
 
-Pronunciation: K-aye Vail
+Pronunciation: Kaye Vail
 
 ---
 
@@ -36,12 +36,6 @@ Personality Summary: The Vale siblings are seasoned international traders who ha
 Public Persona: The Vale siblings are welcomed visitors whose arrival marks the beginning of a new season. Always courteous and well-traveled, they bring unique goods from across Morvanya and beyond while eagerly sharing stories of the places they've visited. To most residents, they represent the wider world beyond Blackmere and serve as a reminder that even a quiet town remains connected to something much larger.
 
 Speaking Tone: Gentle
-
----
-
-# Schedule & Routine
-
--- TODO
 
 ---
 
