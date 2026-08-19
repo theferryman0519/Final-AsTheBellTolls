@@ -38,7 +38,7 @@ Version: 0.0.1
 | 25  | Birthday      | Madison's Birthday
 | 27  | Birthday      | Walter's Birthday
 | 30  | Ongoing Event | International Trade Cart
-| 31  | Main Festival | Hollow Moon Night
+| 31  | Main Festival | Eve of the White Doe
 
 ---
 

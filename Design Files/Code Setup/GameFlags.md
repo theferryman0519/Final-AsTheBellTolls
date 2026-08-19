@@ -824,7 +824,7 @@ ID:
 
 Set When:
 
-* The player attends Hollow Moon Night for the first time.
+* The player attends Eve of the White Doe for the first time.
 
 ---
 

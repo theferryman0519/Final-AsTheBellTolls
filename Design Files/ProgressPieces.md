@@ -166,9 +166,9 @@ Version: 0.0.1
 ### Main Festivals
 
 - Blackmere Trade Festival
+- Eve of the White Doe
 - Grand Showcase
 - Harvest Supper
-- Hollow Moon Night
 - Midsummer Splash
 - River Remembrance Day
 - Seedwake Brunch

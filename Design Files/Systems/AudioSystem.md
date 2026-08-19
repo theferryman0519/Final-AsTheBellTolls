@@ -36,7 +36,7 @@ Version: 0.0.1
 - Midsummer Splash Theme: *The Brightest Day*
 - Grand Showcase Theme: *Sparks of Inspiration*
 - Harvest Supper Theme: *A Meal Worth Remembering*
-- Hollow Moon Night Theme: *Under the Hollow Moon*
+- Eve of the White Doe Theme: *Under the Hollow Moon*
 - Aurora Watch Theme: *Hues in the Night*
 - Toll of Hearths Theme: *The Light We Share*
 - Snow Bell's Eve Theme: *A Winter’s Waltz*

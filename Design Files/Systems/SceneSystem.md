@@ -76,7 +76,7 @@ Version: 0.0.1
 - scene_festival-06-cooking-with-the-twins
 - scene_festival-07-salmon-run
 - scene_festival-08-harvest-supper
-- scene_festival-09-hollow-moon-night
+- scene_festival-09-eve-of-the-white-doe
 - scene_festival-10-aurora-watch
 - scene_festival-11-toll-of-hearths
 - scene_festival-12-snow-bells-eve

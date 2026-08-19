@@ -1,5 +1,5 @@
 ---
-Title: Events / Main Festivals / Hollow Moon Night
+Title: Events / Main Festivals / Eve of the White Doe
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
@@ -11,11 +11,11 @@ Version: 0.0.1
 
 Dates: Day 31 of Autumn
 
-Display Name: Hollow Moon Night
+Display Name: Eve of the White Doe
 
 Hours: 8pm to 11pm
 
-ID: event_festival_hollow-moon-night
+ID: event_festival_eve-of-the-white-doe
 
 Location: Graythorne Lake
 
@@ -27,15 +27,15 @@ Weather: Cloudy
 
 # Interaction Information
 
-Activity Type: Orb Hunt
+Activity Type: Lantern Walk
 
 Is Activity Required: No
 
-Is Activity Rewarded: Yes
+Is Activity Rewarded: No
 
-Movement Type: Manual
+Movement Type: Automatic
 
-Reward: Diamond
+Reward: None
 
 ---
 

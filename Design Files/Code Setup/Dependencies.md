@@ -996,7 +996,7 @@ Content includes:
 * Midsummer Splash
 * Blackmere Trade Fair
 * Harvest Supper
-* Hollow Moon Night
+* Eve of the White Doe
 * Grand Showcase
 * Toll of Hearths
 * Snow Bells Eve

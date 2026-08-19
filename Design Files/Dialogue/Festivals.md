@@ -223,13 +223,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Anya - A
+## Festivals - Eve of the White Doe - Anya - A
 
 Dialogue: "The lake looks different at night. You can see the moon on the water, but everything underneath it is completely dark."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-anya-a
+ID: dialogue_festivals-eve-of-the-white-doe-anya-a
 
 Options: None
 
@@ -241,13 +241,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Anya - B
+## Festivals - Eve of the White Doe - Anya - B
 
 Dialogue: "Every little sound carries across the water tonight. I keep hearing things before I can figure out where they came from."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-anya-b
+ID: dialogue_festivals-eve-of-the-white-doe-anya-b
 
 Options: None
 
@@ -259,13 +259,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Anya - C
+## Festivals - Eve of the White Doe - Anya - C
 
 Dialogue: "People keep telling scary stories about Graythorne Lake. I don't believe most of them...but I'm still staying where I can see everyone."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-anya-c
+ID: dialogue_festivals-eve-of-the-white-doe-anya-c
 
 Options: None
 
@@ -925,13 +925,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Felix - A
+## Festivals - Eve of the White Doe - Felix - A
 
 Dialogue: "Graythorne Lake is full of things you can't see from shore. On a night like this, it's really easy to imagine what they might be."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-felix-a
+ID: dialogue_festivals-eve-of-the-white-doe-felix-a
 
 Options: None
 
@@ -943,13 +943,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Felix - B
+## Festivals - Eve of the White Doe - Felix - B
 
 Dialogue: "Did you hear that splash? It was probably a fish. Probably. We could go look...if you wanted to come with me."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-felix-b
+ID: dialogue_festivals-eve-of-the-white-doe-felix-b
 
 Options: None
 
@@ -961,13 +961,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Felix - C
+## Festivals - Eve of the White Doe - Felix - C
 
 Dialogue: "I've heard three different stories about this lake tonight, and none of them agree. That means somebody has to investigate, right?"
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-felix-c
+ID: dialogue_festivals-eve-of-the-white-doe-felix-c
 
 Options: None
 
@@ -1627,13 +1627,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Kira - A
+## Festivals - Eve of the White Doe - Kira - A
 
-Dialogue: "Graythorne Lake, after dark, on Hollow Moon Night? Finally! If anything strange happens tonight, I want to be close enough to see it."
+Dialogue: "Graythorne Lake, after dark, on Eve of the White Doe? Finally! If anything strange happens tonight, I want to be close enough to see it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-kira-a
+ID: dialogue_festivals-eve-of-the-white-doe-kira-a
 
 Options: None
 
@@ -1645,13 +1645,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Kira - B
+## Festivals - Eve of the White Doe - Kira - B
 
 Dialogue: "I've marked every place around the lake where someone claims they saw something unusual. Most of the stories are probably nonsense...but we only need one that isn't."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-kira-b
+ID: dialogue_festivals-eve-of-the-white-doe-kira-b
 
 Options: None
 
@@ -1663,13 +1663,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Kira - C
+## Festivals - Eve of the White Doe - Kira - C
 
 Dialogue: "Something moved by those reeds. No, seriously, I saw it! Stay here if you want. I'm checking."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-kira-c
+ID: dialogue_festivals-eve-of-the-white-doe-kira-c
 
 Options: None
 
@@ -2329,13 +2329,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Milo - A
+## Festivals - Eve of the White Doe - Milo - A
 
 Dialogue: "Graythorne Lake Monster patrol starts now! You're with me. If we find one, you distract it and I'll...figure out the rest."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-milo-a
+ID: dialogue_festivals-eve-of-the-white-doe-milo-a
 
 Options: None
 
@@ -2347,13 +2347,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Milo - B
+## Festivals - Eve of the White Doe - Milo - B
 
 Dialogue: "See how the moon makes a path across the water? What if it's actually showing us where something's hidden?"
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-milo-b
+ID: dialogue_festivals-eve-of-the-white-doe-milo-b
 
 Options: None
 
@@ -2365,13 +2365,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Milo - C
+## Festivals - Eve of the White Doe - Milo - C
 
 Dialogue: "Everybody says the noises are just frogs and fish. That's exactly what a mysterious lake creature would WANT everybody to think."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-milo-c
+ID: dialogue_festivals-eve-of-the-white-doe-milo-c
 
 Options: None
 
@@ -3031,13 +3031,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Adrian - A
+## Festivals - Eve of the White Doe - Adrian - A
 
 Dialogue: "Graythorne Lake appears in an impressive number of Blackmere's old legends. Most contradict one another completely, which has never stopped anyone from repeating them."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-adrian-a
+ID: dialogue_festivals-eve-of-the-white-doe-adrian-a
 
 Options: None
 
@@ -3049,13 +3049,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Adrian - B
+## Festivals - Eve of the White Doe - Adrian - B
 
 Dialogue: "I know perfectly reasonable explanations for most of the sounds around the lake tonight. Knowing them and finding them reassuring seem to be separate matters."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-adrian-b
+ID: dialogue_festivals-eve-of-the-white-doe-adrian-b
 
 Options: None
 
@@ -3067,13 +3067,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Adrian - C
+## Festivals - Eve of the White Doe - Adrian - C
 
-Dialogue: "Perhaps Hollow Moon Night wouldn't be nearly as interesting if we settled every old mystery surrounding it. That's an unusual opinion for a librarian, isn't it?"
+Dialogue: "Perhaps Eve of the White Doe wouldn't be nearly as interesting if we settled every old mystery surrounding it. That's an unusual opinion for a librarian, isn't it?"
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-adrian-c
+ID: dialogue_festivals-eve-of-the-white-doe-adrian-c
 
 Options: None
 
@@ -3733,13 +3733,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Clara - A
+## Festivals - Eve of the White Doe - Clara - A
 
 Dialogue: "Graythorne Lake needs better lighting along the shore. Yes, I understand darkness is part of the festival. My objection stands."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-clara-a
+ID: dialogue_festivals-eve-of-the-white-doe-clara-a
 
 Options: None
 
@@ -3751,13 +3751,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Clara - B
+## Festivals - Eve of the White Doe - Clara - B
 
 Dialogue: "Half the stories tonight involve structures mysteriously sinking into the lake. Apparently poor foundations aren't frightening enough without ghosts."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-clara-b
+ID: dialogue_festivals-eve-of-the-white-doe-clara-b
 
 Options: None
 
@@ -3769,13 +3769,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Clara - C
+## Festivals - Eve of the White Doe - Clara - C
 
 Dialogue: "That reflection makes the opposite shore look farther away than it is. Beautiful effect. Slightly unsettling."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-clara-c
+ID: dialogue_festivals-eve-of-the-white-doe-clara-c
 
 Options: None
 
@@ -4435,13 +4435,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Dante - A
+## Festivals - Eve of the White Doe - Dante - A
 
 Dialogue: "Graythorne Lake possesses an astonishing collection of folklore. Apparitions beneath the surface, inexplicable lights, vanished travelers, impossible creatures...most emerged during entirely different periods, yet people have woven them together into one wonderfully inconsistent mythology."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-dante-a
+ID: dialogue_festivals-eve-of-the-white-doe-dante-a
 
 Options: None
 
@@ -4453,13 +4453,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Dante - B
+## Festivals - Eve of the White Doe - Dante - B
 
 Dialogue: "I could explain why moonlight distorts one's perception of distance across dark water. I could also explain why sounds become difficult to place along the shoreline. Curiously, neither explanation has made Graythorne Lake feel any less ominous tonight."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-dante-b
+ID: dialogue_festivals-eve-of-the-white-doe-dante-b
 
 Options: None
 
@@ -4471,13 +4471,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Dante - C
+## Festivals - Eve of the White Doe - Dante - C
 
 Dialogue: "There is a temptation, particularly among historians, to separate fact from folklore and discard whatever cannot be substantiated. I think that misses the point. A story needn't be true to tell us something truthful about the people who kept telling it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-dante-c
+ID: dialogue_festivals-eve-of-the-white-doe-dante-c
 
 Options: None
 
@@ -5137,13 +5137,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Leo - A
+## Festivals - Eve of the White Doe - Leo - A
 
 Dialogue: "Graythorne Lake is gorgeous tonight in a deeply unsettling sort of way. The moonlight, the mist, the black water...I wouldn't want to be here alone, but I can't stop looking."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-leo-a
+ID: dialogue_festivals-eve-of-the-white-doe-leo-a
 
 Options: None
 
@@ -5155,13 +5155,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Leo - B
+## Festivals - Eve of the White Doe - Leo - B
 
 Dialogue: "Someone told me not to wear anything that could snag if I had to run from something. Excuse me? That warning raised several questions I would have preferred not to have."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-leo-b
+ID: dialogue_festivals-eve-of-the-white-doe-leo-b
 
 Options: None
 
@@ -5173,13 +5173,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Leo - C
+## Festivals - Eve of the White Doe - Leo - C
 
 Dialogue: "I'm perfectly happy listening to spooky stories beside the lake. I simply request that whatever we're telling stories about remains politely inside the stories."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-leo-c
+ID: dialogue_festivals-eve-of-the-white-doe-leo-c
 
 Options: None
 
@@ -5839,13 +5839,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Madison - A
+## Festivals - Eve of the White Doe - Madison - A
 
 Dialogue: "Graythorne Lake is safe tonight. I've checked the shoreline myself. That statement does not apply to whatever creatures people insist are lurking beneath it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-madison-a
+ID: dialogue_festivals-eve-of-the-white-doe-madison-a
 
 Options: None
 
@@ -5857,13 +5857,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Madison - B
+## Festivals - Eve of the White Doe - Madison - B
 
 Dialogue: "Stay where the shore is visible and mind the rocks after dark. Enjoy the stories, certainly. Just don't let one convince you to wander into the woods alone."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-madison-b
+ID: dialogue_festivals-eve-of-the-white-doe-madison-b
 
 Options: None
 
@@ -5875,13 +5875,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Madison - C
+## Festivals - Eve of the White Doe - Madison - C
 
 Dialogue: "I've spent enough nights alone in the wilderness to know most strange sounds have ordinary explanations. Most."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-madison-c
+ID: dialogue_festivals-eve-of-the-white-doe-madison-c
 
 Options: None
 
@@ -6541,13 +6541,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Mara - A
+## Festivals - Eve of the White Doe - Mara - A
 
 Dialogue: "I've camped around Graythorne Lake before. Never bothered me. Add a few lanterns and ghost stories, though, and suddenly every branch snapping sounds suspicious."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-mara-a
+ID: dialogue_festivals-eve-of-the-white-doe-mara-a
 
 Options: None
 
@@ -6559,13 +6559,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Mara - B
+## Festivals - Eve of the White Doe - Mara - B
 
 Dialogue: "If something actually crawls out of that lake tonight, I'm leaving. You can be brave. I'll be sensible."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-mara-b
+ID: dialogue_festivals-eve-of-the-white-doe-mara-b
 
 Options: None
 
@@ -6577,13 +6577,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Mara - C
+## Festivals - Eve of the White Doe - Mara - C
 
 Dialogue: "That old dock creaks because the boards swell near the water. That's all. Doesn't mean I'm volunteering to stand on it in the dark."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-mara-c
+ID: dialogue_festivals-eve-of-the-white-doe-mara-c
 
 Options: None
 
@@ -7243,13 +7243,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Marcus - A
+## Festivals - Eve of the White Doe - Marcus - A
 
 Dialogue: "Graythorne Lake is peaceful after dark. Would be more peaceful if everyone stopped telling me what's supposed to live in it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-marcus-a
+ID: dialogue_festivals-eve-of-the-white-doe-marcus-a
 
 Options: None
 
@@ -7261,13 +7261,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Marcus - B
+## Festivals - Eve of the White Doe - Marcus - B
 
 Dialogue: "Heard something moving near the water earlier. Probably a fish. I'm comfortable leaving it at 'probably.'"
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-marcus-b
+ID: dialogue_festivals-eve-of-the-white-doe-marcus-b
 
 Options: None
 
@@ -7279,13 +7279,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Marcus - C
+## Festivals - Eve of the White Doe - Marcus - C
 
 Dialogue: "Stay close to the lanterns if you're walking the shore. Ghosts don't concern me. Falling over a rock does."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-marcus-c
+ID: dialogue_festivals-eve-of-the-white-doe-marcus-c
 
 Options: None
 
@@ -7945,13 +7945,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Nora - A
+## Festivals - Eve of the White Doe - Nora - A
 
 Dialogue: "Want to hear about the Graythorne Lake beast? Huge thing. Teeth like daggers. Eyes like lanterns. Never seen it myself, obviously, but that's never stopped a good story."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-nora-a
+ID: dialogue_festivals-eve-of-the-white-doe-nora-a
 
 Options: None
 
@@ -7963,13 +7963,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Nora - B
+## Festivals - Eve of the White Doe - Nora - B
 
 Dialogue: "Something splashed out there five minutes ago. Fish? Probably. Monster? Unlikely. Am I telling the kids it was a monster? Absolutely."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-nora-b
+ID: dialogue_festivals-eve-of-the-white-doe-nora-b
 
 Options: None
 
@@ -7981,13 +7981,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Nora - C
+## Festivals - Eve of the White Doe - Nora - C
 
 Dialogue: "Dark lake, strange noises, moon hanging overhead...this is exactly how every terrible decision in a fishing story begins. Let's see what happens."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-nora-c
+ID: dialogue_festivals-eve-of-the-white-doe-nora-c
 
 Options: None
 
@@ -8647,13 +8647,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Sabrina - A
+## Festivals - Eve of the White Doe - Sabrina - A
 
 Dialogue: "Felix asked whether any of the stories about Graythorne Lake are true. I told him folklore doesn't always need to be factual to matter. He informed me that wasn't remotely what he was asking."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-sabrina-a
+ID: dialogue_festivals-eve-of-the-white-doe-sabrina-a
 
 Options: None
 
@@ -8665,13 +8665,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Sabrina - B
+## Festivals - Eve of the White Doe - Sabrina - B
 
 Dialogue: "The lake really does look different tonight, doesn't it? Familiar places can become wonderfully strange with nothing more than darkness, moonlight, and a few good stories."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-sabrina-b
+ID: dialogue_festivals-eve-of-the-white-doe-sabrina-b
 
 Options: None
 
@@ -8683,13 +8683,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Sabrina - C
+## Festivals - Eve of the White Doe - Sabrina - C
 
 Dialogue: "I've spent half the evening reassuring children that there are no monsters in Graythorne Lake. Nora has spent the other half convincing them there are. We may need to discuss professional boundaries."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-sabrina-c
+ID: dialogue_festivals-eve-of-the-white-doe-sabrina-c
 
 Options: None
 
@@ -9349,13 +9349,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Victor - A
+## Festivals - Eve of the White Doe - Victor - A
 
 Dialogue: "Every region has a lake people swear is haunted. Usually there's a drowned bell, a vanished traveler, or something enormous beneath the water. Graythorne has enough stories to cover all three, which feels a little greedy."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-victor-a
+ID: dialogue_festivals-eve-of-the-white-doe-victor-a
 
 Options: None
 
@@ -9367,13 +9367,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Victor - B
+## Festivals - Eve of the White Doe - Victor - B
 
 Dialogue: "See that light across Graythorne Lake? I've heard three explanations tonight. Lantern, ghost, and mysterious creature. I'm hoping for a fourth before we leave."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-victor-b
+ID: dialogue_festivals-eve-of-the-white-doe-victor-b
 
 Options: None
 
@@ -9385,13 +9385,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Victor - C
+## Festivals - Eve of the White Doe - Victor - C
 
 Dialogue: "A good traveler learns not to dismiss local warnings too quickly. Ninety-nine times out of a hundred, they're superstition. That remaining one is why you listen."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-victor-c
+ID: dialogue_festivals-eve-of-the-white-doe-victor-c
 
 Options: None
 
@@ -10051,13 +10051,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Agatha - A
+## Festivals - Eve of the White Doe - Agatha - A
 
 Dialogue: "Graythorne Lake had unsettling stories attached to it before most of you were born. Half are nonsense. The trouble is remembering which half."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-agatha-a
+ID: dialogue_festivals-eve-of-the-white-doe-agatha-a
 
 Options: None
 
@@ -10069,13 +10069,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Agatha - B
+## Festivals - Eve of the White Doe - Agatha - B
 
 Dialogue: "No, I will not tell you whether I believe the old stories about this lake. A little uncertainty improves the evening."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-agatha-b
+ID: dialogue_festivals-eve-of-the-white-doe-agatha-b
 
 Options: None
 
@@ -10087,13 +10087,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Agatha - C
+## Festivals - Eve of the White Doe - Agatha - C
 
 Dialogue: "People have always enjoyed frightening themselves in perfectly safe surroundings. It is considerably less amusing when you've lived long enough to know the genuinely frightening stories."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-agatha-c
+ID: dialogue_festivals-eve-of-the-white-doe-agatha-c
 
 Options: None
 
@@ -10753,13 +10753,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - A
+## Festivals - Eve of the White Doe - Beatrice - A
 
 Dialogue: "Graythorne Lake certainly knows how to look ominous when given the proper lighting. I can understand why so many stories have accumulated around it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-a
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-a
 
 Options: None
 
@@ -10771,13 +10771,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - B
+## Festivals - Eve of the White Doe - Beatrice - B
 
 Dialogue: "My mother knows several old stories about this lake that I've never found in the town archives. Whether that makes them more authentic or less reliable depends entirely on whom you ask."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-b
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-b
 
 Options: None
 
@@ -10789,13 +10789,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - C
+## Festivals - Eve of the White Doe - Beatrice - C
 
 Dialogue: "There is no official municipal position regarding monsters in Graythorne Lake. I cannot believe I have needed to clarify that twice tonight."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-c
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-c
 
 Options: None
 
@@ -11455,13 +11455,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Claudia - A
+## Festivals - Eve of the White Doe - Claudia - A
 
 Dialogue: "You spend enough time underground, darkness stops bothering you. Deep water at night? That's different."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-claudia-a
+ID: dialogue_festivals-eve-of-the-white-doe-claudia-a
 
 Options: None
 
@@ -11473,13 +11473,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Claudia - B
+## Festivals - Eve of the White Doe - Claudia - B
 
 Dialogue: "Milo asked if there's a monster in Graythorne Lake. Told him no. Nora told him maybe. Nora and I will be talking later."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-claudia-b
+ID: dialogue_festivals-eve-of-the-white-doe-claudia-b
 
 Options: None
 
@@ -11491,13 +11491,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Claudia - C
+## Festivals - Eve of the White Doe - Claudia - C
 
 Dialogue: "Kira wants to investigate every strange noise around the lake. She's brave. I'd prefer she were brave somewhere I can see her."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-claudia-c
+ID: dialogue_festivals-eve-of-the-white-doe-claudia-c
 
 Options: None
 
@@ -12157,13 +12157,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Edward - A
+## Festivals - Eve of the White Doe - Edward - A
 
 Dialogue: "Graythorne Lake has accumulated a considerable collection of unsettling tales over the years. Ms. Pendrelle knew several. She was remarkably skilled at withholding the ending until precisely the wrong moment."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-edward-a
+ID: dialogue_festivals-eve-of-the-white-doe-edward-a
 
 Options: None
 
@@ -12175,13 +12175,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Edward - B
+## Festivals - Eve of the White Doe - Edward - B
 
 Dialogue: "I do not consider myself particularly superstitious, [Player]. Nevertheless, if something should call your name from the middle of Graythorne Lake tonight, I would recommend against answering. There is no sense being impolite to common sense."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-edward-b
+ID: dialogue_festivals-eve-of-the-white-doe-edward-b
 
 Options: None
 
@@ -12193,13 +12193,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Edward - C
+## Festivals - Eve of the White Doe - Edward - C
 
 Dialogue: "Moonlight has a peculiar talent for making perfectly ordinary places feel unfamiliar. Perhaps that is why evenings such as this have kept Blackmere's old stories alive for so long."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-edward-c
+ID: dialogue_festivals-eve-of-the-white-doe-edward-c
 
 Options: None
 
@@ -12859,13 +12859,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Elise - A
+## Festivals - Eve of the White Doe - Elise - A
 
 Dialogue: "There is almost certainly a rational explanation for every unusual sound coming from Graythorne Lake tonight. 'Almost' is doing more work in that sentence than I would prefer."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-elise-a
+ID: dialogue_festivals-eve-of-the-white-doe-elise-a
 
 Options: None
 
@@ -12877,13 +12877,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Elise - B
+## Festivals - Eve of the White Doe - Elise - B
 
 Dialogue: "I don't believe Graythorne Lake is haunted. I also see no benefit in testing that conclusion by wandering along the shore alone."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-elise-b
+ID: dialogue_festivals-eve-of-the-white-doe-elise-b
 
 Options: None
 
@@ -12895,13 +12895,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Elise - C
+## Festivals - Eve of the White Doe - Elise - C
 
 Dialogue: "Nora has provided six different explanations for what supposedly lives beneath this lake. The fact that they contradict one another has not reduced her confidence."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-elise-c
+ID: dialogue_festivals-eve-of-the-white-doe-elise-c
 
 Options: None
 
@@ -13561,13 +13561,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Frederick - A
+## Festivals - Eve of the White Doe - Frederick - A
 
 Dialogue: "Graythorne Lake is beautiful at night, but I admit the stories don't help. I heard one earlier about something tapping beneath a boat. I could've lived quite happily without that detail."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-frederick-a
+ID: dialogue_festivals-eve-of-the-white-doe-frederick-a
 
 Options: None
 
@@ -13579,13 +13579,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Frederick - B
+## Festivals - Eve of the White Doe - Frederick - B
 
 Dialogue: "Felix is fascinated by every strange sound out here. I'm trying to encourage the curiosity without encouraging him to investigate any of it alone."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-frederick-b
+ID: dialogue_festivals-eve-of-the-white-doe-frederick-b
 
 Options: None
 
@@ -13597,13 +13597,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Frederick - C
+## Festivals - Eve of the White Doe - Frederick - C
 
 Dialogue: "If you get cold, I've got an extra blanket. If you get hungry, I packed something. If a lake monster appears...well, I admit I didn't prepare for everything."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-frederick-c
+ID: dialogue_festivals-eve-of-the-white-doe-frederick-c
 
 Options: None
 
@@ -14263,13 +14263,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Helen - A
+## Festivals - Eve of the White Doe - Helen - A
 
 Dialogue: "I brought something warm to drink. Graythorne Lake is beautiful after dark, but spooky stories are much easier to enjoy when your hands aren't freezing."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-helen-a
+ID: dialogue_festivals-eve-of-the-white-doe-helen-a
 
 Options: None
 
@@ -14281,13 +14281,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Helen - B
+## Festivals - Eve of the White Doe - Helen - B
 
 Dialogue: "Felix keeps pretending the stories don't bother him. Every time something splashes in the lake, he moves about half a step closer to us."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-helen-b
+ID: dialogue_festivals-eve-of-the-white-doe-helen-b
 
 Options: None
 
@@ -14299,13 +14299,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Helen - C
+## Festivals - Eve of the White Doe - Helen - C
 
 Dialogue: "Theo told one of those horrible lake stories when we were children and I couldn't sleep for two nights. He's still far too pleased with himself about it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-helen-c
+ID: dialogue_festivals-eve-of-the-white-doe-helen-c
 
 Options: None
 
@@ -14965,13 +14965,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Irene - A
+## Festivals - Eve of the White Doe - Irene - A
 
 Dialogue: "Graythorne Lake is older than every story told about it tonight. That should be unsettling enough."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-irene-a
+ID: dialogue_festivals-eve-of-the-white-doe-irene-a
 
 Options: None
 
@@ -14983,13 +14983,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Irene - B
+## Festivals - Eve of the White Doe - Irene - B
 
 Dialogue: "Sound carries strangely over dark water. A bellwarden notices such things."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-irene-b
+ID: dialogue_festivals-eve-of-the-white-doe-irene-b
 
 Options: None
 
@@ -15001,13 +15001,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Irene - C
+## Festivals - Eve of the White Doe - Irene - C
 
 Dialogue: "James enjoyed these stories more than I did. He claimed fear made people pay attention. On nights like this, I almost agree."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-irene-c
+ID: dialogue_festivals-eve-of-the-white-doe-irene-c
 
 Options: None
 
@@ -15667,13 +15667,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Jasmine - A
+## Festivals - Eve of the White Doe - Jasmine - A
 
 Dialogue: "All right, I know Graythorne Lake isn't actually full of horrible creatures waiting to drag us under. Probably. But if something touches my ankle tonight, I'm abandoning every one of you."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-jasmine-a
+ID: dialogue_festivals-eve-of-the-white-doe-jasmine-a
 
 Options: None
 
@@ -15685,13 +15685,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Jasmine - B
+## Festivals - Eve of the White Doe - Jasmine - B
 
 Dialogue: "Kira wants to investigate the lake, Milo wants to hear every scary story twice, and Claudia looks about three seconds away from taking both of them home. I love this family."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-jasmine-b
+ID: dialogue_festivals-eve-of-the-white-doe-jasmine-b
 
 Options: None
 
@@ -15703,13 +15703,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Jasmine - C
+## Festivals - Eve of the White Doe - Jasmine - C
 
 Dialogue: "You know what makes a frightening story worse? When everyone gets quiet afterward and you suddenly notice how dark the lake is. So! Let's keep talking."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-jasmine-c
+ID: dialogue_festivals-eve-of-the-white-doe-jasmine-c
 
 Options: None
 
@@ -16369,13 +16369,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Jonas - A
+## Festivals - Eve of the White Doe - Jonas - A
 
 Dialogue: "Graythorne Lake is calm tonight. That's usually when people decide it must be hiding something."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-jonas-a
+ID: dialogue_festivals-eve-of-the-white-doe-jonas-a
 
 Options: None
 
@@ -16387,13 +16387,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Jonas - B
+## Festivals - Eve of the White Doe - Jonas - B
 
 Dialogue: "Kira wants to investigate the shoreline. Milo wants to find a monster. Claudia wants both of them where she can see them. I'm siding with Claudia."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-jonas-b
+ID: dialogue_festivals-eve-of-the-white-doe-jonas-b
 
 Options: None
 
@@ -16405,13 +16405,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Jonas - C
+## Festivals - Eve of the White Doe - Jonas - C
 
 Dialogue: "I don't put much stock in ghost stories. Still, if something calls from the middle of that lake, I think we can all agree not to answer."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-jonas-c
+ID: dialogue_festivals-eve-of-the-white-doe-jonas-c
 
 Options: None
 
@@ -17071,13 +17071,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Julian - A
+## Festivals - Eve of the White Doe - Julian - A
 
 Dialogue: "Graythorne Lake produces several perfectly ordinary nocturnal sounds that become difficult to identify after dark. Waterfowl, frogs, fish breaking the surface...uncertainty supplies the rest."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-julian-a
+ID: dialogue_festivals-eve-of-the-white-doe-julian-a
 
 Options: None
 
@@ -17089,13 +17089,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Julian - B
+## Festivals - Eve of the White Doe - Julian - B
 
 Dialogue: "The human mind is exceptionally talented at assigning familiar shapes to poor visual information. Shadows become figures, ripples become movement, branches become limbs. Fascinating, really."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-julian-b
+ID: dialogue_festivals-eve-of-the-white-doe-julian-b
 
 Options: None
 
@@ -17107,13 +17107,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Julian - C
+## Festivals - Eve of the White Doe - Julian - C
 
 Dialogue: "I do not believe a monster inhabits Graythorne Lake. I also see no scientific value in wandering into deep water at night to prove it."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-julian-c
+ID: dialogue_festivals-eve-of-the-white-doe-julian-c
 
 Options: None
 
@@ -17773,13 +17773,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Lena - A
+## Festivals - Eve of the White Doe - Lena - A
 
 Dialogue: "Graythorne Lake is peaceful during the day. Tonight, every reflection seems to belong to something just beyond sight."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-lena-a
+ID: dialogue_festivals-eve-of-the-white-doe-lena-a
 
 Options: None
 
@@ -17791,13 +17791,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Lena - B
+## Festivals - Eve of the White Doe - Lena - B
 
 Dialogue: "Anya says she isn't frightened. I believe her. I also noticed she hasn't wandered very far from me."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-lena-b
+ID: dialogue_festivals-eve-of-the-white-doe-lena-b
 
 Options: None
 
@@ -17809,13 +17809,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Lena - C
+## Festivals - Eve of the White Doe - Lena - C
 
 Dialogue: "Not every old story needs to be explained away. Sometimes a little mystery teaches us to pay closer attention."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-lena-c
+ID: dialogue_festivals-eve-of-the-white-doe-lena-c
 
 Options: None
 
@@ -18475,13 +18475,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Martin - A
+## Festivals - Eve of the White Doe - Martin - A
 
 Dialogue: "Graythorne Lake is unusually quiet tonight. I am undecided whether that improves matters."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-martin-a
+ID: dialogue_festivals-eve-of-the-white-doe-martin-a
 
 Options: None
 
@@ -18493,13 +18493,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Martin - B
+## Festivals - Eve of the White Doe - Martin - B
 
 Dialogue: "I don't believe every story told about this lake. I see no reason to challenge them, either."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-martin-b
+ID: dialogue_festivals-eve-of-the-white-doe-martin-b
 
 Options: None
 
@@ -18511,13 +18511,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Martin - C
+## Festivals - Eve of the White Doe - Martin - C
 
 Dialogue: "If you intend to walk farther along the shore, take a lantern. Superstition is no excuse for poor judgment."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-martin-c
+ID: dialogue_festivals-eve-of-the-white-doe-martin-c
 
 Options: None
 
@@ -19177,13 +19177,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Roland - A
+## Festivals - Eve of the White Doe - Roland - A
 
 Dialogue: "Graythorne Lake had frightening stories attached to it when I was young too. Different monsters, mostly. Apparently even legends change with the times."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-roland-a
+ID: dialogue_festivals-eve-of-the-white-doe-roland-a
 
 Options: None
 
@@ -19195,13 +19195,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Roland - B
+## Festivals - Eve of the White Doe - Roland - B
 
 Dialogue: "Agatha claims she isn't interested in ghost stories. Yet she corrects anyone who tells one incorrectly."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-roland-b
+ID: dialogue_festivals-eve-of-the-white-doe-roland-b
 
 Options: None
 
@@ -19213,13 +19213,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Roland - C
+## Festivals - Eve of the White Doe - Roland - C
 
 Dialogue: "A dark lake, an old tale, and somebody willing to listen. That's all people have ever needed to frighten one another properly."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-roland-c
+ID: dialogue_festivals-eve-of-the-white-doe-roland-c
 
 Options: None
 
@@ -19879,13 +19879,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Theo - A
+## Festivals - Eve of the White Doe - Theo - A
 
 Dialogue: "Graythorne Lake doesn't usually bother me. Add darkness and a few old stories, though, and suddenly every little splash sounds worth noticing."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-theo-a
+ID: dialogue_festivals-eve-of-the-white-doe-theo-a
 
 Options: None
 
@@ -19897,13 +19897,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Theo - B
+## Festivals - Eve of the White Doe - Theo - B
 
 Dialogue: "Helen told me there's nothing in the lake to worry about. Then she immediately told Felix a story about something living at the bottom. Helpful."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-theo-b
+ID: dialogue_festivals-eve-of-the-white-doe-theo-b
 
 Options: None
 
@@ -19915,13 +19915,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Theo - C
+## Festivals - Eve of the White Doe - Theo - C
 
 Dialogue: "I brought something warm to eat. Scary stories are easier to enjoy when your hands aren't freezing."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-theo-c
+ID: dialogue_festivals-eve-of-the-white-doe-theo-c
 
 Options: None
 
@@ -20581,13 +20581,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Walter - A
+## Festivals - Eve of the White Doe - Walter - A
 
 Dialogue: "Graythorne Lake hasn't bothered me yet. Don't see why tonight should be different."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-walter-a
+ID: dialogue_festivals-eve-of-the-white-doe-walter-a
 
 Options: None
 
@@ -20599,13 +20599,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Walter - B
+## Festivals - Eve of the White Doe - Walter - B
 
 Dialogue: "Every generation invents something new to put in that lake. None of them agree what it looks like."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-walter-b
+ID: dialogue_festivals-eve-of-the-white-doe-walter-b
 
 Options: None
 
@@ -20617,13 +20617,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Walter - C
+## Festivals - Eve of the White Doe - Walter - C
 
 Dialogue: "Don't believe the stories. Still wouldn't wander off alone. Common sense and superstition aren't the same thing."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-walter-c
+ID: dialogue_festivals-eve-of-the-white-doe-walter-c
 
 Options: None
 
@@ -21283,13 +21283,13 @@ Variant: C
 
 ---
 
-## Festivals - Hollow Moon Night - Lucian/Vivian - A
+## Festivals - Eve of the White Doe - Lucian/Vivian - A
 
 Dialogue: "Graythorne Lake possesses an impressive collection of legends. Contradictory ones, naturally. Consistency has never been a requirement for a good ghost story."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-lucian-vivian-a
+ID: dialogue_festivals-eve-of-the-white-doe-lucian-vivian-a
 
 Options: None
 
@@ -21301,13 +21301,13 @@ Variant: A
 
 ---
 
-## Festivals - Hollow Moon Night - Lucian/Vivian - B
+## Festivals - Eve of the White Doe - Lucian/Vivian - B
 
 Dialogue: "People behave differently when they cannot see what lies ahead of them. They slow down. Listen carefully. Stay near one another. Perhaps uncertainty has its uses."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-lucian-vivian-b
+ID: dialogue_festivals-eve-of-the-white-doe-lucian-vivian-b
 
 Options: None
 
@@ -21319,13 +21319,13 @@ Variant: B
 
 ---
 
-## Festivals - Hollow Moon Night - Lucian/Vivian - C
+## Festivals - Eve of the White Doe - Lucian/Vivian - C
 
 Dialogue: "I heard something moving near the water several minutes ago. I have chosen not to investigate. You may regard that as personal growth."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-lucian-vivian-c
+ID: dialogue_festivals-eve-of-the-white-doe-lucian-vivian-c
 
 Options: None
 
@@ -22183,13 +22183,13 @@ Variant: None
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - 01
+## Festivals - Eve of the White Doe - Beatrice - 01
 
 Dialogue: "Some dismiss the White Doe as little more than an old Blackmere tale. Nevertheless, we've hidden her likeness somewhere along Graythorne Lake, just as generations before us have done."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-01
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-01
 
 Options: None
 
@@ -22201,13 +22201,13 @@ Variant: None
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - 02
+## Festivals - Eve of the White Doe - Beatrice - 02
 
 Dialogue: "Once the search begins, the first person to find the White Doe Orb claims the honor—and, if the old stories are to be believed, the luck of seeing the White Doe for the coming year."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-02
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-02
 
 Options: None
 
@@ -22219,13 +22219,13 @@ Variant: None
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - 03
+## Festivals - Eve of the White Doe - Beatrice - 03
 
 Dialogue: "I believe I've given you all the warning you're going to receive. Shall I begin the hunt?"
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-03
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-03
 
 Options: Begin the hunt. / I want to look around first.
 
@@ -22237,13 +22237,13 @@ Variant: None
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - 04
+## Festivals - Eve of the White Doe - Beatrice - 04
 
 Dialogue: "There we have it. The White Doe has been found, and this year's hunt has come to an end."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-04
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-04
 
 Options: None
 
@@ -22255,13 +22255,13 @@ Variant: None
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - 05
+## Festivals - Eve of the White Doe - Beatrice - 05
 
 Dialogue: "[Winner] found the White Doe Orb. If the old stories are to be believed, they'll carry the luck of seeing the White Doe until we gather here again next year."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-05
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-05
 
 Options: None
 
@@ -22273,13 +22273,13 @@ Variant: None
 
 ---
 
-## Festivals - Hollow Moon Night - Beatrice - 06
+## Festivals - Eve of the White Doe - Beatrice - 06
 
 Dialogue: "Whether you place much faith in the legend is your own affair. Still, traditions endure for a reason. Congratulations, [Winner]."
 
 Event: Festivals
 
-ID: dialogue_festivals-hollow-moon-night-beatrice-06
+ID: dialogue_festivals-eve-of-the-white-doe-beatrice-06
 
 Options: None
 

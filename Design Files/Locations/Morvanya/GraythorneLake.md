@@ -9,7 +9,7 @@ Version: 0.0.1
 
 ## Information
 
-- Location is the site for the Hollow Moon Night Festival.
+- Location is the site for the Eve of the White Doe Festival.
 
 ---
 

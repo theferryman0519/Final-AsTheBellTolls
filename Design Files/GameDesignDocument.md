@@ -528,7 +528,7 @@ The various songs of the soundtrack include:
 
 **<u>Harvest Supper Theme</u>** - *A Meal Worth Remembering*
 
-**<u>Hollow Moon Night Theme</u>** - *Under the Hollow Moon*
+**<u>Eve of the White Doe Theme</u>** - *Under the Hollow Moon*
 
 **<u>Aurora Watch Theme</u>** - *Hues in the Night*
 
