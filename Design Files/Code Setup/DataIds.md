@@ -1712,9 +1712,6 @@ Version: 0.0.1
 - dialogue_festivals-eve-of-the-white-doe-beatrice-01
 - dialogue_festivals-eve-of-the-white-doe-beatrice-02
 - dialogue_festivals-eve-of-the-white-doe-beatrice-03
-- dialogue_festivals-eve-of-the-white-doe-beatrice-04
-- dialogue_festivals-eve-of-the-white-doe-beatrice-05
-- dialogue_festivals-eve-of-the-white-doe-beatrice-06
 - dialogue_festivals-eve-of-the-white-doe-beatrice-a
 - dialogue_festivals-eve-of-the-white-doe-beatrice-b
 - dialogue_festivals-eve-of-the-white-doe-beatrice-c
