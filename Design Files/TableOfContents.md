@@ -116,6 +116,7 @@ Version: 0.0.1
 - Event Channels
 - Game Architecture
 - Game Flags
+- Hierarchy
 - Initialization Order
 - Models
 - Save Data
