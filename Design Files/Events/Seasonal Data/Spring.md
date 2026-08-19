@@ -64,3 +64,15 @@ Herbs: Chives, Dandelion, Mint, Oregano, Parsley, Peppermint, Thyme
 | Snowy          | 0     | None
 | Snowy (Severe) | 0     | None
 | Windy          | 7     | None
+
+---
+
+## Special Events
+
+- Day 4 at 9:00am: Bell tolls with a slightly different medley. Fountains (if working) turn on in the Town Square. It symbolizes the start of not only the school year but the year itself.
+
+- Day 8 at 6:00am: Residents place small bundles of fresh spring flowers on windowsills, doorsteps, and shop counters throughout Blackmere. The tradition welcomes the return of growing things after winter.
+
+- Day 17 at 7:00am: The first spring banners are hung throughout Town Square. Their number and condition improve alongside Blackmere's restoration progress.
+
+- Day 26 at 5:00pm: Children gather around the Town Square fountains (if working) and float small folded paper boats through the water. Adults gradually join the gathering as they finish work for the evening.
