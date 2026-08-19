@@ -27,7 +27,7 @@ Weather: Cloudy
 
 # Interaction Information
 
-Activity Type: Lantern Walk
+Activity Type: Lantern Walk / Observation
 
 Is Activity Required: No
 
