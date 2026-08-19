@@ -225,7 +225,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Anya - A
 
-Dialogue: "The lake looks different at night. You can see the moon on the water, but everything underneath it is completely dark."
+Dialogue: "I always wonder if the White Doe knows everyone is waiting for her. Maybe that's why we're supposed to be so quiet."
 
 Event: Festivals
 
@@ -243,7 +243,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Anya - B
 
-Dialogue: "Every little sound carries across the water tonight. I keep hearing things before I can figure out where they came from."
+Dialogue: "I like the walk through the woods best. All those little lanterns moving between the trees look like they're going somewhere together."
 
 Event: Festivals
 
@@ -261,7 +261,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Anya - C
 
-Dialogue: "People keep telling scary stories about Graythorne Lake. I don't believe most of them...but I'm still staying where I can see everyone."
+Dialogue: "I tried drawing the White Doe last year when I got home. I couldn't remember her exactly...so this year I'm going to look a little longer."
 
 Event: Festivals
 
@@ -927,7 +927,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Felix - A
 
-Dialogue: "Graythorne Lake is full of things you can't see from shore. On a night like this, it's really easy to imagine what they might be."
+Dialogue: "I've been wondering where the deer come from before they reach the lake. There must be paths through the woods that only they know about."
 
 Event: Festivals
 
@@ -945,7 +945,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Felix - B
 
-Dialogue: "Did you hear that splash? It was probably a fish. Probably. We could go look...if you wanted to come with me."
+Dialogue: "Do you think it's really the same White Doe every year? I know it couldn't be, but...people have been telling stories about her for a really long time."
 
 Event: Festivals
 
@@ -963,7 +963,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Felix - C
 
-Dialogue: "I've heard three different stories about this lake tonight, and none of them agree. That means somebody has to investigate, right?"
+Dialogue: "I brought my sketchbook this year. I probably won't be able to draw her before she leaves...but I thought I could try."
 
 Event: Festivals
 
@@ -1629,7 +1629,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Kira - A
 
-Dialogue: "Graythorne Lake, after dark, on Eve of the White Doe? Finally! If anything strange happens tonight, I want to be close enough to see it."
+Dialogue: "I've walked these woods dozens of times, and I've never seen the White Doe. Apparently the trick is standing still and waiting for her to come to us. Do you have any idea how difficult that is?"
 
 Event: Festivals
 
@@ -1647,7 +1647,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Kira - B
 
-Dialogue: "I've marked every place around the lake where someone claims they saw something unusual. Most of the stories are probably nonsense...but we only need one that isn't."
+Dialogue: "I've been watching for tracks all week. I found deer tracks, old deer tracks, really old deer tracks...but nothing that says 'White Doe.' Don't worry. I'm still looking."
 
 Event: Festivals
 
@@ -1665,7 +1665,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Kira - C
 
-Dialogue: "Something moved by those reeds. No, seriously, I saw it! Stay here if you want. I'm checking."
+Dialogue: "Everyone says you're supposed to stay quiet when the lanterns go out. Fine. I can do that. But if I see the White Doe first, I'm absolutely telling everyone afterward."
 
 Event: Festivals
 
@@ -2331,7 +2331,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Milo - A
 
-Dialogue: "Graythorne Lake Monster patrol starts now! You're with me. If we find one, you distract it and I'll...figure out the rest."
+Dialogue: "We're going through the woods at night with lanterns, and there's a White Doe waiting somewhere ahead of us. Tell me that doesn't sound like the beginning of an adventure!"
 
 Event: Festivals
 
@@ -2349,7 +2349,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Milo - B
 
-Dialogue: "See how the moon makes a path across the water? What if it's actually showing us where something's hidden?"
+Dialogue: "I always try to guess which deer will come out first. One year I'm going to get it right! Unless the White Doe comes first. Then I don't care if I'm wrong."
 
 Event: Festivals
 
@@ -2367,7 +2367,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Milo - C
 
-Dialogue: "Everybody says the noises are just frogs and fish. That's exactly what a mysterious lake creature would WANT everybody to think."
+Dialogue: "When everybody puts their lanterns out, you have to be really, really quiet. I'm not very good at that part...but when the deer start coming out, I forget I was trying."
 
 Event: Festivals
 
@@ -3033,7 +3033,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Adrian - A
 
-Dialogue: "Graythorne Lake appears in an impressive number of Blackmere's old legends. Most contradict one another completely, which has never stopped anyone from repeating them."
+Dialogue: "References to the White Doe appear throughout Blackmere's oldest records. The details rarely agree, of course, but somehow she is always there."
 
 Event: Festivals
 
@@ -3051,7 +3051,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Adrian - B
 
-Dialogue: "I know perfectly reasonable explanations for most of the sounds around the lake tonight. Knowing them and finding them reassuring seem to be separate matters."
+Dialogue: "I've tried tracing when the tradition actually began. Every time I think I've found the earliest account, another turns up that's older. I should probably find that frustrating. I don't."
 
 Event: Festivals
 
@@ -3069,7 +3069,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Adrian - C
 
-Dialogue: "Perhaps Eve of the White Doe wouldn't be nearly as interesting if we settled every old mystery surrounding it. That's an unusual opinion for a librarian, isn't it?"
+Dialogue: "There are perfectly reasonable explanations for why Blackmere might have seen a white deer across so many generations. I find myself rather content not choosing one."
 
 Event: Festivals
 
@@ -3735,7 +3735,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Clara - A
 
-Dialogue: "Graythorne Lake needs better lighting along the shore. Yes, I understand darkness is part of the festival. My objection stands."
+Dialogue: "Walking through the woods by lantern light is beautiful. Impractical, certainly, but beautiful. I suppose not everything needs improving."
 
 Event: Festivals
 
@@ -3753,7 +3753,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Clara - B
 
-Dialogue: "Half the stories tonight involve structures mysteriously sinking into the lake. Apparently poor foundations aren't frightening enough without ghosts."
+Dialogue: "I've tried documenting the White Doe before. The darkness, the distance, the movement...none of it cooperates. Perhaps that's the point."
 
 Event: Festivals
 
@@ -3771,7 +3771,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Clara - C
 
-Dialogue: "That reflection makes the opposite shore look farther away than it is. Beautiful effect. Slightly unsettling."
+Dialogue: "When the lanterns go out, look across the lake. Moonlight does more for this view than anything I could design."
 
 Event: Festivals
 
@@ -4437,7 +4437,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Dante - A
 
-Dialogue: "Graythorne Lake possesses an astonishing collection of folklore. Apparitions beneath the surface, inexplicable lights, vanished travelers, impossible creatures...most emerged during entirely different periods, yet people have woven them together into one wonderfully inconsistent mythology."
+Dialogue: "Accounts of the White Doe appear throughout Blackmere's history, though naturally the details vary. Some describe her arriving alone, others leading an entire herd, and a few insist she appeared only after every lantern had gone dark. The inconsistencies are, in my opinion, part of the tradition's charm."
 
 Event: Festivals
 
@@ -4455,7 +4455,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Dante - B
 
-Dialogue: "I could explain why moonlight distorts one's perception of distance across dark water. I could also explain why sounds become difficult to place along the shoreline. Curiously, neither explanation has made Graythorne Lake feel any less ominous tonight."
+Dialogue: "I find the extinguishing of the lanterns particularly beautiful. For most of the evening, we illuminate our own path through the woods. Then, at the lake, we deliberately surrender that light and simply wait for something beyond ourselves to appear."
 
 Event: Festivals
 
@@ -4473,7 +4473,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Dante - C
 
-Dialogue: "There is a temptation, particularly among historians, to separate fact from folklore and discard whatever cannot be substantiated. I think that misses the point. A story needn't be true to tell us something truthful about the people who kept telling it."
+Dialogue: "There is a temptation, particularly among historians, to separate fact from folklore and discard whatever cannot be substantiated. Yet whether every account of the White Doe is literally true seems almost beside the point. Generations of Blackmere residents considered her worth remembering. That, by itself, tells us something worth preserving."
 
 Event: Festivals
 
@@ -4488,6 +4488,7 @@ Speaker: Dante Menici
 Variant: C
 
 ---
+
 
 ## Festivals - River Remembrance Day - Dante - A
 
@@ -5139,7 +5140,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Leo - A
 
-Dialogue: "Graythorne Lake is gorgeous tonight in a deeply unsettling sort of way. The moonlight, the mist, the black water...I wouldn't want to be here alone, but I can't stop looking."
+Dialogue: "Look at everyone carrying their lanterns through the trees! The warm light, the autumn colors, all those silhouettes...I know we're supposed to be watching for the White Doe, but the procession alone is gorgeous."
 
 Event: Festivals
 
@@ -5157,7 +5158,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Leo - B
 
-Dialogue: "Someone told me not to wear anything that could snag if I had to run from something. Excuse me? That warning raised several questions I would have preferred not to have."
+Dialogue: "Every year I think about designing something specifically for tonight. Ivory fabric, silver embroidery, maybe a little slate blue...then I remember the White Doe already has the perfect outfit."
 
 Event: Festivals
 
@@ -5175,7 +5176,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Leo - C
 
-Dialogue: "I'm perfectly happy listening to spooky stories beside the lake. I simply request that whatever we're telling stories about remains politely inside the stories."
+Dialogue: "My favorite part is when the last lantern goes out. For a few seconds there's nothing but moonlight on the lake...and then the deer start appearing. You couldn't stage something that beautiful if you tried."
 
 Event: Festivals
 
@@ -5841,7 +5842,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Madison - A
 
-Dialogue: "Graythorne Lake is safe tonight. I've checked the shoreline myself. That statement does not apply to whatever creatures people insist are lurking beneath it."
+Dialogue: "I inspected the trail and lakeshore this afternoon. Everything is in order for tonight's procession. Once the lanterns go out, however, watch your footing. Tradition does not make tree roots any less hazardous."
 
 Event: Festivals
 
@@ -5859,7 +5860,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Madison - B
 
-Dialogue: "Stay where the shore is visible and mind the rocks after dark. Enjoy the stories, certainly. Just don't let one convince you to wander into the woods alone."
+Dialogue: "I used to encounter deer regularly during my ranger patrols. You learn to keep your distance and let them approach on their own terms. I suppose Blackmere has turned that principle into an entire festival."
 
 Event: Festivals
 
@@ -5877,7 +5878,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Madison - C
 
-Dialogue: "I've spent enough nights alone in the wilderness to know most strange sounds have ordinary explanations. Most."
+Dialogue: "I've seen the White Doe several times now. I could give you a dozen reasonable explanations for why she returns to this lake each year. None of them make the sight any less remarkable."
 
 Event: Festivals
 
@@ -6543,7 +6544,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Mara - A
 
-Dialogue: "I've camped around Graythorne Lake before. Never bothered me. Add a few lanterns and ghost stories, though, and suddenly every branch snapping sounds suspicious."
+Dialogue: "I've spent enough time in Gloamwood to see plenty of deer. Still, watching them come down to the lake together like this? I'll admit that's something worth waiting around for."
 
 Event: Festivals
 
@@ -6561,7 +6562,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Mara - B
 
-Dialogue: "If something actually crawls out of that lake tonight, I'm leaving. You can be brave. I'll be sensible."
+Dialogue: "You'd be surprised how different the woods feel when everyone stops talking. No tools, no chopping, no footsteps...just the trees. I don't get many evenings this quiet."
 
 Event: Festivals
 
@@ -6579,7 +6580,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Mara - C
 
-Dialogue: "That old dock creaks because the boards swell near the water. That's all. Doesn't mean I'm volunteering to stand on it in the dark."
+Dialogue: "I've tried figuring out which trail the White Doe uses to reach the lake. Never found it. Either I'm missing something obvious, or she's better at navigating Gloamwood than I am. I'm not sure which bothers me more."
 
 Event: Festivals
 
@@ -7245,7 +7246,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Marcus - A
 
-Dialogue: "Graythorne Lake is peaceful after dark. Would be more peaceful if everyone stopped telling me what's supposed to live in it."
+Dialogue: "I like the lantern walk. No work waiting at the end of it, no reason to hurry. Just a quiet walk through the woods with everyone."
 
 Event: Festivals
 
@@ -7263,7 +7264,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Marcus - B
 
-Dialogue: "Heard something moving near the water earlier. Probably a fish. I'm comfortable leaving it at 'probably.'"
+Dialogue: "My father brought me to see the White Doe when I was young. I remember asking why everyone went quiet for a deer. Took me a few years to understand."
 
 Event: Festivals
 
@@ -7281,7 +7282,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Marcus - C
 
-Dialogue: "Stay close to the lanterns if you're walking the shore. Ghosts don't concern me. Falling over a rock does."
+Dialogue: "When the lanterns go out, I always forget how dark it gets. Then the first deer steps into the moonlight and...well. You'll see."
 
 Event: Festivals
 
@@ -7947,7 +7948,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Nora - A
 
-Dialogue: "Want to hear about the Graythorne Lake beast? Huge thing. Teeth like daggers. Eyes like lanterns. Never seen it myself, obviously, but that's never stopped a good story."
+Dialogue: "You know what I love about tonight? Nobody's trying to catch anything. We all come out to the water, stand perfectly still, and let the wildlife put on the show for once."
 
 Event: Festivals
 
@@ -7965,7 +7966,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Nora - B
 
-Dialogue: "Something splashed out there five minutes ago. Fish? Probably. Monster? Unlikely. Am I telling the kids it was a monster? Absolutely."
+Dialogue: "The first time I saw the White Doe, I was so busy making jokes that I nearly missed her. Can you believe that? Me, almost missing a good story because I wouldn't stop telling one."
 
 Event: Festivals
 
@@ -7983,7 +7984,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Nora - C
 
-Dialogue: "Dark lake, strange noises, moon hanging overhead...this is exactly how every terrible decision in a fishing story begins. Let's see what happens."
+Dialogue: "Watch the water when the lanterns go out. You see the deer twice: once along the shore and once in the reflection. Then the White Doe arrives and somehow she's the only one your eyes want to follow."
 
 Event: Festivals
 
@@ -8649,7 +8650,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Sabrina - A
 
-Dialogue: "Felix asked whether any of the stories about Graythorne Lake are true. I told him folklore doesn't always need to be factual to matter. He informed me that wasn't remotely what he was asking."
+Dialogue: "The children have been talking about the White Doe all week. Felix has questions, Kira has theories, and Milo is absolutely certain she'll recognize him. Anya seems content just to watch. I think I rather like that they each see something different in the same tradition."
 
 Event: Festivals
 
@@ -8667,7 +8668,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Sabrina - B
 
-Dialogue: "The lake really does look different tonight, doesn't it? Familiar places can become wonderfully strange with nothing more than darkness, moonlight, and a few good stories."
+Dialogue: "There's something lovely about walking together by lantern light and then putting every lantern out. We spend so much time trying to make the world easier to see. Tonight, we simply wait for our eyes to adjust."
 
 Event: Festivals
 
@@ -8685,7 +8686,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Sabrina - C
 
-Dialogue: "I've spent half the evening reassuring children that there are no monsters in Graythorne Lake. Nora has spent the other half convincing them there are. We may need to discuss professional boundaries."
+Dialogue: "I used to think traditions like this needed a lesson attached to them, especially for the children. Now I think seeing the deer emerge across the lake is enough. Not every beautiful moment needs someone explaining what it means."
 
 Event: Festivals
 
@@ -9351,7 +9352,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Victor - A
 
-Dialogue: "Every region has a lake people swear is haunted. Usually there's a drowned bell, a vanished traveler, or something enormous beneath the water. Graythorne has enough stories to cover all three, which feels a little greedy."
+Dialogue: "I've seen white deer mentioned in stories from half a dozen places. Every town swears theirs is different, naturally. Blackmere is the only one I've visited where the deer actually has the courtesy to show up."
 
 Event: Festivals
 
@@ -9369,7 +9370,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Victor - B
 
-Dialogue: "See that light across Graythorne Lake? I've heard three explanations tonight. Lantern, ghost, and mysterious creature. I'm hoping for a fourth before we leave."
+Dialogue: "Funny thing about traveling...you spend years chasing sights people promise you'll never forget. Then I keep coming back here, and this is still one of the ones I look forward to."
 
 Event: Festivals
 
@@ -9387,7 +9388,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Victor - C
 
-Dialogue: "A good traveler learns not to dismiss local warnings too quickly. Ninety-nine times out of a hundred, they're superstition. That remaining one is why you listen."
+Dialogue: "First lantern goes out, then another, then another...and suddenly an entire town is standing in the dark waiting for a deer. Try explaining that tradition to a traveler without making them want to see it for themselves."
 
 Event: Festivals
 
@@ -9909,7 +9910,7 @@ Variant: A
 
 ## Festivals - Midsummer Splash - Agatha - B
 
-Dialogue: "I have informed the children that splashing me would be profoundly unwise. Whether they possess the judgment to heed that warning remains to be seen."
+Dialogue: "Some folks are still hesitant about the water after all that happened with the river. It would be wise to let them be."
 
 Event: Festivals
 
@@ -10053,7 +10054,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Agatha - A
 
-Dialogue: "Graythorne Lake had unsettling stories attached to it before most of you were born. Half are nonsense. The trouble is remembering which half."
+Dialogue: "The lantern procession was already an old Blackmere custom when Beatrice was a girl. We've altered a few details since then. Before you ask, no, I do not approve of all of them."
 
 Event: Festivals
 
@@ -10071,7 +10072,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Agatha - B
 
-Dialogue: "No, I will not tell you whether I believe the old stories about this lake. A little uncertainty improves the evening."
+Dialogue: "You want to know whether the White Doe is the same one I saw decades ago? Don't be ridiculous. You may, however, wonder. There is an important difference."
 
 Event: Festivals
 
@@ -10089,7 +10090,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Agatha - C
 
-Dialogue: "People have always enjoyed frightening themselves in perfectly safe surroundings. It is considerably less amusing when you've lived long enough to know the genuinely frightening stories."
+Dialogue: "Watch the children when the deer appear. I used to watch their parents stand just as quietly. Traditions survive because someone decides they're worth showing to the next generation."
 
 Event: Festivals
 
@@ -10755,7 +10756,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Beatrice - A
 
-Dialogue: "Graythorne Lake certainly knows how to look ominous when given the proper lighting. I can understand why so many stories have accumulated around it."
+Dialogue: "Everything is prepared for the procession. Once we reach the lake and the lanterns go out, however, the evening belongs to the deer. Blackmere can manage without an agenda for an hour."
 
 Event: Festivals
 
@@ -10773,7 +10774,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Beatrice - B
 
-Dialogue: "My mother knows several old stories about this lake that I've never found in the town archives. Whether that makes them more authentic or less reliable depends entirely on whom you ask."
+Dialogue: "Mother insists the lanterns were carried differently when she was young. Father insists they weren't. I have wisely declined to make either version an official matter of record."
 
 Event: Festivals
 
@@ -10791,7 +10792,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Beatrice - C
 
-Dialogue: "There is no official municipal position regarding monsters in Graythorne Lake. I cannot believe I have needed to clarify that twice tonight."
+Dialogue: "Lanterns accounted for, trail inspected, everyone assembled...good. For the next hour, Blackmere requires absolutely nothing from its mayor. I intend to enjoy the novelty."
 
 Event: Festivals
 
@@ -11457,7 +11458,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Claudia - A
 
-Dialogue: "You spend enough time underground, darkness stops bothering you. Deep water at night? That's different."
+Dialogue: "Funny. I spend half my life working where sunlight can't reach, but the moment those lanterns go out, I understand why everyone gets quiet. Darkness feels different when you're waiting for something beautiful."
 
 Event: Festivals
 
@@ -11475,7 +11476,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Claudia - B
 
-Dialogue: "Milo asked if there's a monster in Graythorne Lake. Told him no. Nora told him maybe. Nora and I will be talking later."
+Dialogue: "Milo has promised he'll stay quiet when the deer arrive. Kira has promised she'll stay put. Between the two, I'm more confident in Milo."
 
 Event: Festivals
 
@@ -11493,7 +11494,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Claudia - C
 
-Dialogue: "Kira wants to investigate every strange noise around the lake. She's brave. I'd prefer she were brave somewhere I can see her."
+Dialogue: "Everyone watches for the White Doe. Me? I watch Kira and Milo see her. They'll be grown before I know it, and I don't intend to miss everything along the way."
 
 Event: Festivals
 
@@ -12159,7 +12160,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Edward - A
 
-Dialogue: "Graythorne Lake has accumulated a considerable collection of unsettling tales over the years. Ms. Pendrelle knew several. She was remarkably skilled at withholding the ending until precisely the wrong moment."
+Dialogue: "Ms. Pendrelle never missed the procession if she could help it. She claimed the walk through Gloamwood was every bit as important as seeing the White Doe herself. 'One should not hurry toward everything worth seeing,' she would say. I suspect she intended that advice to apply rather more broadly."
 
 Event: Festivals
 
@@ -12177,7 +12178,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Edward - B
 
-Dialogue: "I do not consider myself particularly superstitious, [Player]. Nevertheless, if something should call your name from the middle of Graythorne Lake tonight, I would recommend against answering. There is no sense being impolite to common sense."
+Dialogue: "A word of advice, [Player]. When the lanterns are extinguished, resist the temptation to search the opposite shore too intently. Let your eyes adjust. The White Doe has a remarkable habit of appearing just after one stops trying quite so hard to find her."
 
 Event: Festivals
 
@@ -12195,7 +12196,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Edward - C
 
-Dialogue: "Moonlight has a peculiar talent for making perfectly ordinary places feel unfamiliar. Perhaps that is why evenings such as this have kept Blackmere's old stories alive for so long."
+Dialogue: "There are few occasions when all of Blackmere agrees to become silent at once. No speeches, no obligations, no particular task to perform. We simply stand together and watch. I have grown rather fond of that."
 
 Event: Festivals
 
@@ -12861,7 +12862,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Elise - A
 
-Dialogue: "There is almost certainly a rational explanation for every unusual sound coming from Graythorne Lake tonight. 'Almost' is doing more work in that sentence than I would prefer."
+Dialogue: "No one can guarantee when the deer will appear. No schedule, no certainty, no contingency plan. I should find that irritating. Tonight, I don't."
 
 Event: Festivals
 
@@ -12879,7 +12880,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Elise - B
 
-Dialogue: "I don't believe Graythorne Lake is haunted. I also see no benefit in testing that conclusion by wandering along the shore alone."
+Dialogue: "Nora once tried to wager five Bellnotes on which deer would emerge first. I declined. Some things are improved by having nothing invested in the outcome."
 
 Event: Festivals
 
@@ -12897,7 +12898,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Elise - C
 
-Dialogue: "Nora has provided six different explanations for what supposedly lives beneath this lake. The fact that they contradict one another has not reduced her confidence."
+Dialogue: "Look across the lake after the lanterns are extinguished. Don't calculate how long you've been waiting. You'll enjoy the moment considerably more."
 
 Event: Festivals
 
@@ -13563,7 +13564,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Frederick - A
 
-Dialogue: "Graythorne Lake is beautiful at night, but I admit the stories don't help. I heard one earlier about something tapping beneath a boat. I could've lived quite happily without that detail."
+Dialogue: "Tea before the procession, something warm when we get back...Helen finally pointed out that I'm attending a festival, not hosting one. She's right, of course. I still brought the tea."
 
 Event: Festivals
 
@@ -13581,7 +13582,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Frederick - B
 
-Dialogue: "Felix is fascinated by every strange sound out here. I'm trying to encourage the curiosity without encouraging him to investigate any of it alone."
+Dialogue: "Felix used to hold my hand the entire time we waited for the deer. Now he's too busy watching the woods to remember I'm standing beside him. That's how it's supposed to be, I suppose."
 
 Event: Festivals
 
@@ -13599,7 +13600,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Frederick - C
 
-Dialogue: "If you get cold, I've got an extra blanket. If you get hungry, I packed something. If a lake monster appears...well, I admit I didn't prepare for everything."
+Dialogue: "Then the last lantern goes dark. Nobody needs a room, nobody needs supper, nobody needs me to do a thing. For a little while, all I'm expected to do is stand beside my family and watch."
 
 Event: Festivals
 
@@ -14265,7 +14266,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Helen - A
 
-Dialogue: "I brought something warm to drink. Graythorne Lake is beautiful after dark, but spooky stories are much easier to enjoy when your hands aren't freezing."
+Dialogue: "I make the same spiced cider every Eve of the White Doe. Cinnamon, apple, just a little honey. At this point, one sip and I can practically see the lanterns moving through the trees."
 
 Event: Festivals
 
@@ -14283,7 +14284,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Helen - B
 
-Dialogue: "Felix keeps pretending the stories don't bother him. Every time something splashes in the lake, he moves about half a step closer to us."
+Dialogue: "There! Felix has that look again. He gets so completely absorbed waiting for the first deer that I don't think he'd notice if Frederick and I disappeared. I love seeing him like that."
 
 Event: Festivals
 
@@ -14301,7 +14302,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Helen - C
 
-Dialogue: "Theo told one of those horrible lake stories when we were children and I couldn't sleep for two nights. He's still far too pleased with himself about it."
+Dialogue: "No plates to clear. No bread in the oven. Nothing simmering that needs checking. Just my family, a quiet lake, and something beautiful to wait for. I could get used to this."
 
 Event: Festivals
 
@@ -14841,7 +14842,7 @@ Variant: B
 
 ## Festivals - Midsummer Splash - Irene - C
 
-Dialogue: "They are loud. Wet. Completely undisciplined. They also seem happy. I suppose that is the intention."
+Dialogue: "They are loud. Wet. Completely undisciplined. They also seem happy. I suppose that is the intention, even after what happened with the river. Some of us will never forget."
 
 Event: Festivals
 
@@ -14967,7 +14968,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Irene - A
 
-Dialogue: "Graythorne Lake is older than every story told about it tonight. That should be unsettling enough."
+Dialogue: "The bell marks hours. This tradition asks us to forget them for a while. I have always appreciated the contradiction."
 
 Event: Festivals
 
@@ -14985,7 +14986,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Irene - B
 
-Dialogue: "Sound carries strangely over dark water. A bellwarden notices such things."
+Dialogue: "Listen when the lanterns go out. Blackmere is rarely this quiet. Even the forest seems to understand what we're waiting for."
 
 Event: Festivals
 
@@ -15003,7 +15004,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Irene - C
 
-Dialogue: "James enjoyed these stories more than I did. He claimed fear made people pay attention. On nights like this, I almost agree."
+Dialogue: "Some details of this evening have changed since I was young. The White Doe still comes. Perhaps a tradition can change without becoming something else."
 
 Event: Festivals
 
@@ -15669,7 +15670,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Jasmine - A
 
-Dialogue: "All right, I know Graythorne Lake isn't actually full of horrible creatures waiting to drag us under. Probably. But if something touches my ankle tonight, I'm abandoning every one of you."
+Dialogue: "Do you know how difficult it is for me to stay completely silent while we're waiting? Very. Extremely. I tried whispering last year and Claudia gave me a look, so apparently that doesn't count."
 
 Event: Festivals
 
@@ -15687,7 +15688,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Jasmine - B
 
-Dialogue: "Kira wants to investigate the lake, Milo wants to hear every scary story twice, and Claudia looks about three seconds away from taking both of them home. I love this family."
+Dialogue: "Oh! When the deer start coming out, watch the little ones near the back of the herd. They always hesitate at the tree line before following the others. I spend all day around animals and somehow that still gets me every single year."
 
 Event: Festivals
 
@@ -15705,7 +15706,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Jasmine - C
 
-Dialogue: "You know what makes a frightening story worse? When everyone gets quiet afterward and you suddenly notice how dark the lake is. So! Let's keep talking."
+Dialogue: "No stories tonight. No jokes, either. When that last lantern goes out, I'm going to stand right here and be quiet until the White Doe appears. Yes, me. Quiet. Stop looking so surprised."
 
 Event: Festivals
 
@@ -16245,7 +16246,7 @@ Variant: B
 
 ## Festivals - Midsummer Splash - Jonas - C
 
-Dialogue: "Claudia's pretending she's taking it easy. Kira's already planning an ambush. Give it five minutes."
+Dialogue: "It's refreshing seeing some of the folks enjoying the water again, given everything."
 
 Event: Festivals
 
@@ -16371,7 +16372,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Jonas - A
 
-Dialogue: "Graythorne Lake is calm tonight. That's usually when people decide it must be hiding something."
+Dialogue: "Planting teaches you not to expect everything on your schedule. You do what you can, give it time, and wait. Maybe that's why I've never minded this part."
 
 Event: Festivals
 
@@ -16389,7 +16390,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Jonas - B
 
-Dialogue: "Kira wants to investigate the shoreline. Milo wants to find a monster. Claudia wants both of them where she can see them. I'm siding with Claudia."
+Dialogue: "Most nights at Graythorne Lake, Milo and I have fishing rods in our hands. Tonight he hasn't looked at the water once. He's been staring at those trees since we arrived."
 
 Event: Festivals
 
@@ -16407,7 +16408,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Jonas - C
 
-Dialogue: "I don't put much stock in ghost stories. Still, if something calls from the middle of that lake, I think we can all agree not to answer."
+Dialogue: "Just wait til she arrives. No need to say much more than that."
 
 Event: Festivals
 
@@ -17073,7 +17074,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Julian - A
 
-Dialogue: "Graythorne Lake produces several perfectly ordinary nocturnal sounds that become difficult to identify after dark. Waterfowl, frogs, fish breaking the surface...uncertainty supplies the rest."
+Dialogue: "Notice the herd's behavior when they emerge. The younger deer remain nearer the tree line while the adults advance toward the water first. Then the White Doe appears, and their arrangement changes almost immediately. I've documented it for years."
 
 Event: Festivals
 
@@ -17091,7 +17092,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Julian - B
 
-Dialogue: "The human mind is exceptionally talented at assigning familiar shapes to poor visual information. Shadows become figures, ripples become movement, branches become limbs. Fascinating, really."
+Dialogue: "I brought my field journal, naturally. Measurements, behavioral notes, comparisons with previous years...and yet I haven't opened it once. Hm. Perhaps observation occasionally benefits from not becoming documentation immediately."
 
 Event: Festivals
 
@@ -17109,7 +17110,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Julian - C
 
-Dialogue: "I do not believe a monster inhabits Graythorne Lake. I also see no scientific value in wandering into deep water at night to prove it."
+Dialogue: "Why does a white doe appear among this particular herd, at this particular lake, with such remarkable consistency? Genetics may explain her coloration. Habit may explain the location. Neither satisfactorily explains the timing. After several decades, I remain unwilling to pretend I have an answer."
 
 Event: Festivals
 
@@ -17775,7 +17776,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Lena - A
 
-Dialogue: "Graythorne Lake is peaceful during the day. Tonight, every reflection seems to belong to something just beyond sight."
+Dialogue: "I pressed a little white flower after my first Eve of the White Doe. It's still tucked inside one of my poetry books. The petals have faded, but I remember the evening perfectly."
 
 Event: Festivals
 
@@ -17793,7 +17794,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Lena - B
 
-Dialogue: "Anya says she isn't frightened. I believe her. I also noticed she hasn't wandered very far from me."
+Dialogue: "Look at the shore after the deer leave. In a few moments, there will be nothing there but moonlight again. I think the briefness is part of what makes seeing them feel so precious."
 
 Event: Festivals
 
@@ -17811,7 +17812,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Lena - C
 
-Dialogue: "Not every old story needs to be explained away. Sometimes a little mystery teaches us to pay closer attention."
+Dialogue: "Tomorrow I'll tend the gardens, straighten the markers, and return to all the ordinary things waiting at Memorial Hill. But tonight? Tonight I'm making a memory."
 
 Event: Festivals
 
@@ -18477,7 +18478,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Martin - A
 
-Dialogue: "Graythorne Lake is unusually quiet tonight. I am undecided whether that improves matters."
+Dialogue: "No invitation. No announcement. Yet everyone knows when to gather. For a postmaster, I find that strangely satisfying."
 
 Event: Festivals
 
@@ -18495,7 +18496,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Martin - B
 
-Dialogue: "I don't believe every story told about this lake. I see no reason to challenge them, either."
+Dialogue: "I walk these roads every day. Following them by lantern light with half of Blackmere behind me makes them feel unfamiliar."
 
 Event: Festivals
 
@@ -18513,7 +18514,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Martin - C
 
-Dialogue: "If you intend to walk farther along the shore, take a lantern. Superstition is no excuse for poor judgment."
+Dialogue: "As much as I walk my routes during the week, this will be nice to stand and watch."
 
 Event: Festivals
 
@@ -19179,7 +19180,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Roland - A
 
-Dialogue: "Graythorne Lake had frightening stories attached to it when I was young too. Different monsters, mostly. Apparently even legends change with the times."
+Dialogue: "I've watched this procession change a little with every generation. New lanterns, new faces, new ways of doing things. Then the deer appear, and somehow it still feels like the same Blackmere."
 
 Event: Festivals
 
@@ -19197,7 +19198,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Roland - B
 
-Dialogue: "Agatha claims she isn't interested in ghost stories. Yet she corrects anyone who tells one incorrectly."
+Dialogue: "Agatha insists she comes for the tradition, not the White Doe. After all these years, she still reaches for my hand when the first deer steps out of the trees. I've never mentioned it."
 
 Event: Festivals
 
@@ -19215,7 +19216,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Roland - C
 
-Dialogue: "A dark lake, an old tale, and somebody willing to listen. That's all people have ever needed to frighten one another properly."
+Dialogue: "You know, I used to wonder whether this evening would mean as much to Blackmere after my generation was gone. Looking around tonight, I don't wonder anymore."
 
 Event: Festivals
 
@@ -19737,7 +19738,7 @@ Variant: A
 
 ## Festivals - Midsummer Splash - Theo - B
 
-Dialogue: "I thought about staying somewhere dry and watching. Then somebody handed me a bucket. Hard to argue with that."
+Dialogue: "I thought about staying somewhere dry and watching. I can't help but remember the river every time I see splashes from a bucket."
 
 Event: Festivals
 
@@ -19881,7 +19882,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Theo - A
 
-Dialogue: "Graythorne Lake doesn't usually bother me. Add darkness and a few old stories, though, and suddenly every little splash sounds worth noticing."
+Dialogue: "I spend most evenings surrounded by warm ovens and familiar noises. Being out here with nothing but lantern light and the woods feels...different. Nice, though. I think I understand why people look forward to this."
 
 Event: Festivals
 
@@ -19899,7 +19900,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Theo - B
 
-Dialogue: "Helen told me there's nothing in the lake to worry about. Then she immediately told Felix a story about something living at the bottom. Helpful."
+Dialogue: "I made a honey loaf for tonight. Same recipe I use at the inn, but everyone swears it tastes better out here. Maybe some recipes need the right place as much as the right ingredients."
 
 Event: Festivals
 
@@ -19917,7 +19918,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Theo - C
 
-Dialogue: "I brought something warm to eat. Scary stories are easier to enjoy when your hands aren't freezing."
+Dialogue: "The walk, the lanterns, waiting for the deer...I like that nobody tries to make tonight bigger than it needs to be. It's already enough."
 
 Event: Festivals
 
@@ -20457,7 +20458,7 @@ Variant: B
 
 ## Festivals - Midsummer Splash - Walter - C
 
-Dialogue: "They can splash me if they want. Won't make me chase them. Probably."
+Dialogue: "It's almost as if no one remembers how awful water can be, and yet here everyone is playing with it."
 
 Event: Festivals
 
@@ -20583,7 +20584,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Walter - A
 
-Dialogue: "Graythorne Lake hasn't bothered me yet. Don't see why tonight should be different."
+Dialogue: "Fished this lake more mornings than I can count. Never seen the White Doe once. Suppose she prefers a crowd."
 
 Event: Festivals
 
@@ -20601,7 +20602,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Walter - B
 
-Dialogue: "Every generation invents something new to put in that lake. None of them agree what it looks like."
+Dialogue: "They've changed the lanterns since I was young. Changed the route once, too. Didn't care for either at first. Tradition survived."
 
 Event: Festivals
 
@@ -20619,7 +20620,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Walter - C
 
-Dialogue: "Don't believe the stories. Still wouldn't wander off alone. Common sense and superstition aren't the same thing."
+Dialogue: "Whole town comes out here just to wait for a deer. Sounds foolish when you put it that way. Wouldn't miss it."
 
 Event: Festivals
 
@@ -21285,7 +21286,7 @@ Variant: C
 
 ## Festivals - Eve of the White Doe - Lucian/Vivian - A
 
-Dialogue: "Graythorne Lake possesses an impressive collection of legends. Contradictory ones, naturally. Consistency has never been a requirement for a good ghost story."
+Dialogue: "There is no mechanism directing the herd here. No signal I can detect, no precise hour they obey. They simply arrive when they arrive. I confess, I find that more compelling than I expected."
 
 Event: Festivals
 
@@ -21303,7 +21304,7 @@ Variant: A
 
 ## Festivals - Eve of the White Doe - Lucian/Vivian - B
 
-Dialogue: "People behave differently when they cannot see what lies ahead of them. They slow down. Listen carefully. Stay near one another. Perhaps uncertainty has its uses."
+Dialogue: "I checked my pocket watch twice during the procession last year. Irene noticed. This year, I intend to leave it precisely where it is until we return."
 
 Event: Festivals
 
@@ -21321,7 +21322,7 @@ Variant: B
 
 ## Festivals - Eve of the White Doe - Lucian/Vivian - C
 
-Dialogue: "I heard something moving near the water several minutes ago. I have chosen not to investigate. You may regard that as personal growth."
+Dialogue: "Perhaps that is the point of extinguishing the lanterns. For once, none of us can make the path clearer or the outcome more certain. We can only wait and trust that something worth seeing will come."
 
 Event: Festivals
 
@@ -22185,7 +22186,7 @@ Variant: None
 
 ## Festivals - Eve of the White Doe - Beatrice - 01
 
-Dialogue: "Some dismiss the White Doe as little more than an old Blackmere tale. Nevertheless, we've hidden her likeness somewhere along Graythorne Lake, just as generations before us have done."
+Dialogue: "We'll be leaving Graythorne Lake together shortly. Each of us will carry a lantern as we follow the old path through Gloamwood to the far shore."
 
 Event: Festivals
 
@@ -22203,7 +22204,7 @@ Variant: None
 
 ## Festivals - Eve of the White Doe - Beatrice - 02
 
-Dialogue: "Once the search begins, the first person to find the White Doe Orb claims the honor—and, if the old stories are to be believed, the luck of seeing the White Doe for the coming year."
+Dialogue: "Once we arrive, the lanterns will be extinguished. From that point onward, we remain quiet and wait. If the evening favors us, we might see deer and possibly the White Doe emerge from the trees."
 
 Event: Festivals
 
@@ -22221,69 +22222,15 @@ Variant: None
 
 ## Festivals - Eve of the White Doe - Beatrice - 03
 
-Dialogue: "I believe I've given you all the warning you're going to receive. Shall I begin the hunt?"
+Dialogue: "There is nothing to find and nothing to win tonight. All Blackmere asks is that you walk with us, keep the tradition, and see what comes. Are you ready to begin?"
 
 Event: Festivals
 
 ID: dialogue_festivals-eve-of-the-white-doe-beatrice-03
 
-Options: Begin the hunt. / I want to look around first.
+Options: I'm ready. / I'd like a little more time.
 
 Order Number: 3
-
-Speaker: Beatrice Whitmore
-
-Variant: None
-
----
-
-## Festivals - Eve of the White Doe - Beatrice - 04
-
-Dialogue: "There we have it. The White Doe has been found, and this year's hunt has come to an end."
-
-Event: Festivals
-
-ID: dialogue_festivals-eve-of-the-white-doe-beatrice-04
-
-Options: None
-
-Order Number: 4
-
-Speaker: Beatrice Whitmore
-
-Variant: None
-
----
-
-## Festivals - Eve of the White Doe - Beatrice - 05
-
-Dialogue: "[Winner] found the White Doe Orb. If the old stories are to be believed, they'll carry the luck of seeing the White Doe until we gather here again next year."
-
-Event: Festivals
-
-ID: dialogue_festivals-eve-of-the-white-doe-beatrice-05
-
-Options: None
-
-Order Number: 5
-
-Speaker: Beatrice Whitmore
-
-Variant: None
-
----
-
-## Festivals - Eve of the White Doe - Beatrice - 06
-
-Dialogue: "Whether you place much faith in the legend is your own affair. Still, traditions endure for a reason. Congratulations, [Winner]."
-
-Event: Festivals
-
-ID: dialogue_festivals-eve-of-the-white-doe-beatrice-06
-
-Options: None
-
-Order Number: 6
 
 Speaker: Beatrice Whitmore
 
