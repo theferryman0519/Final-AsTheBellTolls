@@ -62,3 +62,15 @@ Herbs: Horseradish, Rosemary, Sage, Thyme
 | Snowy          | 9     | None
 | Snowy (Severe) | 4     | None
 | Windy          | 4     | None
+
+---
+
+## Special Events
+
+- Day 3 at 7:00am: Winter wreaths and evergreen branches appear on homes and businesses throughout Blackmere. Pendrelle Manor receives its own decorations based on its current restoration state.
+
+- Day 10 at 5:00pm: Residents light candles in their windows at dusk. The tradition marks the beginning of Blackmere's darkest stretch of the year and represents keeping a light visible for anyone still making their way home.
+
+- Day 18 at 7:00pm: Many residents remain home for the evening and NPC schedules shift toward family, neighbors, and small indoor gatherings. Lights remain visible through windows later than usual throughout Blackmere.
+
+- Day 26 at 6:00pm: The Bell Tower sounds a slow seasonal medley as residents begin removing older winter decorations and preparing Town Square for Snow Bell's Eve and the coming year.
