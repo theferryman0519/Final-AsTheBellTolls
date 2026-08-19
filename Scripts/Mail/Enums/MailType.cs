@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace AsTheBellTolls.Mail {
-public enum EnumsTemplate {
+public enum MailType {
     None = 0,
     HumorNote,
     EventReminder,
