@@ -216,7 +216,7 @@ Display Name: Echoes of the Past
 
 ID: item_mail_event-requests-echoes-of-the-past
 
-Sender: Dante Mencini
+Sender: Dante Menici
 
 Type: Event Request
 
@@ -230,7 +230,7 @@ Display Name: Tomorrow's Museum
 
 ID: item_mail_event-requests-tomorrows-museum
 
-Sender: Dante Mencini
+Sender: Dante Menici
 
 Type: Event Request
 
@@ -244,7 +244,7 @@ Display Name: A Life Worth Remembering
 
 ID: item_mail_event-requests-a-life-worth-remembering
 
-Sender: Dante Mencini
+Sender: Dante Menici
 
 Type: Event Request
 
@@ -1196,7 +1196,7 @@ Display Name: Standing in the Shadows
 
 ID: item_mail_event-requests-standing-in-the-shadows
 
-Sender: Dante Mencini
+Sender: Dante Menici
 
 Type: Event Request
 
@@ -1210,7 +1210,7 @@ Display Name: The First Exhibit
 
 ID: item_mail_event-requests-the-first-exhibit
 
-Sender: Dante Mencini
+Sender: Dante Menici
 
 Type: Event Request
 
