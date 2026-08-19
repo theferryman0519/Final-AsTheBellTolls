@@ -39,12 +39,6 @@ Speaking Tone: Gentle
 
 ---
 
-# Schedule & Routine
-
--- TODO
-
----
-
 # Visual Appearance
 
 Body Type: Normal
