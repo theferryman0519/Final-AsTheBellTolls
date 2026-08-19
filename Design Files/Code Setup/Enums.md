@@ -73,7 +73,7 @@ Version: 0.0.1
 - Saturday
 - Sunday
 
-### CalendarDaylightType
+### TimeDaylightType
 
 - None (default)
 - Dawn
@@ -81,7 +81,7 @@ Version: 0.0.1
 - Dusk
 - Night
 
-### CalendarClockFormatType
+### TimeClockFormatType
 
 - TwelveHour (default)
 - TwentyFourHour
