@@ -432,6 +432,9 @@ Notes:
 - Enums / MinigameResultType.cs
 - Enums / MinigameTonicMakingStateType.cs
 - Enums / MinigameType.cs
+- Models / MinigameFishingProgress.cs
+- Models / MinigameProgress.cs
+- Models / MinigameTonicMakingProgress.cs
 
 ---
 
