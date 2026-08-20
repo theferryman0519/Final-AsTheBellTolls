@@ -10,8 +10,8 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Core {
-public enum GameSceneType {
+namespace AsTheBellTolls.GameFlow {
+public enum GameFlowSceneType {
     None = 0,
     Opening,
     Gameplay,
