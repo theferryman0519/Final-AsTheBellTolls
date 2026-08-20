@@ -10,7 +10,7 @@ using UnityEngine.SceneManagement;
 
 // Game Dependencies
 
-namespace AsTheBellTolls.Core {
+namespace AsTheBellTolls.GameFlow {
 public enum GameplaySceneType {
     None = 0,
     Exterior,
