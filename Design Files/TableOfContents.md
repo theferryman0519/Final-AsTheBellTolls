@@ -429,6 +429,10 @@ Version: 0.0.1
 
 ---
 
+## Animation
+
+- Controller / AnimationController.cs
+
 ## Audio
 
 - Controller / AudioController.cs
