@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace AsTheBellTolls.Core {
-public enum GameCameraZoomType {
+public enum CameraZoomType {
     Middle = 0,
     Near,
     Far,
