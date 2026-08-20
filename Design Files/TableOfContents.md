@@ -426,6 +426,8 @@ Notes:
 ## Activities
 
 - Controller / ActivitiesController.cs
+- Data / MinigameFishingConstants.cs
+- Data / MinigameTonicMakingConstants.cs
 - Enums / MinigameFishingStateType.cs
 - Enums / MinigameResultType.cs
 - Enums / MinigameTonicMakingStateType.cs
