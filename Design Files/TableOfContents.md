@@ -7,8 +7,9 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
+# Design Files
+
 - Game Design Document
-- Progress Pieces
 - Table of Contents
 
 ---
@@ -404,5 +405,322 @@ Version: 0.0.1
 - UI System
 - Weather System
 - Weather Forecast System
+
+---
+
+# Scripts
+
+## Activities
+
+- Controller / ActivitiesController.cs
+- Enums / MinigameFishingStateType.cs
+- Enums / MinigameResultType.cs
+- Enums / MinigameTonicMakingStateType.cs
+- Enums / MinigameType.cs
+
+---
+
+## Animals
+
+- Controller / AnimalsController.cs
+- Enums / AnimalHousingType.cs
+- Enums / AnimalLifeStageType.cs
+- Enums / AnimalType.cs
+
+---
+
+## Audio
+
+- Controller / AudioController.cs
+- Enums / AudioSpeechSetType.cs
+- Enums / AudioType.cs
+
+---
+
+## Bond Events
+
+- Controller / BondEventsController.cs
+- Enums / BondEventRequirementType.cs
+- Enums / BondEventStateType.cs
+- Enums / BondEventType.cs
+
+---
+
+## Calendar
+
+- Controller / CalendarController.cs
+- Enums / CalendarSeasonType.cs
+- Enums / CalendarWeekDayType.cs
+
+---
+
+## Camera
+
+- Controller / CameraController.cs
+- Enums / CameraZoomType.cs
+
+---
+
+## Characters
+
+- Controller / CharactersController.cs
+- Enums / CharacterAgeRangeType.cs
+- Enums / CharacterBodySizeType.cs
+- Enums / CharacterBodyType.cs
+- Enums / CharacterEyeColorType.cs
+- Enums / CharacterHairColorType.cs
+- Enums / CharacterHeightType.cs
+- Enums / CharacterMaritalStatusType.cs
+- Enums / CharacterMovementStyleType.cs
+- Enums / CharacterPronounType.cs
+- Enums / CharacterSkinToneType.cs
+- Enums / NpcActivityType.cs
+- Enums / NpcDialogueLengthType.cs
+- Enums / NpcGiftContextType.cs
+- Enums / NpcGiftPreferenceType.cs
+- Enums / NpcIdelType.cs
+- Enums / NpcMoodAffinityType.cs
+- Enums / NpcMoodType.cs
+- Enums / NpcRelationshipTierType.cs
+- Enums / NpcRoutineType.cs
+- Enums / NpcSpeakingToneType.cs
+
+---
+
+## Commerce
+
+- Controller / CommerceController.cs
+
+---
+
+## Core
+
+- Controller / CoreController.cs
+- Enums / GameEnvironmentType.cs
+- Enums / GameStateType.cs
+- Services / Singleton.cs
+
+---
+
+## Crafting
+
+- Controller / CraftingController.cs
+
+---
+
+## Data
+
+- Controller / DataController.cs
+
+---
+
+## Dialogue
+
+- Controller / DialogueController.cs
+- Enums / DialogueType.cs
+- Enums / DialogueVariantType.cs
+
+---
+
+## Economy
+
+- Controller / EconomyController.cs
+
+---
+
+## Event
+
+- Controller / EventController.cs
+
+---
+
+## Farming
+
+- Controller / FarmingController.cs
+- Enums / FarmingPlantStateType.cs
+- Enums / FarmingPlantType.cs
+- Enums / FarmingSoilStateType.cs
+
+---
+
+## Festivals
+
+- Controller / FestivalsController.cs
+- Enums / FestivalActivityType.cs
+- Enums / FestivalEventType.cs
+
+---
+
+## Fishing
+
+- Controller / FishingController.cs
+- Enums / FishHabitatType.cs
+- Enums / FishSchoolingType.cs
+
+---
+
+## Game Flow
+
+- Controller / GameFlowController.cs
+- Enums / GameFlowSceneType.cs
+- Enums / GameplaySceneType.cs
+
+---
+
+## Gathering
+
+- Controller / GatheringController.cs
+- Enums / GatherableResourceType.cs
+
+---
+
+## Input
+
+- Controller / InputController.cs
+- Enums / InputDeviceType.cs
+- Enums / InputMapType.cs
+
+---
+
+## Interaction
+
+- Controller / InteractionController.cs
+- Enums / InteractionType.cs
+
+---
+
+## Inventions
+
+- Controller / InventionsController.cs
+- Enums / InventionStateType.cs
+- Enums / InventionTierType.cs
+- Enums / InventionType.cs
+
+---
+
+## Inventory
+
+- Controller / InventoryController.cs
+- Enums / InventorySortType.cs
+
+---
+
+## Items
+
+- Controller / ItemsController.cs
+- Enums / ArtisanalClothingType.cs
+- Enums / ArtisanalItemType.cs
+- Enums / IngredientItemType.cs
+- Enums / InteractableItemType.cs
+- Enums / ItemQualityType.cs
+- Enums / ItemStorageType.cs
+- Enums / ItemType.cs
+- Enums / QuestItemType.cs
+- Enums / RecipeItemType.cs
+- Enums / UsefulItemType.cs
+
+---
+
+## Mail
+
+- Controller / MailController.cs
+- Enums / MailStateType.cs
+- Enums / MailType.cs
+
+---
+
+## Player
+
+- Controller / PlayerController.cs
+
+---
+
+## Progression
+
+- Controller / ProgressionController.cs
+
+---
+
+## Quests
+
+- Controller / QuestsController.cs
+- Enums / QuestObjectiveType.cs
+- Enums / QuestStateType.cs
+- Enums / QuestType.cs
+
+---
+
+## Relationships
+
+- Controller / RelationshipsController.cs
+
+---
+
+## Restoration
+
+- Controller / RestorationController.cs
+- Enums / RestorationStageType.cs
+- Enums / RestorationTargetType.cs
+
+---
+
+## Save
+
+- Controller / SaveController.cs
+
+---
+
+## Templates
+
+- ControllersTemplate.cs
+- DataTemplate.cs
+- EnumsTemplate.cs
+- EventsTemplate.cs
+- InterfacesTemplate.cs
+- ModelsTemplate.cs
+- SaveDataTemplate.cs
+- ScriptableObjectsTemplate.cs
+- ServicesTemplate.cs
+
+---
+
+## Time
+
+- Controller / TimeController.cs
+- Enums / TimeClockFormatType.cs
+- Enums / TimeDaylightType.cs
+
+---
+
+## Tonics
+
+- Controller / TonicsController.cs
+- Enums / TonicBuffType.cs
+
+---
+
+## Tools
+
+- Controller / ToolsController.cs
+- Enums / ToolType.cs
+
+---
+
+## UI
+
+- Controller / UiController.cs
+
+---
+
+## Weather
+
+- Controller / WeatherController.cs
+- Enums / WeatherType.cs
+
+---
+
+## World
+
+- Controller / WorldController.cs
 
 ---
