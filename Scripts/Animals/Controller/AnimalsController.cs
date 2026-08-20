@@ -12,7 +12,7 @@ using UnityEngine.SceneManagement;
 using AsTheBellTolls.Core;
 
 namespace AsTheBellTolls.Animals {
-public class AnimalController : Singleton<AnimalController> {
+public class AnimalsController : Singleton<AnimalsController> {
     
 #region -------------------- Variables --------------------
 #region ---------- Constant Variables ----------
