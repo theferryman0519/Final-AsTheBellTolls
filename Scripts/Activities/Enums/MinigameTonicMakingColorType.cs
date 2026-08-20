@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 // Game Dependencies
 
 namespace AsTheBellTolls.Activities {
-public enum MinigameTonicMakingColors {
+public enum MinigameTonicMakingColorType {
     Red = 0,
     Orange,
     Yellow,
