@@ -410,6 +410,19 @@ Version: 0.0.1
 
 # Scripts
 
+Notes:
+* Controller: Coordinates when things should happen.
+* Data: Supporting constant or persistent information.
+* Enums: Custom variable options.
+* Events: Triggers what just happened.
+* Interfaces: Allows other domains to access this domain.
+* Models: Current state of pieces of information during gametime.
+* Save Data: Converted pieces of information for end of day saving.
+* Scriptable Objects: Authored, static, individual pieces of information for models.
+* Services: How things should happen.
+
+---
+
 ## Activities
 
 - Controller / ActivitiesController.cs
