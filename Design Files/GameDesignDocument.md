@@ -4,7 +4,7 @@ Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
 Updated: August, 2026
-Version: 0.0.1
+Version: 0.0.2
 ---
 
 # Background
@@ -17,7 +17,7 @@ Version: 0.0.1
 
 The player arrives to inherit a flood-stricken manor once owned by their grandmother, a gifted clockmaker remembered for both her ingenuity and her kindness. At the heart of the manor stands a damaged grandfather clock, the grandmother's biggest achievement. When restored, the clock allows the player to gently bend small moments in time...not to change history, but offer patience where it is needed: easing daily burdens and giving care the time it deserves. With a finite amount of time able to be consumed through the grandfather clock, the player is asked to thoughtfully choose how their time is spent.
 
-Time manipulation is woven into the fabric of everyday life in Blackmere. The player may apply it while tending crops, completing craftworks, testing inventions, repairing buildings, or allowing animals to mature and produce various byproducts. Rather than removing effort, the grandfather clock allows the player to redistribute attention, spending more time on what matters most while accepting that no day can hold everything.
+Time manipulation is woven into the fabric of everyday life in Blackmere through three forms of stewardship: **Advance**, which moves a valid process toward its next natural state; **Preserve**, which protects something the player cannot attend to immediately; and **Synchronize**, which creates value by bringing compatible tasks, routines, or systems into rhythm. Rather than removing effort, the grandfather clock allows the player to redistribute attention, spending more time on what matters most while accepting that no day can hold everything.
 
 *As The Bell Tolls* emphasizes restoration through presence rather than through power. By gardening, cooking, crafting, and making steady improvements to shared spaces, the player helps Blackmere regain its rhythm. Through conversation and quiet acts of support, relationships deepen to reveal personal histories shaped by loss, resilience, and moments of warmth. Blackmere's past is not erased, but instead honored through care in the present and planning for the future.
 
@@ -50,7 +50,7 @@ Despite abandonment from the outside world, Blackmere's traditions endure. With 
 
 Progress in Blackmere is measured through seasons of care rather than singular victories. Each restoration, harvest, invention, meal, and shared task builds upon the last. The player's ability to gently manipulate time reinforces this philosophy, allowing extra care to be given where it matters most. This care can be allotted to helping crops grow faster, crafting inventions through better testing, and letting townspeople feel supported rather than rushed. Time is not used to escape effort, but to ensure that effort leads to something meaningful.
 
-As the town stabilizes and begins to thrive, the lives of its people start to open outward again. Those who once questioned their decision to stay rediscover purpose in their work. New opportunities emerge through restored trade, improved resources, and renewed confidence. Relationships deepen, families plan for the future, and prosperity returns. Blackmere becomes a place where living is no longer defined by what was lost, but by what was being built. Just a few years after the flood, this renewal will help earn the town's right to keep thriving instead of being repossessed by the government.
+As the town stabilizes and begins to thrive, the lives of its people start to open outward again. Those who once questioned their decision to stay rediscover purpose in their work. New opportunities emerge through restored trade, improved resources, and renewed confidence. Relationships deepen, families plan for the future, and prosperity returns. Blackmere becomes a place where living is no longer defined by what was lost, but by what was being built. This renewal is eventually tested directly by the government. Regent Rupert returns on Spring 1 of Year 3 to determine whether Blackmere has become structurally, economically, civically, and socially viable. A town that remains borderline receives one final year and a targeted reassessment on Spring 1 of Year 4 rather than an immediate game-over state.
 
 Much of the player's journey centers on thriving as an inventor, letting those inventions help to restore what the flood left behind: homes, relationships, and endeavors suspended in time. By helping bring these out into the light, the player honors the past while allowing the town to move forward. Over time, the manor once again becomes the center of collaboration and warmth. The bell rings with steady assurance, and Blackmere settles into a hopeful and prosperous rhythm.
 
@@ -130,15 +130,15 @@ Across seasons and years, the core loop remains consistent while its context evo
 
 ### Game Modes
 
-*As The Bell Tolls* features a single, cohesive primary game mode designed to support its narrative focus, emotional tone, and interconnected systems. The experience unfolds within a persistent world where time, relationships, and environmental conditions evolve continuously in response to the player's actions, and, at time, their decisions to wait or focus elsewhere. The town grows and changes not through scripted outcomes, but through the cumulative effect of how teh player chooses to engage with it.
+*As The Bell Tolls* features a single, cohesive primary game mode designed to support its narrative focus, emotional tone, and interconnected systems. The experience unfolds within a persistent world where time, relationships, restoration states, and environmental conditions evolve continuously in response to the player's actions and, at times, their decisions to wait or focus elsewhere. Blackmere grows and changes through the cumulative effect of how the player chooses to engage with it.
 
-The game does not rely on traditional failure states, strict deadlines, or abrupt consequences. Instead, it presents a living environment shaped by prioritization. While the player cannot address every need at once, the efforts they do make contribute directly to Blackmere's stability and prosperity. Choosing not to intervene in certain moments may result in situations resolving more slowly or differently, but these outcomes are framed as progressions rather than punishments. Progress is never erased; it simply follows the paths the player nurtures most consistently.
+The game avoids conventional fail states that erase progress, force a reload, or abruptly end the save. Instead, consequential story states are handled through **continuation states**. The most significant example is Blackmere's repossession arc. The town is formally assessed at the start of Year 3 and, if necessary, reassessed at the start of Year 4. Failing an assessment does not delete progress or end the game; it changes the conditions under which Blackmere must continue, creating additional obligations, restrictions, or recovery work.
 
-There are no selectable difficulty setting. Challenge emerges through thoughtful decision-making, how to spend limited time, where attention is needed most, and which relationships and projects to tend on a given day. The finite nature of time encourages intentional play, reinforcing that care is meaningful precisely because it is limited. Time manipulation provides flexibility, allowing the player to give extra attention where it matters most, but it does not remove the need to choose. Prosperity grows through balance, not excess.
+There are no selectable difficulty settings. Challenge emerges through thoughtful prioritization: how to spend limited stamina and Chimes, which restoration projects to support, which relationships to tend, and which parts of Blackmere need attention most urgently. Time manipulation provides flexibility, but it does not remove the need to choose. Prosperity grows through balance rather than excess.
 
-Variation within the game mode develops organically across seasons and years. As the town becomes more stable, festivals expand, trade opportunities increase, and new routines emerge. Relationships deepen through consistent presence, shared effort, and mutual trust, opening new story paths and possibilities. These changes occur gradually, ensuring the world feels responsive and alive without creating pressure to optimize or rush.
+Variation within the game mode develops organically across seasons and years. As the town becomes more stable, festivals expand, trade opportunities increase, services become more dependable, NPC routines change, and previously quiet spaces gain new uses. Relationships deepen through consistent presence, shared effort, and mutual trust, opening new story paths and possibilities.
 
-By focusing on a single game mode, *As The Bell Tolls* ensures that every system supports a unified experience: a reflective life simulation where time is precious, effort is cumulative, and growth is earned through care. The absence of rigid fail states allows players to move forward even when outcomes are imperfect, reinforcing the game's central idea: that prosperity is built patiently through presence, intention, and the choice to keep tending what matters.
+By focusing on a single game mode, *As The Bell Tolls* ensures that every system supports a unified experience: a reflective life simulation where time is precious, effort is cumulative, and growth is earned through care. Outcomes may be imperfect, delayed, or redirected, but the player's investment is preserved and Blackmere continues forward.
 
 ### User Actions
 
@@ -176,6 +176,61 @@ Long-term goals unfold across seasons and years, anchoring the game's broader se
 
 Ultimately, the game's goals invite the player to engage with Blackmere on their own terms. Success is not measured by clearing task lists or maximizing output, but by the care invested, the relationships nurtured, and the sense of momentum built over time. Each toll of the bell marks time shaped by intention, reminding the player that even small, thoughtful choices contribute to a future where Blackmere can thrive once again.
 
+### Repossession Arc & Government Assessments
+
+Blackmere's political abandonment develops into a long-term repossession threat. Rather than functioning as a hard deadline that ends the save, the arc provides a structured measure of whether the town has demonstrated enough stability to remain independent.
+
+#### Year 3 Assessment
+
+On **Spring 1, Year 3**, Regent Rupert returns to Blackmere to conduct a formal assessment. The timing intentionally gives the player two complete in-game years to establish their priorities before the town is judged.
+
+Rupert evaluates Blackmere across five broad pillars:
+
+1. **Structural Recovery** - essential buildings, routes, utilities, and public spaces have progressed beyond emergency survival.
+2. **Economic Viability** - local businesses, production, trade, and the town reserve demonstrate that Blackmere can support itself.
+3. **Civic Continuity** - important services, traditions, education, public gathering spaces, and community institutions are functioning.
+4. **Community Stability** - residents are participating in town life, routines have become more dependable, and the player has meaningfully supported the community.
+5. **Future Readiness** - inventions, infrastructure, resource systems, or other long-term improvements demonstrate that Blackmere has a credible path forward rather than merely surviving.
+
+The assessment should not require perfect completion or one prescribed build order. A player may pass through several different town profiles. For example, a highly restored agricultural and trade economy may compensate for slower cultural restoration, while a socially strong town with restored civic institutions may compensate for lower personal wealth.
+
+A passing result represents evidence that Blackmere can remain viable without outside control. Rupert acknowledges the town's recovery, while still making clear that its future must be maintained rather than assumed.
+
+#### Conditional Result: One Last Chance
+
+If Blackmere is clearly improving but does not meet enough of Rupert's Year 3 expectations, he issues a conditional result rather than immediate repossession. The town receives **one final year** to address specific deficiencies.
+
+The player is not given a generic checklist. Rupert identifies the weakest areas of that particular save and sets targeted expectations for the following year. Examples include:
+
+- Repairing essential infrastructure if Structural Recovery is deficient.
+- Raising town reserves or restoring specific businesses if Economic Viability is weak.
+- Reopening public services or improving festival participation if Civic Continuity is lacking.
+- Increasing resident participation, resolving key communal needs, or strengthening shared routines if Community Stability is poor.
+- Completing significant inventions or resilience projects if Future Readiness is insufficient.
+
+This makes the Year 4 objective responsive to how the player developed Blackmere rather than requiring every save to solve the same problem.
+
+#### Year 4 Reassessment
+
+On **Spring 1, Year 4**, Rupert returns only if the town received a conditional Year 3 result. The reassessment focuses primarily on the deficiencies identified one year earlier, while confirming that previously healthy pillars have not collapsed.
+
+A successful reassessment permanently resolves the immediate repossession threat and transitions the main story toward Blackmere's long-term future.
+
+A failed reassessment does **not** erase the save, destroy restored buildings, or force the player to restart. Instead, Blackmere enters a more restrictive continuation state. Possible consequences include:
+
+- Increased government oversight of the town treasury.
+- A temporary levy or percentage of certain external trade revenue.
+- Delayed access to some government-controlled trade or permits.
+- Additional civic projects required to demonstrate self-sufficiency.
+- New Rupert dialogue and quests centered on proving the assessment wrong.
+- Reduced outside confidence until the player completes a later recovery path.
+
+The player can continue restoring Blackmere and eventually earn a path back toward independence. Failure therefore changes the story and economic conditions rather than functioning as a conventional game-over state.
+
+#### Design Intent
+
+The repossession arc gives the town's recovery a concrete narrative test without contradicting the game's low-pressure philosophy. Players are encouraged to care broadly about Blackmere, but they are not required to maximize every system. The assessment asks whether the town is **living again**, not whether the player has completed every available piece of content.
+
 ### Progression Systems
 
 Progression in *As The Bell Tolls* is designed to reflect gradual, lived-in growth rather than rapid advancement or the accumulation of power. Change unfolds across several interconnected systems (personal skill development, relationship growth, town revitalization, environmental recovery, and time stewardship) where each reinforce the idea that prosperity is built through consistent care over time.
@@ -193,6 +248,71 @@ Progression within the time manipulation system is intentionally restrained. As 
 All progression systems operate in parallel rather than hierarchy. No single track defines success, and players are free to invest more deeply in the areas that resonate most with them. Full completion of any progression is never required. Instead, the game supports a personalized experience shaped by the player's values, interests, and emotional investment in Blackmere.
 
 In *As The Bell Tolls*, progression is not about becoming stronger; it is about becoming more capable, more trusted, and more attuned to the needs of a place and its people. Prosperity emerges quietly, day by day, as care accumulates and the bell continues to toll.
+
+### Restoration Consequences & Living Progression
+
+Restoration in *As The Bell Tolls* is not intended to function only as a sequence of material requirements and visual upgrades. Each restored building, district feature, or Manor room should gradually change how people use the space and how daily life in Blackmere functions.
+
+Town buildings and Manor rooms progress through seven shared restoration states:
+
+1. **Weathered**
+2. **Rebuilding**
+3. **Recovering**
+4. **Renewed**
+5. **Growing**
+6. **Prospering**
+7. **Flourishing**
+
+The exact mechanical reward varies by location, but each stage should attempt to provide at least one noticeable consequence from the following categories:
+
+- **Visual Change** - repaired materials, lighting, signage, furnishings, landscaping, activity props, or environmental warmth.
+- **Routine Change** - NPCs spend different hours at the location, gain new destinations, linger longer, or perform new ambient behaviors.
+- **Service Change** - inventory, production, opening hours, capacity, commissions, crafting options, or civic functions improve.
+- **Social Change** - conversations, gatherings, invitations, meals, lessons, performances, or spontaneous interactions become possible.
+- **Economic Change** - the location contributes more reliably to local production, trade, employment, or town reserves.
+- **Narrative Change** - new dialogue, memories, quests, character scenes, or environmental storytelling appears.
+- **World Change** - nearby foot traffic, lighting, soundscape, decorations, wildlife, paths, or neighboring routines react to the restoration.
+
+A stage should not need a completely bespoke system to feel meaningful. Many consequences can be produced through modular changes to NPC schedules, ambient population, service data, dialogue conditions, interactable props, lighting sets, inventory tables, or event availability.
+
+#### Town Restoration Stage Intent
+
+**Weathered** establishes what was lost. Services are limited, activity is sparse, damage remains visible, and NPC dialogue reflects inconvenience or resignation.
+
+**Rebuilding** makes work visible. Scaffolding, repair materials, temporary stations, NPC labor, and construction dialogue communicate that recovery is underway even before the final result exists.
+
+**Recovering** restores the location's essential purpose. Basic services return, residents begin using the space again, and routines become more dependable.
+
+**Renewed** marks the point where the location is no longer merely functional. Its identity returns, regular activity increases, and the player begins receiving benefits beyond basic access.
+
+**Growing** allows the location to contribute outward. It supports neighboring systems, hosts additional interactions, expands inventory or capacity, or creates new opportunities for other residents.
+
+**Prospering** demonstrates sustained stability. The location becomes busy, reliable, and economically or socially important enough to affect Blackmere beyond its immediate function.
+
+**Flourishing** represents a fully lived-in future rather than a pristine reset to the past. The location supports distinctive routines, advanced services, celebrations, collaborations, or community behaviors that could not have existed while Blackmere was merely surviving.
+
+#### Pendrelle Manor Restoration Stage Intent
+
+Manor restoration follows the same seven-stage structure, but its consequences focus more heavily on the player's daily life, invention work, family possibilities, hosting, storage, comfort, and access to the grandmother's legacy.
+
+Early stages should feel improvised and utilitarian. Mid-stages turn the Manor into a dependable home and workshop. Late stages turn it into a center of collaboration, hospitality, invention, and community activity.
+
+Restoring a room should therefore provide more than increased capacity. Examples include:
+
+- NPCs visiting or using certain rooms.
+- New household routines.
+- New invention testing or crafting interactions.
+- Hosting meals, meetings, or relationship scenes.
+- Environmental storytelling tied to the grandmother.
+- New decorative or functional placement opportunities.
+- Improved rest, cooking, storage, research, or family functionality where appropriate.
+- Changes to Chime capabilities where the Central Room and grandfather clock are involved.
+
+No room should require marriage, parenthood, or a specific romance outcome simply to count the Manor as successfully restored. Optional family-focused rooms can reach meaningful completion states for players who choose not to marry or have children.
+
+#### Restoration as Assessment Evidence
+
+Restoration stages also contribute to Rupert's assessments, but raw upgrade count is not the only measure. A partially restored building that is actively serving residents may provide more civic value than a visually advanced structure with little practical use. Assessment calculations should therefore consider both **restoration state** and **living consequence**, reinforcing that Blackmere's success is measured by functioning community life rather than construction percentage alone.
 
 ### Skill Tree
 
@@ -214,19 +334,78 @@ There are various other events that might occur either one per year (such as bir
 
 ### Time Manipulation System
 
-Time manipulation in *As The Bell Tolls* is designed as a deliberate, compassionate system rooted in care rather than control. It exists to support moments that benefit from patience, attention, or reconsideration, allowing the player to refine efforts, correct small missteps, and offer second chances. Rather than undoing the past, the system emphasizes thoughtful stewardship of the present, reinforcing the idea that time is finite and meaningful.
+Time manipulation in *As The Bell Tolls* is designed as a deliberate, compassionate system rooted in stewardship rather than control. The player does not rewind history or erase consequences. Instead, they use a finite daily resource called **Chimes** to decide where additional time, protection, or coordination should be given.
 
-At the heart of this system stands the grandfather clock within the center of Pendrelle Manor. The clock must be restored before its capabilities become available. Once operational, it allows the player to gently push time forward for specific instances, such as growing a particular crop, testing an invention, or restoring a town building.
+At the heart of the system stands the grandfather clock within Pendrelle Manor. The clock must be restored before its capabilities become available. As restoration of the clock and Central Room progresses, the player gains access to three complementary categories of time manipulation: **Advance, Preserve, and Synchronize**.
 
-Each use of time manipulation consumes a piece of time allotted for this specific feature, measured in Chimes. At the start of each day, the player has a fixed allotment of Chimes, and is restored at the start of each day. Similar to the player’s stamina, the better the prior night sleep, the closer to maximum stamina and Chimes are accessible for the player. When no Chime remains for a day, the player may no longer use time manipulation on an action. This ensures that every intervention carries a cost and must be weighed against other needs.
+#### Advance
 
-The player may choose to focus on specific manipulations each day. For instance, a player might wish to focus their energy and stamina on exploration one day while using their allotted time manipulation Chimes on fast-growing crops or barn animals. The system exists to help the player accomplish tasks in their daily life while giving them more time to focus on other instances.
+**Advance** moves a valid target toward its next natural state without skipping the effort, prerequisites, or narrative meaning behind that state. It is the closest category to traditional fast-forwarding, but its purpose is to redirect the player's attention rather than simply remove waiting.
 
-As the game progresses, the player may develop a portable pocket watch, a refined but less precise extension of the grandfather clock’s mechanism. The pocket watch allows limited time manipulation without returning to the manor, offering flexibility during daily activities. However, it draws from the same finite pool of Chimes and remains constrained in scope. The grandfather clock remains the most reliable and intentional way to engage with time, preserving Pendrelle Manor as the emotional and mechanical anchor of the system.
+Examples include:
 
-Time manipulation interacts naturally with other gameplay systems. Using time may strengthen relationships, improve outcomes of tasks, or help events unfold more smoothly. In some cases, it prevents small setbacks; in others, it simply allows situations to resolve with greater care. Choosing not to manipulate time is equally valid. The game recognizes restraint as a meaningful choice, allowing certain moments to unfold without penalty.
+- Advancing crop growth by a limited amount.
+- Moving an animal toward maturity or its next production interval.
+- Reducing the remaining test or fabrication time for an invention.
+- Shortening an approved restoration work period after the required resources have already been supplied.
+- Advancing a cooking, preserving, drying, fermenting, or processing task.
+- Moving a non-story production queue toward completion.
 
-In *As The Bell Tolls*, time manipulation is not about mastery or control; it is about responsibility and presence. Each toll of the bell marks not only the passage of time, but a record of where care was given, where effort was refined, and how small, thoughtful choices helped Blackmere grow stronger day by day.
+Advance cannot complete relationship milestones, automatically resolve quests, generate money without inputs, skip required discoveries, or bypass major narrative gates.
+
+#### Preserve
+
+**Preserve** protects a valid state from deteriorating, expiring, or demanding immediate attention. Rather than allowing the player to do more in a day, Preserve allows them to consciously decide what can safely wait while they care for something else.
+
+Examples include:
+
+- Holding a mature crop in harvestable condition for an additional period.
+- Preserving harvested ingredients or prepared food from quality loss where spoilage applies.
+- Protecting a sensitive invention test from losing progress when the player must leave.
+- Maintaining an animal-care state for a limited period when the player's day is committed elsewhere.
+- Holding a short-lived gathering opportunity, environmental condition, or production window open.
+- Preserving progress on a communal preparation so a festival or shared task does not require the player to abandon another responsibility.
+
+Preserve is intended to embody the game's philosophy of finite attention: the player cannot be everywhere, but they can decide what deserves to be kept safe until they return.
+
+#### Synchronize
+
+**Synchronize** aligns two or more compatible systems so that timing itself creates an advantage. Unlike Advance, it does not simply make something finish sooner. Unlike Preserve, it does not merely stop deterioration. It rewards planning around relationships between tasks, schedules, environments, and community activity.
+
+Examples include:
+
+- Aligning several production stations so their outputs complete together for a larger crafting session.
+- Synchronizing irrigation or water-management inventions with a crop field to improve consistency for a limited period.
+- Coordinating an invention demonstration with the Grand Showcase or another appropriate event window.
+- Aligning a cooking preparation with a communal meal so ingredients reach their ideal state together.
+- Synchronizing a restoration milestone with an NPC work schedule, causing additional workers, dialogue, or visual activity to appear.
+- Coordinating town services so multiple restored businesses temporarily support one another, such as the Carpenter and Architect accelerating a civic repair.
+- Aligning a weather-dependent gathering opportunity with an appropriate environmental system without changing the weather itself.
+
+Synchronization should create combinations that feel discovered and intentional. It must not force players into exact optimization routes; several valid combinations should exist.
+
+#### Chime Costs & Daily Limits
+
+Each manipulation consumes Chimes from a finite daily pool. Chimes recover at the beginning of a new day, with the available amount influenced by the player's prior rest in a manner consistent with the stamina system. Individual uses may consume different amounts based on scope, target, and category.
+
+The Chime system follows several safeguards:
+
+- Chimes cannot directly increase Friendship or Connection values.
+- Chimes cannot force an NPC to make a relationship or story decision.
+- Chimes cannot duplicate Bellnotes, items, quest rewards, or rare resources.
+- Chimes cannot bypass required restoration materials, invention prerequisites, or story discoveries.
+- Chimes cannot rewind completed narrative choices.
+- Chimes affect bounded systems and moments rather than the entire world clock.
+
+The player's early use of Chimes is intentionally simple. Advance is introduced first because its result is immediately readable. Preserve is unlocked as the player becomes responsible for more simultaneous systems. Synchronize arrives later, when Blackmere contains enough restored routines, inventions, and services for timing relationships to become meaningful.
+
+As the game progresses, the player may develop a portable pocket watch. The pocket watch draws from the same daily pool of Chimes but provides a limited subset of valid manipulations while away from Pendrelle Manor. The grandfather clock remains the most precise and capable interface, preserving the Manor as the emotional and mechanical center of time stewardship.
+
+In *As The Bell Tolls*, Chimes are not a way to conquer time. They are a way to decide where time should be given, what should be protected, and which parts of life are worth bringing into rhythm with one another.
+
+---
+
+# Component Details
 
 ---
 
@@ -410,7 +589,7 @@ When the player interacts with an object or NPC, a small panel will pop up at th
 
 While gathering resources, receiving gifts, or harvesting crops, there are a number of instances where the player will collect various items. When collecting these items, a notification will pop up in the bottom left corner of the screen. It will indicate the item collected and the count for that item.
 
-In the upper left corner sits the player tracker, showcasing the player's stamina bar, time manipulation bar, and any buffs currently active for the player. The stamina bar will drop when consuming stamina (i.e. cutting down a tree, gathering ore from a stone, etc.), and will increase when consuming food or tonics as well as restore at the end of the night. The time manipulation bar will decrease when implementing the time manipulation feature of the grandfather clock. This will also restore at the end of every day. The player will be able to have up to three buffs active at one time. Each buff has a time duration, which will also be seen below the specific buff.
+In the upper left corner sits the player tracker, showcasing the player's stamina bar, remaining Chimes, and any buffs currently active for the player. The stamina bar drops when consuming stamina (i.e. cutting down a tree, gathering ore from a stone, etc.) and increases when consuming food or tonics, as well as restoring through sleep. The Chime display decreases whenever the player uses Advance, Preserve, or Synchronize and refreshes at the beginning of a new day according to the rules of the time manipulation system. Contextual Chime interactions identify which category is available before the player commits the resource. The player may have up to three buffs active at one time, with each buff displaying its remaining duration.
 
 ### Pause Wheel
 
@@ -426,9 +605,9 @@ These selections include the Player Menu, Inventory, Relationships, Pendrelle Ma
 
 **<u>Relationships</u>** - Every character in Blackmere will be able to have a relationship with the player, with the exception of the poltical regent and the four international traders. Those relationships will be displayed in detail within this page. Each character has two types of bonds with the player: as a member of the community and as a trusted companion. The details of these bonds are displayed here, as well as information about the character. These include their profession, birthday, relationship status, and gifts they may like or dislike.
 
-**<u>Pendrelle Manor</u>** - The Manor and the town of Blackmere will go through restoration processes in order to be fully restored. The progress of the player restoring the Manor is shown on this page, including each room's current restoration level and what is needed to upgrade to the next.
+**<u>Pendrelle Manor</u>** - The Manor and the town of Blackmere go through seven restoration stages: Weathered, Rebuilding, Recovering, Renewed, Growing, Prospering, and Flourishing. This page shows each Manor room's current stage, requirements for the next stage, and the functional or living consequences already unlocked, such as new household routines, visitors, invention functionality, storage, comfort, or story access.
 
-**<u>Town of Blackmere</u>** - Similar to the Manor progress, the player's restoration progress for the town will be displayed on this page. Instead of the various rooms, this page tracks the various buildings of Blackmere and their restoration levels.
+**<u>Town of Blackmere</u>** - Similar to the Manor page, this page tracks the seven-stage restoration progress of Blackmere's buildings and civic spaces. In addition to material requirements, each entry shows meaningful consequences already restored at that location, including services, NPC activity, economic contribution, social use, and changes to the surrounding district.
 
 **<u>Quests</u>** - Throughout *As The Bell Tolls*, the player will have the opportunity to complete various quests. These include quests from the main story, individual character bonding quests, or daily requests. When selected, each quest will detail its objective, backstory, what is needed for the quest, and what rewards will be earned upon its completion. In the scroll view on the left side of the page, active quests are displayed at the top while completed ones are in the bottom portion.
 
