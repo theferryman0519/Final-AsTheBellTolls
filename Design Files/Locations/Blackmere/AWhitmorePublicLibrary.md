@@ -26,12 +26,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Dusty shelves and damaged books leave the library quiet.
-| Rebuilding        | Shelving and reading areas are carefully restored.
-| Recovering        | Bright reading rooms and repaired collections reopen to the public.
-| Renewed           | The library feels peaceful, organized, and welcoming.
-| Growing           | Decorative reading nooks and gardens encourage visitors to linger.
-| Prospering        | Expanded collections and refined interiors enrich the experience.
-| Flourishing       | The library becomes a treasured sanctuary of knowledge.
+* Weathered:
+    - Quiet, damaged shelves restrict circulation; Adrian works around closed sections, and few NPCs linger.
+
+* Rebuilding:
+    - Repair crews open one dependable reading zone; returned books appear in carts and residents briefly visit to see progress.
+
+* Recovering:
+    - Normal reading hours resume; children/adults begin scheduled visits, and the donation counter feels integrated into activity.
+
+* Renewed:
+    - Reading tables fill at predictable times; restored collections and the Preservation Display Case become visible social/story anchors.
+
+* Growing:
+    - Reading nooks/garden seating add new hangout anchors; NPCs may recommend books or be found reading outside their usual routines.
+
+* Prospering:
+    - Expanded collection draws visiting scholars/traders during certain events; library research can provide small discovery hints for artifacts/inventions.
+
+* Flourishing:
+    - The library becomes a town memory institution: rotating displays change with recovered artifacts/books and completed NPC histories, visibly preserving Blackmere's story.
