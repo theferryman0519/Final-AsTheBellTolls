@@ -3,7 +3,7 @@ Title: Systems / NPC Connection System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -40,5 +40,5 @@ Version: 0.0.1
 
 - Sharing a meal event with an NPC: +30 Connection Points
 - Completing an NPC-specific quest: +75 Connection Points
-- Completing an NPC-specific Daily Quest: +20 Friendship Points
+- Completing an NPC-specific Daily Quest: +20 Connection Points
 - Inviting an NPC out to Aurora Watch: +100 Connection Points (an invitation is accepted only if the NPC has unlocked their Connection Bond)
