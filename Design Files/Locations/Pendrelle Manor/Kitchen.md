@@ -1,5 +1,5 @@
 ---
-Title: Locations / Pendrelle Manor / Laboratory
+Title: Locations / Pendrelle Manor / Kitchen
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -9,11 +9,10 @@ Version: 0.0.1
 
 ## Information
 
-- Holds the Workbench and Tonic Kit for crafting items and inventions as well as crafting tonics.
-- Also holds the Storage Chest for storing non-food items.
-- Storage Chest is available starting at the Weathered stage.
-- Workbench is available starting at the Rebuilding stage.
-- Tonic Kit is available starting at the Renewed stage.
+- Holds the Pantry, Stove, and Blender for storing food and cooking.
+- Pantry is available starting at the Weathered stage.
+- Stove and Blender are available starting at the Rebuilding stage.
+- Food and ingredients no longer spoil starting at the Prospering stage.
 
 ---
 
@@ -21,31 +20,31 @@ Version: 0.0.1
 
 | Restoration Stage | Unlocks
 |-------------------|---|
-| Weathered         | Storage Chest / 16 Storage Slots
-| Rebuilding        | Workbench / 32 Storage Slots
+| Weathered         | Pantry / 16 Storage Slots
+| Rebuilding        | Stove / Blender / 32 Storage Slots
 | Recovering        | 48 Storage Slots
-| Renewed           | Tonic Kit / 64 Storage Slots
+| Renewed           | 64 Storage Slots
 | Growing           | 80 Storage Slots
-| Prospering        | 96 Storage Slots
+| Prospering        | No Spoiled Food / 96 Storage Slots
 | Flourishing       | 112 Storage Slots
 
 * Weathered:
-    - Storage Chest occupies the only safe space; Myrtle's old work area is damaged and inaccessible.
+    - Pantry works but cooking space is damaged; storage is survival-oriented and visibly limited.
 
 * Rebuilding:
-    - Workbench returns; active prototypes, tools and failed parts make invention feel physical.
+    - Stove/blender restore the smell/sound of cooking; 32 slots plus first cooked meals make the Manor feel habitable.
 
 * Recovering:
-    - 48 storage plus repaired benches allow multiple project types to be visually staged; rival/quest collaborators can visit.
+    - 48 slots are represented by repaired shelving/cold storage; Edward/spouse can plausibly use the room in routines.
 
 * Renewed:
-    - Tonic Kit unlock creates a second craft identity; herb apparatus and clockwork fabrication coexist.
+    - 64 slots plus complete preparation surfaces support shared cooking scenes and recipe progression.
 
 * Growing:
-    - 80 slots should be accompanied by test rigs/display shelves that show previously built inventions, making progression persistent in the room.
+    - 80 slots should add workflow/life, not just shelving: ingredient baskets, preserves, family meal prep, or recipe-display props.
 
 * Prospering:
-    - 96 slots plus advanced infrastructure allows synchronized multi-part testing or quality diagnostics, tying into Chime redesign.
+    - No-spoil + 96 slots needs a visible invention/cold-cellar explanation; this is a major functional restoration and should alter shopping/harvest planning.
 
 * Flourishing:
-    - 112 slots culminates in a true invention laboratory: completed Blueprint milestones visibly fill the space, collaborators visit, and a signature late-game test function reduces friction without automating crafting.
+    - 112 slots culminates in a communal kitchen: helpers/guests may use it during major meals, and the room visually feeds the Dining Hall/festival ecosystem.
