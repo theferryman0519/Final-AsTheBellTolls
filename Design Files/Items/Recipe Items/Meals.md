@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-*Note: All recipe items can be purchased year-round from Caravan Stall, the International Trade Carts, and during the Blackmere Trade Fair.*
+*Note: All recipe items can be purchased year-round from Caravan Stall, the International Trade Carts, and during the Blackmere Trade Fair. All meals have a Spoil Duration of 7 days.*
 
 ---
 
