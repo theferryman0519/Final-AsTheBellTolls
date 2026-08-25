@@ -40,7 +40,7 @@ Version: 0.0.1
         * Pass is 60 points or higher.
         * Fail is 59 points of lower.
         * Pass: Rupert leaves Blackmere to be autonomous.
-        * Fail: Rupert gives a partial repossession order where all items sold in any shop adds a Regent's Tax which increases each price by 35%.
+        * Fail: Rupert gives a partial repossession order where all items sold in each shop adds a Regent's Tax which increases each price by 35% until that building reaches Prospering stage.
 
 * Add Systems / ShopSalePrices.md:
     - Add comprehensive list of all items sold in shops at their Purchase Price.
