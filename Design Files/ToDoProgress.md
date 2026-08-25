@@ -82,4 +82,6 @@ Version: 0.0.1
 
 * Update all Code Setup files to put them more into my voice and architecture.
 
+* Update all NPC schedules and routines to put them more into my voice and architecture.
+
 * Set up code structure hierarchy system.
