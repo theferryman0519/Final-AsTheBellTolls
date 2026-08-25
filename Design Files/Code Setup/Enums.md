@@ -308,6 +308,33 @@ Version: 0.0.1
 - Happy
 - InLove
 
+### NpcPersonalityType
+
+- None (default)
+- Adaptability
+- Ambition
+- Compassion
+- Confidence
+- Courage
+- Curiosity
+- Diligence
+- Directness
+- Duty
+- Fairness
+- Formality
+- Generosity
+- Honesty
+- Humor
+- Loyalty
+- Optimism
+- Patience
+- Sociability
+- Stewardship
+- Tradition
+- Verbosity
+- Vocabulary
+- Warmth
+
 ### NpcRoutineType
 
 - Standard (default)
