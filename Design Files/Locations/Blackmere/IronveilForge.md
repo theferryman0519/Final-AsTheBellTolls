@@ -26,15 +26,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Rusted equipment and soot-covered walls reveal years of neglect.
-| Rebuilding        | New stonework and repaired furnaces bring the forge back to life.
-| Recovering        | The forge operates again with restored equipment and tidy workspaces.
-| Renewed           | Bright fires and polished tools fill the fully restored workshop.
-| Growing           | Decorative ironwork and expanded workstations enhance the forge.
-| Prospering        | Premium equipment and ornate craftsmanship showcase master smithing.
-| Flourishing       | The forge stands as one of the finest workshops in the region.
+* Weathered:
+    - Marcus works with patched equipment and limited safe stations; sparks/sound are intermittent and upgrades feel laborious.
+
+* Rebuilding:
+    - Core forge and roof/ventilation are repaired; visible fabrication orders stack up as work returns.
+
+* Recovering:
+    - Regular hammering and NPC tool pickups show the forge serving the town, not only the player.
+
+* Renewed:
+    - Upgrade service becomes visually efficient; finished tools/components appear in racks tied to actual progression.
+
+* Growing:
+    - An apprentice/demo area or commissioned civic components bring other NPCs into the forge at scheduled times.
+
+* Prospering:
+    - Forge contributes specialized parts to town projects; restored buildings may show Marcus-made fixtures, creating cross-location continuity.
+
+* Flourishing:
+    - The forge becomes a regional craft landmark: masterwork commissions and Grand Showcase preparation make it a living source of Blackmere's technical reputation.
 
 ---
 
