@@ -26,15 +26,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Broken windows and faded signage leave the clinic unwelcoming.
-| Rebuilding        | Repairs restore the building while medical supplies slowly return.
-| Recovering        | Bright interiors and repaired rooms improve patient care.
-| Renewed           | The restored clinic feels clean, safe, and comforting.
-| Growing           | Decorative gardens and updated furnishings create a calming atmosphere.
-| Prospering        | Expanded treatment rooms and refined decor improve every visit.
-| Flourishing       | The clinic stands as a beautiful symbol of health and hope.
+* Weathered:
+    - Julian works with salvaged shelving and limited drying space; herb bundles dominate every safe surface.
+
+* Rebuilding:
+    - Repaired hut and drying racks improve organization; patient/customer visits remain sparse but visible.
+
+* Recovering:
+    - Normal tonic/herb service returns; NPCs occasionally collect remedies and seasonal herb stock is displayed.
+
+* Renewed:
+    - The apothecary feels calm and dependable; treatment/preparation scenes support Julian's identity beyond being a shop.
+
+* Growing:
+    - A small teaching/herb-garden area enables tonic demonstrations or gathering hints tied to weather/season.
+
+* Prospering:
+    - Improved storage and equipment allow rare community-preparation events before storms/winter/festivals.
+
+* Flourishing:
+    - Rain & Hale becomes a health-and-knowledge node: cultivated herb beds, visiting residents and shared remedies visibly show Blackmere can care for its people.
 
 ---
 
