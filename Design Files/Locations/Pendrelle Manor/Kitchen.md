@@ -27,3 +27,24 @@ Version: 0.0.1
 | Growing           | 80 Storage Slots
 | Prospering        | No Spoiled Food / 96 Storage Slots
 | Flourishing       | 112 Storage Slots
+
+* Weathered:
+    - Pantry works but cooking space is damaged; storage is survival-oriented and visibly limited.
+
+* Rebuilding:
+    - Stove/blender restore the smell/sound of cooking; 32 slots plus first cooked meals make the Manor feel habitable.
+
+* Recovering:
+    - 48 slots are represented by repaired shelving/cold storage; Edward/spouse can plausibly use the room in routines.
+
+* Renewed:
+    - 64 slots plus complete preparation surfaces support shared cooking scenes and recipe progression.
+
+* Growing:
+    - 80 slots should add workflow/life, not just shelving: ingredient baskets, preserves, family meal prep, or recipe-display props.
+
+* Prospering:
+    - No-spoil + 96 slots needs a visible invention/cold-cellar explanation; this is a major functional restoration and should alter shopping/harvest planning.
+
+* Flourishing:
+    - 112 slots culminates in a communal kitchen: helpers/guests may use it during major meals, and the room visually feeds the Dining Hall/festival ecosystem.
