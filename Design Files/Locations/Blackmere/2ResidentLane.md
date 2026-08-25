@@ -25,12 +25,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | The home shows visible flood damage and years of neglect.
-| Rebuilding        | Repairs strengthen the structure while restoring its comfort.
-| Recovering        | Fresh paint, repaired windows, and tidy gardens return warmth.
-| Renewed           | The restored home feels cozy, welcoming, and well cared for.
-| Growing           | Decorative landscaping and personal touches give it character.
-| Prospering        | Elegant upgrades and mature gardens reflect a prosperous household.
-| Flourishing       | The beautiful home becomes one of Blackmere's most charming residences.
+* Weathered:
+    - Martin uses only part of the house; mail sacks/crates are kept indoors because dry storage is scarce, visually blending home and post work.
+
+* Rebuilding:
+    - Roof and entry are stabilized; temporary parcel shelves appear, and Martin spends less off-hours repairing his own home.
+
+* Recovering:
+    - A dry front room lets Martin sort overflow mail safely; occasional parcel pickup can occur here after postal quests.
+
+* Renewed:
+    - The home becomes clearly personal again, with recovered Ashcroft family objects and evening routines replacing work clutter.
+
+* Growing:
+    - A small covered delivery nook appears outside; Martin can leave non-critical player mail/overflow here as a convenience unlock.
+
+* Prospering:
+    - Neighbors occasionally use the porch as an informal exchange point, making the postmaster visibly part of community circulation.
+
+* Flourishing:
+    - The property becomes a recognizable “message hub” of Resident Lanes with seasonal notice ribbons and rare personal letters/notes appearing as environmental storytelling.
