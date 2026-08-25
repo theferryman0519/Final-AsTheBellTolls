@@ -390,10 +390,12 @@ Version: 0.0.1
 - Player Customization System
 - Player Movement System
 - Quest System
+- Repossession System
 - Resource Respawn System
 - Restoration System
 - Save System
 - Scene System
+- Shop Sale Prices
 - Stamina System
 - System Interaction Rules
 - Time System
