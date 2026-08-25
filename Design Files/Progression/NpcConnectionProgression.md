@@ -683,7 +683,7 @@ Version: 0.0.1
 
 **<u>Event:</u>** As he flips through the restored guest book, Frederick notices that almost every message thanks him for making someone feel welcome, not for serving the perfect meal or keeping a flawless inn. Closing the book, he smiles and says, “Maybe people never needed me to do everything for them...maybe they just needed to know someone cared.” For the first time, Frederick decides to let Helen, Felix, and the people around him help carry the responsibilities of the inn. He realizes that taking time to rest isn’t neglecting his guests; it’s ensuring he’ll always be there to welcome the next one.
 
-**<u>Reward:</u>** Meals purchased from the Winding Banks Inn permanently cost 25% fewer Bellnotes.
+**<u>Reward:</u>** Meals and drinks purchased from the Winding Banks Inn permanently cost 25% fewer Bellnotes.
 
 ---
 
