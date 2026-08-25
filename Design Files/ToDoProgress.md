@@ -57,28 +57,7 @@ Version: 0.0.1
 
 ---
 
-## 2. Adjust File Conflicts
-
-* Update Systems / MarriageSystem.md:
-    - Add stipulation where marriage proposals are unlocked at 12 Hearts and 4 Keys.
-    - Add information to state that marriage candidates will reject proposals until bonds are at 12 Hearts and 6 Keys.
-
-* Update Systems / TimeSystem.md:
-    - Add information that players wake up based on when they fall asleep.
-    - Add breakdown for sleep time vs. wake time:
-        * In bed before 11:00pm: Player will wake up at 6:00am the next day.
-        * In bed between 11:00pm and 11:59pm: Player will wake up at 7:00am the next day.
-        * Player faints at midnight out of bed: Player will wake up at 8:00am the next day.
-
-* Update Systems / LoanSystem.md:
-    - Adjust loan amounts so they correctly match the interest rate.
-
-* Update Systems / NpcConnectionSystem.md:
-    - Update Daily Quests earning +20 Friendship Points to be Connection Points.
-
----
-
-## 3. Restructure Code Setup Files
+## 2. Restructure Code Setup Files
 
 * Update all Code Setup files to put them more into my voice and architecture.
 
