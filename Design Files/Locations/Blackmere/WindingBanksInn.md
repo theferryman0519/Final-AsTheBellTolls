@@ -27,15 +27,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance                                                            |
-|-------------------|-----------------------------------------------------------------------|
-| Weathered         | Weathered walls and worn furnishings make the inn feel tired.         |
-| Rebuilding        | Guest rooms and common areas undergo extensive repairs.               |
-| Recovering        | Cozy interiors and repaired rooms welcome travelers once more.        |
-| Renewed           | The restored inn feels warm, comfortable, and bustling.               |
-| Growing           | Decorative gardens and inviting outdoor seating add character.        |
-| Prospering        | Elegant furnishings and expanded amenities attract more guests.       |
-| Flourishing       | The flourishing inn becomes Blackmere's most beloved gathering place. |
+* Weathered:
+    - Only part of the inn feels comfortable; guest traffic is low, meals are pragmatic, and the family handles constant repairs.
+
+* Rebuilding:
+    - Guest rooms/common area repair brings visible workers and a few returning travelers; breakfast tables stop feeling empty.
+
+* Recovering:
+    - Regular visitors stay again; dining and room-rental routines gain NPC traffic, and the weekly breakfast grows.
+
+* Renewed:
+    - The inn becomes a warm gathering place; recurring meals and evening conversations make River Wharf socially alive.
+
+* Growing:
+    - Outdoor seating/garden creates new hangout anchors; travelers can bring rumors, requests or regional flavor.
+
+* Prospering:
+    - Expanded amenities and steady guests tie the inn to trade and festivals; performers/special visitors may appear occasionally.
+
+* Flourishing:
+    - The inn becomes Blackmere's social crossroads: locals and outsiders mix, shared meals visibly scale, and returning guests recognize the town's recovery.
 
 ---
 
@@ -44,8 +55,8 @@ Version: 0.0.1
 *Note: All items are visible at once when shopping.*
 
 | Item         | Bellnote Amount |
-|--------------|----------------|
-| Renting Room | 500 Bellnotes  |
+|--------------|-----------------|
+| Renting Room | 500 Bellnotes   |
 
 ---
 
