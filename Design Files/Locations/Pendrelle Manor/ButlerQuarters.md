@@ -31,3 +31,24 @@ Version: 0.0.1
 | Growing           | Lost & Found     |
 | Prospering        | Groundskeeper    |
 | Flourishing       | Butler Tunnels   |
+
+* Weathered:
+    - Edward has a serviceable but austere room; Butler Help is framed as personal knowledge, not an upgraded system.
+
+* Rebuilding:
+    - Daily Advice is accompanied by a morning desk/map routine; room gains organized notes tied to player priorities.
+
+* Recovering:
+    - Weather Forecast appears as instruments/charts in the room; Edward visibly checks them before giving forecasts.
+
+* Renewed:
+    - Manor Report is represented by ledgers/boards Edward updates, making informational UI feel diegetic.
+
+* Growing:
+    - Lost & Found uses a visible recovered-items shelf; gifts feel like things Edward actually found while maintaining the estate.
+
+* Prospering:
+    - Groundskeeper unlock is shown by tools/baskets and Edward's schedule changing to include garden/orchard work.
+
+* Flourishing:
+    - Butler Tunnels should visibly reopen hidden service doors/maps; fast travel is the culmination of Edward restoring how the manor once functioned, not a menu perk appearing from nowhere.
