@@ -26,15 +26,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Worn docks and damaged nets show years of hardship.
-| Rebuilding        | Piers and fishing equipment are steadily repaired.
-| Recovering        | Restored docks and fresh nets return the fishery to operation.
-| Renewed           | The fishery feels lively with sturdy docks and clean buildings.
-| Growing           | Decorative barrels, flowers, and fresh paint add waterfront charm.
-| Prospering        | Expanded docks and premium equipment support a thriving business.
-| Flourishing       | The vibrant fishery becomes Blackmere's proud riverside centerpiece.
+* Weathered:
+    - Nora/Elise operate around damaged planks and sparse gear; boats/nets look patched and wharf traffic is minimal.
+
+* Rebuilding:
+    - Safe working platforms and net racks return; repair animations make recovery obvious.
+
+* Recovering:
+    - Regular fishery hours and fish handling resume; NPC buyers and catches make the wharf feel productive.
+
+* Renewed:
+    - Dependable shop/service plus ambient sorting/cleaning activity establish a real working waterfront.
+
+* Growing:
+    - Smoke/drying or community fish-prep area (if compatible with economy design) creates additional routines and seasonal events.
+
+* Prospering:
+    - Restored cold/storage infrastructure increases trade reliability; more crates leave for town/traders rather than increasing fish spawn magically.
+
+* Flourishing:
+    - The fishery becomes the visible livelihood of River Wharf, supporting breakfast/inn/trade routines and signaling that the river is once again sustaining rather than only threatening Blackmere.
 
 ---
 
