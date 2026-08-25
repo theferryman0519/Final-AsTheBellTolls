@@ -25,12 +25,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | The bell tower is cracked, weathered, and partially silent.
-| Rebuilding        | Damaged stone and the bell mechanism are actively being repaired.
-| Recovering        | The structure is stabilized and the bell rings once again.
-| Renewed           | The restored tower proudly overlooks the town with renewed strength.
-| Growing           | Decorative banners and landscaping brighten the historic landmark.
-| Prospering        | Elegant stonework and lighting make it a centerpiece of the square.
-| Flourishing       | The magnificent bell tower becomes the iconic symbol of Blackmere.
+* Weathered:
+    - Cracks, missing trim and an unreliable/partial toll make the center of town feel wounded; Irene performs manual checks.
+
+* Rebuilding:
+    - Scaffolding and exposed mechanism animations show active repair; some tolls return but are rough/uneven.
+
+* Recovering:
+    - Hourly toll is dependable again; NPC schedules can visibly react to it with small transitions at key hours.
+
+* Renewed:
+    - The square reorients around the restored tower; festivals use it confidently and residents reference hearing the bell across town.
+
+* Growing:
+    - Banners/planters plus scheduled gathering moments make the tower a social anchor, not scenery.
+
+* Prospering:
+    - Evening lighting and refined chime patterns change the square ambience; special festival peals become distinct.
+
+* Flourishing:
+    - The tower becomes Blackmere's systemic rhythm: rare Synchronize Chime interactions can use its toll as a town-wide anchor, while NPCs pause/respond during signature bells.
