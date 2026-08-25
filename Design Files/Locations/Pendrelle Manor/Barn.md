@@ -1,5 +1,5 @@
 ---
-Title: Locations / Pendrelle Manor / Butler Quarters
+Title: Locations / Pendrelle Manor / Barn
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
@@ -9,46 +9,40 @@ Version: 0.0.1
 
 ## Information
 
-- Living quarters for Edward.
-- Butler Help is available starting at the Weathered stage (Edward will give tips on what to do next or aid on a quest).
-- Daily Advice is available starting at the Rebuilding stage (Edward gives a tip or advice at the start of the day).
-- Weather Forecast is available starting at the Recovering stage (Calendar will feature a weather forecast for the next 3 days).
-- Manor Report is available starting at the Renewed stage (Animals and crops will have informational panels available to show growth details).
-- Lost & Found is available starting at the Growing stage (Edward will gift the player a different non-food ingredient item at the start of each day).
-- Groundskeeper is available starting at the Prospering stage (Edward will harvest any ready crop or flower, placing them in the Pantry or Storage Chest).
-- Butler Tunnels are available starting at the Flourishing stage (Edward unlocks fast-travel locations across Blackmere).
+- Holds all Barn animals (Cow, Goat, Pig, and Sheep)
+- Barn animals can start being purchased at the Rebuilding stage.
 
 ---
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks          |
-|-------------------|------------------|
-| Weathered         | Butler Help      |
-| Rebuilding        | Daily Advice     |
-| Recovering        | Weather Forecast |
-| Renewed           | Manor Report     |
-| Growing           | Lost & Found     |
-| Prospering        | Groundskeeper    |
-| Flourishing       | Butler Tunnels   |
+| Restoration Stage | Unlocks
+|-------------------|---|
+| Weathered         | n/a
+| Rebuilding        | 2 Max Barn Animals
+| Recovering        | 4 Max Barn Animals
+| Renewed           | 6 Max Barn Animals
+| Growing           | 8 Max Barn Animals
+| Prospering        | 10 Max Barn Animals
+| Flourishing       | 15 Max Barn Animals
 
 * Weathered:
-    - Edward has a serviceable but austere room; Butler Help is framed as personal knowledge, not an upgraded system.
+    - Collapsed/unsafe stalls remain empty; exterior shows evidence that livestock life has not yet returned.
 
 * Rebuilding:
-    - Daily Advice is accompanied by a morning desk/map routine; room gains organized notes tied to player priorities.
+    - Two animals can live safely; feed/water stations and morning animal sounds return, making the estate feel inhabited.
 
 * Recovering:
-    - Weather Forecast appears as instruments/charts in the room; Edward visibly checks them before giving forecasts.
+    - More stalls support a mixed small herd; animals have distinct resting/feeding anchors rather than standing as capacity units.
 
 * Renewed:
-    - Manor Report is represented by ledgers/boards Edward updates, making informational UI feel diegetic.
+    - Routine animal-care flow becomes efficient and visually clean; manure/feed storage and NPC animal visits can appear.
 
 * Growing:
-    - Lost & Found uses a visible recovered-items shelf; gifts feel like things Edward actually found while maintaining the estate.
+    - Expanded herd creates visible pasture/yard activity and occasional breeding/young-animal scenes if that system exists.
 
 * Prospering:
-    - Groundskeeper unlock is shown by tools/baskets and Edward's schedule changing to include garden/orchard work.
+    - Barn products feed cooking/trade/community requests more visibly; Edward or spouse/family may occasionally interact with animals.
 
 * Flourishing:
-    - Butler Tunnels should visibly reopen hidden service doors/maps; fast travel is the culmination of Edward restoring how the manor once functioned, not a menu perk appearing from nowhere.
+    - Fifteen-animal capacity should culminate in a lived agricultural center: varied idle behavior, organized storage, seasonal decor, and a signature husbandry perk/invention synergy rather than capacity alone.
