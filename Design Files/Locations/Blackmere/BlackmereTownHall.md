@@ -28,12 +28,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Cracked stone and faded banners leave the town hall neglected.
-| Rebuilding        | Structural repairs and fresh stonework restore its foundation.
-| Recovering        | New windows and cleaned walls return civic pride.
-| Renewed           | The town hall stands fully restored with polished architecture.
-| Growing           | Decorative landscaping and banners celebrate Blackmere's recovery.
-| Prospering        | Elegant stone accents and vibrant gardens elevate its appearance.
-| Flourishing       | The grand town hall symbolizes the town's complete renewal.
+* Weathered:
+    - Only essential offices are usable; notices overlap on damaged boards and civic business feels improvised.
+
+* Rebuilding:
+    - Repaired public counter and records area allow visible municipal work; Community Board remains modest.
+
+* Recovering:
+    - Regular civic hours and organized notices return; NPCs occasionally enter for permits/meetings/mail.
+
+* Renewed:
+    - Weddings, records and Community Board activity feel like normal public life; restored banners reflect town identity.
+
+* Growing:
+    - Council/community meeting nights create new NPC congregation; player can see restoration priorities or town initiatives discussed.
+
+* Prospering:
+    - Town Hall displays completed civic projects and hosts visiting delegations/traders, tying progress to governance.
+
+* Flourishing:
+    - Town Hall becomes the visible seat of autonomy: after repossession success, state notices are removed/replaced with Blackmere's charter and resident-driven planning boards.
