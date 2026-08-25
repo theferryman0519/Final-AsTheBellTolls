@@ -25,12 +25,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | The home shows visible flood damage and years of neglect.
-| Rebuilding        | Repairs strengthen the structure while restoring its comfort.
-| Recovering        | Fresh paint, repaired windows, and tidy gardens return warmth.
-| Renewed           | The restored home feels cozy, welcoming, and well cared for.
-| Growing           | Decorative landscaping and personal touches give it character.
-| Prospering        | Elegant upgrades and mature gardens reflect a prosperous household.
-| Flourishing       | The beautiful home becomes one of Blackmere's most charming residences.
+* Weathered:
+    - Adrian and Sabrina share cramped usable space; books/school materials are stacked in dry corners, and they often remain at work longer because home is uncomfortable.
+
+* Rebuilding:
+    - One study area reopens; repair debris reflects the collision of librarian and teacher lives rather than generic construction.
+
+* Recovering:
+    - A reading desk and lesson-prep table become functional; some evening schedules move home, making the lane feel occupied after work hours.
+
+* Renewed:
+    - NPC-specific shelves, teaching supplies and shared decor appear; home dialogue can reference a genuine place of rest.
+
+* Growing:
+    - A small front reading bench becomes a neighborhood stop for children/adults; Adrian or Sabrina may use it on clear evenings.
+
+* Prospering:
+    - The household occasionally hosts a tiny book/lesson club, linking school and library restoration to residential life.
+
+* Flourishing:
+    - The home becomes an education-centered social node: rare cross-NPC scenes occur here, and donated/recovered texts visibly cycle through the space.
