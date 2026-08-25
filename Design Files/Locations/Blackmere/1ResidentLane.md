@@ -25,12 +25,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | The home shows visible flood damage and years of neglect.
-| Rebuilding        | Repairs strengthen the structure while restoring its comfort.
-| Recovering        | Fresh paint, repaired windows, and tidy gardens return warmth.
-| Renewed           | The restored home feels cozy, welcoming, and well cared for.
-| Growing           | Decorative landscaping and personal touches give it character.
-| Prospering        | Elegant upgrades and mature gardens reflect a prosperous household.
-| Flourishing       | The beautiful home becomes one of Blackmere's most charming residences.
+* Weathered:
+    - Whitmore home remains occupied but repairs are improvised; Agatha/Roland spend more time maintaining it, and Beatrice carries civic work home because shared rooms are unreliable.
+
+* Rebuilding:
+    - Visible carpentry and laundry lines appear; family schedules temporarily shift around repair work. The player can occasionally help with small household restoration requests.
+
+* Recovering:
+    - Porch seating and a usable garden return. Agatha/Roland begin spending short periods outdoors; Beatrice is more likely to leave civic papers at Town Hall instead of working from home.
+
+* Renewed:
+    - Family meals and evening porch conversations become ambient routine scenes; the house reads as a stable elder/mayoral household rather than a shelter.
+
+* Growing:
+    - Community visitors begin stopping by for advice; Beatrice may hold occasional informal constituent conversations here, adding life to Resident Lanes.
+
+* Prospering:
+    - Mature garden beds supply flowers/produce to a communal event; household decor reflects three residents rather than generic prosperity.
+
+* Flourishing:
+    - The home becomes a neighborhood anchor: elders host a small seasonal tea/storytelling gathering, and nearby NPC pathing adds social stops around the property.
