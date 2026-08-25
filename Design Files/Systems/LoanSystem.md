@@ -23,7 +23,7 @@ Version: 0.0.1
 
 | Loan Amount       | Interest Rate | Repayment Amount  | Repayment Period
 |-------------------|---------------|-------------------|---|
-| 5,000 Bellnotes   | 15%           | 5,7500 Bellnotes  | 14 Days
+| 5,000 Bellnotes   | 15%           | 5,750 Bellnotes   | 14 Days
 | 25,000 Bellnotes  | 12%           | 28,000 Bellnotes  | 21 Days
-| 100,000 Bellnotes | 10%           | 100,000 Bellnotes | 28 Days
+| 100,000 Bellnotes | 10%           | 110,000 Bellnotes | 28 Days
 | 250,000 Bellnotes | 8%            | 270,000 Bellnotes | 35 Days
