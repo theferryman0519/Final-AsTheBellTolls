@@ -7,7 +7,495 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
+## Animals
+
+### AnimalHousingType
+
+- None (default)
+- Apiary
+- Barn
+- Coop
+- Manor
+- Stable
+- WeaverCradle
+
+### AnimalLifeStageType
+
+- Baby (default)
+- Mature
+
+### AnimalType
+
+- None (default)
+- Bee
+- Cat
+- Chicken
+- Cow
+- Dog
+- Duck
+- Goat
+- Goose
+- Horse
+- Pig
+- Sheep
+- Silkworm
+
+---
+
+## Animation
+
+*None*
+
+---
+
+## Audio
+
+### AudioSpeechSetType
+
+- None (default)
+- FemaleA
+- FemaleB
+- MaleA
+- MaleB
+
+### AudioType
+
+- None (default)
+- Music
+- Ambiance
+- SoundEffect
+- Weather
+- Footstep
+- Speech
+
+---
+
+## Bond Events
+
+### BondEventRequirementType
+
+- None (default)
+- MainStoryProgress
+- FriendshipLevel
+- ConnectionLevel
+- QuestState
+- PreviousEvent
+- ManorRestoration
+- TownRestoration
+- Season
+- Day
+- DayOfWeek
+- Time
+- Daylight
+- Weather
+- Location
+- NpcAvailability
+- RelationshipStatus
+- MarriageStatus
+- ItemPossession
+- GameFlag
+
+### BondEventStateType
+
+- Inactive (default)
+- Eligible
+- Playing
+- Completed
+
+### BondEventType
+
+- None (default)
+- MainStory
+- Friendship
+- Connection
+- Tutorial
+- Restoration
+- Other
+
+---
+
+## Calendar
+
+### CalendarDayType
+
+- None (default)
+- Monday
+- Tuesday
+- Wednesday
+- Thursday
+- Friday
+- Saturday
+- Sunday
+
+### CalendarSeasonType
+
+- None (default)
+- Spring
+- Summer
+- Autumn
+- Winter
+
+---
+
+## Camera
+
+### CameraZoomType
+
+- Middle (default)
+- Near
+- Far
+
+---
+
+## Characters
+
+### CharacterAgeRangeType
+
+- Twenties (default)
+- Child
+- Teens
+- Thirties
+- Forties
+- Fifties
+- Sixties
+- Seventies
+
+### CharacterBodySizeType
+
+- Normal (default)
+- Skinny
+- Slim
+- Fit
+- Curvy
+
+### CharacterBodyType
+
+- Androgynous (default)
+- Feminine
+- Masculine
+
+### CharacterEyeColorType
+
+- Brown (default)
+- Amber
+- Blue
+- DarkBrown
+- DarkBlue
+- DarkGreen
+- DarkPurple
+- DarkRed
+- Green
+- Hazel
+- LightBrown
+- LightBlue
+- LightGreen
+- LightPurple
+- LightRed
+- Purple
+- Red
+
+### CharacterHairColorType
+
+- Brown (default)
+- Black
+- Blonde
+- Blue
+- DarkBrown
+- DarkBlue
+- DarkGreen
+- DarkPurple
+- DarkRed
+- Gray
+- Green
+- LightBrown
+- LightBlue
+- LightGreen
+- LightPurple
+- LightRed
+- Purple
+- Red
+- White
+
+### CharacterHeightType
+
+- Middle (default)
+- Short
+- Tall
+
+### CharacterMaritalStatusType
+
+- Single (default)
+- Married
+- Child
+- Widowed
+
+### CharacterPronounType
+
+- TheyThem (default)
+- HeHim
+- SheHer
+
+### CharacterSkinToneType
+
+- Olive (default)
+- Deep
+- Espresso
+- Bronze
+- Fair
+- Pale
+
+### NpcActivityType
+
+- None (default)
+- Sleep
+- Idle
+- Travel
+- Work
+- Shopkeeping
+- Eat
+- Socialize
+- Fish
+- Read
+- Study
+- Explore
+- Festival
+- Quest
+- Special
+
+### NpcDialogueLengthType
+
+- None (default)
+- Short
+- Mid
+- Long
+- Excruciating
+
+### NpcGiftContextType
+
+- Normal (default)
+- Birthday
+
+### NpcGiftPreferenceType
+
+- None (default)
+- Favorite
+- Loved
+- Liked
+- Tolerated
+- Disliked
+- Hated
+
+### NpcIdleType
+
+- None (default)
+- Stand
+- Wander
+- Service
+
+### NpcMoodAffinityType
+
+- Neutral (default)
+- Disliked
+- Liked
+
+### NpcMoodType
+
+- Indifferent (default)
+- Angry
+- Sad
+- Tired
+- Content
+- Happy
+- InLove
+
+### NpcRoutineType
+
+- Standard (default)
+- Seasonal
+- Weather
+- Special
+- Quest
+- Festival
+- GameEvent
+
+### NpcSpeakingToneType
+
+- None (default)
+- Gentle
+- Formal
+- Dry
+- Reflective
+- Compassionate
+- Guarded
+- Energetic
+- Playful
+
+---
+
+## Commerce
+
+### CommerceStateType
+
+- None (default)
+- Shopping
+- Completed
+- Error
+
+---
+
+## Crafting
+
+### CraftingStateType
+
+- None (default)
+- Crafting
+- Completed
+- Error
+
+---
+
+## Dialogue
+
+### DialogueType
+
+- None (default)
+- Generic
+- Festival
+- Gift
+- Quest
+- BondEvent
+- ConnectionEvent
+- EdwardHelp
+- Shopping
+- FirstMeet
+- Proposal
+- Greeting
+- MarriedLife
+- Intro
+- Repossession
+
+### DialogueVariantType
+
+- None (default)
+- VariantA
+- VariantB
+- VariantC
+
+---
+
+## Economy
+
+*None*
+
+---
+
+## Event
+
+*None*
+
+---
+
+## Farming
+
+### FarmingPlantStateType
+
+- None (default)
+- Seeded
+- Growing
+- Harvestable
+
+### FarmingPlantType
+
+- None (default)
+- GardenCrop
+- OrchardCrop
+- Flower
+
+### FarmingSoilStateType
+
+- Unavailable (default)
+- Refueling
+- Ready
+- Tilled
+
+---
+
+## Festivals
+
+### FestivalActivityType
+
+- None (default)
+- SharedMeal
+- Fishing
+- Market
+- Cooking
+- Stargazing
+- Wedding
+- LanternWalk
+- Memorial
+- Dance
+- JudgeShow
+- WaterSplash
+
+### FestivalEventType
+
+- None (default)
+- MainFestival
+- MiniFestival
+- OngoingEvent
+
+---
+
+## Fishing
+
+### FishHabitatType
+
+- None (default)
+- River
+- Lake
+- Universal
+
+### FishingStateType
+
+- Idle (default)
+- Casting
+- Waiting
+- Hooked
+- Reeling
+- Completed
+- Failed
+- Cancelled
+
+### FishSchoolingType
+
+- Solitary (default)
+- Schooling
+
+---
+
 ## Game Flow
+
+### GameEnvironmentType
+
+- None (default)
+- Indoor
+- Outdoor
+
+### GameplaySceneType
+
+- None (default)
+- Exterior
+- Interior
+
+### GameSceneType
+
+- None (default)
+- Opening
+- Gameplay
+- Festival
+- Cinematic
+- Sleep
+- Transition
 
 ### GameStateType
 
@@ -22,236 +510,9 @@ Version: 0.0.1
 - DayEnd
 - Paused
 
-### GameSceneType
-
-- None (default)
-- Opening
-- Gameplay
-- Festival
-- Cinematic
-- Sleep
-- Transition
-
-### GameplaySceneType
-
-- None (default)
-- Exterior
-- Interior
-
-### GameEnvironmentType
-
-- None (default)
-- Indoor
-- Outdoor
-
 ---
 
-## Camera
-
-### CameraZoomType
-
-- Middle (default)
-- Near
-- Far
-
----
-
-## Calendar & Time
-
-### CalendarSeasonType
-
-- None (default)
-- Spring
-- Summer
-- Autumn
-- Winter
-
-### CalendarWeekDayType
-
-- None (default)
-- Monday
-- Tuesday
-- Wednesday
-- Thursday
-- Friday
-- Saturday
-- Sunday
-
-### TimeDaylightType
-
-- None (default)
-- Dawn
-- Day
-- Dusk
-- Night
-
-### TimeClockFormatType
-
-- TwelveHour (default)
-- TwentyFourHour
-
----
-
-## Weather
-
-### WeatherType
-
-- None (default)
-- Clear
-- Cloudy
-- Rainy
-- RainySevere
-- Snowy
-- SnowySevere
-- Windy
-
----
-
-## Restoration
-
-### RestorationStageType
-
-- Weathered (default)
-- Rebuilding
-- Recovering
-- Renewed
-- Growing
-- Prospering
-- Flourishing
-
-### RestorationTargetType
-
-- None (default)
-- ManorRoom
-- TownBuilding
-
----
-
-## Items
-
-### ItemType
-
-- None (default)
-- Artisanal
-- Ingredient
-- Interactable
-- Quest
-- Recipe
-- Useful
-
-### ArtisanalItemType
-
-- None (default)
-- Clothing
-- Decor
-- Furniture
-
-### ArtisanalClothingType
-
-- None (default)
-- Outfit
-- Top
-- Bottom
-- Footwear
-- Headwear
-- Accessory
-- Hairstyle
-
-### IngredientItemType
-
-- None (default)
-- Byproduct
-- Flower
-- FlowerSeed
-- Forageable
-- GardenCrop
-- GardenSeed
-- OrchardCrop
-- OrchardSeed
-- Gemstone
-- Herb
-- Fish
-- Ore
-
-### InteractableItemType
-
-- None (default)
-- ManMade
-- Natural
-- Gravemarker
-
-### QuestItemType
-
-- None (default)
-- Recovery
-
-### RecipeItemType
-
-- None (default)
-- Drink
-- Fabrication
-- Meal
-- Tonic
-
-### UsefulItemType
-
-- None (default)
-- LibraryBook
-- MuseumArtifact
-- RecordDisc
-- Tool
-- SpecialItem
-
-### ItemQualityType
-
-- Base (default)
-- Copper
-- Iron
-- Silver
-- Gold
-- Cobalt
-
-### ItemStorageType
-
-- None (default)
-- ToolBelt
-- Satchel
-- Pantry
-- Mailbox
-- ByproductBox
-- StorageUnit
-
----
-
-## Inventory
-
-### InventorySortType
-
-- None (default)
-- Quality
-- Name
-- Count
-
----
-
-## Tools
-
-### ToolType
-
-- None (default)
-- Axe
-- FishingNet
-- FishingRod
-- Hammer
-- HerbKnife
-- Hoe
-- Pickaxe
-- Scythe
-- WateringCan
-
----
-
-## Gathering / Interacting
+## Gathering
 
 ### GatherableResourceType
 
@@ -266,6 +527,34 @@ Version: 0.0.1
 - RockDeposit
 - Tree
 - TreeTrunk
+
+---
+
+## Input
+
+### InputDeviceType
+
+- Unknown (default)
+- KeyboardMouse
+- GenericController
+- Xbox
+- PlayStation
+- Switch
+
+### InputMapType
+
+- None (default)
+- Gameplay
+- UI
+- Dialogue
+- Fishing
+- TonicMaking
+- Cinematic
+- AutomaticEvent
+
+---
+
+## Interactions
 
 ### InteractionType
 
@@ -297,256 +586,163 @@ Version: 0.0.1
 
 ---
 
-## Farming
+## Inventions
 
-### FarmingPlantStateType
+### InventionStateType
+
+- Locked (default)
+- Available
+- InProgress
+- Completed
+
+### InventionTierType
 
 - None (default)
-- Seeded
-- Growing
-- Harvestable
+- Copper
+- Iron
+- Silver
+- Gold
+- Cobalt
 
-### FarmingSoilStateType
+### InventionType
+
+- None (default)
+- Blueprint
+- Quest
+- GrandShowcase
+
+---
+
+## Inventory
+
+### InventorySortType
+
+- None (default)
+- Quality
+- Name
+- Count
+
+---
+
+## Items
+
+### ArtisanalClothingType
+
+- None (default)
+- Outfit
+- Top
+- Bottom
+- Footwear
+- Headwear
+- Accessory
+- Hairstyle
+
+### ArtisanalItemType
+
+- None (default)
+- Clothing
+- Decor
+- Furniture
+
+### IngredientItemType
+
+- None (default)
+- Byproduct
+- Flower
+- FlowerSeed
+- Forageable
+- GardenCrop
+- GardenSeed
+- OrchardCrop
+- OrchardSeed
+- Gemstone
+- Herb
+- Fish
+- Ore
+
+### InteractableItemType
+
+- None (default)
+- ManMade
+- Natural
+- Gravemarker
+
+### ItemQualityType
+
+- Base (default)
+- Copper
+- Iron
+- Silver
+- Gold
+- Cobalt
+
+### ItemStorageType
+
+- None (default)
+- ToolBelt
+- Satchel
+- Pantry
+- Mailbox
+- ByproductBox
+- StorageUnit
+
+### ItemType
+
+- None (default)
+- Artisanal
+- Ingredient
+- Interactable
+- Quest
+- Recipe
+- Useful
+
+### QuestItemType
+
+- None (default)
+- Recovery
+
+### RecipeItemType
+
+- None (default)
+- Drink
+- Fabrication
+- Meal
+- Tonic
+
+### UsefulItemType
+
+- None (default)
+- LibraryBook
+- MuseumArtifact
+- RecordDisc
+- Tool
+- SpecialItem
+
+---
+
+## Mail
+
+### MailStateType
 
 - Unavailable (default)
-- Refueling
-- Ready
-- Tilled
-
-### FarmingPlantType
-
-- None (default)
-- GardenCrop
-- OrchardCrop
-- Flower
-
----
-
-## Husbandry
-
-### AnimalType
-
-- None (default)
-- Bee
-- Cat
-- Chicken
-- Cow
-- Dog
-- Duck
-- Goat
-- Goose
-- Horse
-- Pig
-- Sheep
-- Silkworm
-
-### AnimalHousingType
-
-- None (default)
-- Apiary
-- Barn
-- Coop
-- Manor
-- Stable
-- WeaverCradle
-
-### AnimalLifeStageType
-
-- Baby (default)
-- Mature
-
----
-
-## Fish
-
-### FishHabitatType
-
-- None (default)
-- River
-- Lake
-- Universal
-
-### FishSchoolingType
-
-- Solitary (default)
-- Schooling
-
----
-
-## NPCs
-
-### NpcRelationshipTierType
-
-- Stranger (default)
-- Acquaintance
-- Friendly
-- Friend
-- Trusted
-- Spouse
-- SoulMate
-
-### NpcMoodType
-
-- Indifferent (default)
-- Angry
-- Sad
-- Tired
-- Content
-- Happy
-- InLove
-
-### NpcMoodAffinityType
-
-- Neutral (default)
-- Disliked
-- Liked
-
-### NpcGiftPreferenceType
-
-- None (default)
-- Favorite
-- Loved
-- Liked
-- Tolerated
-- Disliked
-- Hated
-
-### NpcGiftContextType
-
-- Normal (default)
-- Birthday
-
-### NpcDialogueLengthType
-
-- None (default)
-- Short
-- Mid
-- Long
-- Excruciating
-
-### NpcSpeakingToneType
-
-- None (default)
-- Gentle
-- Formal
-- Dry
-- Reflective
-- Compassionate
-- Guarded
-- Energetic
-- Playful
-
-### NpcRoutineType
-
-- Standard (default)
-- Seasonal
-- Weather
-- Special
-- Quest
-- Festival
-- GameEvent
-
-### NpcIdleType
-
-- None (default)
-- Stand
-- Wander
-- Service
-
-### NpcActivityType
-
-- None (default)
-- Sleep
-- Idle
-- Travel
-- Work
-- Shopkeeping
-- Eat
-- Socialize
-- Fish
+- Delivered
 - Read
-- Study
-- Explore
-- Festival
-- Quest
-- Special
+- Archived
+
+### MailType
+
+- None (default)
+- HumorNote
+- EventReminder
+- QuestRequest
+- EventRequest
+- OverflowItem
 
 ---
 
-## Character
+## Movement
 
-### CharacterHeightType
-
-- Middle (default)
-- Short
-- Tall
-
-### CharacterBodySizeType
-
-- Normal (default)
-- Skinny
-- Slim
-- Fit
-- Curvy
-
-### CharacterBodyType
-
-- Androgynous (default)
-- Feminine
-- Masculine
-
-### CharacterSkinToneType
-
-- Olive (default)
-- Deep
-- Espresso
-- Bronze
-- Fair
-- Pale
-
-### CharacterHairColorType
-
-- Brown (default)
-- Black
-- Blonde
-- Blue
-- DarkBrown
-- DarkBlue
-- DarkGreen
-- DarkPurple
-- DarkRed
-- Gray
-- Green
-- LightBrown
-- LightBlue
-- LightGreen
-- LightPurple
-- LightRed
-- Purple
-- Red
-- White
-
-### CharacterEyeColorType
-
-- Brown (default)
-- Amber
-- Blue
-- DarkBrown
-- DarkBlue
-- DarkGreen
-- DarkPurple
-- DarkRed
-- Green
-- Hazel
-- LightBrown
-- LightBlue
-- LightGreen
-- LightPurple
-- LightRed
-- Purple
-- Red
-
-### CharacterMovementStyleType
+### MovementStyleType
 
 - Normal (default)
 - Purposeful
@@ -555,52 +751,21 @@ Version: 0.0.1
 - Heavy
 - Graceful
 
-### CharacterPronounType
+---
 
-- TheyThem (default)
-- HeHim
-- SheHer
+## Player
 
-### CharacterAgeRangeType
+*None*
 
-- Twenties (default)
-- Child
-- Teens
-- Thirties
-- Forties
-- Fifties
-- Sixties
-- Seventies
+---
 
-### CharacterMaritalStatusType
+## Progression
 
-- Single (default)
-- Married
-- Child
-- Widowed
+*None*
 
 ---
 
 ## Quests
-
-### QuestType
-
-- None (default)
-- MainStory
-- Achievement
-- Connection
-- Daily
-- Friendship
-- Tutorial
-
-### QuestStateType
-
-- Inactive (default)
-- Available
-- Active
-- Completed
-- Failed
-- Expired
 
 ### QuestObjectiveType
 
@@ -619,102 +784,104 @@ Version: 0.0.1
 - CompleteEvent
 - Custom
 
----
+### QuestStateType
 
-## Bond Events
+- Inactive (default)
+- Available
+- Active
+- Completed
+- Failed
+- Expired
 
-### BondEventType
+### QuestType
 
 - None (default)
 - MainStory
-- Friendship
+- Achievement
 - Connection
+- Daily
+- Friendship
 - Tutorial
-- Restoration
-- Other
 
-### BondEventStateType
+---
 
-- Inactive (default)
-- Eligible
-- Playing
-- Completed
+## Relationships
 
-### BondEventRequirementType
+### NpcRelationshipTierType
+
+- Stranger (default)
+- Acquaintance
+- Friendly
+- Friend
+- Trusted
+- Spouse
+- SoulMate
+
+---
+
+## Restoration
+
+### RestorationStageType
+
+- Weathered (default)
+- Rebuilding
+- Recovering
+- Renewed
+- Growing
+- Prospering
+- Flourishing
+
+### RestorationTargetType
 
 - None (default)
-- MainStoryProgress
-- FriendshipLevel
-- ConnectionLevel
-- QuestState
-- PreviousEvent
-- ManorRestoration
-- TownRestoration
-- Season
+- ManorRoom
+- TownBuilding
+
+---
+
+## Save
+
+### SaveGameState
+
+- None (default)
+- Saving
+- Completed
+- Error
+
+---
+
+## Time
+
+### TimeClockFormatType
+
+- TwelveHour (default)
+- TwentyFourHour
+
+### TimeDaylightType
+
+- None (default)
+- Dawn
 - Day
-- DayOfWeek
-- Time
-- Daylight
-- Weather
-- Location
-- NpcAvailability
-- RelationshipStatus
-- MarriageStatus
-- ItemPossession
-- GameFlag
+- Dusk
+- Night
 
 ---
 
-## Festivals & Communal Events
+## Time Manipulation
 
-### FestivalEventType
-
-- None (default)
-- MainFestival
-- MiniFestival
-- OngoingEvent
-
-### FestivalActivityType
+### TimeManipulationStateType
 
 - None (default)
-- SharedMeal
-- Fishing
-- Market
-- Cooking
-- Stargazing
-- Wedding
-- LanternWalk
-- Memorial
-- Dance
-- JudgeShow
-- WaterSplash
-
----
-
-## Inventions
-
-### InventionType
-
-- None (default)
-- Blueprint
-- Quest
-- GrandShowcase
-
-### InventionTierType
-
-- None (default)
-- Copper
-- Iron
-- Silver
-- Gold
-- Cobalt
-
-### InventionStateType
-
-- Locked (default)
-- Available
-- InProgress
+- Running
 - Completed
+- Error
+
+### TimeManipulationType
+
+- None (default)
+- Advance
+- Preserve
+- Synchronize
 
 ---
 
@@ -731,131 +898,56 @@ Version: 0.0.1
 - StaminaMax
 - StaminaSlow
 
----
-
-## Audio
-
-### AudioType
-
-- None (default)
-- Music
-- Ambiance
-- SoundEffect
-- Weather
-- Footstep
-- Speech
-
-### AudioSpeechSetType
-
-- None (default)
-- FemaleA
-- FemaleB
-- MaleA
-- MaleB
-
----
-
-## Input
-
-### InputMapType
-
-- None (default)
-- Gameplay
-- UI
-- Dialogue
-- Fishing
-- TonicMaking
-- Cinematic
-- AutomaticEvent
-
-### InputDeviceType
-
-- Unknown (default)
-- KeyboardMouse
-- GenericController
-- Xbox
-- PlayStation
-- Switch
-
----
-
-## Minigame
-
-### MinigameType
-
-- None (default)
-- Fishing
-- TonicMaking
-
-### MinigameResultType
-
-- None (default)
-- Success
-- Failure
-- Cancelled
-
-### MinigameFishingStateType
-
-- Idle (default)
-- Casting
-- Waiting
-- Hooked
-- Reeling
-- Completing
-
-### MinigameTonicMakingStateType
+### TonicMakingStateType
 
 - Idle (default)
 - Adding
 - Mixing
 - Boiling
-- Completing
+- Completed
+- Failed
+- Cancelled
 
 ---
 
-## Mail
+## Tools
 
-### MailType
+### ToolType
 
 - None (default)
-- HumorNote
-- EventReminder
-- QuestRequest
-- EventRequest
-- OverflowItem
-
-### MailStateType
-
-- Unavailable (default)
-- Delivered
-- Read
-- Archived
+- Axe
+- FishingNet
+- FishingRod
+- Hammer
+- HerbKnife
+- Hoe
+- Pickaxe
+- Scythe
+- WateringCan
 
 ---
 
-## Dialogue
+## UI
 
-### DialogueType
+*None*
 
-- None (default)
-- Generic
-- Festival
-- Gift
-- Quest
-- BondEvent
-- ConnectionEvent
-- EdwardHelp
-- Shopping
-- FirstMeet
-- Proposal
-- Greeting
-- MarriedLife
-- Intro
-- Repossession
+---
 
-### DialogueVariantType
+## Weather
+
+### WeatherType
 
 - None (default)
-- VariantA
-- VariantB
-- VariantC
+- Clear
+- Cloudy
+- Rainy
+- RainySevere
+- Snowy
+- SnowySevere
+- Windy
+
+---
+
+## World
+
+*None*
