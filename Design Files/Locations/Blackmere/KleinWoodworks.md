@@ -26,15 +26,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Damaged beams and broken lumber piles clutter the workshop.
-| Rebuilding        | Fresh timber repairs strengthen the aging building.
-| Recovering        | Organized work areas and repaired walls restore production.
-| Renewed           | The workshop feels warm, sturdy, and beautifully handcrafted.
-| Growing           | Decorative carvings and tidy lumber yards reflect growing success.
-| Prospering        | Expanded facilities and elegant woodworking displays impress visitors.
-| Flourishing       | The workshop becomes a showcase of exceptional craftsmanship.
+* Weathered:
+    - Mara works around warped lumber and limited dry storage; orders are few and the shop is dominated by repair triage.
+
+* Rebuilding:
+    - Sawing/beam stations return; stacked restoration orders visually communicate Blackmere's rebuilding phase.
+
+* Recovering:
+    - NPC deliveries/pickups and steady machinery show construction becoming organized; fabrication stock is dependable.
+
+* Renewed:
+    - Workshop walls display completed local projects and personal artifacts from Mara's arc, making success communal.
+
+* Growing:
+    - Community workshop sessions or small custom-furniture jobs add social activity and player-facing customization hooks.
+
+* Prospering:
+    - Woodworks supplies decorative/structural upgrades across town; recognizable designs appear on restored properties.
+
+* Flourishing:
+    - The shop becomes a craft commons where residents occasionally build/repair together; it visually demonstrates that Blackmere now maintains itself rather than waiting for the player.
 
 ---
 
