@@ -26,15 +26,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Weathered walls and empty shelves reflect difficult times.
-| Rebuilding        | Repairs restore the storefront while supplies slowly return.
-| Recovering        | Fresh paint and stocked shelves welcome customers again.
-| Renewed           | The fully restored shop feels warm, bright, and inviting.
-| Growing           | Decorative displays and flower boxes give the store extra charm.
-| Prospering        | Expanded displays and premium decor create a thriving marketplace.
-| Flourishing       | The bustling general store becomes the heart of daily commerce.
+* Weathered:
+    - Walter has sparse shelves and inconsistent stock; residents enter for essentials but rarely browse.
+
+* Rebuilding:
+    - Repaired storefront and deliveries create visible restocking activity; some shelves remain intentionally bare.
+
+* Recovering:
+    - Core stock is dependable; NPC shoppers appear on schedules and Walter can discuss which goods are returning.
+
+* Renewed:
+    - The shop feels warm and lived-in; displays respond to season and local production instead of generic inventory rows.
+
+* Growing:
+    - Local-producer shelf appears, featuring goods tied to restored farms/trades and giving the player a new sale/consignment outlet if desired.
+
+* Prospering:
+    - Expanded displays and customer traffic make commerce visibly healthy; occasional bulk/community orders create requests.
+
+* Flourishing:
+    - The store becomes daily commerce hub: seasonal window displays, NPC shopping conversations, and town-produced stock visually prove Blackmere's self-sufficiency.
 
 ---
 
