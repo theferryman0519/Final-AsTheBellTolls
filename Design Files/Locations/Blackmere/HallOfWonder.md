@@ -25,12 +25,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Dusty exhibits and damaged displays leave the museum forgotten.
-| Rebuilding        | Galleries undergo repairs while exhibits are carefully restored.
-| Recovering        | Restored halls begin welcoming visitors again.
-| Renewed           | The museum proudly showcases its collections in pristine condition.
-| Growing           | New displays and decorative lighting enrich every exhibit.
-| Prospering        | Expanded galleries celebrate Blackmere's history and discoveries.
-| Flourishing       | The museum becomes a renowned cultural destination filled with wonder.
+* Weathered:
+    - Damaged cases and closed wings make donations feel like rescue/storage; Dante focuses on preservation.
+
+* Rebuilding:
+    - One gallery reopens while restoration is visibly underway; donated artifacts begin appearing in protected displays.
+
+* Recovering:
+    - Regular visitors return; each completed collection section visibly changes the interior and NPC visitation.
+
+* Renewed:
+    - The museum becomes a destination; school/library routines can include visits and Dante gains public-facing activities.
+
+* Growing:
+    - Rotating themed exhibits or gemstone demonstrations create seasonal reasons to revisit beyond donation completion.
+
+* Prospering:
+    - Outside scholars/traders occasionally visit, enabling artifact lore, appraisal, or special requests.
+
+* Flourishing:
+    - The Hall becomes Blackmere's proof that the town has a past worth preserving and a future worth visiting; completed collections can influence Rupert/civic pride scenes.
