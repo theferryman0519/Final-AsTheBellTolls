@@ -27,14 +27,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Weathered fabric displays and faded paint dull the boutique.
-| Rebuilding        | Repairs restore the storefront and sewing rooms.
-| Recovering        | Fresh decor and organized displays welcome shoppers again.
-| Renewed           | The tailor shop feels elegant, colorful, and inviting.
-| Growing           | Decorative awnings and floral displays enhance its charm.
-| Prospering        | Luxurious fabrics and stylish storefront displays attract visitors.
-| Flourishing       | The boutique becomes Blackmere's premier destination for fashion.
+* Weathered:
+    - Leo sells from limited racks; most clothes around town remain patched and mended, matching the early visual identity.
 
----
+* Rebuilding:
+    - Repaired sewing floor and fitting area allow visible commissions; fabric scraps and mending orders show active work.
+
+* Recovering:
+    - Regular clothing selection and appearance service return; NPC outfits can begin receiving subtle repaired/seasonal variants.
+
+* Renewed:
+    - The shop becomes expressive rather than merely functional; window displays rotate and townspeople browse.
+
+* Growing:
+    - Custom-dye/alteration or small style requests create player/NPC expression moments without multiplying full clothing systems.
+
+* Prospering:
+    - Prosperity is reflected town-wide through better-maintained seasonal clothing; Leo's work becomes visible on NPCs, not only in shop inventory.
+
+* Flourishing:
+    - The tailor becomes a cultural marker: festival garments, wedding attire and signature Blackmere styles show that residents now have room for beauty as well as survival.
