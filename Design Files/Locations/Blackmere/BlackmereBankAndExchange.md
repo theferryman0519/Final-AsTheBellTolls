@@ -25,15 +25,26 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Flood-stained stonework and boarded windows leave the bank looking abandoned.
-| Rebuilding        | Fresh masonry and scaffolding surround ongoing repairs.
-| Recovering        | Clean stone and repaired windows restore the bank's dignity.
-| Renewed           | The bank stands polished with restored brass details and neat landscaping.
-| Growing           | Decorative planters and refined trim give the bank a welcoming elegance.
-| Prospering        | Premium stonework and ornate lighting reflect the town's growing wealth.
-| Flourishing       | The bank serves as a prestigious landmark with immaculate grounds and grand architecture.
+* Weathered:
+    - Elise operates a reduced counter; records are boxed above old water lines and the room feels defensive rather than prosperous.
+
+* Rebuilding:
+    - Secure counters and ledgers are restored; temporary scaffolding makes the bank visibly active instead of abandoned.
+
+* Recovering:
+    - Regular hours and basic loan/exchange services feel reliable; NPCs occasionally conduct transactions.
+
+* Renewed:
+    - Clean public desk and repaired vault support civic-finance scenes; town reserve updates can be shown physically on a notice/ledger.
+
+* Growing:
+    - New consultation desk lets Elise offer optional financial planning/loan restructuring after relevant progression.
+
+* Prospering:
+    - The bank visibly funds local projects: plaques, loan notices, or NPC conversations connect restored businesses to circulating capital.
+
+* Flourishing:
+    - The bank becomes a civic confidence marker: prosperity is shown by activity and investment, not piles of money; Rupert's assessment can use it as observable evidence.
 
 ---
 
