@@ -115,15 +115,6 @@ Version: 0.0.1
 - Data IDs
 - Dependencies
 - Enums
-- Event Channels
-- Game Architecture
-- Game Flags
-- Initialization Order
-- Models
-- Save Data
-- Save Versioning
-- Scriptable Objects
-- Services
 
 ---
 
