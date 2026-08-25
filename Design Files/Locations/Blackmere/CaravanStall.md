@@ -26,12 +26,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | A worn canopy and sparse goods reflect struggling trade.
-| Rebuilding        | A sturdier stall and new stock slowly return.
-| Recovering        | Bright displays and organized merchandise attract customers again.
-| Renewed           | The restored stall feels colorful, welcoming, and well-stocked.
-| Growing           | Decorative banners and upgraded displays enhance its charm.
-| Prospering        | Premium goods and expanded displays draw shoppers from afar.
-| Flourishing       | The bustling market stall becomes one of the town's favorite attractions.
+* Weathered:
+    - The stall is a rough temporary pitch; limited shelter means the traders pack quickly and few locals linger.
+
+* Rebuilding:
+    - Level ground, tie-downs and a repaired awning create a dependable stopping point; setup/teardown becomes visible.
+
+* Recovering:
+    - Locals begin browsing alongside the player; the stall feels like recurring trade rather than a secret vendor.
+
+* Renewed:
+    - Seating/signage and secure storage make the visit a recognizable town routine; trader dialogue can reference Blackmere's improvements.
+
+* Growing:
+    - Local producers can occasionally place one export good at the stall, connecting town restoration to outside demand.
+
+* Prospering:
+    - Trade visits attract small clusters and specialty requests; inventory can include more Blackmere-linked exchange opportunities without simply adding more random slots.
+
+* Flourishing:
+    - The stall becomes a genuine exchange point between Blackmere and the outside world, with rotating flags/crates/visitors showing the town has reentered regional trade.
