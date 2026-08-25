@@ -26,12 +26,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | Cracked walls and faded sketches leave the studio uninspiring.
-| Rebuilding        | Structural repairs create a solid foundation for new ideas.
-| Recovering        | Bright interiors and restored workspaces inspire creativity again.
-| Renewed           | The studio feels modern, organized, and beautifully designed.
-| Growing           | Decorative models and landscaping showcase architectural talent.
-| Prospering        | Expanded drafting rooms and refined finishes elevate the workspace.
-| Flourishing       | The studio becomes a celebrated center of architectural excellence.
+* Weathered:
+    - Clara drafts around damaged tables and salvaged plans; models are incomplete and civic work is reactive.
+
+* Rebuilding:
+    - Stable drafting stations return; active restoration blueprints visibly fill the studio.
+
+* Recovering:
+    - Normal workbench/invention collaboration feels organized; NPC clients/contractors occasionally visit.
+
+* Renewed:
+    - Completed models/maps show restored districts; the studio becomes a visual record of what the player has changed.
+
+* Growing:
+    - Planning sessions allow optional choices between cosmetic/function variants for selected civic projects where scope permits.
+
+* Prospering:
+    - Clara coordinates multi-shop projects; Forge/Woodworks handoffs are reflected through NPC visits and staged components.
+
+* Flourishing:
+    - The studio becomes Blackmere's future-planning room: post-repossession boards show new projects chosen for growth rather than emergency repair.
