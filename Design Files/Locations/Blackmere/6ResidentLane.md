@@ -25,12 +25,23 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Appearance
-|-------------------|---|
-| Weathered         | The home shows visible flood damage and years of neglect.
-| Rebuilding        | Repairs strengthen the structure while restoring its comfort.
-| Recovering        | Fresh paint, repaired windows, and tidy gardens return warmth.
-| Renewed           | The restored home feels cozy, welcoming, and well cared for.
-| Growing           | Decorative landscaping and personal touches give it character.
-| Prospering        | Elegant upgrades and mature gardens reflect a prosperous household.
-| Flourishing       | The beautiful home becomes one of Blackmere's most charming residences.
+* Weathered:
+    - Lucian/Vivian uses the least-damaged corner as a private clockwork bench; ticking parts and salvaged mechanisms dominate the home.
+
+* Rebuilding:
+    - Repairs stabilize a true workshop nook; the resident spends more evening time here and less at temporary workspaces.
+
+* Recovering:
+    - Finished clocks begin appearing on walls; occasional prototype sounds/lights make the home visually distinct in the lane.
+
+* Renewed:
+    - The house becomes an intimate clockmaker residence rather than a generic home; recovered family/rival story props can surface here.
+
+* Growing:
+    - A small window display or porch mechanism appears, attracting curious NPC stops and reinforcing the town's invention culture.
+
+* Prospering:
+    - Lucian/Vivian can perform a rare maintenance service or give a temporal-crafting tip from home after relevant Connection progress.
+
+* Flourishing:
+    - The residence becomes a “second clockwork landmark”: unique hourly animation/ambient response quietly echoes the Manor and Bell Tower without duplicating their functions.
