@@ -15,6 +15,17 @@ Version: 0.0.1
 
 ---
 
+## Player Bedtime
+
+- The earliest the player can wake up is 6:00am.
+- The latest the player can stay out is 12:00am when the player will faint.
+- The player wakes up based on when they fall asleep:
+    - If the player falls asleep before 11:00pm, they will wake up at 6:00am the next day.
+    - If the player falls asleep between 11:00pm and 11:59pm, they will wake up at 7:00am the next day.
+    - If the player faints at midnight, they will wake up at 8:00am the next day.
+
+---
+
 ## Game Time vs. Real Time
 
 | Game Time | Real Seconds | Real Time
