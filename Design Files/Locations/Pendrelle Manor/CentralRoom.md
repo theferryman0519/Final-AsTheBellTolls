@@ -9,8 +9,10 @@ Version: 0.0.1
 
 ## Information
 
-- Holds the Grandfather Clock
-- Time Manipulation is available starting at the Rebuilding stage.
+- Holds the Grandfather Clock.
+- Time Manipulation is available starting at the Rebuilding stage, starting with the Advance mechanic.
+- The Preserve mechanic is available starting at the Recovering stage.
+- The Synchronize mechanic is available starting at the Renewed stage.
 
 ---
 
@@ -19,9 +21,9 @@ Version: 0.0.1
 | Restoration Stage | Unlocks
 |-------------------|---|
 | Weathered         | n/a
-| Rebuilding        | Time Manipulation / 6 Chimes
-| Recovering        | 8 Chimes
-| Renewed           | 10 Chimes
+| Rebuilding        | Time Manipulation / Advance Mechanic / 6 Chimes
+| Recovering        | Preserve Mechanic / 8 Chimes
+| Renewed           | Synchronize Mechanic / 10 Chimes
 | Growing           | 15 Chimes
 | Prospering        | 20 Chimes
 | Flourishing       | 30 Chimes
