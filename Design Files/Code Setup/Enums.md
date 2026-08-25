@@ -7,7 +7,7 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
-## Core Game
+## Game Flow
 
 ### GameStateType
 
@@ -44,7 +44,11 @@ Version: 0.0.1
 - Indoor
 - Outdoor
 
-### GameCameraZoomType
+---
+
+## Camera
+
+### CameraZoomType
 
 - Middle (default)
 - Near
