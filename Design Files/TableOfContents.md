@@ -116,6 +116,7 @@ Version: 0.0.1
 - Data Registry
 - Dependencies
 - Enums
+- Event Channels
 - Hierarchy
 - Models
 - Scriptable Objects
