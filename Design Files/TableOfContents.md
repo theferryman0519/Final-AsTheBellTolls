@@ -118,6 +118,7 @@ Version: 0.0.1
 - Enums
 - Event Channels
 - Hierarchy
+- Initialization Order
 - Models
 - Scriptable Objects
 
