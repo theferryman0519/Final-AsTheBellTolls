@@ -116,6 +116,7 @@ Version: 0.0.1
 - Dependencies
 - Enums
 - Hierarchy
+- Models
 - Scriptable Objects
 
 ---
