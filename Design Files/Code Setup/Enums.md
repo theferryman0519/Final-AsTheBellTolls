@@ -723,6 +723,28 @@ Version: 0.0.1
 - Recipe
 - Useful
 
+### LibraryBookType
+
+- None (default)
+- GameplayTip
+- BlackmereHistory
+- ManorAndClockmakers
+- FolkloreAndLegends
+- NpcJournals
+- Humor
+- ChildrensBook
+- MysteriesAndSecrets
+
+### MuseumArtifactType
+
+- None (default)
+- AncientTool
+- CeremonialObject
+- HouseholdRelic
+- HistoricalDocument
+- DecorativeTreasure
+- ForgottenCuriosity
+
 ### QuestItemType
 
 - None (default)
