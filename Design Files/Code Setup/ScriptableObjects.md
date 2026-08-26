@@ -9,7 +9,7 @@ Version: 0.0.1
 
 ## Animals
 
-* AnimalObject.cs:
+- AnimalObject.cs:
     - DisplayName (string)
     - Id (string)
     - ByproductGrowthDuration (int)
@@ -18,6 +18,7 @@ Version: 0.0.1
     - SoldPriceBaby (int)
     - SoldPriceMature (int)
     - Housing (AnimalHousingType)
+    - Type (AnimalType)
     - Byproducts (List of ItemObject)
 
 ---
@@ -30,7 +31,7 @@ Version: 0.0.1
 
 ## Audio
 
-* AudioObject.cs:
+- AudioObject.cs:
     - DisplayName (string)
     - Id (string)
     - Clip (AudioClip)
@@ -59,14 +60,12 @@ Version: 0.0.1
 
 ## Characters
 
-* NpcObject.cs:
+- NpcObject.cs:
     - DisplayName (string)
     - Id (string)
     - FullName (string)
     - Nickname (string)
     - Profession (string)
-    - Residence (string)
-    - Workplace (string)
     - Quote (string)
     - BirthDate (int)
     - FirstAvailableDate (int)
@@ -93,6 +92,8 @@ Version: 0.0.1
     - SpeakingTone (NpcSpeakingToneType)
     - MovementStyle (MovementStyleType)
     - SpeechSet (AudioSpeechSetType)
+    - Residence (LocationObject)
+    - Workplace (LocationObject)
     - FavoriteGifts (List of ItemObject)
     - LovedGifts (List of ItemObject)
     - LikedGifts (List of ItemObject)
@@ -106,7 +107,12 @@ Version: 0.0.1
 
 ## Commerce
 
-*None*
+- ShopObject.cs:
+    - DisplayName (string)
+    - Id (string)
+    - Owner (NpcObject)
+    - Location (LocationObject)
+    - Stock (List of ItemObject)
 
 ---
 
@@ -118,7 +124,7 @@ Version: 0.0.1
 
 ## Dialogue
 
-* DialogueObject.cs:
+- DialogueObject.cs:
     - Id (string)
     - Dialogue (string)
     - OrderNumber (int)
@@ -149,7 +155,7 @@ Version: 0.0.1
 
 ## Festivals
 
-* FestivalObject.cs:
+- FestivalObject.cs:
     - DisplayName (string)
     - Id (string)
     - StartTime (int)
@@ -162,7 +168,7 @@ Version: 0.0.1
     - Rewards (List of ItemObject)
     - SoldItems (List of ItemObject)
 
-* BirthdayObject.cs:
+- BirthdayObject.cs:
     - DisplayName (string)
     - Id (string)
     - Date (int)
@@ -170,29 +176,13 @@ Version: 0.0.1
     - Type (FestivalEventType)
     - Npc (NpcObject)
 
+---
+
 ## Fishing
 
-* FishObject.cs:
-    - DisplayName (string)
-    - Id (string)
-    - Description (string)
-    - Type (ItemType)
-    - PurchasePrice (int)
-    - ValuePrice (int)
-    - ReplenishAmount (int)
-    - SpoilDuration (int)
-    - CanBeGifted (bool)
-    - CanBeInCooking (bool)
-    - CanBeInCrafting (bool)
-    - CanBeInInventions (bool)
-    - CanBeInTonics (bool)
-    - CanBeDifferentQualities (bool)
-    - IngredientType (IngredientItemType)
+- FishObject.cs (IngredientItemObject):
     - HabitatType (FishHabitatType)
     - SchoolingType (FishSchoolingType)
-    - LocationsSold (List of LocationObject)
-    - SeasonsSold (List of CalendarSeasonType)
-    - SeasonsFound (List of CalendarSeasonType)
 
 ---
 
@@ -222,7 +212,7 @@ Version: 0.0.1
 
 ## Inventions
 
-* InventionObject.cs:
+- InventionObject.cs:
     - DisplayName (string)
     - Id (string)
     - Description (string)
@@ -245,7 +235,7 @@ Version: 0.0.1
 
 ## Items
 
-* ItemObject.cs:
+- ItemObject.cs:
     - DisplayName (string)
     - Id (string)
     - Description (string)
@@ -259,12 +249,12 @@ Version: 0.0.1
     - SeasonsSold (List of CalendarSeasonType)
     - SeasonsFound (List of CalendarSeasonType)
 
-* ArtisanalItemObject.cs (ItemObject):
+- ArtisanalItemObject.cs (ItemObject):
     - AvailableColors (List of CharacterHairColorType)
     - ArtisanalType (ArtisanalItemType)
     - ClothingType (ArtisanalClothingType)
 
-* IngredientItemObject.cs (ItemObject):
+- IngredientItemObject.cs (ItemObject):
     - GrowthDuration (int)
     - SpoilDuration (int)
     - CanBeInCooking (bool)
@@ -273,41 +263,41 @@ Version: 0.0.1
     - CanBeInTonics (bool)
     - IngredientType (IngredientItemType)
 
-* InteractableItemObject.cs (ItemObject):
+- InteractableItemObject.cs (ItemObject):
     - InteractableType (InteractableItemType)
 
-* GravemarkerItemObject.cs (InteractableItemObject):
+- GravemarkerItemObject.cs (InteractableItemObject):
     - Text (string)
     - Friendships (List of NpcObject)
 
-* QuestItemObject.cs (ItemObject):
+- QuestItemObject.cs (ItemObject):
     - QuestType (QuestItemType)
     - BelongsTo (NpcObject)
     - Quest (QuestObject)
 
-* RecipeItemObject.cs (ItemObject):
+- RecipeItemObject.cs (ItemObject):
     - RecipeType (RecipeItemType)
     - ItemsNeeded (List of ItemObject)
 
-* UsefulItemObject.cs (ItemObject):
+- UsefulItemObject.cs (ItemObject):
     - UsefulType (UsefulItemType)
 
-* LibraryBookItemObject.cs (UsefulItemObject):
+- LibraryBookItemObject.cs (UsefulItemObject):
     - Author (string)
     - BodyText (string)
     - CategoryType (LibraryBookType)
 
-* MuseumArtifactItemObject.cs (UsefulItemObject):
+- MuseumArtifactItemObject.cs (UsefulItemObject):
     - ArtifactType (MuseumArtifactType)
 
-* RecordDiscItemObject.cs (UsefulItemObject):
+- RecordDiscItemObject.cs (UsefulItemObject):
     - SongPlayed (AudioObject)
 
 ---
 
 ## Mail
 
-* MailObject.cs:
+- MailObject.cs:
     - DisplayName (string)
     - Id (string)
     - BodyText (string)
@@ -336,7 +326,7 @@ Version: 0.0.1
 
 ## Quests
 
-* QuestObject.cs:
+- QuestObject.cs:
     - DisplayName (string)
     - Id (string)
     - Backstory (string)
@@ -355,7 +345,15 @@ Version: 0.0.1
 
 ## Restoration
 
-*None*
+- RestorationObject.cs:
+    - DisplayName (string)
+    - Id (string)
+    - TargetId (string)
+    - DaysRequired (int)
+    - BellsRequired (int)
+    - TargetType (RestorationTargetType)
+    - Stage (RestorationStageType)
+    - RequiredItems (List of ItemObject)
 
 ---
 
@@ -379,7 +377,7 @@ Version: 0.0.1
 
 ## Tonics
 
-* TonicObject.cs:
+- TonicObject.cs:
     - DisplayName (string)
     - Id (string)
     - Description (string)
@@ -392,7 +390,7 @@ Version: 0.0.1
 
 ## Tools
 
-* ToolObject.cs:
+- ToolObject.cs:
     - DisplayName (string)
     - Id (string)
     - Description (string)
@@ -416,8 +414,9 @@ Version: 0.0.1
 
 ## World
 
-* LocationObject.cs:
+- LocationObject.cs:
     - DisplayName (string)
+    - Id (string)
     - Description (string)
     - FirstAvailableDate (int)
     - FirstAvailableYear (int)
