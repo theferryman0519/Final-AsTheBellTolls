@@ -113,6 +113,7 @@ Version: 0.0.1
 
 - Controllers
 - Data IDs
+- Data Registry
 - Dependencies
 - Enums
 - Hierarchy
