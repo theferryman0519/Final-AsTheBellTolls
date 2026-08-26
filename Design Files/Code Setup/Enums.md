@@ -470,6 +470,7 @@ Version: 0.0.1
 - MainFestival
 - MiniFestival
 - OngoingEvent
+- Birthday
 
 ---
 
