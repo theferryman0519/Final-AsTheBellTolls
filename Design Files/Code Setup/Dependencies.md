@@ -18,6 +18,7 @@ Version: 0.0.1
 * AsTheBellTolls.Characters
 * AsTheBellTolls.Commerce
 * AsTheBellTolls.Crafting
+* AsTheBellTolls.Data
 * AsTheBellTolls.Dialogue
 * AsTheBellTolls.Economy
 * AsTheBellTolls.Event
