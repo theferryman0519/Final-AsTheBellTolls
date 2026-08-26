@@ -162,6 +162,14 @@ Version: 0.0.1
     - Rewards (List of ItemObject)
     - SoldItems (List of ItemObject)
 
+* BirthdayObject.cs:
+    - DisplayName (string)
+    - Id (string)
+    - Date (int)
+    - Season (CalendarSeasonType)
+    - Type (FestivalEventType)
+    - Npc (NpcObject)
+
 ## Fishing
 
 * FishObject.cs:
