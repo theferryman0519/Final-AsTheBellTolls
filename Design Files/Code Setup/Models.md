@@ -70,6 +70,7 @@ Version: 0.0.1
     - CurrentActivity (NpcActivityType)
     - CurrentLocation (LocationObject)
     - CurrentMood (NpcMoodType)
+    - RecentDialogues (List of string)
 
 - NpcPersonalityModel.cs:
     - Type (NpcPersonalityType)
