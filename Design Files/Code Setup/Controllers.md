@@ -9,6 +9,11 @@ Version: 0.0.1
 
 ## Controller Types
 
+* AdminController.cs
+    - Namespace: AsTheBellTolls.Admin
+    - Purpose: Controls the admin user ability and testing.
+    - Type: Engineering
+
 * AnimalsController.cs
     - Namespace: AsTheBellTolls.Animals
     - Purpose: Controls the animals and husbandry.
