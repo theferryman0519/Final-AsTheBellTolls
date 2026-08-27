@@ -80,4 +80,14 @@ Version: 0.0.1
 - Seed Progress Panel shows the type of crop, if it needs to be watered, and how many days left until harvest.
 - Once ready to harvest, player interacts with the crop, harvesting it.
 - Harvested crops will go into the player's Inventory, or into the Pantry (if there is no room in the Inventory).
-- - All harvested crops are at the quality set through inventions within the Blueprint Book.
+- All harvested crops are at the quality set through inventions within the Blueprint Book.
+
+---
+
+## Time Manipulation Integration
+
+* Advance reduces crop growth duration.
+* Advance reduces soil recovery duration.
+* Preserve can hold mature crops/flowers.
+* Synchronize can align two growing crops/flowers.
+* Chimes cannot create harvest yield or quality directly.
