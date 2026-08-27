@@ -3,7 +3,7 @@ Title: Systems / Invention System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: July, 2026
-Updated: July, 2026
+Updated: August, 2026
 Version: 0.0.1
 ---
 
@@ -45,3 +45,11 @@ Version: 0.0.1
 - Player selects Clay and toggles the amount to 5, selects Wood and toggles to 15, selects Stone and toggles to 10, and then selects Jasper as the required gemstone.
 - The Crafting & Testing Time for the Seasoning Regulator starts its countdown.
 - Once the time has reached 0:00, the Seasoning Regulator's ability becomes available for the player.
+
+---
+
+## Time Manipulation Integration
+
+* Advance reduces Crafting & Testing Time.
+* Synchronize may align two compatible active invention/production timers if multiple queues eventually exist.
+* Chimes cannot discover recipes or bypass ingredients.
