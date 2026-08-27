@@ -49,3 +49,17 @@ Version: 0.0.1
 
 * Flourishing:
     - 220 stamina + three pets should culminate in the player being visibly rooted: family photos/keepsakes, pet routines, spouse/child traces, and a morning reflection bonus or cosmetic ritual rather than another inventory function.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Inherited Bedroom** — restored Pendrelle furniture and traditional fabrics | **Blackmere Bedroom** — locally crafted furniture, warmer rustic materials | **Personal Retreat** — simpler furniture, lighter fabrics, player-focused cozy atmosphere |
+| Recovering | **Pet-Friendly Room** — pet beds, baskets, durable fabrics, playful details | **Elegant Companion Room** — coordinated pet furniture matching the bedroom | **Country Companion Room** — woven pet beds, natural materials, casual warmth |
+| Renewed | **Memory Wall** — photographs, letters, relationship keepsakes | **Achievement Display** — awards, discoveries, showcase memorabilia | **Personal Collection** — favorite objects, books, flowers, clothing/accessory displays |
+| Growing | **Family Bedroom** — warm shared furnishings and spouse/family details | **Romantic Bedroom** — richer fabrics, softer lighting, intimate accents | **Independent Retreat** — reading/work corner, personal collections, individual identity |
+| Prospering | **Grand Pendrelle Suite** — refined historic furniture and luxurious traditional textiles | **Blackmere Comfort** — handcrafted furniture, layered fabrics, deeply cozy atmosphere | **Inventor's Suite** — clever storage, brass lighting, tasteful practical mechanisms |
+| Flourishing | **Legacy Suite** — family history, keepsakes, heritage furnishings | **Rooted in Blackmere** — community gifts, relationship memories, local craftsmanship | **Life Well Lived** — balanced collection of pets, family, achievements, inventions, and personal history |
