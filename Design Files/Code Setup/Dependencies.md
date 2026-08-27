@@ -9,6 +9,7 @@ Version: 0.0.1
 
 ## Dependency Types
 
+* AsTheBellTolls.Admin
 * AsTheBellTolls.Animals
 * AsTheBellTolls.Animation
 * AsTheBellTolls.Audio
