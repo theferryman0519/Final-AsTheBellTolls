@@ -52,3 +52,17 @@ Version: 0.0.1
 
 * Flourishing:
     - Butler Tunnels should visibly reopen hidden service doors/maps; fast travel is the culmination of Edward restoring how the manor once functioned, not a menu perk appearing from nowhere.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Traditional Study** — orderly desk, dark wood, neatly stacked correspondence | **Practical Steward** — maps, ledgers, task lists, estate-management materials | **Quiet Gentleman** — reading chair, lamp, books, understated personal belongings |
+| Recovering | **Weather Scholar** — brass instruments, charts, barometer, forecast notes | **Window Observer** — telescope/binoculars, window-side charts, weather journal | **Estate Meteorology** — old Pendrelle instruments restored alongside newer equipment |
+| Renewed | **Ledger Room** — bound reports, organized shelves, formal recordkeeping | **Planning Room** — wall maps, pins, task boards, estate schedules | **Correspondence Room** — writing desk, letters, town notices, carefully filed records |
+| Growing | **Curator's Shelf** — recovered objects arranged like small historical finds | **Lost & Found Cabinet** — labeled drawers, baskets, categorized belongings | **Memory Shelf** — recovered Manor objects mixed with photographs and keepsakes |
+| Prospering | **Groundskeeper's Quarters** — baskets, gloves, pruning tools, garden notes | **Estate Steward** — formal Manor-management tools, maps, keys, schedules | **Gentleman Gardener** — botanical books, pressed plants, polished gardening equipment |
+| Flourishing | **Pendrelle Steward** — elegant traditional quarters honoring Edward’s long service | **Keeper of Blackmere** — town maps, recovered artifacts, community correspondence | **Master of the Manor** — tunnels, keys, ledgers, maps, and every aspect of the estate neatly integrated |
