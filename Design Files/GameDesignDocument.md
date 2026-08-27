@@ -287,15 +287,13 @@ No room should require marriage, parenthood, or a specific romance outcome simpl
 
 #### Restoration as Assessment Evidence
 
-Restoration stages also contribute to Rupert's assessments, but raw upgrade count is not the only measure. A partially restored building that is actively serving residents may provide more civic value than a visually advanced structure with little practical use. Assessment calculations should therefore consider both **restoration state** and **living consequence**, reinforcing that Blackmere's success is measured by functioning community life rather than construction percentage alone.
+Restoration and community participation contribute to Rupert's assessment through a defined 200-point scoring system. The assessment deliberately draws from multiple areas of play—including restoration, relationships, civic collections, debt repayment, and invention progress, so Blackmere's success is not determined by construction progress alone.
 
 ### Skill Tree
 
 In lieu of a traditional skill tree, *As The Bell Tolls* implements the use of inventions as the main progression of the game. Once the player gains access to their blueprint book of inventions, they will have access to a wide variety of recipes needed to craft inventions.
 
 As an up-and-coming inventor, it makes sense that the skill tree for the player revolved around the production, creation, and implementation of crafted inventions. These recipes, held within the player's blueprint book, can be acquired through progression in the book, as quest or Grand showcase rewards, or as a gift from the player's rival.
-
-When crafting and implementing an invention from the blueprint book, the next invention in the tree becomes available. After the initial set of beginner-level inventions, the player will be able to choose from a variety of paths, each specific to a component of the game. These paths range from animal husbandry, to cooking and crafting, to socialization. Players will be able to choose to craft inventions from any or all paths, eventually fully completing the book.
 
 ### Events
 
