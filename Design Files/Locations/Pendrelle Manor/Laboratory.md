@@ -49,3 +49,17 @@ Version: 0.0.1
 
 * Flourishing:
     - 112 slots culminates in a true invention laboratory: completed Blueprint milestones visibly fill the space, collaborators visit, and a signature late-game test function reduces friction without automating crafting.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Myrtle's Workshop** — restored old tools, wooden benches, inherited apparatus | **Practical Workshop** — organized tools, clean benches, efficient storage | **Clockwork Workshop** — exposed gears, brass fittings, visible mechanical experiments |
+| Recovering | **Drafting Laboratory** — blueprints, drawing tables, measuring instruments | **Prototype Laboratory** — half-built devices, parts bins, test stands | **Collector's Workshop** — samples, minerals, components, labeled storage |
+| Renewed | **Apothecary Laboratory** — herbs, glassware, tonic equipment prominently integrated | **Mechanical Laboratory** — gears, metalworking tools, mechanical apparatus | **Hybrid Laboratory** — equal visual emphasis on tonics and invention crafting |
+| Growing | **Gallery Workshop** — completed inventions displayed neatly on shelves | **Working Chaos** — controlled clutter, active experiments, parts everywhere | **Academic Laboratory** — categorized displays, diagrams, carefully labeled specimens |
+| Prospering | **Precision Laboratory** — polished instruments, measurement equipment, refined test rigs | **Temporal Laboratory** — Chime-linked instruments and clock-inspired test apparatus | **Industrial Laboratory** — stronger machinery, reinforced benches, advanced fabrication equipment |
+| Flourishing | **Myrtle's Legacy Laboratory** — inherited workshop perfected and preserved | **Master Inventor's Laboratory** — distinctly the player's own mature workshop | **Blackmere Institute** — collaborative feeling with community gifts, inventions, and local materials |
