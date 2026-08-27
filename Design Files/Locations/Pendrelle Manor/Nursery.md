@@ -46,3 +46,17 @@ Version: 0.0.1
 
 * Flourishing:
     - Four-child Flourishing stage is a fully lived family wing when used; for child-free saves, offer an alternate “Legacy Room” use so Flourishing never requires parenthood.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Quiet Guest Room** — neutral bed, simple storage, restrained décor | **Legacy Room** — family artifacts, covered heirlooms, restored furniture | **Reading Room** — bookcases, chairs, maps, quiet study atmosphere |
+| Recovering | **Traditional Nursery** — wooden crib, gentle colors, classic toys | **Woodland Nursery** — animals, plants, natural colors, handmade toys | **Blackmere Nursery** — locally crafted crib, quilts, town-made toys |
+| Renewed | **Storybook Room** — books, illustrations, imaginative decorations | **Learning Room** — alphabet blocks, maps, activity table | **Heritage Nursery** — Pendrelle family objects, traditional furniture, heirloom details |
+| Growing | **Shared Children's Room** — coordinated beds, shared storage, play area | **Adventure Room** — maps, exploration motifs, imaginative play equipment | **Nature Room** — plants, animals, botanical imagery, natural materials |
+| Prospering | **Family Playroom** — toy storage, reading nook, family activity space | **Young Scholars' Room** — desks, books, educational objects | **Creative Room** — art table, crafts, music/toy displays |
+| Flourishing | **Pendrelle Family Wing** — elegant heirloom family-room design | **Blackmere Childhood** — community-made toys, quilts, local storytelling | **Legacy Room** — museum-quality family history, books, accomplishments, and keepsakes for child-free households |
