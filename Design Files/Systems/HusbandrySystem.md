@@ -85,3 +85,10 @@ Version: 0.0.1
 | Growing           | 2
 | Prospering        | 2
 | Flourishing       | 3
+
+---
+
+## Time Manipulation Integration
+
+* Advance reduces the maturation/byproduct timer.
+* Synchronize aligns compatible production timers.
