@@ -1000,4 +1000,18 @@ Version: 0.0.1
 
 ## World
 
-*None*
+### ManorRoomType
+
+- None (default)
+- Barn
+- ButlerQuarters
+- CentralRoom
+- Coop
+- DiningHall
+- Garden
+- Kitchen
+- Laboratory
+- MainBedroom
+- Nursery
+- Orchard
+- Stables
