@@ -51,3 +51,12 @@ Version: 0.0.1
 | Renewed to Growing        | 5 Gear Assemblies, 5 Precision Gears, 5 Support Frames
 | Growing to Prospering     | 5 Precision Gears, 5 Reinforced Glass, 5 Energy Conduits
 | Prospering to Flourishing | 10 Precision Gears, 10 Energy Conduits, 5 Arc Tubes
+
+---
+
+## Time Manipulation Integration
+
+* Advance applies only after restoration resources are committed.
+* Advance reduces remaining restoration days.
+* Advance instantly resolves manor restoration rooms (but uses 2 Chimes to do so).
+* Chimes never replace restoration materials.
