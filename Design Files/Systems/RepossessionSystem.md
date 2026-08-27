@@ -31,7 +31,7 @@ Version: 0.0.1
 | Earned 1st Place at Grand Showcase     | 10 points (earned only once)
 | Completed Hall of Wonder donations     | 20 points (earned only once)
 | Completed Library donations            | 20 points (earned only once)
-| Did not take out any loans             | 10 points (earned only once)
+| Fully repaid back all loans            | 10 points (earned only once)
 | Completed Blueprint Book inventions    | 10 points per tier (max of 50 points)
 | TOTAL                                  | 200 points
 
