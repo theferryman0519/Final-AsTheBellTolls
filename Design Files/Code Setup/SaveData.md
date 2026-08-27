@@ -7,6 +7,34 @@ Updated: August, 2026
 Version: 0.0.1
 ---
 
+## Admin
+
+- AdminSaveData.cs:
+    - Metadata (SaveMetadataData)
+    - Player (PlayerSaveData)
+    - Calendar (CalendarSaveData)
+    - Time (TimeSaveData)
+    - Economy (EconomySaveData)
+    - Inventory (InventorySaveData)
+    - Tools (List of ToolSaveData)
+    - Animals (List of AnimalSaveData)
+    - Farming (FarmingSaveData)
+    - Gathering (List of GatherableResourceSaveData)
+    - Npcs (List of NpcSaveData)
+    - Relationships (List of RelationshipSaveData)
+    - Quests (List of QuestSaveData)
+    - BondEvents (List of BondEventSaveData)
+    - Restoration (List of RestorationSaveData)
+    - Inventions (List of InventionSaveData)
+    - Mail (List of MailSaveData)
+    - Progression (ProgressionSaveData)
+    - TimeManipulation (TimeManipulationSaveData)
+    - Tonics (TonicSaveData)
+    - Weather (WeatherSaveData)
+    - World (WorldSaveData)
+
+---
+
 ## Root Save Data
 
 - GameSaveData.cs:
