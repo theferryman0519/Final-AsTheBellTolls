@@ -384,4 +384,11 @@ Version: 0.0.1
 
 ## World
 
-*None*
+- ManorRoom.cs:
+    - CustomDecorA (int)
+    - CustomDecorB (int)
+    - CustomDecorC (int)
+    - CustomDecorD (int)
+    - CustomDecorE (int)
+    - CustomDecorF (int)
+    - RoomType (ManorRoomType)
