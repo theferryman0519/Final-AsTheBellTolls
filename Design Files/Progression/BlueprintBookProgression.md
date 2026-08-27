@@ -10,8 +10,9 @@ Version: 0.0.1
 ## Information
 
 - Blueprint Book is the personal book of inventions for the player.
-- It holds different inventions that are unlocked in a progressive manner, starting with the Satchel Extender.
-- Once one invention has been crafted, the next invention recipe is unlocked and available to be crafted.
+- It holds different inventions that are unlocked in a progressive manner, starting with the Copper Ore Scanner in the Copper Tier.
+- Once the Ore Scanner for that tier has been crafted, all other inventions in the tier become unlocked.
+- In order for the next tier to be unlocked, the player will need to complete all other inventions in that initial tier.
 
 ---
 
@@ -19,8 +20,8 @@ Version: 0.0.1
 
 ### Copper Tier
 
-- Satchel Extender
 - Copper Ore Scanner
+- Satchel Extender
 - Mini Belt Lantern
 - Harvest Booster
 - Honeycomb Apiary
@@ -32,8 +33,8 @@ Version: 0.0.1
 
 ### Iron Tier
 
-- Apiary Expander
 - Iron Ore Scanner
+- Apiary Expander
 - Cradle Expander
 - Iron Cultivator
 - Iron Reel
@@ -43,8 +44,8 @@ Version: 0.0.1
 
 ### Silver Tier
 
-- Apiary Enlarger
 - Silver Ore Scanner
+- Apiary Enlarger
 - Cardle Enlarger
 - Silver Cultivator
 - Silver Reel
@@ -54,8 +55,8 @@ Version: 0.0.1
 
 ### Gold Tier
 
-- Gem Detector
 - Gold Ore Scanner
+- Gem Detector
 - Automatic Reel
 - Gold Cultivator
 - Gold Reel
