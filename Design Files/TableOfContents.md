@@ -11,7 +11,6 @@ Version: 0.0.1
 
 - Game Design Document
 - Table of Contents
-- To Do Progress
 
 ---
 
