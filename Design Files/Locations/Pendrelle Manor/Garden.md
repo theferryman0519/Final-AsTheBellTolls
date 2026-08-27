@@ -47,3 +47,17 @@ Version: 0.0.1
 
 * Flourishing:
     - Thirty squares should feel like an estate garden in full life: strong pollinator ambience, family/NPC use, and perhaps a limited communal donation/flower-cutting perk rather than only six more plots.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Reclaimed Garden** — rough timber edging, gravel paths, reused containers | **Estate Beds** — stone edging, symmetrical paths, traditional planters | **Cottage Beds** — woven borders, small flower accents, informal pathways |
+| Recovering | **Pollinator Garden** — bee houses, wildflower edges, natural planting accents | **Kitchen Garden** — herb markers, baskets, practical garden equipment | **Formal Garden** — clipped borders, matching planters, geometric detailing |
+| Renewed | **Blackmere Garden** — local stone, handmade benches, regional flowers | **Pendrelle Garden** — traditional estate ornamentation and symmetrical features | **Natural Garden** — softer paths, wildlife features, abundant greenery |
+| Growing | **Botanical Retreat** — seating nook, specimen labels, climbing plants | **Working Garden** — practical baskets, tool racks, harvest tables | **Romantic Garden** — arbor, decorative lanterns, floral seating area |
+| Prospering | **Victorian Glasshouse** — ornate greenhouse framing and traditional details | **Blackmere Glasshouse** — wood-and-glass construction with local craftsmanship | **Inventor Glasshouse** — brass mechanisms, automated vents, subtle mechanical irrigation |
+| Flourishing | **Grand Estate Garden** — formal paths, statuary, immaculate detailing | **Living Blackmere Garden** — community-crafted accents, lush natural character | **Inventor's Botanical Garden** — elegant integration of horticulture and restrained technology |
