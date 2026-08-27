@@ -7877,6 +7877,40 @@ Version: 0.0.1
 - event_ongoing_international-trade-cart
 - event_ongoing_supper-with-the-mercers
 
+### Birthdays
+
+- event_birthday_adrian
+- event_birthday_agatha
+- event_birthday_anya
+- event_birthday_beatrice
+- event_birthday_clara
+- event_birthday_claudia
+- event_birthday_dante
+- event_birthday_edward
+- event_birthday_elise
+- event_birthday_felix
+- event_birthday_frederick
+- event_birthday_helen
+- event_birthday_irene
+- event_birthday_jasmine
+- event_birthday_jonas
+- event_birthday_julian
+- event_birthday_kira
+- event_birthday_lena
+- event_birthday_leo
+- event_birthday_lucian-vivian
+- event_birthday_madison
+- event_birthday_mara
+- event_birthday_marcus
+- event_birthday_martin
+- event_birthday_milo
+- event_birthday_nora
+- event_birthday_roland
+- event_birthday_sabrina
+- event_birthday_theo
+- event_birthday_victor
+- event_birthday_walter
+
 ---
 
 ## Inventions
@@ -9275,6 +9309,54 @@ Version: 0.0.1
 - item_useful_winter-part-one-disc
 - item_useful_winter-part-two-disc
 - item_useful_worn-iron-chisel
+
+---
+
+## Locations
+
+- location_blackmere_1-resident-lane
+- location_blackmere_2-resident-lane
+- location_blackmere_3-resident-lane
+- location_blackmere_4-resident-lane
+- location_blackmere_5-resident-lane
+- location_blackmere_6-resident-lane
+- location_blackmere_a-whitmore-public-library
+- location_blackmere_a-whitmore-public-school
+- location_blackmere_blackmere-bank-and-exchange
+- location_blackmere_blackmere-bell-tower
+- location_blackmere_blackmere-general-store
+- location_blackmere_blackmere-town-hall
+- location_blackmere_caravan-stall
+- location_blackmere_hall-of-wonder
+- location_blackmere_ironveil-forge
+- location_blackmere_klein-woodworks
+- location_blackmere_rain-and-hale
+- location_blackmere_riverbend-fishery
+- location_blackmere_thread-and-thimble
+- location_blackmere_weiss-design-studio
+- location_blackmere_winding-banks-inn
+- location_morvanya_ashfall-mines
+- location_morvanya_gloamwood-depths
+- location_morvanya_gloamwood-forest
+- location_morvanya_graythorne-lake
+- location_morvanya_ironveil-peak
+- location_morvanya_memorial-hill
+- location_morvanya_memorial-hill-grounds
+- location_morvanya_mercer-farms
+- location_morvanya_mercer-farms-grounds
+- location_morvanya_steelridge-watch
+- location_pendrelle-manor_barn
+- location_pendrelle-manor_butler-quarters
+- location_pendrelle-manor_coop
+- location_pendrelle-manor_dining-hall
+- location_pendrelle-manor_garden
+- location_pendrelle-manor_grounds
+- location_pendrelle-manor_kitchen
+- location_pendrelle-manor_laboratory
+- location_pendrelle-manor_main-bedroom
+- location_pendrelle-manor_nursery
+- location_pendrelle-manor_orchard
+- location_pendrelle-manor_stables
 
 ---
 
