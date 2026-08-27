@@ -11,7 +11,7 @@ Version: 0.0.1
 
 **<u>Activating Mechanics:</u>** When the player is adjacent and facing a non-player character (NPC), they can interact with that character. Once the player interacts with the NPC, it will open the Dialogue Panel and the NPC will start to speak.
 
-**<u>Mechanic:</u>** Once spoken to, the NPC will have a piece of dialogue that they will speak toward the player. This can include an initial greeting (if meeting for the first time), a reaction to a quest, a tip to help the player, or even just a generic comment about the weather, time of day, or friendship level. After this first piece of dialogue, the player will have certain options, depending on the context with that NPC. Any further action could be taken, or the player could leave the conversation.
+**<u>Mechanic:</u>** Once spoken to, the NPC will have a piece of dialogue that they will speak toward the player. This can include an initial greeting (if meeting for the first time), a reaction to a quest, a tip to help the player, or even just a generic comment about the weather, time of day, or friendship level. Once stated, this piece of dialogue will be added to a list of three "recently used" dialogue IDs for the specific character. When speaking next to the character, they will be unable to say one of those dialogue pieces again, reducing the amount of potential repetition. After this first piece of dialogue, the player will have certain options, depending on the context with that NPC. Any further action could be taken, or the player could leave the conversation.
 
 ---
 
