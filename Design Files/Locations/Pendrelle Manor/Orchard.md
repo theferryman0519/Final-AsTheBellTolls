@@ -47,3 +47,17 @@ Version: 0.0.1
 
 * Flourishing:
     - Twenty-four plots culminate in a mature estate orchard used for harvest gatherings, cooking supply and scenic social moments — the space should feel older and richer each year.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Old Estate Orchard** — stone tree borders and traditional gravel paths | **Working Orchard** — timber borders, practical paths, baskets and tools | **Natural Orchard** — softer paths, wild grass borders, understated intervention |
+| Recovering | **Pollinator Orchard** — bee-friendly flowers and small habitat details | **Harvest Orchard** — baskets, ladders, fruit crates, practical accents | **Walking Orchard** — benches, lanterns, scenic pathways |
+| Renewed | **Pendrelle Orchard** — formal symmetry, estate benches, stone accents | **Blackmere Orchard** — local woodwork and handcrafted signs | **Country Orchard** — picnic details, rustic fencing, relaxed character |
+| Growing | **Picnic Grove** — tables, blankets, social seating | **Bee & Blossom Grove** — beehives, flowers, pollinator features | **Harvest Grove** — worktables, baskets, decorative fruit storage |
+| Prospering | **Victorian Orchard House** — decorative glass-and-iron greenhouse elements | **Blackmere Orchard House** — local timber and practical glass structure | **Inventor Orchard House** — automated vents, brass irrigation components, mechanical details |
+| Flourishing | **Grand Pendrelle Orchard** — formal mature-estate elegance | **Blackmere Grove** — lush, communal, handcrafted atmosphere | **Living Orchard** — naturalistic mature landscape emphasizing wildlife and social use |
