@@ -12,7 +12,6 @@ Version: 0.0.1
 - Holds the Pantry, Stove, and Blender for storing food and cooking.
 - Pantry is available starting at the Weathered stage.
 - Stove and Blender are available starting at the Rebuilding stage.
-- Food and ingredients no longer spoil starting at the Prospering stage.
 
 ---
 
@@ -25,7 +24,7 @@ Version: 0.0.1
 | Recovering        | 48 Storage Slots
 | Renewed           | 64 Storage Slots
 | Growing           | 80 Storage Slots
-| Prospering        | No Spoiled Food / 96 Storage Slots
+| Prospering        | 96 Storage Slots
 | Flourishing       | 112 Storage Slots
 
 * Weathered:
@@ -44,7 +43,21 @@ Version: 0.0.1
     - 80 slots should add workflow/life, not just shelving: ingredient baskets, preserves, family meal prep, or recipe-display props.
 
 * Prospering:
-    - No-spoil + 96 slots needs a visible invention/cold-cellar explanation; this is a major functional restoration and should alter shopping/harvest planning.
+    - 96 slots needs a visible invention/cold-cellar explanation; this is a major functional restoration and should alter shopping/harvest planning.
 
 * Flourishing:
     - 112 slots culminates in a communal kitchen: helpers/guests may use it during major meals, and the room visually feeds the Dining Hall/festival ecosystem.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Country Kitchen** — warm wood, ceramic cookware, simple shelves | **Pendrelle Kitchen** — dark cabinetry, brass fittings, traditional range styling | **Blackmere Kitchen** — local stone, handmade cabinetry, practical iron fixtures |
+| Recovering | **Baker's Kitchen** — bread boards, flour jars, warm textiles | **Herbal Kitchen** — hanging herbs, green accents, botanical storage | **Cook's Kitchen** — organized utensils, pots, ingredient preparation stations |
+| Renewed | **Family Kitchen** — warmer seating, recipe notes, lived-in details | **Estate Kitchen** — formal cabinetry, polished cookware, traditional service pieces | **Community Kitchen** — Blackmere pottery, local textiles, gifted kitchen objects |
+| Growing | **Preserver's Pantry** — jars, baskets, preserves, abundant ingredient displays | **Recipe Kitchen** — books, recipe cards, chalkboard/menu features | **Garden Kitchen** — flowers, herbs, produce baskets, botanical motifs |
+| Prospering | **Traditional Cold Cellar** — stone cooling features, ceramic storage, heritage design | **Inventor's Pantry** — brass cooling apparatus, gauges, insulated storage | **Refined Estate Pantry** — elegant cabinetry concealing upgraded preservation systems |
+| Flourishing | **Pendrelle Hearth** — warm, historic family kitchen restored to grandeur | **Blackmere Hearth** — local crafts and communal cooking character | **Modern Manor Kitchen** — elegant combination of traditional materials and subtle inventions |
