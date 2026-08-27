@@ -46,3 +46,17 @@ Version: 0.0.1
 
 * Flourishing:
     - Three horses culminates in a small working stable with distinct stalls and travel identity; a signature route/ride perk is more meaningful than capacity alone.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Rough Estate Stable** — repaired timber, simple tack, iron fittings | **Whitewashed Stable** — pale stall walls, dark beams, clean traditional look | **Blackmere Stable** — stone bases, reclaimed wood, locally forged hardware |
+| Recovering | **Grooming Stable** — brushes, blankets, wash equipment, care-focused details | **Rider's Stable** — saddle stands, bridles, travel equipment | **Comfort Stable** — softer bedding, warmer lighting, horse-comfort details |
+| Renewed | **Traditional Tack Room** — leather equipment, wooden cabinets, estate styling | **Traveler's Tack Room** — saddlebags, maps, route equipment | **Organized Tack Room** — labeled storage, clean equipment stations, functional design |
+| Growing | **Country Stable** — warm rustic woods, woven blankets, relaxed character | **Pendrelle Stable** — polished stalls, brass fittings, traditional estate elegance | **Blackmere Stable** — local craftsmanship, regional textiles, hand-forged fixtures |
+| Prospering | **Traveler's Stable** — route maps, saddlebags, mounted storage, expedition feel | **Equestrian Stable** — polished tack, grooming stations, refined riding equipment | **Inventor-Assisted Stable** — practical mechanical storage, brass indicators, subtle travel conveniences |
+| Flourishing | **Pendrelle Equestrian House** — fully restored historic estate stable with elegant tack and fittings | **Blackmere Riding Stable** — warm local craftsmanship, regional textiles, and community-made details | **Master Traveler's Stable** — refined travel equipment, organized route gear, and subtle invention-assisted mobility |
