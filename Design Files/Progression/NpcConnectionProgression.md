@@ -1057,6 +1057,6 @@ Version: 0.0.1
 
 **<u>Event:</u>** Holding the unfinished pocket watch, Lucian/Vivian quietly studies it before placing it beside Myrtle’s restored Grandfather Clock. After a long silence, they turn toward the player. “For years...I believed the safest future was the one no one could change.” They glance toward the Grandfather Clock. “Myrtle trusted me to protect this secret. I thought that meant protecting it from everyone.” Their expression softens. “Now I understand...she was waiting for someone worthy of trusting with it.” Rather than asking the player to stop using the Grandfather Clock, Lucian/Vivian finally accepts that the danger was never the power itself; it was believing that trust could be replaced by control. For the first time, they stop seeing the player as someone who must be watched...and begin seeing them as the steward Myrtle believed they could become.
 
-**<u>Reward:</u>** Time Manipulation maximum daily capacity is 10 more Chimes.
+**<u>Reward:</u>** Time Manipulation maximum daily capacity is 5 more Chimes.
 
 ---
