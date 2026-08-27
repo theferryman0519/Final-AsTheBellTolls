@@ -27,6 +27,31 @@ Version: 0.0.1
 
 ---
 
+## Time Manipulation Examples
+
+### Advance
+
+* Crop/flower growth
+* Soil recovery
+* Animal maturation
+* Animal byproduct timers
+* Invention Crafting & Testing
+* Building restoration after materials have been submitted
+* Eligible processing activities
+* Possibly fabrication/production queues
+
+### Preserve
+
+* Crops
+* Orchard crops
+* Flowers
+* Fish
+* Animal byproducts
+* Meals
+* Drinks
+
+---
+
 ## Advance Mechanic Breakdown
 
 | Time Duration    | Time Manipulation Duration
