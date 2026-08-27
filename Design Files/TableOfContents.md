@@ -405,3 +405,23 @@ Version: 0.0.1
 - UI System
 - Weather System
 - Weather Forecast System
+
+---
+
+# Scripts
+
+## Core
+
+- Services / Singleton.cs
+
+---
+
+## Templates
+
+- Controller_Template.cs
+- Coordinator_Template.cs
+- Enum_Template.cs
+- Models_Template.cs
+- SaveData_Template.cs
+- ScriptableObject_Template.cs
+- Service_Template.cs
