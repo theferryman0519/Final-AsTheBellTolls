@@ -67,7 +67,7 @@ Version: 0.0.1
 - Player joins in on all festivals, including the Grand Showcase.
 - Player has crafted about half of the Blueprint Book inventions.
 - NPCs have grown in their arcs due to completed quests and Connection Bonds.
-- Rupert (regional politician) has visited and seen the town being restored and thriving.
+- Rupert (regional politician) has visited and seen the town being restored and thriving at the start of Year 3.
 
 ---
 
@@ -78,3 +78,4 @@ Version: 0.0.1
 - Player has fully or close to fully restored all rooms in the manor and all buildings in Blackmere.
 - Player has crafted all or most inventions from their Blueprint Book.
 - Player has completed majority of achievements in Achievement Ledger.
+- Rupert has come back at the start of Year 4 for a follow-up if the player did not pass the first assessment.
