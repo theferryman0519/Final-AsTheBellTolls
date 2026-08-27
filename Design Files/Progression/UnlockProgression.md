@@ -40,8 +40,8 @@ Version: 0.0.1
 - Pantry (Kitchen): 32 slots of storage for food items
 - Workbench (Laboratory): Used to craft fabrications and inventions
 - Storage Chest (Laboratory): 32 slots of storage for non-food items
-- Time Manipulation (Central Room): Ability to use time manipulation
-- Max Chimes (Central Room): 6 Chimes to be used
+- Time Manipulation (Central Room): Ability to use Advance time manipulation
+- Max Chimes (Central Room): 5 Chimes to be used
 - Daily Advice (Butler Quarters): Edward gives the player a friendly piece of advice at the start of the day
 - Hoe: Tool used for tilling soil
 - Watering Can: Tool used for watering tilled soil
@@ -59,7 +59,8 @@ Version: 0.0.1
 - Max Stamina (Main Bedroom): 140 points of stamina
 - Pantry (Kitchen): 48 slots of storage for food items
 - Storage Chest (Laboratory): 48 slots of storage for non-food items
-- Max Chimes (Central Room): 8 Chimes to be used
+- Time Manipulation (Central Room): Ability to use Preserve time manipulation
+- Max Chimes (Central Room): 6 Chimes to be used
 - Weather Forecast (Butler Quarters): Three-day weather forecast added to the Calendar
 - Farming (Gardens): Ability to plant in 12 soil squares
 - Farming (Orchard): Ability to plant in 9 soil squares
@@ -75,7 +76,8 @@ Version: 0.0.1
 - Pantry (Kitchen): 64 slots of storage for food items
 - Tonic Kit (Laboratory): Personal way to craft tonics
 - Storage Chest (Laboratory): 64 slots of storage for non-food items
-- Max Chimes (Central Room): 10 Chimes to be used
+- Time Manipulation (Central Room): Ability to use Synchronize time manipulation
+- Max Chimes (Central Room): 8 Chimes to be used
 - Manor Report (Butler Quarters): Crop, flower, and animal growth information when interacting
 - Farming (Gardens): Ability to plant in 15 soil squares
 - Farming (Orchard): Ability to plant in 12 soil squares
@@ -92,7 +94,7 @@ Version: 0.0.1
 - Max Stamina (Main Bedroom): 180 points of stamina
 - Pantry (Kitchen): 80 slots of storage for food items
 - Storage Chest (Laboratory): 80 slots of storage for non-food items
-- Max Chimes (Central Room): 15 Chimes to be used
+- Max Chimes (Central Room): 10 Chimes to be used
 - Lost & Found (Butler Quarters): Edward gifts the player a non-food item at the start of each day
 - Farming (Gardens): Ability to plant in 18 soil squares
 - Farming (Orchard): Ability to plant in 15 soil squares
@@ -108,7 +110,7 @@ Version: 0.0.1
 - Spoiling (Kitchen): Food no longer spoils
 - Pantry (Kitchen): 96 slots of storage for food items
 - Storage Chest (Laboratory): 96 slots of storage for non-food items
-- Max Chimes (Central Room): 20 Chimes to be used
+- Max Chimes (Central Room): 12 Chimes to be used
 - Groundskeeper (Butler Quarters): Edward automatically harvests ready crops and flowers
 - Greenhouse Effect (Gardens & Orchard): Crops and flowers can grow during any season
 - Farming (Gardens): Ability to plant in 24 soil squares
@@ -126,7 +128,7 @@ Version: 0.0.1
 - Max Stamina (Main Bedroom): 220 points of stamina
 - Pantry (Kitchen): 112 slots of storage for food items
 - Storage Chest (Laboratory): 112 slots of storage for non-food items
-- Max Chimes (Central Room): 30 Chimes to be used
+- Max Chimes (Central Room): 15 Chimes to be used
 - Butler Tunnels (Butler Quarters): Fast travel for the player
 - Farming (Gardens): Ability to plant in 30 soil squares
 - Farming (Orchard): Ability to plant in 24 soil squares
@@ -199,7 +201,7 @@ Version: 0.0.1
 - Grand Showcase judging adds 10% more score (Roland 6 Keys)
 - Cooked drinks restore 25% more stamina (Theo 6 Keys)
 - General Store prices are reduced by 15% Bellnotes (Walter 6 Keys)
-- Time manipulation doubles the duration for each use (Lucian/Vivian 6 Keys)
+- Time Manipulation maximum daily capacity is 5 more Chimes (Lucian/Vivian 6 Keys)
 
 ---
 
