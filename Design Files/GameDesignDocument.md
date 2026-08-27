@@ -184,15 +184,7 @@ Blackmere's political abandonment develops into a long-term repossession threat.
 
 On **Spring 1, Year 3**, Regent Rupert returns to Blackmere to conduct a formal assessment. The timing intentionally gives the player two complete in-game years to establish their priorities before the town is judged.
 
-Rupert evaluates Blackmere across five broad pillars:
-
-1. **Structural Recovery** - essential buildings, routes, utilities, and public spaces have progressed beyond emergency survival.
-2. **Economic Viability** - local businesses, production, trade, and the town reserve demonstrate that Blackmere can support itself.
-3. **Civic Continuity** - important services, traditions, education, public gathering spaces, and community institutions are functioning.
-4. **Community Stability** - residents are participating in town life, routines have become more dependable, and the player has meaningfully supported the community.
-5. **Future Readiness** - inventions, infrastructure, resource systems, or other long-term improvements demonstrate that Blackmere has a credible path forward rather than merely surviving.
-
-The assessment should not require perfect completion or one prescribed build order. A player may pass through several different town profiles. For example, a highly restored agricultural and trade economy may compensate for slower cultural restoration, while a socially strong town with restored civic institutions may compensate for lower personal wealth.
+Rupert evaluates Blackmere across a variety of points, such as specific building restorations, character relationship growth, achievement completions, inventions crafted, and loan repayments. The assessment should not require perfect completion or one prescribed build order.
 
 A passing result represents evidence that Blackmere can remain viable without outside control. Rupert acknowledges the town's recovery, while still making clear that its future must be maintained rather than assumed.
 
@@ -200,32 +192,15 @@ A passing result represents evidence that Blackmere can remain viable without ou
 
 If Blackmere is clearly improving but does not meet enough of Rupert's Year 3 expectations, he issues a conditional result rather than immediate repossession. The town receives **one final year** to address specific deficiencies.
 
-The player is not given a generic checklist. Rupert identifies the weakest areas of that particular save and sets targeted expectations for the following year. Examples include:
-
-- Repairing essential infrastructure if Structural Recovery is deficient.
-- Raising town reserves or restoring specific businesses if Economic Viability is weak.
-- Reopening public services or improving festival participation if Civic Continuity is lacking.
-- Increasing resident participation, resolving key communal needs, or strengthening shared routines if Community Stability is poor.
-- Completing significant inventions or resilience projects if Future Readiness is insufficient.
-
-This makes the Year 4 objective responsive to how the player developed Blackmere rather than requiring every save to solve the same problem.
+The player is not given a generic checklist. Rupert identifies the weakest areas of that particular save and sets targeted expectations for the following year. This makes the Year 4 objective responsive to how the player developed Blackmere rather than requiring every save to solve the same problem.
 
 #### Year 4 Reassessment
 
-On **Spring 1, Year 4**, Rupert returns only if the town received a conditional Year 3 result. The reassessment focuses primarily on the deficiencies identified one year earlier, while confirming that previously healthy pillars have not collapsed.
+On **Spring 1, Year 4**, Rupert returns only if the town received a conditional Year 3 result. The reassessment focuses primarily on the deficiencies identified one year earlier, while confirming that previously stable achievements have not collapsed.
 
 A successful reassessment permanently resolves the immediate repossession threat and transitions the main story toward Blackmere's long-term future.
 
-A failed reassessment does **not** erase the save, destroy restored buildings, or force the player to restart. Instead, Blackmere enters a more restrictive continuation state. Possible consequences include:
-
-- Increased government oversight of the town treasury.
-- A temporary levy or percentage of certain external trade revenue.
-- Delayed access to some government-controlled trade or permits.
-- Additional civic projects required to demonstrate self-sufficiency.
-- New Rupert dialogue and quests centered on proving the assessment wrong.
-- Reduced outside confidence until the player completes a later recovery path.
-
-The player can continue restoring Blackmere and eventually earn a path back toward independence. Failure therefore changes the story and economic conditions rather than functioning as a conventional game-over state.
+A failed reassessment does **not** erase the save, destroy restored buildings, or force the player to restart. Instead, Blackmere enters a more restrictive continuation state, where taxes are placed on shops until a viable restoration can take place. The player can continue restoring Blackmere and eventually earn a path back toward independence. Failure therefore changes the story and economic conditions rather than functioning as a conventional game-over state.
 
 #### Design Intent
 
