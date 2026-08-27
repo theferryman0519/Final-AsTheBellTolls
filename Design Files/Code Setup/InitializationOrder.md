@@ -32,13 +32,14 @@ Version: 0.0.1
 - Validate duplicate and missing IDs.
 - Mark the Data Registry as ready.
 
-### 3. Save
+### 3. Save & Admin Data
 
 - Read save-slot metadata when loading an existing game.
 - Read GameSaveData.
 - Validate Save Version.
 - Apply required Save Migrations.
 - Keep Save Data available for domain reconstruction.
+- Loads Admin Save Data.
 
 ### 4. Core State
 
