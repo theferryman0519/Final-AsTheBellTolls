@@ -27,9 +27,9 @@ Version: 0.0.1
 | 0            | Trusted          | 100
 | 1            | Trusted          | 200
 | 2            | Trusted          | 300
-| 3            | Confidant        | 500
-| 4            | Confidant        | 700
-| 5            | Confidant        | 1,000
+| 3            | Bonded           | 500
+| 4            | Bonded           | 700
+| 5            | Bonded           | 1,000
 | 6            | Kindred          | n/a
 
 ---
