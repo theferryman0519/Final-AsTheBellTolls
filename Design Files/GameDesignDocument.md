@@ -386,7 +386,7 @@ Synchronization should create combinations that feel discovered and intentional.
 
 #### Chime Costs & Daily Limits
 
-Each manipulation consumes Chimes from a finite daily pool. Chimes recover at the beginning of a new day, with the available amount influenced by the player's prior rest in a manner consistent with the stamina system. Individual uses may consume different amounts based on scope, target, and category.
+Each manipulation consumes Chimes from a finite daily pool. Chimes reset to the player's current daily maximum at the beginning of each day. Unused Chimes do not carry into the following day. Individual uses may consume different amounts based on scope, target, and category.
 
 The Chime system follows several safeguards:
 
@@ -399,7 +399,7 @@ The Chime system follows several safeguards:
 
 The player's early use of Chimes is intentionally simple. Advance is introduced first because its result is immediately readable. Preserve is unlocked as the player becomes responsible for more simultaneous systems. Synchronize arrives later, when Blackmere contains enough restored routines, inventions, and services for timing relationships to become meaningful.
 
-As the game progresses, the player may develop a portable pocket watch. The pocket watch draws from the same daily pool of Chimes but provides a limited subset of valid manipulations while away from Pendrelle Manor. The grandfather clock remains the most precise and capable interface, preserving the Manor as the emotional and mechanical center of time stewardship.
+As the game progresses, the player may develop a portable pocket watch. The pocket watch draws from the same daily pool of Chimes but provides a limited subset of valid manipulations while away from Pendrelle Manor. The grandfather clock is the primary interface for all unlocked forms of time manipulation. The portable pocket watch later provides a restricted remote interface and does not replace the grandfather clock.
 
 In *As The Bell Tolls*, Chimes are not a way to conquer time. They are a way to decide where time should be given, what should be protected, and which parts of life are worth bringing into rhythm with one another.
 
