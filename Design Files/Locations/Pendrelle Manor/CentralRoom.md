@@ -48,3 +48,17 @@ Version: 0.0.1
 
 * Flourishing:
     - At Flourishing, the clock is Myrtle's legacy made whole: 15 Chimes plus rare civic resonance uses. The room should host story/family/community scenes so the mechanical heart is also the emotional heart.
+
+---
+
+## Visual Customizations
+
+| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
+|---|---|---|---|
+| Weathered | n/a | n/a | n/a |
+| Rebuilding | **Pendrelle Heritage** — dark wood clock surround, traditional rug, warm lamps | **Blackmere Restoration** — reclaimed local wood, stone accents, hand-restored furnishings | **Inventor's Revival** — brass details, exposed clockwork accents, practical work surfaces |
+| Recovering | **Preserved Parlor** — carefully restored antique seating and family objects | **Botanical Hall** — restrained plants, floral textiles, natural motifs | **Clockmaker's Hall** — horological diagrams, brass instruments, old clock components |
+| Renewed | **Grand Hall** — symmetrical furnishings, formal rug, restored chandelier | **Community Hall** — warmer seating clusters, local crafts, welcoming gathering space | **Workshop Salon** — elegant furnishings mixed with drafting tools and subtle mechanisms |
+| Growing | **Legacy Gallery** — family portraits, Manor artifacts, Pendrelle history | **Blackmere Gallery** — maps, town memorabilia, local artwork | **Invention Gallery** — selected completed inventions and technical sketches |
+| Prospering | **Regency Revival** — refined historical elegance and rich finishes | **Prosperous Blackmere** — sophisticated local materials and artisan craftsmanship | **Temporal Study** — subtle clockwork motifs, brass inlays, time-themed decorative elements |
+| Flourishing | **Myrtle's Legacy** — restored close to the Manor’s remembered family character | **Heart of Blackmere** — community gifts, town accomplishments, local craftsmanship | **Master Inventor's Hall** — tasteful synthesis of Manor heritage and the player's inventions |
