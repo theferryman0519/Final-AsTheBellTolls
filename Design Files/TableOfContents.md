@@ -142,6 +142,7 @@ Version: 0.0.1
 - Generic Weather
 - Greetings
 - Hated Gifts
+- Interaction Events
 - Intro
 - Liked Gifts
 - Loved Gifts
@@ -184,6 +185,7 @@ Version: 0.0.1
 - Breakfast at the Inn
 - Happenings
 - International Trade Cart
+- NPC Pair Interactions
 - Supper with the Mercers
 
 ### Seasonal Data
