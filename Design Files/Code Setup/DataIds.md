@@ -8337,6 +8337,14 @@ Version: 0.0.1
 - invention_silver-reel
 - invention_weaver-cradle
 
+### Civic Inventions
+
+- invention_ashfall-mine-ventilation-array
+- invention_blackmere-district-heating-network
+- invention_blackmere-floodgate-regulator
+- invention_municipal-fire-suppression-network
+- invention_municipal-street-lantern-network
+
 ### Grand Showcase Inventions
 
 - invention_adjustable-measuring-gauge
