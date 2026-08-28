@@ -28,6 +28,7 @@ Version: 0.0.1
 * AsTheBellTolls.Fishing
 * AsTheBellTolls.GameFlow
 * AsTheBellTolls.Gathering
+* AsTheBellTolls.Happening
 * AsTheBellTolls.Input
 * AsTheBellTolls.Interactions
 * AsTheBellTolls.Inventions
