@@ -15,6 +15,33 @@ Version: 0.0.1
 
 ---
 
+## Order of Dialogue Importance
+
+### Pre-Interact Dialogue Order:
+
+1. Greeting
+
+### Pre-Optioned Dialogue Order:
+
+1. BondEvent
+2. Festival
+3. Intro
+4. Repossession
+5. FirstMeet
+6. Proposal
+7. Reactive
+8. MarriedLife
+9. Generic
+
+### Optioned Dialogue Order:
+
+1. Quest
+2. Shopping
+3. Gift
+4. EdwardHelp
+
+---
+
 ## Speech Audio Information
 
 - Each character uses one of four base clip sets
