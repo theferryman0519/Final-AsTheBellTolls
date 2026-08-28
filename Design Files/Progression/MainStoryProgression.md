@@ -79,3 +79,4 @@ Version: 0.0.1
 - Player has crafted all or most inventions from their Blueprint Book.
 - Player has completed majority of achievements in Achievement Ledger.
 - Rupert has come back at the start of Year 4 for a follow-up if the player did not pass the first assessment.
+- Player unlocks the Vault at the manor and works on the Pendrelle Civic Compendium.
