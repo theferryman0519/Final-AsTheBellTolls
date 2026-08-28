@@ -73,7 +73,7 @@ Version: 0.0.1
 
 ## End Game (Years 4 and Beyond)
 
-- Player has gotten married and started a family with an NPC.
+- Player may have gotten married and started a family if those relationship paths were chosen.
 - NPCs have their Friendship and Connection levels at or near maximum.
 - Player has fully or close to fully restored all rooms in the manor and all buildings in Blackmere.
 - Player has crafted all or most inventions from their Blueprint Book.
