@@ -8195,32 +8195,6 @@ Version: 0.0.1
 
 ## Events
 
-### Festivals
-
-- event_festival_blackmere-trade-fair
-- event_festival_midsummer-splash
-- event_festival_grand-showcase
-- event_festival_harvest-supper
-- event_festival_eve-of-the-white-doe
-- event_festival_river-remembrance-day
-- event_festival_seedwake-brunch
-- event_festival_snow-bells-eve
-- event_festival_toll-of-hearths
-
-### Mini Festivals
-
-- event_mini_aurora-watch
-- event_mini_cooking-with-the-twins
-- event_mini_player-wedding
-- event_mini_salmon-run
-- event_mini_trout-trials
-
-### Ongoing Events
-
-- event_ongoing_breakfast-at-the-inn
-- event_ongoing_international-trade-cart
-- event_ongoing_supper-with-the-mercers
-
 ### Birthdays
 
 - event_birthday_adrian
@@ -8254,6 +8228,65 @@ Version: 0.0.1
 - event_birthday_theo
 - event_birthday_victor
 - event_birthday_walter
+
+### Festivals
+
+- event_festival_blackmere-trade-fair
+- event_festival_midsummer-splash
+- event_festival_grand-showcase
+- event_festival_harvest-supper
+- event_festival_eve-of-the-white-doe
+- event_festival_river-remembrance-day
+- event_festival_seedwake-brunch
+- event_festival_snow-bells-eve
+- event_festival_toll-of-hearths
+
+### Happenings
+
+- event_happening_birdsong-morning
+- event_happening_brief-sunshower
+- event_happening_butterfly-emergence
+- event_happening_chill-frost-morning
+- event_happening_clear-star-night
+- event_happening_double-rainbow
+- event_happening_dragonfly-morning
+- event_happening_firefly-bloom
+- event_happening_frog-chorus
+- event_happening_ground-frost
+- event_happening_gusty-afternoon
+- event_happening_heavy-dew
+- event_happening_heavy-morning-fog
+- event_happening_high-river-debris
+- event_happening_leaf-drift
+- event_happening_light-pillars
+- event_happening_low-river-mist
+- event_happening_meteor-shower
+- event_happening_migrating-geese
+- event_happening_mirror-still-lake
+- event_happening_morning-haze
+- event_happening_morning-spiderwebs
+- event_happening_passing-cloud-shadows
+- event_happening_petal-fall
+- event_happening_pollen-day
+- event_happening_river-crest
+- event_happening_sun-dogs
+- event_happening_thundersnow
+- event_happening_total-solar-eclipse
+- event_happening_windfall
+
+### Mini Festivals
+
+- event_mini_aurora-watch
+- event_mini_cooking-with-the-twins
+- event_mini_player-wedding
+- event_mini_salmon-run
+- event_mini_trout-trials
+
+### Ongoing Events
+
+- event_ongoing_breakfast-at-the-inn
+- event_ongoing_international-trade-cart
+- event_ongoing_supper-with-the-mercers
 
 ---
 
