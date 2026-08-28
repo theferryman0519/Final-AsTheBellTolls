@@ -198,6 +198,21 @@ Version: 0.0.1
 
 ---
 
+## Happening
+
+- HappeningObject.cs:
+    - DisplayName (string)
+    - Id (string)
+    - Duration (int)
+    - Rarity (HappeningRarityType)
+    - SeasonRequirement (CalendarSeasonType)
+    - DayRequirement (CalendarWeekDayType)
+    - WeatherRequirement (WeatherType)
+    - DaylightRequirement (TimeDaylightType)
+    - SpawnedObjects (List of ItemObject)
+
+---
+
 ## Input
 
 *None*
