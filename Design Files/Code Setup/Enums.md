@@ -558,6 +558,18 @@ Version: 0.0.1
 
 ---
 
+## Happening
+
+### HappeningRarityType
+
+- None (default)
+- Common
+- Uncommon
+- Rare
+- ExtremelyRare
+
+---
+
 ## Input
 
 ### InputDeviceType
@@ -638,6 +650,7 @@ Version: 0.0.1
 - Blueprint
 - Quest
 - GrandShowcase
+- Civic
 
 ---
 
@@ -1015,3 +1028,4 @@ Version: 0.0.1
 - Nursery
 - Orchard
 - Stables
+- Vault
