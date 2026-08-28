@@ -11,7 +11,7 @@ Version: 0.0.1
 
 Dialogue: "I heard what Mr. Munro said. It feels strange...like Blackmere could disappear while we're still trying to remember it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-anya
 
@@ -29,7 +29,7 @@ Variant: None
 
 Dialogue: "We passed. I think Dad would've liked seeing everyone work so hard to keep Blackmere here."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-anya
 
@@ -47,7 +47,7 @@ Variant: None
 
 Dialogue: "The rain was so loud last night. Mom says we're safe, but sometimes storms make old memories feel closer."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-anya
 
@@ -65,7 +65,7 @@ Variant: None
 
 Dialogue: "Everything looked different under all that snow. The memorials were almost hidden...but I still knew exactly where each one was."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-anya
 
@@ -83,7 +83,7 @@ Variant: None
 
 Dialogue: "Everyone was looking at what you made. I think you'll remember that moment for a long time...and maybe everyone else will, too."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-anya
 
@@ -101,7 +101,7 @@ Variant: None
 
 Dialogue: "I've been trying to draw the White Doe from memory. I don't think I'll ever get it quite right...but maybe that's all right."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-anya
 
@@ -119,7 +119,7 @@ Variant: None
 
 Dialogue: "The museum has so many things now. Even the little things someone might've forgotten have a place where they'll be remembered."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-anya
 
@@ -137,7 +137,7 @@ Variant: None
 
 Dialogue: "You found every book? That's...kind of wonderful. Stories can't disappear very easily when someone makes sure they're kept safe."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-anya
 
@@ -155,7 +155,7 @@ Variant: None
 
 Dialogue: "You looked happy at the wedding. I used to think new memories replaced old ones...but I don't think they have to anymore."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-anya
 
@@ -173,7 +173,7 @@ Variant: None
 
 Dialogue: "Your new pet already follows you everywhere. You should take lots of pictures...even ordinary days become important later."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-anya
 
@@ -191,7 +191,7 @@ Variant: None
 
 Dialogue: "Your baby will have so many first memories they won't remember themselves. I hope you keep some of them safe until they're old enough to hear about them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-anya
 
@@ -209,7 +209,7 @@ Variant: None
 
 Dialogue: "So...what happens now? I keep thinking there has to be something we haven't tried yet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-felix
 
@@ -227,7 +227,7 @@ Variant: None
 
 Dialogue: "We actually passed! I wasn't sure we would...but I guess all those little improvements really did add up."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-felix
 
@@ -245,7 +245,7 @@ Variant: None
 
 Dialogue: "The river got really high during that storm. I wanted to go look afterward...but Mom said I should probably wait until it's safe."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-felix
 
@@ -263,7 +263,7 @@ Variant: None
 
 Dialogue: "There were tracks everywhere after the snow stopped! I think some were rabbit tracks...but there was one set I couldn't figure out."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-felix
 
@@ -281,7 +281,7 @@ Variant: None
 
 Dialogue: "You won the whole Showcase! What was it like standing up there with everyone watching? I think I'd be terrified."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-felix
 
@@ -299,7 +299,7 @@ Variant: None
 
 Dialogue: "Do you think the White Doe comes to Graythorne Lake every year, even when nobody's there to see her? I've been wondering about it ever since that night."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-felix
 
@@ -317,7 +317,7 @@ Variant: None
 
 Dialogue: "You found everything? Everything? I didn't even know some of those things existed until you brought them in to the museum."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-felix
 
@@ -335,7 +335,7 @@ Variant: None
 
 Dialogue: "Every book is finally back in the library? There must be stories in there about places I've never even heard of. I wouldn't know where to start."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-felix
 
@@ -353,7 +353,7 @@ Variant: None
 
 Dialogue: "Your wedding looked really nice. Were you nervous before it started? I think I'd forget what I was supposed to say."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-felix
 
@@ -371,7 +371,7 @@ Variant: None
 
 Dialogue: "You got a pet! Have you figured out what they like exploring yet? Sometimes animals notice interesting things before people do."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-felix
 
@@ -389,7 +389,7 @@ Variant: None
 
 Dialogue: "Your baby's so small. I wonder what they'll be interested in when they're older...maybe they'll want to explore Blackmere too."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-felix
 
@@ -407,7 +407,7 @@ Variant: None
 
 Dialogue: "Wait, that's it? We fail one assessment and we're supposed to give up? No way. Tell me what needs fixing and I'll start looking!"
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-kira
 
@@ -425,7 +425,7 @@ Variant: None
 
 Dialogue: "Ha! I knew we could do it! Now I want to know what Mr. Munro thought when he realized Blackmere wasn't going anywhere."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-kira
 
@@ -443,7 +443,7 @@ Variant: None
 
 Dialogue: "Did you see how much the streams changed after that rain? I already marked three places I want to check...once Mom stops telling me the ground's still too dangerous."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-kira
 
@@ -461,7 +461,7 @@ Variant: None
 
 Dialogue: "The snow covered half my usual trails, but that's what made it interesting! There were tracks everywhere, broken branches, strange drifts...I need a bigger map."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-kira
 
@@ -479,7 +479,7 @@ Variant: None
 
 Dialogue: "You actually won the Grand Showcase! That's huge! So what are you building next?"
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-kira
 
@@ -497,7 +497,7 @@ Variant: None
 
 Dialogue: "I've been thinking about the White Doe ever since the festival. Where does she come from? Where does she go? There has to be a trail somewhere!"
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-kira
 
@@ -515,7 +515,7 @@ Variant: None
 
 Dialogue: "You found every single thing the museum needed? That's incredible! Although...if those were all out there, imagine what nobody's discovered yet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-kira
 
@@ -533,7 +533,7 @@ Variant: None
 
 Dialogue: "Every book? Seriously? There have to be old maps, hidden places, lost trails...I'm going to need a lot more reading time."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-kira
 
@@ -551,7 +551,7 @@ Variant: None
 
 Dialogue: "Congratulations! Your wedding was great, but I still don't understand how everyone managed to stand around talking for so long. I'd have been halfway into the forest by then."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-kira
 
@@ -569,7 +569,7 @@ Variant: None
 
 Dialogue: "You got a pet! You should bring them exploring sometime. Animals notice trails and smells we'd walk right past!"
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-kira
 
@@ -587,7 +587,7 @@ Variant: None
 
 Dialogue: "You have a baby now! Just wait until they're old enough to explore. I'll show them all the best places in Blackmere...well, the safe ones first."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-kira
 
@@ -605,7 +605,7 @@ Variant: None
 
 Dialogue: "Okay, so that was the bad ending. We just have to make sure the next part has a better one! Every good adventure gets a second chance."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-milo
 
@@ -623,7 +623,7 @@ Variant: None
 
 Dialogue: "We did it! Blackmere survives another chapter! I knew this story wasn't ending yet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-milo
 
@@ -641,7 +641,7 @@ Variant: None
 
 Dialogue: "That storm sounded like a hundred giants stomping across the roof! I was going to investigate, but apparently 'legendary explorers' aren't allowed outside during floods."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-milo
 
@@ -659,7 +659,7 @@ Variant: None
 
 Dialogue: "The whole farm turned into a frozen kingdom! I already found the perfect place for a fortress, but Kira says I have to wait until the snow settles."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-milo
 
@@ -677,7 +677,7 @@ Variant: None
 
 Dialogue: "Champion Inventor of the Grand Showcase! That's definitely going in the story. I might add an explosion or two when I tell Felix."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-milo
 
@@ -695,7 +695,7 @@ Variant: None
 
 Dialogue: "The White Doe came out of the darkness like some kind of forest guardian! I tried telling everyone that's what she was, but nobody can prove I'm wrong."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-milo
 
@@ -713,7 +713,7 @@ Variant: None
 
 Dialogue: "You filled the whole museum? That's like finishing the biggest treasure hunt in Blackmere! Except now we need another treasure hunt."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-milo
 
@@ -731,7 +731,7 @@ Variant: None
 
 Dialogue: "Every book is back! Imagine how many adventures are sitting on those shelves. We could probably read until we're a hundred and still miss some."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-milo
 
@@ -749,7 +749,7 @@ Variant: None
 
 Dialogue: "That wedding was great! You had decorations, everyone came, and there was food...that's practically an adventure with nicer clothes."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-milo
 
@@ -767,7 +767,7 @@ Variant: None
 
 Dialogue: "You have a new adventure partner! We need to give them a title. Something important...like Guardian of Pendrelle Manor!"
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-milo
 
@@ -785,7 +785,7 @@ Variant: None
 
 Dialogue: "A baby! They're too little for adventures now, but that's okay. We'll start with tiny adventures and work our way up."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-milo
 
@@ -803,7 +803,7 @@ Variant: None
 
 Dialogue: "I keep replaying the assessment in my head, wondering whether there was something we overlooked. Still...one poor result does not make Blackmere beyond saving."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-adrian
 
@@ -821,7 +821,7 @@ Variant: None
 
 Dialogue: "I confess, I had prepared myself for a rather different outcome. Perhaps that was unnecessary...the evidence was in our favor, after all."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-adrian
 
@@ -839,7 +839,7 @@ Variant: None
 
 Dialogue: "The rainfall was extraordinary. I spent part of the morning comparing it with older flood records...though I may have frightened myself more than informed myself."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-adrian
 
@@ -857,7 +857,7 @@ Variant: None
 
 Dialogue: "Blackmere becomes remarkably quiet beneath heavy snow. I had intended to work through several journals, but I found myself watching it instead."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-adrian
 
@@ -875,7 +875,7 @@ Variant: None
 
 Dialogue: "Winning the Grand Showcase is no small distinction. I imagine you're already considering what comes next...although I hope you've allowed yourself a moment to appreciate what you've accomplished."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-adrian
 
@@ -893,7 +893,7 @@ Variant: None
 
 Dialogue: "There are accounts of the White Doe scattered throughout Blackmere's older records, but none quite capture what we witnessed. I've begun wondering whether some things are diminished when they're explained too thoroughly."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-adrian
 
@@ -911,7 +911,7 @@ Variant: None
 
 Dialogue: "To see the museum's collection complete is rather remarkable. Objects that might once have seemed insignificant now form a record of Blackmere that should outlast all of us."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-adrian
 
@@ -929,7 +929,7 @@ Variant: None
 
 Dialogue: "Every missing volume has been returned. I had imagined this moment often enough that I expected to know what to say...apparently I was mistaken."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-adrian
 
@@ -947,7 +947,7 @@ Variant: None
 
 Dialogue: "You both seemed very happy. I suppose choosing to build a life with someone requires a certain confidence in the future...something I find rather admirable."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-adrian
 
@@ -965,7 +965,7 @@ Variant: None
 
 Dialogue: "Your new companion appears to have settled in remarkably quickly. Animals seem rather better than people at deciding where they belong without endlessly reconsidering it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-adrian
 
@@ -983,7 +983,7 @@ Variant: None
 
 Dialogue: "Congratulations. There is something extraordinary about realizing that a completely new life will grow up hearing Blackmere's stories as history rather than memory."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-adrian
 
@@ -1001,7 +1001,7 @@ Variant: None
 
 Dialogue: "Then the work isn't finished. Good. Now we know exactly what still needs to be improved."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-clara
 
@@ -1019,7 +1019,7 @@ Variant: None
 
 Dialogue: "We passed. That means the foundation is working. I already have notes for what should come next."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-clara
 
@@ -1037,7 +1037,7 @@ Variant: None
 
 Dialogue: "The storm exposed three drainage problems and at least two questionable rooflines. Miserable weather. Useful information."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-clara
 
@@ -1055,7 +1055,7 @@ Variant: None
 
 Dialogue: "Heavy snow makes poor design remarkably obvious. Roof loads, blocked paths, bad runoff...Blackmere gave me plenty to study."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-clara
 
@@ -1073,7 +1073,7 @@ Variant: None
 
 Dialogue: "First place suits you. Enjoy it before you start redesigning the winning invention in your head."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-clara
 
@@ -1091,7 +1091,7 @@ Variant: None
 
 Dialogue: "The lantern procession was beautifully arranged. Then the White Doe appeared and made the entire design irrelevant. Difficult to compete with that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-clara
 
@@ -1109,7 +1109,7 @@ Variant: None
 
 Dialogue: "The collection is complete. Now the museum needs to make every piece worth stopping for. Completion and presentation are not the same thing."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-clara
 
@@ -1127,7 +1127,7 @@ Variant: None
 
 Dialogue: "Every volume recovered. Adrian must be thrilled. I hope someone reinforced those shelves before you filled them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-clara
 
@@ -1145,7 +1145,7 @@ Variant: None
 
 Dialogue: "The ceremony came together beautifully. Clean layout, good use of space, nothing excessive. I noticed."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-clara
 
@@ -1163,7 +1163,7 @@ Variant: None
 
 Dialogue: "A pet changes how a home functions more than people expect. Floors, doors, furniture placement...you'll notice."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-clara
 
@@ -1181,7 +1181,7 @@ Variant: None
 
 Dialogue: "A child changes what a house needs entirely. Safety, storage, room to grow. Fortunately, Pendrelle Manor has potential."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-clara
 
@@ -1199,7 +1199,7 @@ Variant: None
 
 Dialogue: "A failed assessment is, admittedly, a discouraging entry in Blackmere's continuing history, though hardly an unprecedented one. Communities are seldom remembered because every endeavor succeeded upon its first attempt; quite often, posterity is far more interested in what people chose to do after circumstances turned against them. I suspect our response to this setback will ultimately prove more consequential than the assessment itself."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-dante
 
@@ -1217,7 +1217,7 @@ Variant: None
 
 Dialogue: "I confess, witnessing Blackmere formally recognized as worthy of continuation was unexpectedly affecting. Documents will eventually reduce the occasion to dates, figures, and signatures, but those records will fail to capture the extraordinary amount of human effort concealed behind such an uncomplicated word as 'passed.' Perhaps that is precisely why moments like this deserve someone willing to preserve the rest of the story."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-dante
 
@@ -1235,7 +1235,7 @@ Variant: None
 
 Dialogue: "There is something profoundly unsettling about hearing such violent rainfall in a town whose history has already been divided so decisively by water. I found myself inspecting several flood-era artifacts afterward, not because they required attention, but because the storm made their circumstances feel considerably less distant than usual. History occasionally has an unfortunate habit of reminding us that it was once someone's present."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-dante
 
@@ -1253,7 +1253,7 @@ Variant: None
 
 Dialogue: "Heavy snowfall has an extraordinary ability to make even familiar architecture appear almost archaeological, as though Blackmere had been preserved beneath a white covering and rediscovered overnight. I spent far too long considering how differently future generations might interpret our buildings if winter were the only season represented in surviving photographs. An absurdly specific concern, perhaps, but these matters occupy my thoughts more often than I care to admit."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-dante
 
@@ -1271,7 +1271,7 @@ Variant: None
 
 Dialogue: "Your victory at the Grand Showcase deserves more consideration than the trophy alone will ever communicate. Inventions displayed today may become the artifacts people study generations from now, wondering who conceived them and what sort of world made their creation necessary. You may find the notion premature, but history is exceptionally poor at announcing when it has begun."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-dante
 
@@ -1289,7 +1289,7 @@ Variant: None
 
 Dialogue: "The accounts describing the White Doe are frustratingly inconsistent, which I once regarded as an unfortunate deficiency in Blackmere's historical record. After witnessing her myself, however, I am beginning to appreciate why generations of observers struggled to confine the experience to precise language. Perhaps folklore survives not because people failed to document something properly, but because certain experiences become smaller the moment one attempts to explain them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-dante
 
@@ -1307,7 +1307,7 @@ Variant: None
 
 Dialogue: "I have imagined the Hall of Wonder with a complete collection for so long that actually standing within it feels rather less triumphant and considerably more humbling than expected. Every restored artifact represents an object that might otherwise have disappeared, taking some small fragment of Blackmere's history along with it. I hope you understand that what you have assembled here is not merely a collection...it is evidence that these stories were worth the trouble of saving."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-dante
 
@@ -1325,7 +1325,7 @@ Variant: None
 
 Dialogue: "Adrian informed me that the library's collection is complete, although I suspect 'informed' considerably understates the significance of the occasion. Written records and physical artifacts preserve history in entirely different ways, yet one becomes markedly poorer without the other. Between the library and the Hall of Wonder, Blackmere has recovered an extraordinary portion of the conversation between its past and present."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-dante
 
@@ -1343,7 +1343,7 @@ Variant: None
 
 Dialogue: "Marriage is an interesting institution from a historical perspective, though I imagine discussing matrimonial customs immediately following your own wedding would be an extraordinarily efficient way to ruin a perfectly pleasant conversation. So I shall resist the temptation. Instead, allow me simply to say that I hope the life you create together proves worthy of remembering for reasons no historian would ever think to record."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-dante
 
@@ -1361,7 +1361,7 @@ Variant: None
 
 Dialogue: "It is remarkable how rarely ordinary domestic animals appear in formal historical records despite how thoroughly they inhabit people's actual lives. Your new companion may never warrant a museum exhibit, admittedly, but I suspect years from now some of your clearest memories of Pendrelle Manor will include them nonetheless. History is considerably larger than the things curators place behind glass."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-dante
 
@@ -1379,7 +1379,7 @@ Variant: None
 
 Dialogue: "There is something almost incomprehensible about welcoming someone whose entire understanding of Blackmere will begin after so much of what shaped us has already occurred. One day, events we still remember personally will be stories told to them by someone who was there. I suppose that is how history truly begins...not inside museums, but when one generation decides what is worth passing to the next."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-dante
 
@@ -1397,7 +1397,7 @@ Variant: None
 
 Dialogue: "Well, that's dreadful. But one bad verdict doesn't mean Blackmere suddenly stopped being worth saving. We dust ourselves off, fix what's ugly, and make the next impression impossible to ignore."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-leo
 
@@ -1415,7 +1415,7 @@ Variant: None
 
 Dialogue: "We passed! Oh, you should've seen everyone's faces afterward. Blackmere finally looked like a town remembering how good it feels to stand a little taller."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-leo
 
@@ -1433,7 +1433,7 @@ Variant: None
 
 Dialogue: "That rain was absolutely miserable. Half the town looked like a drowned wardrobe by morning. Still, everyone checking on one another afterward was rather lovely."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-leo
 
@@ -1451,7 +1451,7 @@ Variant: None
 
 Dialogue: "Blackmere looked gorgeous under all that snow. Completely impractical, of course, but gorgeous. Nothing makes a bright scarf look better than an entire town dressed in white."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-leo
 
@@ -1469,7 +1469,7 @@ Variant: None
 
 Dialogue: "There you are, Grand Showcase champion! And before you say anything, yes, winning absolutely counts as an occasion for a new outfit. Success deserves proper presentation."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-leo
 
@@ -1487,7 +1487,7 @@ Variant: None
 
 Dialogue: "The lanterns, the darkness, everyone waiting together...and then she appeared. You couldn't design a more beautiful entrance if you tried. Believe me, I already have."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-leo
 
@@ -1505,7 +1505,7 @@ Variant: None
 
 Dialogue: "The Hall of Wonder is finally complete! Dante must be beside himself. Though I do hope all those artifacts leave enough room for people to actually walk through the galleries."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-leo
 
@@ -1523,7 +1523,7 @@ Variant: None
 
 Dialogue: "Every missing book is back? Adrian deserves a celebration...preferably one where nobody hands him another stack of things to catalog. The poor man might actually have to relax."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-leo
 
@@ -1541,7 +1541,7 @@ Variant: None
 
 Dialogue: "You looked wonderful together. Not just the clothes, though obviously I noticed those. You both had that look people get when they finally stop worrying about everyone else in the room."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-leo
 
@@ -1559,7 +1559,7 @@ Variant: None
 
 Dialogue: "Oh, your pet is adorable! Give it a week and you'll be coordinating your entire life around where they sleep, shed, and decide they're absolutely entitled to sit."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-leo
 
@@ -1577,7 +1577,7 @@ Variant: None
 
 Dialogue: "A baby! Congratulations, truly. And don't you dare save all the nice clothes for special occasions...children grow far too quickly for that sort of nonsense."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-leo
 
@@ -1595,7 +1595,7 @@ Variant: None
 
 Dialogue: "We failed. That means we identify what went wrong, correct it, and make certain it doesn't happen twice. Blackmere isn't finished yet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-madison
 
@@ -1613,7 +1613,7 @@ Variant: None
 
 Dialogue: "We passed. Everyone earned that result. Now we keep moving and make sure Blackmere stays worth protecting."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-madison
 
@@ -1631,7 +1631,7 @@ Variant: None
 
 Dialogue: "I've finished checking the low roads and waterways. A few areas still need watching, so stay clear of anything marked unsafe. I'd rather be overly cautious than explain why I wasn't."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-madison
 
@@ -1649,7 +1649,7 @@ Variant: None
 
 Dialogue: "Several paths are still difficult to travel, and the outer routes are worse. Give the crews room to clear them before heading too far from town. Pride isn't worth a rescue call."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-madison
 
@@ -1667,7 +1667,7 @@ Variant: None
 
 Dialogue: "Congratulations. You represented Blackmere well, and you earned the recognition. Just don't let a trophy convince you there's nothing left to improve."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-madison
 
@@ -1685,7 +1685,7 @@ Variant: None
 
 Dialogue: "I've walked those trails more times than I can count, and I've never seen anything quite like her. I checked the area again afterward. No tracks worth following."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-madison
 
@@ -1703,7 +1703,7 @@ Variant: None
 
 Dialogue: "The Hall of Wonder is finally complete. That's a considerable amount of Blackmere's history accounted for and protected. Good work."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-madison
 
@@ -1721,7 +1721,7 @@ Variant: None
 
 Dialogue: "Every missing book has been recovered. Adrian has spent years protecting what survived the flood. It's good to see that effort finally matched by what came home."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-madison
 
@@ -1739,7 +1739,7 @@ Variant: None
 
 Dialogue: "Congratulations to both of you. A good partnership means trusting someone else to carry part of the weight. That's worth more than people realize."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-madison
 
@@ -1757,7 +1757,7 @@ Variant: None
 
 Dialogue: "Your new pet seems comfortable at the manor already. Keep their identification current and make sure they know where home is. Beyond that, enjoy the company."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-madison
 
@@ -1775,7 +1775,7 @@ Variant: None
 
 Dialogue: "Congratulations. Raising a child means there will always be something new to worry about. Fortunately, they'll be growing up in a town with plenty of people willing to look out for them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-madison
 
@@ -1793,7 +1793,7 @@ Variant: None
 
 Dialogue: "Then something wasn't strong enough. Fine. Find the weak point, fix it properly, and make sure it holds next time."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-mara
 
@@ -1811,7 +1811,7 @@ Variant: None
 
 Dialogue: "Good. Means the work held up under inspection. Doesn't mean we stop maintaining it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-mara
 
@@ -1829,7 +1829,7 @@ Variant: None
 
 Dialogue: "Rain like that finds every bad joint, weak board, and neglected seal in town. I've already got a repair list longer than my arm."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-mara
 
@@ -1847,7 +1847,7 @@ Variant: None
 
 Dialogue: "Heavy snow puts a lot more strain on a structure than people realize. If you hear anything creaking that shouldn't be, don't stare at it. Come get me."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-mara
 
@@ -1865,7 +1865,7 @@ Variant: None
 
 Dialogue: "You built something good enough to win. That's worth being proud of. Just remember, the real test is whether it still works after everyone's stopped applauding."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-mara
 
@@ -1883,7 +1883,7 @@ Variant: None
 
 Dialogue: "I've spent plenty of time in Gloamwood, and I've never seen a deer move like that. Didn't hear her coming. Didn't find much sign after she left, either."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-mara
 
@@ -1901,7 +1901,7 @@ Variant: None
 
 Dialogue: "That museum's full at last. Good thing, too. No point recovering all those pieces if nobody builds somewhere solid enough to keep them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-mara
 
@@ -1919,7 +1919,7 @@ Variant: None
 
 Dialogue: "Every book's back? Adrian must've checked the shelves twice by now. I'd better make sure he hasn't overloaded any of them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-mara
 
@@ -1937,7 +1937,7 @@ Variant: None
 
 Dialogue: "Marriage, huh? Building something with another person means trusting them with part of the work. Harder than it sounds. Worth it when you've got the right partner."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-mara
 
@@ -1955,7 +1955,7 @@ Variant: None
 
 Dialogue: "New pet? Check the fences, gates, and anything they can squeeze under before you assume they're secure. Animals are excellent at finding the one part you forgot."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-mara
 
@@ -1973,7 +1973,7 @@ Variant: None
 
 Dialogue: "Congratulations. You'll want sturdy furniture, covered corners, and anything fragile moved higher than you think necessary. Kids test construction better than storms do."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-mara
 
@@ -1991,7 +1991,7 @@ Variant: None
 
 Dialogue: "We'll make it right. Might take more work than we hoped, but that's never stopped Blackmere before."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-marcus
 
@@ -2009,7 +2009,7 @@ Variant: None
 
 Dialogue: "Good to hear. Folks put a lot into getting us this far. I'm glad the work counted for something."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-marcus
 
@@ -2027,7 +2027,7 @@ Variant: None
 
 Dialogue: "Bad night. I've already had a few people bring in damaged tools and fittings. If you've got anything that needs fixing, leave it with me."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-marcus
 
@@ -2045,7 +2045,7 @@ Variant: None
 
 Dialogue: "Cold did a number on a few hinges and tools around town. Nothing that can't be repaired. Just don't force anything that's frozen stiff."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-marcus
 
@@ -2063,7 +2063,7 @@ Variant: None
 
 Dialogue: "You earned that win. Good work should speak for itself, and yours did."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-marcus
 
@@ -2081,7 +2081,7 @@ Variant: None
 
 Dialogue: "Never seen anything like that White Doe before. Suppose not everything needs an explanation. Some things are worth seeing once and leaving alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-marcus
 
@@ -2099,7 +2099,7 @@ Variant: None
 
 Dialogue: "Whole collection's finally together. That's good. Plenty of people worked hard to make sure those pieces had somewhere safe to stay."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-marcus
 
@@ -2117,7 +2117,7 @@ Variant: None
 
 Dialogue: "Every book made it back? Adrian's been waiting a long time for that. Glad he gets to see the shelves full again."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-marcus
 
@@ -2135,7 +2135,7 @@ Variant: None
 
 Dialogue: "Congratulations. Having someone beside you makes the hard days easier. Don't forget to make time for the good ones, too."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-marcus
 
@@ -2153,7 +2153,7 @@ Variant: None
 
 Dialogue: "Looks like you've got another mouth to feed. Doesn't seem like a bad trade for the company."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-marcus
 
@@ -2171,7 +2171,7 @@ Variant: None
 
 Dialogue: "Congratulations. That little one will need plenty from you. Just remember you're allowed to need things, too."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-marcus
 
@@ -2189,7 +2189,7 @@ Variant: None
 
 Dialogue: "Well, that's one way to put a hole in the boat. Doesn't mean we sink with it, though. Patch it up, grab an oar, and keep moving."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-nora
 
@@ -2207,7 +2207,7 @@ Variant: None
 
 Dialogue: "Ha! There we go! Blackmere's still afloat, everyone's smiling, and I fully intend to enjoy that before somebody invents another crisis."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-nora
 
@@ -2225,7 +2225,7 @@ Variant: None
 
 Dialogue: "River got mean last night. Kept me busy tying down half the fishery and pretending I wasn't checking the water every five minutes. Still here, though. That's what matters."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-nora
 
@@ -2243,7 +2243,7 @@ Variant: None
 
 Dialogue: "I'll take rain over that much snow any day. Couldn't fish, couldn't swim, nearly froze my boots solid. Absolutely terrible for morale."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-nora
 
@@ -2261,7 +2261,7 @@ Variant: None
 
 Dialogue: "Grand Showcase champion! Look at you! I'd offer to write a victory shanty, but I think we both deserve better than that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-nora
 
@@ -2279,7 +2279,7 @@ Variant: None
 
 Dialogue: "Now that's a story worth telling. Dark lake, dead-quiet crowd, mysterious White Doe...half the work's already done for me. Shame nobody would believe it if they hadn't been there."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-nora
 
@@ -2297,7 +2297,7 @@ Variant: None
 
 Dialogue: "You filled the whole museum? That's one impressive haul. Dante gets the artifacts, I keep the ridiculous stories, and between us Blackmere ought to remember everything."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-nora
 
@@ -2315,7 +2315,7 @@ Variant: None
 
 Dialogue: "Every book's back on the shelves? Brilliant. Now Adrian can finally relax for five minutes before discovering some other impossible thing to organize."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-nora
 
@@ -2333,7 +2333,7 @@ Variant: None
 
 Dialogue: "Congratulations, you two. Life's easier when you've got somebody willing to share the boat...especially when the weather turns ugly."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-nora
 
@@ -2351,7 +2351,7 @@ Variant: None
 
 Dialogue: "Oh, you've got yourself a new deckhand! Doesn't look terribly useful with a fishing net, but I suppose companionship counts for something."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-nora
 
@@ -2369,7 +2369,7 @@ Variant: None
 
 Dialogue: "A baby! Well, congratulations. Get ready for sleepless nights, mysterious noises, and stories you'll still be telling twenty years from now. Sounds like a proper adventure to me."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-nora
 
@@ -2387,7 +2387,7 @@ Variant: None
 
 Dialogue: "I know everyone is disappointed. But disappointment only means people cared deeply about the outcome. What matters now is helping each other believe another attempt is worth making."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-sabrina
 
@@ -2405,7 +2405,7 @@ Variant: None
 
 Dialogue: "Did you see how proud everyone looked? I think Blackmere needed that almost as much as it needed the assessment itself. Sometimes people need proof that their effort really is making a difference."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-sabrina
 
@@ -2423,7 +2423,7 @@ Variant: None
 
 Dialogue: "The children were frightened by that storm, even the ones pretending they weren't. I kept thinking about whether everyone had someone nearby to reassure them. I suppose adults need that sometimes, too."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-sabrina
 
@@ -2441,7 +2441,7 @@ Variant: None
 
 Dialogue: "No lessons today, thankfully. I'd much rather have everyone home and safe than worry about a missed day of school. We can always learn tomorrow."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-sabrina
 
@@ -2459,7 +2459,7 @@ Variant: None
 
 Dialogue: "You should be proud of yourself. Not simply because you won, but because everyone who watched you saw what patience and persistence can become. That kind of example matters."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-sabrina
 
@@ -2477,7 +2477,7 @@ Variant: None
 
 Dialogue: "The children haven't stopped talking about the White Doe. Each of them remembers something different, and somehow I think that's my favorite part. One evening gave all of them a story they'll carry differently."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-sabrina
 
@@ -2495,7 +2495,7 @@ Variant: None
 
 Dialogue: "I took the children through the museum again after the final donation. They asked more questions than Dante could possibly answer...which is saying something. You gave their curiosity somewhere to grow."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-sabrina
 
@@ -2513,7 +2513,7 @@ Variant: None
 
 Dialogue: "Every book is finally home. There are children in my classroom who haven't found the story that changes something in them yet. Now there's a better chance that story is waiting on those shelves."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-sabrina
 
@@ -2531,7 +2531,7 @@ Variant: None
 
 Dialogue: "You seemed so peaceful together. That's what stayed with me afterward. I hope you always give one another somewhere safe to be imperfect."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-sabrina
 
@@ -2549,7 +2549,7 @@ Variant: None
 
 Dialogue: "Oh, what a sweet addition to the manor. Children learn so much from caring for something that depends on them. Adults probably do, too."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-sabrina
 
@@ -2567,7 +2567,7 @@ Variant: None
 
 Dialogue: "You don't have to know how to do everything perfectly. Your child needs someone who listens, encourages them, and keeps believing in them when they struggle. You'll learn the rest together."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-sabrina
 
@@ -2585,7 +2585,7 @@ Variant: None
 
 Dialogue: "We could call that the end of the road. Or we could call it an expensive lesson and keep walking. Personally, I prefer the second deal."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-victor
 
@@ -2603,7 +2603,7 @@ Variant: None
 
 Dialogue: "Interesting choice before us now: celebrate properly, or immediately start worrying about the next problem. I vote we make the rare sensible decision and enjoy this one."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-victor
 
@@ -2621,7 +2621,7 @@ Variant: None
 
 Dialogue: "I've traveled through worse storms. I've also traveled through better ones, and I recommend those. Either way, the roads will still be there when the water settles."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-victor
 
@@ -2639,7 +2639,7 @@ Variant: None
 
 Dialogue: "A good trader knows when to press onward and when to stay somewhere warm. Yesterday was very firmly the second sort of day. Even I know when the road has won an argument."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-victor
 
@@ -2657,7 +2657,7 @@ Variant: None
 
 Dialogue: "Now that's valuable: one winning invention, one excellent reputation, and an entire crowd suddenly interested in whatever you make next. Careful. Success attracts buyers."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-victor
 
@@ -2675,7 +2675,7 @@ Variant: None
 
 Dialogue: "I've heard travelers sell stranger stories than the White Doe, but usually they ask for a drink before telling them. This time I saw the story myself. Makes it rather harder to bargain with."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-victor
 
@@ -2693,7 +2693,7 @@ Variant: None
 
 Dialogue: "Funny thing about objects: I spend my life moving them from one place to another, and Dante spends his making sure they never move again. Looks like you finally gave him every last story he was waiting for."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-victor
 
@@ -2711,7 +2711,7 @@ Variant: None
 
 Dialogue: "Every book recovered? That's quite a collection of journeys for things that never leave the shelf. I suppose there are worse ways to see the world."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-victor
 
@@ -2729,7 +2729,7 @@ Variant: None
 
 Dialogue: "People talk about marriage as though choosing one person means giving something up. Maybe. Or maybe finding someone worth choosing makes all the other possibilities matter less."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-victor
 
@@ -2747,7 +2747,7 @@ Variant: None
 
 Dialogue: "You've picked up a traveling companion who doesn't seem interested in traveling. Clever creature. Give them a comfortable home and they'll probably convince you staying put was your idea."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-victor
 
@@ -2765,7 +2765,7 @@ Variant: None
 
 Dialogue: "That's quite the commitment you've made. No returns, no exchanges, and I hear the terms change constantly. Still...some things are worth choosing without knowing every detail first."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-victor
 
@@ -2783,7 +2783,7 @@ Variant: None
 
 Dialogue: "Then Blackmere was not ready. Complaining about the judgment will not change that. Improve the town and make the next verdict undeniable."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-agatha
 
@@ -2801,7 +2801,7 @@ Variant: None
 
 Dialogue: "Good. A town survives because its people prove it deserves to. Remember that before anyone grows complacent."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-agatha
 
@@ -2819,7 +2819,7 @@ Variant: None
 
 Dialogue: "Storms reveal preparation better than promises ever will. Blackmere endured this one. See that we learn from what did not."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-agatha
 
@@ -2837,7 +2837,7 @@ Variant: None
 
 Dialogue: "Snow has buried this town before. It melted then, too. Clear what must be cleared and stop treating winter as a personal insult."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-agatha
 
@@ -2855,7 +2855,7 @@ Variant: None
 
 Dialogue: "You won. Deservedly, I should add. Now prove the invention mattered for more than a single afternoon."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-agatha
 
@@ -2873,7 +2873,7 @@ Variant: None
 
 Dialogue: "People have been telling stories of the White Doe since before most of this town was standing. You saw her. Be grateful for that and resist the modern obsession with explaining everything."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-agatha
 
@@ -2891,7 +2891,7 @@ Variant: None
 
 Dialogue: "At last. A town that cannot preserve its history eventually invents a more convenient version of it. See that the Hall of Wonder never allows that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-agatha
 
@@ -2909,7 +2909,7 @@ Variant: None
 
 Dialogue: "Every volume returned to the shelves. Good. I did not spend half my life arguing that Blackmere needed a library for it to stand half-empty."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-agatha
 
@@ -2927,7 +2927,7 @@ Variant: None
 
 Dialogue: "Marriage is not sustained by a wedding. It is sustained by choosing the same person on days when doing so is inconvenient. Roland and I have had ample opportunity to verify that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-agatha
 
@@ -2945,7 +2945,7 @@ Variant: None
 
 Dialogue: "So the manor has acquired another resident. Feed it properly, train it sensibly, and do not complain when it develops opinions about your furniture."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-agatha
 
@@ -2963,7 +2963,7 @@ Variant: None
 
 Dialogue: "A child does not need you to preserve the world exactly as you found it. They need you to leave them something worth inheriting. There is a difference."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-agatha
 
@@ -2981,7 +2981,7 @@ Variant: None
 
 Dialogue: "Blackmere did not meet the standard required of it. That is not a sentence; it is a responsibility. We will answer it with work."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-beatrice
 
@@ -2999,7 +2999,7 @@ Variant: None
 
 Dialogue: "The assessment is complete, and Blackmere has passed. I am proud of what this town accomplished. More importantly, I am grateful no one had to accomplish it alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-beatrice
 
@@ -3017,7 +3017,7 @@ Variant: None
 
 Dialogue: "All essential areas have been accounted for, and the remaining damage is being addressed. I would prefer never to hear rain like that again. Preference, however, has very little to do with preparedness."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-beatrice
 
@@ -3035,7 +3035,7 @@ Variant: None
 
 Dialogue: "Travel remains limited, but services are holding and no resident has been left without assistance. That is the measure I care about. The rest can be cleared."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-beatrice
 
@@ -3053,7 +3053,7 @@ Variant: None
 
 Dialogue: "Your victory reflects well on you and on Blackmere. Recognition is useful when it reminds people what this town is capable of becoming. See that you give them further reason to remember."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-beatrice
 
@@ -3071,7 +3071,7 @@ Variant: None
 
 Dialogue: "I have organized that evening more times than I care to count, yet the moment she appears never feels like something one can organize. Perhaps that is why the tradition has endured. Blackmere still needs a few things beyond our control."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-beatrice
 
@@ -3089,7 +3089,7 @@ Variant: None
 
 Dialogue: "The Hall of Wonder's collection is complete. That gives Blackmere something more valuable than a full gallery: continuity. We lost enough history to the flood already."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-beatrice
 
@@ -3107,7 +3107,7 @@ Variant: None
 
 Dialogue: "Every missing volume has been recovered. The library can finally serve Blackmere as completely as it was meant to. My mother will have opinions about this, naturally."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-beatrice
 
@@ -3125,7 +3125,7 @@ Variant: None
 
 Dialogue: "On behalf of Blackmere, congratulations. Speaking only for myself...I hope you build a life together that asks neither of you to carry it alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-beatrice
 
@@ -3143,7 +3143,7 @@ Variant: None
 
 Dialogue: "I understand Pendrelle Manor has a new resident. No paperwork required, thankfully. I hope the arrangement proves considerably less complicated than most matters crossing my desk."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-beatrice
 
@@ -3161,7 +3161,7 @@ Variant: None
 
 Dialogue: "Another child will grow up calling Blackmere home. There are days when that thought feels like the clearest measure of our recovery. Congratulations."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-beatrice
 
@@ -3179,7 +3179,7 @@ Variant: None
 
 Dialogue: "Didn't pass. Means there's more to carry. Fine. We carry it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-claudia
 
@@ -3197,7 +3197,7 @@ Variant: None
 
 Dialogue: "Passed. Good. Everyone put something into that result. Nobody gets to pretend otherwise."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-claudia
 
@@ -3215,7 +3215,7 @@ Variant: None
 
 Dialogue: "Water rose fast. Farm held. Family's safe. That's enough for me today."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-claudia
 
@@ -3233,7 +3233,7 @@ Variant: None
 
 Dialogue: "Roads are rough. Work can wait. Nobody in my family is breaking their neck over something that will still be there tomorrow."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-claudia
 
@@ -3251,7 +3251,7 @@ Variant: None
 
 Dialogue: "You won. Means what you built did its job better than the rest. That's the sort of prize I understand."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-claudia
 
@@ -3269,7 +3269,7 @@ Variant: None
 
 Dialogue: "Saw the White Doe. Didn't chase her. Didn't need to. Some things are better left where you found them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-claudia
 
@@ -3287,7 +3287,7 @@ Variant: None
 
 Dialogue: "Last piece is in. Good. Things pulled out of the ground shouldn't disappear into somebody's drawer forever."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-claudia
 
@@ -3305,7 +3305,7 @@ Variant: None
 
 Dialogue: "Every book made it back. Kids ought to have something besides their parents' mistakes to learn from."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-claudia
 
@@ -3323,7 +3323,7 @@ Variant: None
 
 Dialogue: "Marriage works better when both people carry something. Jonas had to teach me that. Took longer than it should've."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-claudia
 
@@ -3341,7 +3341,7 @@ Variant: None
 
 Dialogue: "Feed it. Keep it safe. Let the kids spoil it a little. That's usually enough."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-claudia
 
@@ -3359,7 +3359,7 @@ Variant: None
 
 Dialogue: "You'll want to give them everything. You can't. Give them a safe home, teach them what you know, and let other people help with the rest."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-claudia
 
@@ -3377,7 +3377,7 @@ Variant: None
 
 Dialogue: "A disappointing result, certainly. Nevertheless, the proper response to a house found wanting is not despair, but attention. There is still work to be done, [Player]."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-edward
 
@@ -3395,7 +3395,7 @@ Variant: None
 
 Dialogue: "A favorable result, [Player]. I shall permit myself a modest degree of satisfaction. The manor has not been the only thing restored these past years."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-edward
 
@@ -3413,7 +3413,7 @@ Variant: None
 
 Dialogue: "I have inspected the windows, roofing, cellar access, and every vulnerable room twice. Once would ordinarily suffice. Last night's weather did not feel ordinary."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-edward
 
@@ -3431,7 +3431,7 @@ Variant: None
 
 Dialogue: "Pendrelle Manor is warm, provisioned, and secure. Under such circumstances, I believe the weather may behave as dramatically as it pleases."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-edward
 
@@ -3449,7 +3449,7 @@ Variant: None
 
 Dialogue: "Congratulations, [Player]. Your grandmother possessed a similar habit of making extraordinary accomplishments appear merely the next item requiring attention. I would advise celebrating before you inherit that particular tendency."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-edward
 
@@ -3467,7 +3467,7 @@ Variant: None
 
 Dialogue: "One learns, after sufficient years, that not every mystery benefits from being disturbed. The White Doe has belonged to Blackmere's stories for a very long time. I see no urgent need to evict her from them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-edward
 
@@ -3485,7 +3485,7 @@ Variant: None
 
 Dialogue: "The Hall of Wonder is complete at last. Mrs. Pendrelle believed a community ought to know what it had inherited before deciding what to become. I suspect she would have approved."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-edward
 
@@ -3503,7 +3503,7 @@ Variant: None
 
 Dialogue: "Every volume returned. Excellent, [Player]. A household may survive the loss of a book rather more easily than a town can survive the loss of its memory."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-edward
 
@@ -3521,7 +3521,7 @@ Variant: None
 
 Dialogue: "I have taken the liberty of preparing the manor for two rather than one, [Player]. Strictly a matter of household management, of course. Though I confess, it is pleasant to hear the rooms becoming less quiet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-edward
 
@@ -3539,7 +3539,7 @@ Variant: None
 
 Dialogue: "I have moved the more vulnerable antiques beyond easy reach and adjusted the household routine accordingly. No inconvenience whatsoever. Pendrelle Manor has accommodated considerably more troublesome residents."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-edward
 
@@ -3557,7 +3557,7 @@ Variant: None
 
 Dialogue: "The nursery has stood quiet for a very long time, [Player]. I shall see that everything is properly prepared. It will be...good to have need of that room again."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-edward
 
@@ -3575,7 +3575,7 @@ Variant: None
 
 Dialogue: "The figures were insufficient. Unpleasant, but useful. A known deficit can be corrected; an ignored one cannot."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-elise
 
@@ -3593,7 +3593,7 @@ Variant: None
 
 Dialogue: "By every reasonable measure, Blackmere earned the result. I had prepared contingencies for the alternative. I am rather pleased they will remain unused."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-elise
 
@@ -3611,7 +3611,7 @@ Variant: None
 
 Dialogue: "Damage can be valued. Repairs can be budgeted. The difficult part is accounting for how quickly people become afraid when the river rises."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-elise
 
@@ -3629,7 +3629,7 @@ Variant: None
 
 Dialogue: "Lost business, delayed deliveries, additional heating costs...predictable consequences. Staying home was still the more sensible expense."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-elise
 
@@ -3647,7 +3647,7 @@ Variant: None
 
 Dialogue: "A successful invention must demonstrate usefulness, reliability, and sufficient advantage over its alternatives. Yours apparently satisfied all three. Congratulations."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-elise
 
@@ -3665,7 +3665,7 @@ Variant: None
 
 Dialogue: "No reliable pattern, no plausible prediction, and no evidence that she would appear at all. Yet there she was. I admit, I find that considerably more interesting than I should."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-elise
 
@@ -3683,7 +3683,7 @@ Variant: None
 
 Dialogue: "The Hall of Wonder now contains every expected donation. Financially, most of those objects are irrelevant. Fortunately, value and price are not synonymous."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-elise
 
@@ -3701,7 +3701,7 @@ Variant: None
 
 Dialogue: "One complete collection, restored at considerable effort and almost certainly no financial return. I would still call it an excellent investment."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-elise
 
@@ -3719,7 +3719,7 @@ Variant: None
 
 Dialogue: "Marriage is an agreement with extraordinary long-term obligations and remarkably poor guarantees. On paper, I should object to the entire arrangement. In practice...I believe you chose well."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-elise
 
@@ -3737,7 +3737,7 @@ Variant: None
 
 Dialogue: "Food, care, occasional property damage, veterinary expenses...the financial argument is not compelling. Nora assures me affection compensates for the deficit."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-elise
 
@@ -3755,7 +3755,7 @@ Variant: None
 
 Dialogue: "There is no responsible way to calculate every expense, difficulty, or uncertainty a child introduces. I tried. Eventually one has to accept that some futures are worth investing in without knowing the return."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-elise
 
@@ -3773,7 +3773,7 @@ Variant: None
 
 Dialogue: "Sit down a moment. Helen's got something warm on the stove, and I've already told Theo we're keeping the common room open late if anyone needs somewhere to complain, worry, or simply avoid going home to an empty room. We didn't get the result we wanted, but nobody in Blackmere ought to face what comes next alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-frederick
 
@@ -3791,7 +3791,7 @@ Variant: None
 
 Dialogue: "You hungry? Good, because I've been putting plates in front of people since the news came in, and I don't intend to stop now. Half the town has already passed through that door grinning like fools, so tonight I think we're allowed to enjoy ourselves."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-frederick
 
@@ -3809,7 +3809,7 @@ Variant: None
 
 Dialogue: "Dry towel first, conversation second. We had travelers sleeping three to a room, Nora checking the river every chance she got, and enough wet boots by the door to start our own shoe shop. Everyone made it through safely, though, so I'll gladly spend the morning mopping."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-frederick
 
@@ -3827,7 +3827,7 @@ Variant: None
 
 Dialogue: "Come warm your hands. Last night we ran through nearly every spare blanket, two kettles of tea, and more firewood than I care to count. Best kind of shortage to have, really...it means people knew they had somewhere warm to go."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-frederick
 
@@ -3845,7 +3845,7 @@ Variant: None
 
 Dialogue: "First, congratulations. Second, I hope you're prepared to hear about that victory from every traveler who walks through my door for the next month, because Blackmere has already decided it's everyone's story now. I would've liked that trophy myself, naturally, but losing to something worth celebrating takes most of the sting out of it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-frederick
 
@@ -3863,7 +3863,7 @@ Variant: None
 
 Dialogue: "Tea? You'll want some if we're discussing the White Doe, because I've heard six versions of that evening already and somehow every person insists theirs is the accurate one. Funny thing is, nobody argues about how quiet everyone became when she appeared. Some moments don't need people improving them with a story."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-frederick
 
@@ -3881,7 +3881,7 @@ Variant: None
 
 Dialogue: "Dante came through earlier looking happier than I've seen him in ages, so naturally I fed him before he could disappear back into the museum. You've given Blackmere an entire building full of things worth showing visitors. That's good for the town, certainly, but I think it's even better for the people who remember where those things came from."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-frederick
 
@@ -3899,7 +3899,7 @@ Variant: None
 
 Dialogue: "Adrian stopped in, and before you ask, yes, I made sure he ate something while he was here. Every book back where it belongs...that's the sort of occasion people forget to celebrate because it sounds quiet. Quiet accomplishments still deserve a proper meal."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-frederick
 
@@ -3917,7 +3917,7 @@ Variant: None
 
 Dialogue: "I've saved you both a table whenever you need it...no occasion required. Weddings are lovely, but marriage is all the ordinary evenings afterward: meals shared late, bad days talked through, someone noticing you've had enough before you say so. Those are usually the parts worth keeping."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-frederick
 
@@ -3935,7 +3935,7 @@ Variant: None
 
 Dialogue: "Bring them by sometime. I'll find something suitable for a treat, Felix will spoil them immediately, and Helen will tell me not to encourage either of you. That's more or less how newcomers become regulars around here."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-frederick
 
@@ -3953,7 +3953,7 @@ Variant: None
 
 Dialogue: "Have you eaten today? Properly, I mean...not whatever you managed while tending to the baby. Parenthood has a remarkable way of convincing you everyone else's needs belong at the top of the list, and I happen to know where that road leads. Let people bring you dinner once in a while."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-frederick
 
@@ -3971,7 +3971,7 @@ Variant: None
 
 Dialogue: "Sometimes a dish needs more time than you planned for. Another adjustment, another try, another chance to get it right. Blackmere isn't spoiled just because the first attempt didn't work."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-helen
 
@@ -3989,7 +3989,7 @@ Variant: None
 
 Dialogue: "Do you know what this calls for? Something sweet, something warm, and absolutely no discussion of work until tomorrow. Good news deserves time to settle properly."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-helen
 
@@ -4007,7 +4007,7 @@ Variant: None
 
 Dialogue: "Soup was the only sensible answer to weather like that. Big pot, plenty of bread, everyone close enough to hear one another talk. Somehow a storm feels smaller when nobody eats through it alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-helen
 
@@ -4025,7 +4025,7 @@ Variant: None
 
 Dialogue: "Snow outside, bread in the oven, stew on the stove. There are worse ways to be trapped indoors. I only wish I could've fed everyone in town at once."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-helen
 
@@ -4043,7 +4043,7 @@ Variant: None
 
 Dialogue: "I think victories should have flavors. Yours feels like honey, toasted spices, and something with far too much butter. I'll work out the recipe."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-helen
 
@@ -4061,7 +4061,7 @@ Variant: None
 
 Dialogue: "I'm going to write that night beside one of the winter recipes in my cookbook. Not because of the food. Because someday Felix might make it and remember the year everyone stood together in the dark and saw something impossible."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-helen
 
@@ -4079,7 +4079,7 @@ Variant: None
 
 Dialogue: "Every piece has a story now, doesn't it? That's what recipes are like too. Flour and herbs don't look like history until someone remembers whose table they were sitting on."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-helen
 
@@ -4097,7 +4097,7 @@ Variant: None
 
 Dialogue: "Every book is back! Oh, Adrian deserves something special for dinner. Actually, you do too. This is how I end up cooking for half the town."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-helen
 
@@ -4115,7 +4115,7 @@ Variant: None
 
 Dialogue: "The wedding meal will end up in my cookbook, of course. Years from now, I want someone to open that page and know exactly who was laughing around the table. That's the part worth preserving."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-helen
 
@@ -4133,7 +4133,7 @@ Variant: None
 
 Dialogue: "All right, important question: what treats do they like? Every member of a household deserves a favorite. Yes, I am counting the pet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-helen
 
@@ -4151,7 +4151,7 @@ Variant: None
 
 Dialogue: "One day they'll have a favorite breakfast, a birthday cake they ask for every year, and some ridiculous meal they insist only you know how to make properly. Write those things down. You'd be surprised how much of a childhood can live inside a recipe."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-helen
 
@@ -4169,7 +4169,7 @@ Variant: None
 
 Dialogue: "The result is recorded. So is the hour. Neither can be changed. What follows can."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-irene
 
@@ -4187,7 +4187,7 @@ Variant: None
 
 Dialogue: "Blackmere passed. At ten tonight, the bell will sound exactly as it always has. I think that will feel different."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-irene
 
@@ -4205,7 +4205,7 @@ Variant: None
 
 Dialogue: "The tower held. The bell rang. I counted every toll."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-irene
 
@@ -4223,7 +4223,7 @@ Variant: None
 
 Dialogue: "Snow muffles the square. Not the bell. I find that reassuring."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-irene
 
@@ -4241,7 +4241,7 @@ Variant: None
 
 Dialogue: "First place. A clear result. Your work earned its moment. Do not rush past it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-irene
 
@@ -4259,7 +4259,7 @@ Variant: None
 
 Dialogue: "The lanterns went dark. Then she appeared. There are moments one remembers by what happened...and others by the silence around them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-irene
 
@@ -4277,7 +4277,7 @@ Variant: None
 
 Dialogue: "The collection is complete. Good. Objects disappear easily when no one decides they matter."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-irene
 
@@ -4295,7 +4295,7 @@ Variant: None
 
 Dialogue: "Every book returned. Another record preserved. Another silence avoided."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-irene
 
@@ -4313,7 +4313,7 @@ Variant: None
 
 Dialogue: "The wedding bell sounded well. James and I once stood beneath one ourselves. I remember the sound more clearly than the flowers."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-irene
 
@@ -4331,7 +4331,7 @@ Variant: None
 
 Dialogue: "A new routine will settle in soon. Feeding. Footsteps. Waiting at the door. That is how a home changes with a pet."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-irene
 
@@ -4349,7 +4349,7 @@ Variant: None
 
 Dialogue: "One day, that child will hear the bell and think it has always been there. Perhaps that is what traditions are for."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-irene
 
@@ -4367,7 +4367,7 @@ Variant: None
 
 Dialogue: "Okay...no. Nobody is sulking alone about this. I'm making food, you're coming by the farm, and if anyone starts talking like Blackmere is finished, I'm putting a chicken in their arms until they reconsider."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-jasmine
 
@@ -4385,7 +4385,7 @@ Variant: None
 
 Dialogue: "We passed! Claudia smiled...barely, but I saw it...Milo nearly shouted himself hoarse, and I have already decided this deserves a picnic. Yes, I know nobody asked me to organize one."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-jasmine
 
@@ -4403,7 +4403,7 @@ Variant: None
 
 Dialogue: "Everyone's dry, the animals are settled, Kira and Milo are safe, Claudia finally stopped checking the windows...good. Great. Perfect. I was absolutely not worried."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-jasmine
 
@@ -4421,7 +4421,7 @@ Variant: None
 
 Dialogue: "I've checked the barns four times, added extra bedding, found Milo trying to name a snowdrift, and made enough hot food for twice this household. So naturally I'm doing wonderfully."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-jasmine
 
@@ -4439,7 +4439,7 @@ Variant: None
 
 Dialogue: "You won! Which means congratulations, obviously, but also, do you realize how many people are going to want to talk to you now? Oh, this is going to be fun."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-jasmine
 
@@ -4457,7 +4457,7 @@ Variant: None
 
 Dialogue: "I had Kira on one side, Milo on the other, everyone whispering, and then suddenly nobody was saying anything at all. Do you know how difficult it is to make that many Blackmere residents quiet at once? Apparently you need one impossible deer."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-jasmine
 
@@ -4475,7 +4475,7 @@ Variant: None
 
 Dialogue: "Every single piece? Oh, Dante must be thrilled. We should do something for him...nothing huge, maybe food, a few friends, possibly decorations...all right, that's becoming huge."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-jasmine
 
@@ -4493,7 +4493,7 @@ Variant: None
 
 Dialogue: "Every book is back! Sabrina will use half of them, Adrian will organize all of them, and I fully expect Milo to somehow find the loudest possible one. That's a complete collection, if you ask me."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-jasmine
 
@@ -4511,7 +4511,7 @@ Variant: None
 
 Dialogue: "You did it! You picked your person and everything! Now remember: invite people over, laugh too loudly, argue sometimes, make up afterward, and never let anyone convince you a quiet life has to be a lonely one."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-jasmine
 
@@ -4529,7 +4529,7 @@ Variant: None
 
 Dialogue: "Where are they? I need to meet your new little one. Immediately. I am prepared to offer treats, excessive affection, and absolutely no respect for whatever rules you've already established."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-jasmine
 
@@ -4547,7 +4547,7 @@ Variant: None
 
 Dialogue: "A baby! Oh, this is terrible news for my self-control. I'm going to knit something, Claudia will tell me not to overwhelm you, I'll ignore her, and then I'll probably cry when I finally get to hold them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-jasmine
 
@@ -4565,7 +4565,7 @@ Variant: None
 
 Dialogue: "Fields still need tending tomorrow. Fences will still need mending. And...yes, I know that's not really what we're talking about. This hurts, but pretending otherwise won't help us fix it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-jonas
 
@@ -4583,7 +4583,7 @@ Variant: None
 
 Dialogue: "Good soil, steady water, enough patience...usually that's what I trust. This took a bit more than that. I'm proud of everyone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-jonas
 
@@ -4601,7 +4601,7 @@ Variant: None
 
 Dialogue: "Drainage held better than I expected. Orchard lost a few branches, but nothing we can't replace. Truth is, I wasn't thinking much about the farm once the water started rising."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-jonas
 
@@ -4619,7 +4619,7 @@ Variant: None
 
 Dialogue: "Crops can wait. Repairs can wait. Took me longer than it should've to learn that sometimes the work isn't the important thing."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-jonas
 
@@ -4637,7 +4637,7 @@ Variant: None
 
 Dialogue: "I could tell you why your design worked. Good planning, useful idea, solid execution. But that's avoiding the simple part, isn't it? You won. Congratulations."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-jonas
 
@@ -4655,7 +4655,7 @@ Variant: None
 
 Dialogue: "Milo had about twelve questions afterward. Kira had twice that. I didn't have many. Sometimes seeing something is enough."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-jonas
 
@@ -4673,7 +4673,7 @@ Variant: None
 
 Dialogue: "Funny, isn't it? You spend years pulling things from fields, rivers, and stone, and eventually somebody decides they belong behind glass. Still...I'm glad someone made sure they weren't forgotten."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-jonas
 
@@ -4691,7 +4691,7 @@ Variant: None
 
 Dialogue: "Kira will probably read half of them. Milo will probably start five and finish two. That's all right. Having the choice matters."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-jonas
 
@@ -4709,7 +4709,7 @@ Variant: None
 
 Dialogue: "Most days together won't be weddings. They'll be chores, tired evenings, little disagreements nobody else ever sees. Talk about those things. Especially the ones you'd rather leave alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-jonas
 
@@ -4727,7 +4727,7 @@ Variant: None
 
 Dialogue: "Animals don't need much explaining. Feed them, care for them, show up every day. People could probably learn something from that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-jonas
 
@@ -4745,7 +4745,7 @@ Variant: None
 
 Dialogue: "You'll spend a lot of time wondering whether you're doing enough. I still do. Tell them you love them anyway...out loud, even when you think they already know."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-jonas
 
@@ -4763,7 +4763,7 @@ Variant: None
 
 Dialogue: "Initial conclusion: Blackmere failed. More precise conclusion: Blackmere failed under the conditions measured today. Those are not the same statement."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-julian
 
@@ -4781,7 +4781,7 @@ Variant: None
 
 Dialogue: "The obvious observation is that Blackmere passed. The more interesting one is how many separate improvements were required to produce that result. Outcomes are rarely as simple as they appear."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-julian
 
@@ -4799,7 +4799,7 @@ Variant: None
 
 Dialogue: "One might call that merely destructive weather. I would not. The forest changed overnight...soil shifted, fungi surfaced, waterways moved, and several plants responded almost immediately. Destructive, certainly. Merely destructive, no."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-julian
 
@@ -4817,7 +4817,7 @@ Variant: None
 
 Dialogue: "It is tempting to describe the forest as dormant beneath heavy snow. Inaccurate. Dormancy is activity slowed beyond casual observation, not activity absent."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-julian
 
@@ -4835,7 +4835,7 @@ Variant: None
 
 Dialogue: "You won. That establishes that the judges preferred your work under the criteria provided. Whether the invention proves genuinely important will require considerably more observation. I suspect it will."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-julian
 
@@ -4853,7 +4853,7 @@ Variant: None
 
 Dialogue: "I observed the White Doe carefully. Distance, posture, movement, surrounding behavior...none yielded enough evidence for a useful conclusion. For once, I find myself satisfied recording only that she was there."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-julian
 
@@ -4871,7 +4871,7 @@ Variant: None
 
 Dialogue: "A complete collection suggests an ending. I would argue the opposite. Once every specimen is gathered, comparison can finally begin in earnest."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-julian
 
@@ -4889,7 +4889,7 @@ Variant: None
 
 Dialogue: "Every missing volume has been recovered. Excellent. Now comes the more consequential question: who will read them closely enough to disagree with them?"
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-julian
 
@@ -4907,7 +4907,7 @@ Variant: None
 
 Dialogue: "People frequently describe marriage as finding the correct person. An imprecise formulation. Two people continue learning one another under changing conditions; the finding is hardly finished at the ceremony."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-julian
 
@@ -4925,7 +4925,7 @@ Variant: None
 
 Dialogue: "Observe your pet for a few weeks before deciding you understand their habits. Animals are remarkably good at disproving confident assumptions. People are as well, though less efficiently."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-julian
 
@@ -4943,7 +4943,7 @@ Variant: None
 
 Dialogue: "You will teach that child a great many things. Do not make the common mistake of assuming the exchange travels only one direction. The youngest students are often the quickest to expose what their teachers never truly understood."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-julian
 
@@ -4961,7 +4961,7 @@ Variant: None
 
 Dialogue: "You can be disappointed. You can still believe Blackmere is worth fighting for. Those feelings are allowed to exist together."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-lena
 
@@ -4979,7 +4979,7 @@ Variant: None
 
 Dialogue: "You can be relieved without pretending the difficult years never happened. Today belongs to everything Blackmere survived and everything it still hopes to become."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-lena
 
@@ -4997,7 +4997,7 @@ Variant: None
 
 Dialogue: "I can know this storm was not the Flood and still feel afraid when the water rises. I've stopped asking myself to choose between what I know and what I remember."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-lena
 
@@ -5015,7 +5015,7 @@ Variant: None
 
 Dialogue: "Memorial Hill is beautiful beneath the snow. It is also difficult to keep safe. Something does not have to be only one thing."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-lena
 
@@ -5033,7 +5033,7 @@ Variant: None
 
 Dialogue: "You should be proud. And if part of you is already wondering what comes next, that is all right too. Just don't let tomorrow take this moment away from you."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-lena
 
@@ -5051,7 +5051,7 @@ Variant: None
 
 Dialogue: "She made me think of people who are gone and of everyone standing beside me now. Strangely, neither feeling made the other hurt less. I think that was what made the evening beautiful."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-lena
 
@@ -5069,7 +5069,7 @@ Variant: None
 
 Dialogue: "Keeping something does not mean refusing to move beyond it. The museum can preserve what Blackmere was while the rest of us continue becoming something new."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-lena
 
@@ -5087,7 +5087,7 @@ Variant: None
 
 Dialogue: "Some of those books describe a Blackmere that no longer exists. They still belong here. The past does not have to remain unchanged to remain ours."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-lena
 
@@ -5105,7 +5105,7 @@ Variant: None
 
 Dialogue: "You are allowed to love the life you had before them and the life you are building together now. Love makes room. It does not require one chapter to erase another."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-lena
 
@@ -5123,7 +5123,7 @@ Variant: None
 
 Dialogue: "A home can hold old memories and make room for new footsteps. I think you'll find the new ones make the older ones feel warmer, not smaller."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-lena
 
@@ -5141,7 +5141,7 @@ Variant: None
 
 Dialogue: "You will miss parts of the life you had before your child arrived. You will love the life that follows just as fiercely. Please don't mistake one feeling for a betrayal of the other."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-lena
 
@@ -5159,7 +5159,7 @@ Variant: None
 
 Dialogue: "The result has been delivered. I have nothing useful to add to it. Except this: Blackmere is still here."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-martin
 
@@ -5177,7 +5177,7 @@ Variant: None
 
 Dialogue: "Good news travels quickly. This time, I'm glad it did."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-martin
 
@@ -5195,7 +5195,7 @@ Variant: None
 
 Dialogue: "Several deliveries were delayed. None were lost. I wish I could say that was the only thing I was worried about."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-martin
 
@@ -5213,7 +5213,7 @@ Variant: None
 
 Dialogue: "The route can wait. The letters can wait. People should not have to."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-martin
 
@@ -5231,7 +5231,7 @@ Variant: None
 
 Dialogue: "Congratulations. You'll receive enough praise without another speech from me. You earned mine."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-martin
 
@@ -5249,7 +5249,7 @@ Variant: None
 
 Dialogue: "I considered writing the evening down afterward. I didn't. Some things lose something when reduced to a few lines."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-martin
 
@@ -5267,7 +5267,7 @@ Variant: None
 
 Dialogue: "Everything finally reached its proper place. I understand the satisfaction in that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-martin
 
@@ -5285,7 +5285,7 @@ Variant: None
 
 Dialogue: "Every volume returned. No missing addresses, so to speak. Adrian must be relieved."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-martin
 
@@ -5303,7 +5303,7 @@ Variant: None
 
 Dialogue: "People write a great deal before weddings. Invitations. Congratulations. Promises. The important ones are usually the words said afterward."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-martin
 
@@ -5321,7 +5321,7 @@ Variant: None
 
 Dialogue: "Another name for the household. I'll remember it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-martin
 
@@ -5339,7 +5339,7 @@ Variant: None
 
 Dialogue: "Your child will receive many messages before they're old enough to read them. Keep some. A few short words can survive longer than people expect."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-martin
 
@@ -5357,7 +5357,7 @@ Variant: None
 
 Dialogue: "I was going to tell you to give it time. That's what I would've said years ago. But some things improve faster when people speak plainly: find what failed, ask for help, and try again."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-roland
 
@@ -5375,7 +5375,7 @@ Variant: None
 
 Dialogue: "I could simply say congratulations and leave it there. Perhaps I shouldn't. Remember who helped get Blackmere this far, and make certain they know you noticed."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-roland
 
@@ -5393,7 +5393,7 @@ Variant: None
 
 Dialogue: "I've seen Blackmere through more storms than I care to count. I used to think experience meant knowing exactly what to do. Mostly, it means knowing when to check on your neighbors before they have to ask."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-roland
 
@@ -5411,7 +5411,7 @@ Variant: None
 
 Dialogue: "There was a time I'd have gone out simply because something needed doing. Age has corrected that particular foolishness. If the work can wait and the person cannot, choose the person."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-roland
 
@@ -5429,7 +5429,7 @@ Variant: None
 
 Dialogue: "You earned the victory. Since I was one of the judges, perhaps I ought to add why: you built something with a purpose beyond impressing the room. Keep doing that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-roland
 
@@ -5447,7 +5447,7 @@ Variant: None
 
 Dialogue: "I've heard explanations for the White Doe since I was young. None improved the experience of seeing her. If you want an old man's advice, leave at least one mystery alone."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-roland
 
@@ -5465,7 +5465,7 @@ Variant: None
 
 Dialogue: "I remember when some of those things were ordinary enough that no one thought to preserve them. That's worth remembering too. History often begins after people realize they should've been paying attention."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-roland
 
@@ -5483,7 +5483,7 @@ Variant: None
 
 Dialogue: "A full library is a fine accomplishment. Though, if you'll permit one suggestion: don't let those books become the only people Blackmere learns from. Ask the ones who are still here."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-roland
 
@@ -5501,7 +5501,7 @@ Variant: None
 
 Dialogue: "Agatha and I have been married long enough that people occasionally mistake endurance for wisdom. Still, I can offer you this much: listen before you defend yourself. It has saved me from being wrong twice in the same conversation."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-roland
 
@@ -5519,7 +5519,7 @@ Variant: None
 
 Dialogue: "You'll learn their habits soon enough. I won't spoil the discovery by giving you a list. Just pay attention...they'll tell you what kind of home they need."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-roland
 
@@ -5537,7 +5537,7 @@ Variant: None
 
 Dialogue: "You'll receive more advice than you asked for, so I won't add much. Let them become someone you didn't predict. The difficult part of guiding the next generation is remembering the future belongs to them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-roland
 
@@ -5555,7 +5555,7 @@ Variant: None
 
 Dialogue: "Bread still rose this morning. Felix still asked what was for breakfast. Helen still complained that I used the last of the honey. I think we'll be all right."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-theo
 
@@ -5573,7 +5573,7 @@ Variant: None
 
 Dialogue: "Fresh bread, everyone smiling downstairs, nowhere I need to be afterward. That's a good day. The assessment passing is a rather nice addition."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-theo
 
@@ -5591,7 +5591,7 @@ Variant: None
 
 Dialogue: "Oven stayed warm. Roof stayed dry. Everyone I care about was inside. I didn't need much more than that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-theo
 
@@ -5609,7 +5609,7 @@ Variant: None
 
 Dialogue: "I made bread, Felix beat me at a board game, and nobody had anywhere important to go. Severe weather has its inconveniences. Yesterday wasn't entirely one of them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-theo
 
@@ -5627,7 +5627,7 @@ Variant: None
 
 Dialogue: "A trophy is nice. So is building something you're happy to keep using after everyone stops applauding. I hope yours gives you both."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-theo
 
@@ -5645,7 +5645,7 @@ Variant: None
 
 Dialogue: "Everyone stood together. Nobody seemed in a hurry. Then the White Doe appeared. I think I liked the whole evening, not only that part."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-theo
 
@@ -5663,7 +5663,7 @@ Variant: None
 
 Dialogue: "People will travel to see the collection now. They'll probably stay at the inn, eat breakfast, tell Frederick where they came from. Funny how one finished thing gives ordinary days a few new faces."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-theo
 
@@ -5681,7 +5681,7 @@ Variant: None
 
 Dialogue: "Every book is back. Good. I like places that don't need to be exciting to matter."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-theo
 
@@ -5699,7 +5699,7 @@ Variant: None
 
 Dialogue: "Most of marriage probably won't look like the wedding. Breakfast. Chores. Sitting together when neither of you has much to say. That sounds rather nice to me."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-theo
 
@@ -5717,7 +5717,7 @@ Variant: None
 
 Dialogue: "Soon you'll know where they sleep, what sound means they're hungry, and which chair they've decided belongs to them. Those little routines happen quickly. Then suddenly you can't imagine the house without them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-theo
 
@@ -5735,7 +5735,7 @@ Variant: None
 
 Dialogue: "There'll be birthdays, certainly. First steps too. But I suspect you'll remember plenty of ordinary mornings just as clearly. Those tend to be the good parts."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-theo
 
@@ -5753,7 +5753,7 @@ Variant: None
 
 Dialogue: "Bad result. Keep what worked. Fix what didn't. No sense tearing down the whole town over one inspection."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-walter
 
@@ -5771,7 +5771,7 @@ Variant: None
 
 Dialogue: "Passed. Good. Enjoy it today. Tomorrow, keep the place worth passing."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-walter
 
@@ -5789,7 +5789,7 @@ Variant: None
 
 Dialogue: "Roof held. Store held. People came through the door needing supplies. That's enough accounting for one storm."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-walter
 
@@ -5807,7 +5807,7 @@ Variant: None
 
 Dialogue: "Some things can wait until the roads clear. Some can't. I kept the essentials stocked."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-walter
 
@@ -5825,7 +5825,7 @@ Variant: None
 
 Dialogue: "Flashy doesn't impress me. Useful does. Yours was useful. That's why I don't mind losing to it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-walter
 
@@ -5843,7 +5843,7 @@ Variant: None
 
 Dialogue: "People will spend years trying to explain that deer. Let them. I'm keeping the version where we simply saw her."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-walter
 
@@ -5861,7 +5861,7 @@ Variant: None
 
 Dialogue: "Funny what people decide is worth keeping. Old tools. Stones. Things somebody nearly threw away. Good thing someone thought twice."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-walter
 
@@ -5879,7 +5879,7 @@ Variant: None
 
 Dialogue: "Books are back where they belong. Doesn't mean they should stay untouched. Things are kept so somebody can use them."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-walter
 
@@ -5897,7 +5897,7 @@ Variant: None
 
 Dialogue: "Don't try to keep everything exactly as it was before the wedding. Won't work. Keep the person. Let the life change."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-walter
 
@@ -5915,7 +5915,7 @@ Variant: None
 
 Dialogue: "Your furniture will survive. Probably. If something gets scratched, repair it. You'll miss the animal more than the chair someday."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-walter
 
@@ -5933,7 +5933,7 @@ Variant: None
 
 Dialogue: "House won't stay the same now. Don't waste your time trying to make it. Some changes are worth keeping."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-walter
 
@@ -5951,7 +5951,7 @@ Variant: None
 
 Dialogue: "The standard was clear. Blackmere did not meet it. What matters now is whether we correct the failure carefully, or panic and create three more."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-failed-assessment-lucian-vivian
 
@@ -5969,7 +5969,7 @@ Variant: None
 
 Dialogue: "The result is sound. More importantly, the work behind it appears sound as well. I can accept that."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-passed-assessment-lucian-vivian
 
@@ -5987,7 +5987,7 @@ Variant: None
 
 Dialogue: "The Bell Tower remained synchronized. Several mechanisms required adjustment afterward. People did too, I imagine, though I am considerably less qualified to calibrate those."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-rain-lucian-vivian
 
@@ -6005,7 +6005,7 @@ Variant: None
 
 Dialogue: "Cold alters tolerances. Metal contracts. Oils thicken. People become impatient. Of those three variables, the last remains the least predictable."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-severe-snow-lucian-vivian
 
@@ -6023,7 +6023,7 @@ Variant: None
 
 Dialogue: "Your invention performed under scrutiny, exceeded the alternatives, and earned the judges' decision. I dislike losing. I dislike undeserved victories considerably more. Yours was not one."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-grand-showcase-won-lucian-vivian
 
@@ -6041,7 +6041,7 @@ Variant: None
 
 Dialogue: "I checked my watch when the lanterns went dark. I checked it again when she appeared. Perfect synchronization. No explanation whatsoever."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-eve-of-the-white-doe-lucian-vivian
 
@@ -6059,7 +6059,7 @@ Variant: None
 
 Dialogue: "Every piece accounted for. Catalogued. Preserved. That is how one protects a legacy...by knowing precisely what has been entrusted to you."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-museum-complete-lucian-vivian
 
@@ -6077,7 +6077,7 @@ Variant: None
 
 Dialogue: "Every volume has returned. Good. Knowledge survives poorly when people assume someone else will safeguard it."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-library-complete-lucian-vivian
 
@@ -6095,7 +6095,7 @@ Variant: None
 
 Dialogue: "You have entrusted another person with a considerable portion of your future. There is no mechanism for guaranteeing what follows. I am beginning to understand that may be the point."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-player-married-lucian-vivian
 
@@ -6113,7 +6113,7 @@ Variant: None
 
 Dialogue: "Establish a routine. Be consistent. Then prepare for the animal to disregard both entirely. Apparently trust requires tolerating a certain amount of disorder."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-pet-lucian-vivian
 
@@ -6131,7 +6131,7 @@ Variant: None
 
 Dialogue: "You will prepare. You will plan. You will still encounter circumstances you could not possibly have predicted. Do not mistake uncertainty for failure."
 
-Event: reactive
+Event: Reactive
 
 ID: dialogue_reactive-first-child-lucian-vivian
 
