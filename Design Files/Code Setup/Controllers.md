@@ -99,6 +99,11 @@ Version: 0.0.1
     - Purpose: Controls acquiring goods collected.
     - Type: Gameplay
 
+* HappeningController.cs
+    - Namespace: AsTheBellTolls.Happening
+    - Purpose: Controls the different visual happenings around Blackmere.
+    - Type: Gameplay
+
 * InputController.cs
     - Namespace: AsTheBellTolls.Input
     - Purpose: Controls the input maps and game controls.
