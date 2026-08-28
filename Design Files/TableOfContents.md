@@ -182,6 +182,7 @@ Version: 0.0.1
 ### Ongoing Events
 
 - Breakfast at the Inn
+- Happenings
 - International Trade Cart
 - Supper with the Mercers
 
