@@ -137,6 +137,7 @@ Version: 0.0.1
 - Toll of Hearths (Dining Hall): Festival to host up to all 31 guests for shared meal event
 - Family (Nursery): Ability to have a family with spouse and have up to 4 children
 - Horse (Stables): Able to purchase and own up to 3 horses
+- Pendrelle Civic Compendium (Vault): Unlocked once the Main Bedroom, Laboratory, and Central Room have reached Flourishing stage
 
 ---
 
