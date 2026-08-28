@@ -112,7 +112,6 @@ Version: 0.0.1
 
 - Controllers
 - Data IDs
-- Data Registry
 - Dependencies
 - Enums
 - Event Channels
@@ -150,6 +149,7 @@ Version: 0.0.1
 - Quests (Mid)
 - Quests (Post)
 - Quests (Pre)
+- Reactive
 - Shopping
 - Tolerated Gifts
 
@@ -194,6 +194,7 @@ Version: 0.0.1
 
 ## Inventions
 
+- Civic Inventions
 - Cobalt Tier Inventions
 - Copper Tier Inventions
 - Gold Tier Inventions
@@ -321,6 +322,7 @@ Version: 0.0.1
 - Nursery
 - Orchard
 - Stables
+- Vault
 
 ---
 
@@ -366,6 +368,7 @@ Version: 0.0.1
 - Game Event System
 - Game State System
 - Gathering Probability System
+- Happening System
 - HUD System
 - Husbandry System
 - Input System
