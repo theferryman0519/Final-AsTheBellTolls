@@ -570,6 +570,24 @@ Her marriage routine should remain energetic and independent while gradually giv
 
 ---
 
+## Town Restoration Routine Override
+
+Nora's routine responds most strongly to improvements around Blackmere's river, fishing access, and public waterfront areas.
+
+### Weathered / Rebuilding
+
+Nora concentrates on established fishing locations and avoids damaged riverside areas that are unsafe or inconvenient to use.
+
+### Recovering / Renewed / Growing
+
+Newly restored river paths, docks, and fishing access points may replace ordinary fishing blocks. She also begins spending more time in public areas connected to increased fishing activity.
+
+### Prospering / Flourishing
+
+Nora regularly uses restored waterfront locations and has more evening social time in Town Square or the Inn after work. Her routine should reflect a fishery that is stable enough that she does not need to personally manage every problem.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, fishing contests, emergencies, and other scripted events take priority over Nora's standard routine.

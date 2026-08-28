@@ -462,6 +462,24 @@ Her marriage routine should preserve her tendency to overwork while gradually cr
 
 ---
 
+## Town Restoration Routine Override
+
+Clara frequently uses restoration progress as part of her professional routine. Newly completed spaces may temporarily replace ordinary drafting or inspection blocks.
+
+### Weathered / Rebuilding
+
+Clara spends additional time surveying damaged buildings, taking measurements, reviewing plans, and checking structural priorities.
+
+### Recovering / Renewed / Growing
+
+She regularly inspects completed projects and compares finished construction against her designs. Restored public spaces begin appearing as working destinations rather than only project sites.
+
+### Prospering / Flourishing
+
+Clara increasingly visits completed spaces without inspecting them for work. Some former professional inspection blocks become ordinary Town Square, garden, or social visits, showing that she is learning to enjoy what has been built rather than continuously searching for flaws.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, and other scripted events take priority over Clara's standard routine.

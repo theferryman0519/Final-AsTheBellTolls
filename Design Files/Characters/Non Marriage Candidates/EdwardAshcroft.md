@@ -651,6 +651,24 @@ As additional manor areas become functional, the Restoration Progression Overrid
 
 ---
 
+## Town Restoration Routine Override
+
+Edward's existing Manor restoration progression remains the primary influence on his household duties. Blackmere's broader restoration additionally changes how often he leaves Pendrelle Manor and how much of his time is spent responding to recovery needs.
+
+### Weathered / Rebuilding
+
+Edward remains strongly centered around Pendrelle Manor and essential household work. Trips into Blackmere are primarily practical errands, restoration discussions, or support for the player.
+
+### Recovering / Renewed / Growing
+
+As the Manor becomes more stable and Blackmere's public spaces reopen, selected afternoon blocks may include Town Square, Town Hall, the General Store, or visits connected to household and community needs.
+
+### Prospering / Flourishing
+
+Edward spends less time inspecting damage and more time using restored Manor and town spaces socially. Occasional garden walks, Town Square visits, Inn visits, and community errands may replace maintenance blocks, showing that he increasingly experiences Pendrelle Manor and Blackmere as home rather than only as responsibilities.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, quests, manor restoration milestones, grandfather clock events, guest events, and other scripted events take priority over Edward's standard routine.

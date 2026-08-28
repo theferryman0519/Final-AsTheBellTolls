@@ -573,6 +573,24 @@ As her character arc progresses, Sabrina becomes more willing to spend evenings 
 
 ---
 
+## Town Restoration Routine Override
+
+Sabrina increasingly uses restored Blackmere locations as extensions of the classroom while preserving her normal school responsibilities.
+
+### Weathered / Rebuilding
+
+Lessons and preparation remain concentrated inside the school because many outdoor and civic locations are still recovering.
+
+### Recovering / Renewed / Growing
+
+Selected teaching or preparation blocks may become library visits, short outdoor lessons, Town Square activities, or educational trips to restored community spaces.
+
+### Prospering / Flourishing
+
+Blackmere itself becomes a regular teaching resource. Sabrina may use the museum, library, gardens, civic projects, and public spaces for supervised educational activities and community learning.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, school events, and other scripted events take priority over Sabrina's standard routine.

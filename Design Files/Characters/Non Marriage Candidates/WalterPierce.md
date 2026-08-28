@@ -975,6 +975,24 @@ No additional early-game schedule is required.
 
 ---
 
+## Town Restoration Routine Override
+
+Walter's existing General Store restoration override remains the primary influence on shop operations. Broader town restoration gradually challenges his preference for familiar routines.
+
+### Weathered / Rebuilding
+
+Walter's schedule changes very little. He relies on the General Store's familiar rhythm while carefully observing whether restoration efforts actually improve daily life.
+
+### Recovering / Renewed / Growing
+
+Selected errands and business blocks may include restored shops, Town Square, or Trade Fair activity. Walter remains cautious about changing his habits, so these shifts should be gradual.
+
+### Prospering / Flourishing
+
+Walter finally allows a modest reduction in shop-centered time. Occasional Town Square, Inn, or community visits replace routine store blocks, making his willingness to change noticeable precisely because it happens later than it does for most residents.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, store events, memorial events, and other scripted events take priority over Walter's standard routine.

@@ -549,6 +549,24 @@ She is most likely to offer guidance when someone has demonstrated that they gen
 
 ---
 
+## Town Restoration Routine Override
+
+Agatha pays close attention to whether Blackmere's recovery preserves its history while still allowing the town to change.
+
+### Weathered / Rebuilding
+
+Agatha visits damaged civic and historical locations more frequently, particularly the library, school, Town Hall, and longstanding community landmarks.
+
+### Recovering / Renewed / Growing
+
+She revisits restored spaces to judge how well their history has been preserved and increasingly uses the library, school, and public areas for conversations with younger residents.
+
+### Prospering / Flourishing
+
+Agatha spends less time inspecting restoration and more time using the spaces themselves. Her routine increasingly reflects mentorship, reading, conversation, and participation in the Blackmere that followed the flood.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, historical events, family events, and other scripted events take priority over Agatha's standard routine.

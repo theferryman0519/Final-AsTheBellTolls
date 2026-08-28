@@ -738,6 +738,24 @@ Any optional library research before Day 4 is replaced with research at Rain & H
 
 ---
 
+## Town Restoration Routine Override
+
+Julian's gathering routine expands as restored paths and public green spaces become safe and useful again.
+
+### Weathered / Rebuilding
+
+Julian favors established Gloamwood routes and known gathering areas while avoiding unstable restoration zones.
+
+### Recovering / Renewed / Growing
+
+Newly restored paths, gardens, river edges, and green spaces may replace ordinary gathering destinations. He increasingly visits the school or library to share observations and specimens.
+
+### Prospering / Flourishing
+
+Mentorship and documentation become more visible parts of Julian's routine. Selected solitary gathering blocks may be replaced with teaching, community garden visits, or conversations with younger residents interested in Blackmere's natural environment.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, scientific discoveries, and other scripted events take priority over Julian's standard routine.

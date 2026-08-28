@@ -897,6 +897,24 @@ Before another destination becomes available, Lena remains at Memorial Hill inst
 
 ---
 
+## Town Restoration Routine Override
+
+Lena's existing Memorial Hill restoration override remains the primary influence on her work. Broader Blackmere restoration gradually gives her more reasons to leave Memorial Hill without diminishing its importance.
+
+### Weathered / Rebuilding
+
+Lena remains strongly centered around Memorial Hill, its residence, and immediate maintenance needs.
+
+### Recovering / Renewed / Growing
+
+Selected free-time blocks may become General Store errands, Town Square walks, Inn visits, or time with Jasmine and Anya in restored community spaces.
+
+### Prospering / Flourishing
+
+Lena regularly participates in ordinary Blackmere life away from Memorial Hill. Her routine should show that caring for memory and participating in the present are no longer competing responsibilities.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, memorial services, family events, and other scripted events take priority over Lena's standard routine.

@@ -447,6 +447,24 @@ His marriage routine should preserve his independence, intellectual interests, a
 
 ---
 
+## Town Restoration Routine Override
+
+Dante's schedule gradually expands beyond the Hall of Wonder as Blackmere provides more restored places, objects, and stories worth studying.
+
+### Weathered / Rebuilding
+
+Dante remains heavily centered around the museum and preservation work, with limited trips to damaged historical locations when research requires them.
+
+### Recovering / Renewed / Growing
+
+Selected research blocks may be replaced with visits to the library, restored civic sites, historical structures, or public restoration projects.
+
+### Prospering / Flourishing
+
+Dante spends more time outside the museum documenting how Blackmere uses its history in daily life. Public spaces and community events become regular sources of inspiration rather than interruptions to museum work.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, and other scripted events take priority over Dante's standard routine.

@@ -757,6 +757,24 @@ Her routine adjusts according to the Bell Tower's current restoration stage.
 
 ---
 
+## Town Restoration Routine Override
+
+Irene's existing Bell Tower restoration override remains the primary influence on tower work. Blackmere's broader restoration determines how much of her life is spent maintaining civic timekeeping versus participating in the town around it.
+
+### Weathered / Rebuilding
+
+Irene remains heavily centered around the Bell Tower, inspections, repairs, and protection of surviving mechanisms.
+
+### Recovering / Renewed / Growing
+
+As the tower becomes more dependable, selected maintenance blocks may be replaced with Town Square conversations, historical discussions, or visits to other restored civic spaces.
+
+### Prospering / Flourishing
+
+Irene maintains scheduled tower checks but spends noticeably more time away from the mechanism itself. Her routine increasingly includes Town Square, the library, Agatha, and community activities, showing that preservation no longer requires constant vigilance.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, Bell Tower events, restoration milestones, memorial events, and other scripted events take priority over Irene's standard routine.

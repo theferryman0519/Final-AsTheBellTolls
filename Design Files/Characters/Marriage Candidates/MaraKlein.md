@@ -514,6 +514,24 @@ As her relationship progression develops, she becomes increasingly comfortable a
 
 ---
 
+## Town Restoration Routine Override
+
+Mara's standard schedule remains centered around Klein Woodworks, active projects, and Gloamwood Forest. Restoration changes the balance between emergency construction work and personal time.
+
+### Weathered / Rebuilding
+
+Restoration inspections, structural repairs, and material preparation may replace portions of Mara's normal workshop or leisure blocks. She spends comparatively little time in purely social public spaces.
+
+### Recovering / Renewed / Growing
+
+As major repairs stabilize, Mara spends less time responding to urgent damage and more time on planned construction, field observation, and occasional visits to restored public spaces.
+
+### Prospering / Flourishing
+
+Routine restoration work becomes less dominant. Selected late-afternoon or evening work blocks may be replaced with Gloamwood outings, Town Square visits, fishing, or time with friends, showing that Mara no longer treats constant work as her only responsibility.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, and other scripted events take priority over Mara's standard routine.

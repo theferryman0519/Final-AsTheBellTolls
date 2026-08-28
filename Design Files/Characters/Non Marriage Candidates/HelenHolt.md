@@ -675,6 +675,24 @@ If a personal destination is unavailable, Helen remains at Winding Banks Inn ins
 
 ---
 
+## Town Restoration Routine Override
+
+Helen's existing Inn restoration override remains the primary influence on her workday. Broader town restoration gradually changes the Inn from a recovery-era gathering place into a stable social center.
+
+### Weathered / Rebuilding
+
+Helen spends most of her time inside or immediately around Winding Banks Inn and personally handles many small operational problems.
+
+### Recovering / Renewed / Growing
+
+Busier town activity increases guests and meal service, but improved operations allow occasional Town Square, shopping, or family blocks to replace routine Inn tasks.
+
+### Prospering / Flourishing
+
+Helen regularly takes short periods away from the Inn for family, friends, and community activities. Her routine should show that a successful Inn no longer depends on her being present every waking hour.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, family events, inn events, and other scripted events take priority over Helen's standard routine.

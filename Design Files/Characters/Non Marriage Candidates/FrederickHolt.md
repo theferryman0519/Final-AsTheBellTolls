@@ -674,6 +674,24 @@ If another location required by an optional activity is unavailable, Frederick r
 
 ---
 
+## Town Restoration Routine Override
+
+Frederick's existing Inn restoration override remains the primary influence on his workday. Broader town restoration changes customer demand and, eventually, how much time he can spend away from the Inn.
+
+### Weathered / Rebuilding
+
+Frederick remains strongly tied to the Inn and frequently fills gaps personally when business is unpredictable or restoration work creates additional demands.
+
+### Recovering / Renewed / Growing
+
+Increased visitors make the Inn busier, but improved stability allows more predictable work blocks and occasional family or community outings.
+
+### Prospering / Flourishing
+
+Selected work or administrative blocks may be replaced with family time, Town Square visits, fishing, or community activities. Prosperity should ultimately give Frederick more personal time rather than simply creating a permanently heavier workload.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, family events, inn events, and other scripted events take priority over Frederick's standard routine.

@@ -525,6 +525,24 @@ Her marriage routine should preserve her independence and sense of responsibilit
 
 ---
 
+## Town Restoration Routine Override
+
+Madison's patrol destinations change as Blackmere moves from disaster recovery toward normal civic life. Her core law-enforcement responsibilities remain unchanged.
+
+### Weathered / Rebuilding
+
+Patrol blocks prioritize damaged roads, isolated routes, restoration sites, and areas where public access is limited or potentially unsafe.
+
+### Recovering / Renewed / Growing
+
+Patrols increasingly include reopened public buildings, Town Square, active businesses, and gathering spaces rather than primarily damaged locations.
+
+### Prospering / Flourishing
+
+Madison spends less time checking hazards and more time maintaining a visible community presence. Some patrol blocks become conversations, public-square checks, or routine walks through active evening areas.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, emergencies, and other scripted events take priority over Madison's standard routine.

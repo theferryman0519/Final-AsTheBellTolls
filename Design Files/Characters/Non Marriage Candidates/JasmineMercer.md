@@ -750,6 +750,24 @@ Before Day 4, Jasmine does not appear in publicly accessible areas.
 
 ---
 
+## Town Restoration Routine Override
+
+Jasmine's routine becomes less dominated by constant farm and family support as Mercer Farms and Blackmere become more stable.
+
+### Weathered / Rebuilding
+
+Jasmine remains strongly centered around Mercer Farms and frequently replaces leisure with additional household, animal, or community-support tasks.
+
+### Recovering / Renewed / Growing
+
+Improved farm stability allows more regular Town Square, General Store, Inn, and friend visits without abandoning her family responsibilities.
+
+### Prospering / Flourishing
+
+Selected work blocks may become social outings, community meals, or time with friends. Her routine should demonstrate that caring for others no longer requires placing her own life permanently last.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, family events, animal events, and other scripted events take priority over Jasmine's standard routine.

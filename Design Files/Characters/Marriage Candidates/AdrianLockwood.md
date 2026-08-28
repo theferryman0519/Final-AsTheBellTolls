@@ -542,6 +542,24 @@ His marriage routine remains calm and independent. Adrian continues maintaining 
 
 ---
 
+## Town Restoration Routine Override
+
+Adrian's work remains centered around the library, but restoration gradually creates more reasons for him to research and spend time in public spaces.
+
+### Weathered / Rebuilding
+
+Adrian strongly favors the library and home. Damaged or crowded restoration areas rarely replace his normal quiet destinations.
+
+### Recovering / Renewed / Growing
+
+Selected research blocks may include restored historical locations, Town Square, or other quiet public spaces connected to his work.
+
+### Prospering / Flourishing
+
+Adrian becomes more comfortable remaining in restored public spaces after work, including Town Square and community gathering areas. His routine should show increased confidence without making him suddenly extroverted.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, and other scripted events take priority over Adrian's standard routine.

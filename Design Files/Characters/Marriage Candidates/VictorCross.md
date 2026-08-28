@@ -562,6 +562,24 @@ As his connection to Blackmere deepens, returning gradually becomes the part of 
 
 ---
 
+## Town Restoration Routine Override
+
+Victor's routine should make Blackmere's improving commercial value visible. As the town prospers, he has increasing reasons to spend time away from the Caravan Stall.
+
+### Weathered / Rebuilding
+
+Victor remains primarily near the Caravan Stall and major trade routes, with only brief visits into central Blackmere.
+
+### Recovering / Renewed / Growing
+
+Restored shops, Town Square, and busier commercial locations may replace some idle caravan blocks. He spends more time assessing local demand and speaking with established businesses.
+
+### Prospering / Flourishing
+
+Victor regularly remains in central Blackmere after business hours and treats the town as a destination rather than merely a stop along a trade route.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, trade journeys, and other scripted events take priority over Victor's standard routine.

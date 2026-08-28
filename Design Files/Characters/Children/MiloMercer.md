@@ -513,6 +513,24 @@ If the school remains closed because of its seasonal closure or severe weather, 
 
 ---
 
+## Town Restoration Routine Override
+
+Milo treats restored spaces as new places for games, exploration, and imagined adventures. His farm, school, and family obligations remain unchanged.
+
+### Weathered / Rebuilding
+
+Milo's free-time activity remains concentrated around Mercer Farms, school, Town Square, and familiar routes.
+
+### Recovering / Renewed / Growing
+
+Newly restored paths, fountains, gardens, and public spaces may replace ordinary play locations. Milo frequently tries to turn newly reopened areas into part of an ongoing adventure.
+
+### Prospering / Flourishing
+
+Milo confidently ranges through Blackmere's restored public spaces and increasingly pauses to observe interesting details rather than rushing through them.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, and other scripted events take priority over Milo's standard routine.

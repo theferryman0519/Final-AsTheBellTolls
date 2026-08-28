@@ -460,6 +460,24 @@ If severe weather occurs during the Early Spring Override, the Severe Weather Sc
 
 ---
 
+## Town Restoration Routine Override
+
+Anya's standard schedule remains centered around Memorial Hill, school, and quiet locations. Restoration changes should gradually widen the places she chooses to spend free time without removing Memorial Hill from her routine.
+
+### Weathered / Rebuilding
+
+Anya remains strongly centered around Memorial Hill. Damaged public areas and unfinished restoration sites rarely replace her normal destinations.
+
+### Recovering / Renewed / Growing
+
+As Blackmere becomes more comfortable and recognizable, selected afternoon blocks may be replaced with visits to restored gardens, Town Square, the library, and other peaceful public spaces. She still returns to Memorial Hill regularly.
+
+### Prospering / Flourishing
+
+Anya spends noticeably more free time beyond Memorial Hill, including restored community spaces and quiet gathering areas. Her routine should show that remembering Ian remains important without requiring her to remain physically close to the memorial every day.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, and other scripted events take priority over Anya's standard routine.

@@ -854,52 +854,21 @@ These interactions should remain occasional rather than becoming formal weekly l
 
 ---
 
-## Town Restoration Override
+## Town Restoration Routine Override
 
-Roland's behavior changes subtly as Blackmere is restored.
+Roland's behavior changes as Blackmere moves from emergency recovery toward a town that can sustain itself without his generation directing every decision.
 
-### Weathered
+### Weathered / Rebuilding
 
-Roland frequently pauses during walks to examine flood damage.
+Roland frequently pauses during walks to examine flood damage and restoration work. He remains watchful of civic decisions and is more likely to spend time near Town Hall or damaged public spaces.
 
-He rarely comments unless approached.
+### Recovering / Renewed / Growing
 
-Seeing damaged locations reminds him how much of the town he once helped build.
+Roland begins revisiting restored locations, noting changes on his map, and spending more time speaking with younger residents rather than inspecting work. He becomes increasingly willing to offer advice only when asked.
 
-### Rebuilding
+### Prospering / Flourishing
 
-Roland begins spending more time watching restoration work.
-
-He occasionally speaks with workers or younger residents when asked.
-
-### Recovering
-
-As Blackmere becomes recognizable again, Roland's optimism becomes more visible.
-
-He begins noting restored locations on his map.
-
-### Renewed
-
-Roland increasingly focuses on what Blackmere is becoming rather than what was lost.
-
-### Growing
-
-New activity gives Roland more opportunities to interact with younger residents.
-
-He becomes increasingly willing to share advice.
-
-### Prospering
-
-Roland takes pride in seeing a Blackmere that no longer depends upon his generation to sustain it.
-
-### Flourishing
-
-Roland fully embraces his role as an elder and mentor.
-
-He no longer sees himself as someone whose contribution ended when he stepped away from leadership.
-
-His purpose has changed from building Blackmere directly to helping its people build what comes next.
-
+Roland's routine shifts decisively toward leisure, mentorship, Agatha, Leo, Town Square, and ordinary community life. He takes pride in seeing a Blackmere that no longer depends upon his generation to sustain it.
 ---
 
 ## Early Game Override

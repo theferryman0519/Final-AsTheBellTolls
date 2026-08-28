@@ -478,6 +478,24 @@ If severe weather occurs during the Early Spring Override, the Severe Weather Sc
 
 ---
 
+## Town Restoration Routine Override
+
+Felix's normal schedule remains centered around Winding Banks Inn and familiar nearby locations. Restoration gradually expands the distance he is comfortable traveling from home.
+
+### Weathered / Rebuilding
+
+Felix stays close to the Inn, school, Town Square, and other familiar areas. He rarely chooses damaged or isolated routes on his own.
+
+### Recovering / Renewed / Growing
+
+Selected free-time blocks may be replaced with visits to restored public spaces, river paths, and safer areas of town, especially when Milo, Kira, or Anya are nearby.
+
+### Prospering / Flourishing
+
+Felix confidently uses a wider range of Blackmere locations during daylight hours. His routine should visibly demonstrate that his courage has grown even though he remains naturally cautious.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, and other scripted events take priority over Felix's standard routine.

@@ -492,6 +492,24 @@ His relationship with the player also gives him a safe environment in which incr
 
 ---
 
+## Town Restoration Routine Override
+
+Town Square is one of Leo's most important social and creative locations. As it and the surrounding town recover, Leo's routine should make increasing use of public space.
+
+### Weathered / Rebuilding
+
+Leo spends more free time inside Thread & Thimble or on short walks, with limited lingering in damaged public areas.
+
+### Recovering / Renewed / Growing
+
+Town Square and its restored fountains become regular sketching, people-watching, and social destinations. Selected shop or indoor leisure blocks may move outdoors in favorable weather.
+
+### Prospering / Flourishing
+
+Leo stays in Town Square later, sketches clothing inspired by town activity, and regularly uses bustling restored areas as part of his creative routine.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, and other scripted events take priority over Leo's standard routine.

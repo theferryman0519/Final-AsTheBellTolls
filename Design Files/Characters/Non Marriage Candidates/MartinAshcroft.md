@@ -847,6 +847,24 @@ Mail for inaccessible locations remains secured until delivery becomes possible.
 
 ---
 
+## Town Restoration Routine Override
+
+Martin's existing Town Hall restoration override remains the primary influence on postal operations. Broader restoration changes both delivery demand and the amount of time he spends moving through an increasingly active Blackmere.
+
+### Weathered / Rebuilding
+
+Deliveries emphasize restoration notices, official correspondence, supply coordination, and essential household routes. Martin spends comparatively little time lingering between stops.
+
+### Recovering / Renewed / Growing
+
+More reopened businesses and homes expand delivery routes. Selected pauses may occur in restored public spaces as Martin becomes more connected to the people along his route rather than treating every stop as another responsibility.
+
+### Prospering / Flourishing
+
+Improved organization and infrastructure make the route more manageable despite increased mail volume. Some late-day blocks may become Town Square, Manor, or personal walks rather than additional sorting or delivery work.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, postal events, municipal events, and other scripted events take priority over Martin's standard routine.

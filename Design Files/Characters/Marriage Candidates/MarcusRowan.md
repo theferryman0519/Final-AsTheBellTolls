@@ -543,6 +543,24 @@ As his relationship progression develops, Marcus becomes more willing to leave u
 
 ---
 
+## Town Restoration Routine Override
+
+Marcus's workload is highest while Blackmere requires constant repair. Restoration gradually shifts his schedule from emergency fabrication toward deliberate craft and personal time.
+
+### Weathered / Rebuilding
+
+Repair orders, structural metalwork, and restoration support may replace leisure or personal-project blocks.
+
+### Recovering / Renewed / Growing
+
+Urgent repairs become less frequent. Marcus spends more time on planned commissions, collaborative projects, and occasional visits to restored public spaces.
+
+### Prospering / Flourishing
+
+Selected evening work blocks may be replaced with Town Square, Inn, or outdoor leisure time. His schedule should show that Blackmere no longer requires him to work continuously just to keep essential infrastructure functioning.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, marriage events, and other scripted events take priority over Marcus's standard routine.

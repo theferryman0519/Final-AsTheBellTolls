@@ -536,6 +536,24 @@ She is less interested in recognition than in whether the invention makes mining
 
 ---
 
+## Town Restoration Routine Override
+
+Claudia's routine changes as Ashfall Mines and Blackmere's infrastructure become safer and more dependable.
+
+### Weathered / Rebuilding
+
+Claudia spends comparatively long blocks at the mine and may replace leisure time with inspections, hauling, or safety-related work.
+
+### Recovering / Renewed / Growing
+
+Improved mine conditions reduce emergency work. Selected late-day blocks may be replaced with Mercer Farms, Town Square, or time with family.
+
+### Prospering / Flourishing
+
+Claudia maintains regular mining responsibilities but no longer treats constant presence at Ashfall as necessary. Her routine should show noticeably more family and personal time.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, family events, and other scripted events take priority over Claudia's standard routine.

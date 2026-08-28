@@ -597,6 +597,24 @@ If Day 1 falls on Saturday or Sunday, the bank remains closed and Elise follows 
 
 ---
 
+## Town Restoration Routine Override
+
+Elise uses Blackmere's recovery as a practical measure of the town's financial stability. Restored businesses and increased economic activity gradually pull her routine beyond the bank.
+
+### Weathered / Rebuilding
+
+Elise remains heavily centered around Blackmere Bank & Exchange, financial records, and cautious inspections of struggling businesses.
+
+### Recovering / Renewed / Growing
+
+Selected work blocks may become visits to restored shops, Town Square, the Trade Fair area, or other places where she can observe changing commercial activity.
+
+### Prospering / Flourishing
+
+Elise spends more time in active public and commercial spaces and allows occasional leisure blocks outside the bank. Her schedule should reflect growing confidence that Blackmere's economy no longer requires constant defensive management.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, financial events, and other scripted events take priority over Elise's standard routine.

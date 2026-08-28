@@ -538,6 +538,24 @@ If a restoration inspection would require visiting a location that has not yet b
 
 ---
 
+## Town Restoration Routine Override
+
+Beatrice's routine should be one of the clearest indicators of Blackmere's overall restoration state. The better the town functions, the less of her day is consumed by crisis management.
+
+### Weathered / Rebuilding
+
+Inspection blocks prioritize damaged roads, restoration sites, struggling businesses, and public infrastructure. Town Hall work frequently extends into additional administrative periods.
+
+### Recovering / Renewed / Growing
+
+Beatrice continues regular inspections but increasingly visits reopened businesses, community spaces, and completed restoration projects instead of only problem areas.
+
+### Prospering / Flourishing
+
+Routine emergency inspections decrease. Selected administrative blocks may become Town Square walks, business visits, community conversations, or public events, showing that Beatrice is finally governing a functioning town rather than managing an ongoing disaster.
+
+---
+
 ## Event Overrides
 
 Story events, relationship events, festivals, birthdays, quests, civic events, emergencies, weddings, Grand Showcase events, and restoration milestones take priority over Beatrice's standard routine.

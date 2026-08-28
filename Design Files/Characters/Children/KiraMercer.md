@@ -499,6 +499,24 @@ If the school remains closed because of its seasonal closure or severe weather, 
 
 ---
 
+## Town Restoration Routine Override
+
+Kira actively notices new places as Blackmere is restored. Her standard school and family responsibilities remain unchanged, while exploration blocks gain additional eligible destinations.
+
+### Weathered / Rebuilding
+
+Kira explores accessible farm paths, Town Square, and familiar outdoor locations while observing restoration work from safe areas.
+
+### Recovering / Renewed / Growing
+
+Restored trails, public buildings, mine-adjacent areas, the library, and newly reopened outdoor spaces may replace ordinary exploration blocks. Kira is often among the first children to investigate a newly usable location.
+
+### Prospering / Flourishing
+
+Kira regularly revisits completed restoration projects to document how they changed. Her exploration becomes more deliberate and less focused on simply reaching the next place as quickly as possible.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, and other scripted events take priority over Kira's standard routine.

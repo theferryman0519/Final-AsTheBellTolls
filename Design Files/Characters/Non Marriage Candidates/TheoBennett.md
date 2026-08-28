@@ -988,6 +988,24 @@ Any ingredient-related visit to Mercer Farms before Day 4 is canceled.
 
 ---
 
+## Town Restoration Routine Override
+
+Theo's existing Inn restoration override remains the primary influence on bakery demand. Broader town restoration gradually increases both his workload and his opportunities to participate in community life.
+
+### Weathered / Rebuilding
+
+Theo remains heavily centered around baking, Inn supply needs, and dependable daily production.
+
+### Recovering / Renewed / Growing
+
+Increased business and community activity create larger baking orders and festival preparation, but selected free-time blocks may also shift into Town Square or social visits.
+
+### Prospering / Flourishing
+
+Improved organization allows Theo to maintain successful bakery production without remaining at work constantly. Some late-day blocks may become community activities, family time, or visits with friends.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, family events, inn events, and other scripted events take priority over Theo's standard routine.

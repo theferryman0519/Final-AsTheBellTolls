@@ -972,6 +972,24 @@ Pendrelle Manor-related activities depend on story progression rather than simpl
 
 ---
 
+## Town Restoration Routine Override
+
+Lucian/Vivian reacts most strongly to restoration involving mechanical systems, the Bell Tower, Pendrelle Manor, and civic infrastructure. Their existing Bell Tower and clock restoration overrides continue to take priority when applicable.
+
+### Weathered / Rebuilding
+
+Lucian/Vivian remains centered around 6 Resident Lane and the Bell Tower. They observe Pendrelle Manor and major restoration sites from a professional distance but rarely enter spaces connected to the player's work without a specific reason.
+
+### Recovering / Renewed / Growing
+
+Selected research or walking blocks may include restored mechanical infrastructure, Town Square, and exterior visits to Pendrelle Manor or the Laboratory when story progression permits.
+
+### Prospering / Flourishing
+
+Lucian/Vivian regularly inspects or studies Blackmere's restored mechanical systems and may visit Pendrelle Manor, the Laboratory, or civic invention sites when relationship and story conditions allow. Their routine should show growing willingness to participate in the player's work rather than observing it only as a rival.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, Bell Tower events, grandfather clock events, and other scripted events take priority over Lucian/Vivian's standard routine.

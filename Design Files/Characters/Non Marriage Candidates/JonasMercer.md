@@ -734,6 +734,24 @@ Before Day 4, Jonas does not appear in publicly accessible areas.
 
 ---
 
+## Town Restoration Routine Override
+
+Jonas's routine changes as Mercer Farms and Blackmere's agricultural infrastructure become more dependable.
+
+### Weathered / Rebuilding
+
+Farm repair, livestock care, and recovery work may replace leisure or town visits. Jonas spends most of his day close to Mercer Farms.
+
+### Recovering / Renewed / Growing
+
+Improved farm systems reduce emergency work and allow selected blocks for Town Square, the Inn, errands, or family activity away from the farm.
+
+### Prospering / Flourishing
+
+Jonas maintains predictable farm responsibilities but has noticeably more time for Claudia, the children, and community life. His routine should reflect a household that is no longer operating in constant recovery mode.
+
+---
+
 ## Event Overrides
 
 Story events, friendship events, festivals, birthdays, quests, Grand Showcase events, family events, crop events, and other scripted events take priority over Jonas's standard routine.
