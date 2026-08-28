@@ -37,7 +37,7 @@ Version: 0.0.1
 | Tonics                | 35          |
 | Fabrications          | 48          |
 | Clothing              | 240         |
-| Inventions            | 120         |
+| Inventions            | 125         |
 | NPC Friendship Bonds  | 31          |
 | NPC Connection Bonds  | 31          |
 | Pendrelle Manor Rooms | 15          |
