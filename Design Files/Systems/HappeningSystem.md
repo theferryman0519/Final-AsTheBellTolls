@@ -20,8 +20,8 @@ Version: 0.0.1
 
 | Occurrence Type | Probability
 |-----------------|-------------|
-| No Occurrence   | 40%
-| Common          | 30%
-| Uncommon        | 15%
-| Rare            | 10%
-| Extremely Rare  | 5%
+| No Occurrence   | 60%
+| Common          | 25%
+| Uncommon        | 10%
+| Rare            | 4%
+| Extremely Rare  | 1%
