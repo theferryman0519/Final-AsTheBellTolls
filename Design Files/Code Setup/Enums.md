@@ -391,7 +391,6 @@ Version: 0.0.1
 - Gift
 - Quest
 - BondEvent
-- ConnectionEvent
 - EdwardHelp
 - Shopping
 - FirstMeet
@@ -400,6 +399,7 @@ Version: 0.0.1
 - MarriedLife
 - Intro
 - Repossession
+- Reactive
 
 ### DialogueVariantType
 
