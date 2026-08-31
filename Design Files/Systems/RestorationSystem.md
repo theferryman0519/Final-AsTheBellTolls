@@ -28,6 +28,25 @@ Version: 0.0.1
 
 ---
 
+## Stage Updates
+
+- Each location and manor room may go through certain changes when restoring from one stage to another.
+- Each stage restoration will result in two changes.
+- Rebuilding to Recovering, Renewed to Growing, and Prospering to Flourishing each earn one additional change.
+- Incorporated changes after restoration:
+    * Additional function or service
+    * Updated NPC routines
+    * Economic effect with added shop items
+    * Additional NPC gatherings at location
+    * Updated NPC dialogue
+    * Updated visual upgrades
+    * Updated audio upgrades
+    * Player invention installations
+    * Cross-location synergy
+    * Player visual customizations
+
+---
+
 ## Town Restoration Progression
 
 | Stage Progression         | Items Needed
