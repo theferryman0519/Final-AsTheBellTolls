@@ -389,6 +389,7 @@ Version: 0.0.1
 - Museum System
 - NPC Connection System
 - NPC Friendship System
+- NPC Interaction Table
 - NPC Mood System
 - NPC Navigation System
 - NPC Routine System
