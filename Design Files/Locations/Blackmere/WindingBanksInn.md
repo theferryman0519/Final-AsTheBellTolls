@@ -27,26 +27,30 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-* Weathered:
-    - Only part of the inn feels comfortable; guest traffic is low, meals are pragmatic, and the family handles constant repairs.
-
-* Rebuilding:
-    - Guest rooms/common area repair brings visible workers and a few returning travelers; breakfast tables stop feeling empty.
-
-* Recovering:
-    - Regular visitors stay again; dining and room-rental routines gain NPC traffic, and the weekly breakfast grows.
-
-* Renewed:
-    - The inn becomes a warm gathering place; recurring meals and evening conversations make River Wharf socially alive.
-
-* Growing:
-    - Outdoor seating/garden creates new hangout anchors; travelers can bring rumors, requests or regional flavor.
-
-* Prospering:
-    - Expanded amenities and steady guests tie the inn to trade and festivals; performers/special visitors may appear occasionally.
-
-* Flourishing:
-    - The inn becomes Blackmere's social crossroads: locals and outsiders mix, shared meals visibly scale, and returning guests recognize the town's recovery.
+* Initial Weathered Stage:
+    - The player can purchase meals and drinks from Helen, purchase Theo's food rotation, and rent a room from Frederick for 2 hours to recover 50 Stamina before 9:00 PM. Only part of the Inn feels comfortable, guest traffic is low, meals are pragmatic, and the Holt family continually compensates for damaged spaces.
+* Weathered to Rebuilding:
+    1) Updated Visuals: More of the common room and guest area is safely usable, with repaired furniture, dependable tables, cleaner flooring, and one or more comfortable guest spaces while the Inn remains modest.
+    2) Updated NPC Routines: Frederick, Helen, Theo, and Felix spend less time compensating for damaged rooms, and the family returns to more recognizable hospitality and household routines.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Dependable guest rooms, a fuller dining area, luggage/crate details, and a larger breakfast setup become usable.
+    2) Updated Audio: Kitchen service, dishes, footsteps, guest doors, and low traveler conversation give the Inn a dependable hospitality ambience.
+    3) Additional NPC Gatherings at Location: Regular travelers begin staying and the weekly breakfast gains more local/visitor attendance.
+* Recovering to Renewed:
+    1) Updated Visuals: The common room gains comfortable hearth seating, fuller tables, and a distinctly welcoming Inn atmosphere.
+    2) Additional NPC Gatherings at Location: Recurring evening Hearth gatherings bring rotating locals together for meals, drinks, cards, or conversation.
+* Renewed to Growing:
+    1) Updated Visuals: Outdoor seating/garden and additional guest-facing areas create new social anchors.
+    2) Updated Audio: Outdoor dining adds river ambience, dishes, traveler conversation, birds/foliage, and evening social noise.
+    3) Additional Function or Service: Travelers can begin supplying regional rumors, small requests, recipe leads, or other lightweight visitor opportunities.
+* Growing to Prospering:
+    1) Updated Visuals: Expanded amenities, guest signage, event accommodations, and a small performer/special-guest area reflect steady occupancy.
+    2) Cross-Location Synergy: Caravan/trade, Fishery food supply, festivals, and other visitor systems can route guests or content through the Inn.
+* Prospering to Flourishing:
+    1) Updated Visuals: The Inn reaches full social-crossroads presentation with occupied tables, returning-guest details, refined guest rooms, and scaled communal dining.
+    2) Updated Audio: Layered locals, travelers, dining, river, guest-room, and occasional performance ambience create the busiest regular social soundscape in Blackmere.
+    3) Additional NPC Gatherings at Location: Recurring social nights/shared meals mix locals, named visitors, performers, and returning guests.
+    4) Cross-Location Synergy: The Flourishing Inn becomes a gateway that can cause scholars, traders, craftspeople, performers, or former residents to appear elsewhere in Blackmere.
 
 ---
 
