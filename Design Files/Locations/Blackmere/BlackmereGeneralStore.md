@@ -26,26 +26,30 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-* Weathered:
-    - Walter has sparse shelves and inconsistent stock; residents enter for essentials but rarely browse.
-
-* Rebuilding:
-    - Repaired storefront and deliveries create visible restocking activity; some shelves remain intentionally bare.
-
-* Recovering:
-    - Core stock is dependable; NPC shoppers appear on schedules and Walter can discuss which goods are returning.
-
-* Renewed:
-    - The shop feels warm and lived-in; displays respond to season and local production instead of generic inventory rows.
-
-* Growing:
-    - Local-producer shelf appears, featuring goods tied to restored farms/trades and giving the player a new sale/consignment outlet if desired.
-
-* Prospering:
-    - Expanded displays and customer traffic make commerce visibly healthy; occasional bulk/community orders create requests.
-
-* Flourishing:
-    - The store becomes daily commerce hub: seasonal window displays, NPC shopping conversations, and town-produced stock visually prove Blackmere's self-sufficiency.
+* Initial Weathered Stage:
+    - The player can purchase the General Store's available goods, but Walter works with sparse shelves and inconsistent stock. Residents primarily visit for essentials and rarely linger or browse.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The storefront is secure, delivery storage is usable, and essential shelves are more consistently stocked while the shop still feels modest.
+    2) Updated NPC Routines: Walter gains regular restocking and delivery blocks, while residents continue to shop primarily for practical necessities.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Core shelving, storage, and displays become dependable with fewer intentionally empty sections.
+    2) Updated Audio: The door bell, crate handling, shelf restocking, and light customer ambience make the Store feel routinely active.
+    3) Additional NPC Gatherings at Location: Scheduled NPC shoppers begin appearing for regular purchases rather than only essentials.
+* Recovering to Renewed:
+    1) Updated Visuals: Seasonal displays and Blackmere-produced goods make the shop feel curated rather than merely stocked.
+    2) Updated NPC Dialogue: Walter and shoppers can reference returning goods, seasonal needs, and specific local producers.
+* Renewed to Growing:
+    1) Updated Visuals: A dedicated local-producer shelf or counter displays goods from restored Blackmere producers.
+    2) Updated Audio: Higher customer frequency, stocking, and brief shopper conversations make the store feel like a neighborhood shop.
+    3) Cross-Location Synergy: Restored farms/trades can place eligible local goods into a dedicated producer rotation or consignment-style display.
+* Growing to Prospering:
+    1) Updated Visuals: Expanded displays, bulk-order staging, and more complete seasonal windows reflect healthy commerce.
+    2) Additional Function or Service: Occasional bulk/community orders create requests or purchase opportunities without increasing random stock endlessly.
+* Prospering to Flourishing:
+    1) Updated Visuals: Polished seasonal windows and clearly local merchandise make the General Store a visual proof of Blackmere self-sufficiency.
+    2) Updated Audio: Steady browsing, counter transactions, restocking, and NPC-to-NPC shopping chatter establish full daily commerce.
+    3) Cross-Location Synergy: Town-produced stock, festival demand, and visitor trade can visibly alter featured displays and short-term requests.
+    4) Updated NPC Dialogue: Walter and custo
 
 ---
 
