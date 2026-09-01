@@ -25,35 +25,39 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-* Weathered:
-    - Elise operates a reduced counter; records are boxed above old water lines and the room feels defensive rather than prosperous.
-
-* Rebuilding:
-    - Secure counters and ledgers are restored; temporary scaffolding makes the bank visibly active instead of abandoned.
-
-* Recovering:
-    - Regular hours and basic loan/exchange services feel reliable; NPCs occasionally conduct transactions.
-
-* Renewed:
-    - Clean public desk and repaired vault support civic-finance scenes; town reserve updates can be shown physically on a notice/ledger.
-
-* Growing:
-    - New consultation desk lets Elise offer optional financial planning/loan restructuring after relevant progression.
-
-* Prospering:
-    - The bank visibly funds local projects: plaques, loan notices, or NPC conversations connect restored businesses to circulating capital.
-
-* Flourishing:
-    - The bank becomes a civic confidence marker: prosperity is shown by activity and investment, not piles of money; Rupert's assessment can use it as observable evidence.
+* Initial Weathered Stage:
+    - The player can still access the currently available Bellnote loans, but Elise operates from a reduced counter with records kept safely above old water lines. The Bank feels defensive and preservation-focused rather than prosperous.
+* Weathered to Rebuilding:
+    1) Updated Visuals: Secure counters, dry record storage, repaired ledgers, and orderly essential workspaces restore basic banking confidence without making the Bank look prosperous yet.
+    2) Updated NPC Routines: Elise spends less time protecting damaged records and returns to predictable counter and recordkeeping blocks.
+* Rebuilding to Recovering:
+    1) Updated Visuals: The public counter, loan records, and basic exchange workspace become fully dependable.
+    2) Updated Audio: Paper handling, coin and ledger sounds, low counter conversation, and door activity give the Bank a dependable working ambience.
+    3) Additional NPC Gatherings at Location: Residents occasionally conduct transactions, repay obligations, or meet Elise during business hours.
+* Recovering to Renewed:
+    1) Updated Visuals: A clean civic-finance desk, repaired vault details, and visible reserve/ledger presentation make the bank feel trustworthy.
+    2) Additional Function or Service: 100,000 and 250,000 Bellnote loans are now available for the player
+* Renewed to Growing:
+    1) Updated Visuals: A consultation desk and more complete financial records create a private planning area.
+    2) Updated Audio: Periodic consultation conversations and normal customer traffic make the bank audibly active.
+    3) Additional Function or Service: Optional loan restructuring or financial planning becomes available after relevant progression.
+* Growing to Prospering:
+    1) Updated Visuals: Plaques, project records, and funded-work notices visibly connect the Bank to completed Blackmere projects.
+    2) Cross-Location Synergy: Restored businesses and Town Hall projects can receive visible funding acknowledgements or trigger related banking activity.
+* Prospering to Flourishing:
+    1) Updated Visuals: The Bank becomes a polished civic-confidence space emphasizing investment, records, and circulation rather than wealth display.
+    2) Updated Audio: Steady customer/civic activity creates a confident but restrained financial-office ambience.
+    3) Cross-Location Synergy: Regional trade, Caravan, Town Hall, and Future Planning states can unlock new consultation/civic-finance interactions.
+    4) Updated NPC Dialogue: Elise and visitors can reference Blackmere's financial recovery and the bank's role in keeping prosperity sustainable.
 
 ---
 
 ## Shop Items with Elise
 
-*Note: All items are visible at once when shopping.*
+*Note: 5,000 and 25,000 loans are available throughout. 100,000 and 250,000 loans are available starting at the Renewed restoration stage.*
 
 | Item                  | Bellnote Amount
-|-----------------------|---|
+|-----------------------|-----------------|
 | 5,000 Bellnote Loan   | 0 Bellnotes
 | 25,000 Bellnote Loan  | 0 Bellnotes
 | 100,000 Bellnote Loan | 0 Bellnotes
