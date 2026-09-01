@@ -17,47 +17,47 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | n/a
-| Rebuilding        | Farming / 6 Soil Squares
-| Recovering        | 9 Soil Squares
-| Renewed           | 12 Soil Squares
-| Growing           | 15 Soil Squares
-| Prospering        | Greenhouse Effect / 18 Soil Squares
-| Flourishing       | 24 Soil Squares
-
-* Weathered:
-    - Flood-damaged ground and dead/tilted trees show long recovery horizons.
-
-* Rebuilding:
-    - Six plots/trees can be planted; early saplings make time investment visually obvious.
-
-* Recovering:
-    - Nine plots and repaired paths support a recognizable orchard routine; blossoms/fruit attract ambient wildlife.
-
-* Renewed:
-    - Twelve plots create shaded walkways and harvest activity; spouse/NPCs may stroll or help during fruit season.
-
-* Growing:
-    - Fifteen plots allow cultivar zones, beehive/pollinator synergies or picnic anchors if those systems fit.
-
-* Prospering:
-    - Greenhouse effect + 18 plots needs visible glass/windbreak/invention logic; off-season fruit becomes a prestigious achievement.
-
-* Flourishing:
-    - Twenty-four plots culminate in a mature estate orchard used for harvest gatherings, cooking supply and scenic social moments — the space should feel older and richer each year.
-
----
-
-## Visual Customizations
-
-| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
-|---|---|---|---|
-| Weathered | n/a | n/a | n/a |
-| Rebuilding | **Old Estate Orchard** — stone tree borders and traditional gravel paths | **Working Orchard** — timber borders, practical paths, baskets and tools | **Natural Orchard** — softer paths, wild grass borders, understated intervention |
-| Recovering | **Pollinator Orchard** — bee-friendly flowers and small habitat details | **Harvest Orchard** — baskets, ladders, fruit crates, practical accents | **Walking Orchard** — benches, lanterns, scenic pathways |
-| Renewed | **Pendrelle Orchard** — formal symmetry, estate benches, stone accents | **Blackmere Orchard** — local woodwork and handcrafted signs | **Country Orchard** — picnic details, rustic fencing, relaxed character |
-| Growing | **Picnic Grove** — tables, blankets, social seating | **Bee & Blossom Grove** — beehives, flowers, pollinator features | **Harvest Grove** — worktables, baskets, decorative fruit storage |
-| Prospering | **Victorian Orchard House** — decorative glass-and-iron greenhouse elements | **Blackmere Orchard House** — local timber and practical glass structure | **Inventor Orchard House** — automated vents, brass irrigation components, mechanical details |
-| Flourishing | **Grand Pendrelle Orchard** — formal mature-estate elegance | **Blackmere Grove** — lush, communal, handcrafted atmosphere | **Living Orchard** — naturalistic mature landscape emphasizing wildlife and social use |
+* Initial Weathered Stage:
+    - The Orchard begins as flood-damaged growing ground with unusable plots, damaged paths, and little remaining structure for organized fruit production. Orchard crops cannot yet be planted.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The first six growing squares and their access paths are restored, giving the Orchard a clear, usable planting structure.
+    2) Additional Function or Service: Farming becomes available with 6 Soil Squares.
+    3) Player Customization:
+        - Variant A: Old Estate Orchard — stone tree borders and traditional gravel paths.
+        - Variant B: Working Orchard — timber borders, practical paths, baskets and tools.
+        - Variant C: Natural Orchard — softer paths, wild grass borders, understated intervention.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Nine maintained growing squares, repaired paths, healthier ground, and stronger orchard organization make the space visibly established.
+    2) Additional Function or Service: 9 Soil Squares.
+    3) Player Customization:
+        - Variant A: Pollinator Orchard — bee-friendly flowers and small habitat details.
+        - Variant B: Harvest Orchard — baskets, ladders, fruit crates, practical accents.
+        - Variant C: Walking Orchard — benches, lanterns, scenic pathways.
+* Recovering to Renewed:
+    1) Updated Visuals: Twelve growing squares are integrated into a mature-looking orchard layout with complete paths, maintained borders, and a more comfortable walking/harvest environment.
+    2) Additional Function or Service: 12 Soil Squares.
+    3) Player Customization:
+        - Variant A: Pendrelle Orchard — formal symmetry, estate benches, stone accents.
+        - Variant B: Blackmere Orchard — local woodwork and handcrafted signs.
+        - Variant C: Country Orchard — picnic details, rustic fencing, relaxed character.
+* Renewed to Growing:
+    1) Updated Visuals: Fifteen growing squares create a fuller estate-orchard presentation, with increasingly mature planting zones and stronger visual rhythm between productive rows and decorative space.
+    2) Additional Function or Service: 15 Soil Squares.
+    3) Player Customization:
+        - Variant A: Picnic Grove — tables, blankets, social seating.
+        - Variant B: Bee & Blossom Grove — beehives, flowers, pollinator features.
+        - Variant C: Harvest Grove — worktables, baskets, decorative fruit storage.
+* Growing to Prospering:
+    1) Updated Visuals: The greenhouse roof/effect becomes a major fixed visual addition. Glass, framing, weather protection, and eighteen growing squares make off-season cultivation visibly believable.
+    2) Additional Function or Service: Greenhouse Effect becomes available with 18 Soil Squares, allowing crops from any season to be planted.
+    3) Player Customization:
+        - Variant A: Victorian Orchard House — decorative glass-and-iron greenhouse elements.
+        - Variant B: Blackmere Orchard House — local timber and practical glass structure.
+        - Variant C: Inventor Orchard House — automated vents, brass irrigation components, mechanical details.
+* Prospering to Flourishing:
+    1) Updated Visuals: Twenty-four growing squares, mature orchard structure, completed paths, refined greenhouse elements, and a fully established landscape make the Orchard feel like a long-term part of the Manor rather than a newly recovered field.
+    2) Additional Function or Service: 24 Soil Squares.
+    3) Player Customization:
+        - Variant A: Grand Pendrelle Orchard — formal mature-estate elegance.
+        - Variant B: Blackmere Grove — lush, communal, handcrafted atmosphere.
+        - Variant C: Living Orchard — naturalistic mature landscape emphasizing wildlife and social use.
