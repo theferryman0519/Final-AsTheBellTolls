@@ -14,49 +14,49 @@ Version: 0.0.1
 
 ---
 
-## Restoration Progression
+# Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | n/a
-| Rebuilding        | 2 Max Barn Animals
-| Recovering        | 4 Max Barn Animals
-| Renewed           | 6 Max Barn Animals
-| Growing           | 8 Max Barn Animals
-| Prospering        | 10 Max Barn Animals
-| Flourishing       | 15 Max Barn Animals
-
-* Weathered:
-    - Collapsed/unsafe stalls remain empty; exterior shows evidence that livestock life has not yet returned.
-
-* Rebuilding:
-    - Two animals can live safely; feed/water stations and morning animal sounds return, making the estate feel inhabited.
-
-* Recovering:
-    - More stalls support a mixed small herd; animals have distinct resting/feeding anchors rather than standing as capacity units.
-
-* Renewed:
-    - Routine animal-care flow becomes efficient and visually clean; manure/feed storage and NPC animal visits can appear.
-
-* Growing:
-    - Expanded herd creates visible pasture/yard activity and occasional breeding/young-animal scenes if that system exists.
-
-* Prospering:
-    - Barn products feed cooking/trade/community requests more visibly; Edward or spouse/family may occasionally interact with animals.
-
-* Flourishing:
-    - Fifteen-animal capacity should culminate in a lived agricultural center: varied idle behavior, organized storage, seasonal decor, and a signature husbandry perk/invention synergy rather than capacity alone.
-
----
-
-## Visual Customizations
-
-| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
-|---|---|---|---|
-| Weathered | n/a | n/a | n/a |
-| Rebuilding | **Rough Timber Stalls** — exposed repaired beams, plain stall doors, simple iron hooks | **Whitewashed Stalls** — pale limewashed boards, dark timber framing, simple troughs | **Blackmere Stonework** — stone stall bases, reclaimed timber partitions, wrought-iron fittings |
-| Recovering | **Canvas & Burlap** — feed sacks, canvas storage, practical hanging supplies | **Heritage Tack** — restored leather tack, old Pendrelle hooks, traditional equipment | **Country Greenery** — small herb bundles, hardy plants, understated natural accents |
-| Renewed | **Polished Working Barn** — clean timber, organized feed stations, matching storage | **Old Estate Barn** — darker wood, brass hardware, restored family-era fixtures | **Local Craftsman Barn** — lighter woods, hand-built bins, visible Blackmere workmanship |
-| Growing | **Harvest Barn** — baskets, hay bundles, produce crates, seasonal farm accents | **Pasture Barn** — greener accents, open-air elements, wildflower details | **Husbandry Barn** — organized grooming stations, labeled storage, animal-care displays |
-| Prospering | **Refined Estate Barn** — polished wood, brass fixtures, tailored storage | **Community Barn** — local craftwork, colorful woven textiles, Blackmere-made details | **Inventor-Assisted Barn** — subtle mechanical feeders, brass indicators, practical devices |
-| Flourishing | **Pendrelle Heritage** — elegant restored estate styling based on the Manor’s history | **Blackmere Homestead** — warm handcrafted local materials and lived-in character | **Modern Husbandry** — refined practical design incorporating subtle inventions and organized animal care |
+* Initial Weathered Stage:
+    - The Barn begins as an unsafe, flood-damaged agricultural space. Stalls are empty, surfaces are worn, and the building does not yet support livestock. Barn animals cannot yet be purchased or housed.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The first completed restoration makes two stalls safe and usable, restores basic feed and water areas, and replaces the most visibly damaged structural surfaces while keeping the Barn modest.
+    2) Additional Function or Service: 2 Max Barn Animals.
+    3) Player Customization:
+        - Variant A: Rough Timber Stalls — exposed repaired beams, plain stall doors, simple iron hooks.
+        - Variant B: Whitewashed Stalls — pale limewashed boards, dark timber framing, simple troughs.
+        - Variant C: Blackmere Stonework — stone stall bases, reclaimed timber partitions, wrought-iron fittings.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Additional stalls, cleaner flooring, repaired partitions, and more organized feed storage make the Barn read as an actively used small livestock space.
+    2) Additional Function or Service: 4 Max Barn Animals.
+    3) Player Customization:
+        - Variant A: Canvas & Burlap — feed sacks, canvas storage, practical hanging supplies.
+        - Variant B: Heritage Tack — restored leather tack, old Pendrelle hooks, traditional equipment.
+        - Variant C: Country Greenery — small herb bundles, hardy plants, understated natural accents.
+* Recovering to Renewed:
+    1) Updated Visuals: The interior becomes orderly and dependable, with complete stall fittings, improved ventilation and lighting, and cleaner animal-care areas.
+    2) Additional Function or Service: 6 Max Barn Animals.
+    3) Player Customization:
+        - Variant A: Polished Working Barn — clean timber, organized feed stations, matching storage.
+        - Variant B: Old Estate Barn — darker wood, brass hardware, restored family-era fixtures.
+        - Variant C: Local Craftsman Barn — lighter woods, hand-built bins, visible Blackmere workmanship.
+* Renewed to Growing:
+    1) Updated Visuals: The Barn expands visually to support a larger mixed herd, with fuller hay/feed storage, more distinct animal areas, and a busier estate-farm appearance.
+    2) Additional Function or Service: 8 Max Barn Animals.
+    3) Player Customization:
+        - Variant A: Harvest Barn — baskets, hay bundles, produce crates, seasonal farm accents.
+        - Variant B: Pasture Barn — greener accents, open-air elements, wildflower details.
+        - Variant C: Husbandry Barn — organized grooming stations, labeled storage, animal-care displays.
+* Growing to Prospering:
+    1) Updated Visuals: Finishes become more durable and polished, storage becomes more organized, and the Barn presents as a well-maintained agricultural building rather than a recovered ruin.
+    2) Additional Function or Service: 10 Max Barn Animals.
+    3) Player Customization:
+        - Variant A: Refined Estate Barn — polished wood, brass fixtures, tailored storage.
+        - Variant B: Community Barn — local craftwork, colorful woven textiles, Blackmere-made details.
+        - Variant C: Inventor-Assisted Barn — subtle mechanical feeders, brass indicators, practical devices.
+* Prospering to Flourishing:
+    1) Updated Visuals: The Barn reaches its most complete estate-farm presentation, with fully developed stalls, organized care/storage zones, refined lighting and fixtures, and a cohesive high-stage agricultural look.
+    2) Additional Function or Service: 15 Max Barn Animals.
+    3) Player Customization:
+        - Variant A: Pendrelle Heritage — elegant restored estate styling based on the Manor’s history.
+        - Variant B: Blackmere Homestead — warm handcrafted local materials and lived-in character.
+        - Variant C: Modern Husbandry — refined practical design incorporating subtle inventions and organized animal care.
