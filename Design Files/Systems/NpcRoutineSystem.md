@@ -59,7 +59,8 @@ The block of routines for each NPC are generated in the format similar to the be
     * 7:40am
         1) Location: Blackmere Town Hall
         2) Activity: Arrives at Blackmere Town Hall
-    ...
+    
+...
 
 ---
 
