@@ -17,47 +17,47 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | Pantry / 16 Storage Slots
-| Rebuilding        | Stove / Blender / 32 Storage Slots
-| Recovering        | 48 Storage Slots
-| Renewed           | 64 Storage Slots
-| Growing           | 80 Storage Slots
-| Prospering        | 96 Storage Slots
-| Flourishing       | 112 Storage Slots
-
-* Weathered:
-    - Pantry works but cooking space is damaged; storage is survival-oriented and visibly limited.
-
-* Rebuilding:
-    - Stove/blender restore the smell/sound of cooking; 32 slots plus first cooked meals make the Manor feel habitable.
-
-* Recovering:
-    - 48 slots are represented by repaired shelving/cold storage; Edward/spouse can plausibly use the room in routines.
-
-* Renewed:
-    - 64 slots plus complete preparation surfaces support shared cooking scenes and recipe progression.
-
-* Growing:
-    - 80 slots should add workflow/life, not just shelving: ingredient baskets, preserves, family meal prep, or recipe-display props.
-
-* Prospering:
-    - 96 slots needs a visible invention/cold-cellar explanation; this is a major functional restoration and should alter shopping/harvest planning.
-
-* Flourishing:
-    - 112 slots culminates in a communal kitchen: helpers/guests may use it during major meals, and the room visually feeds the Dining Hall/festival ecosystem.
-
----
-
-## Visual Customizations
-
-| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
-|---|---|---|---|
-| Weathered | n/a | n/a | n/a |
-| Rebuilding | **Country Kitchen** — warm wood, ceramic cookware, simple shelves | **Pendrelle Kitchen** — dark cabinetry, brass fittings, traditional range styling | **Blackmere Kitchen** — local stone, handmade cabinetry, practical iron fixtures |
-| Recovering | **Baker's Kitchen** — bread boards, flour jars, warm textiles | **Herbal Kitchen** — hanging herbs, green accents, botanical storage | **Cook's Kitchen** — organized utensils, pots, ingredient preparation stations |
-| Renewed | **Family Kitchen** — warmer seating, recipe notes, lived-in details | **Estate Kitchen** — formal cabinetry, polished cookware, traditional service pieces | **Community Kitchen** — Blackmere pottery, local textiles, gifted kitchen objects |
-| Growing | **Preserver's Pantry** — jars, baskets, preserves, abundant ingredient displays | **Recipe Kitchen** — books, recipe cards, chalkboard/menu features | **Garden Kitchen** — flowers, herbs, produce baskets, botanical motifs |
-| Prospering | **Traditional Cold Cellar** — stone cooling features, ceramic storage, heritage design | **Inventor's Pantry** — brass cooling apparatus, gauges, insulated storage | **Refined Estate Pantry** — elegant cabinetry concealing upgraded preservation systems |
-| Flourishing | **Pendrelle Hearth** — warm, historic family kitchen restored to grandeur | **Blackmere Hearth** — local crafts and communal cooking character | **Modern Manor Kitchen** — elegant combination of traditional materials and subtle inventions |
+* Initial Weathered Stage:
+    - The Kitchen begins with only the Pantry safely usable. Food storage is limited, while the cooking area remains damaged and unable to support normal meal preparation. Pantry with 16 Storage Slots.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The Stove and Blender area is fully restored, counters become usable, damaged cabinetry is replaced, and the expanded Pantry visually supports regular cooking.
+    2) Additional Function or Service: Stove and Blender become available. Pantry expands to 32 Storage Slots.
+    3) Player Customization:
+        - Variant A: Country Kitchen — warm wood, ceramic cookware, simple shelves.
+        - Variant B: Pendrelle Kitchen — dark cabinetry, brass fittings, traditional range styling.
+        - Variant C: Blackmere Kitchen — local stone, handmade cabinetry, practical iron fixtures.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Additional shelving, cupboards, food-storage containers, and preparation surfaces make the Kitchen feel organized enough for routine daily cooking.
+    2) Additional Function or Service: 48 Storage Slots.
+    3) Player Customization:
+        - Variant A: Baker's Kitchen — bread boards, flour jars, warm textiles.
+        - Variant B: Herbal Kitchen — hanging herbs, green accents, botanical storage.
+        - Variant C: Cook's Kitchen — organized utensils, pots, ingredient preparation stations.
+* Recovering to Renewed:
+    1) Updated Visuals: The Kitchen becomes a complete working room, with finished preparation areas, coordinated storage, better lighting, and a clear cooking workflow.
+    2) Additional Function or Service: 64 Storage Slots.
+    3) Player Customization:
+        - Variant A: Family Kitchen — warmer seating, recipe notes, lived-in details.
+        - Variant B: Estate Kitchen — formal cabinetry, polished cookware, traditional service pieces.
+        - Variant C: Community Kitchen — Blackmere pottery, local textiles, gifted kitchen objects.
+* Renewed to Growing:
+    1) Updated Visuals: More abundant ingredient storage, display shelving, cookware, preserved goods, and working surfaces make the Kitchen look actively used rather than simply larger.
+    2) Additional Function or Service: 80 Storage Slots.
+    3) Player Customization:
+        - Variant A: Preserver's Pantry — jars, baskets, preserves, abundant ingredient displays.
+        - Variant B: Recipe Kitchen — books, recipe cards, chalkboard/menu features.
+        - Variant C: Garden Kitchen — flowers, herbs, produce baskets, botanical motifs.
+* Growing to Prospering:
+    1) Updated Visuals: Improved cold storage, preservation equipment, cellar connections, and the expanded Pantry.
+    2) Additional Function or Service: 96 Storage Slots.
+    3) Player Customization:
+        - Variant A: Traditional Cold Cellar — stone cooling features, ceramic storage, heritage design.
+        - Variant B: Inventor's Pantry — brass cooling apparatus, gauges, insulated storage.
+        - Variant C: Refined Estate Pantry — elegant cabinetry concealing upgraded preservation systems.
+* Prospering to Flourishing:
+    1) Updated Visuals: The Kitchen reaches a fully developed Manor-service presentation with extensive organized storage, refined preparation surfaces, complete cookware, and a warm communal-cooking identity.
+    2) Additional Function or Service: 112 Storage Slots.
+    3) Player Customization:
+        - Variant A: Pendrelle Hearth — warm, historic family kitchen restored to grandeur.
+        - Variant B: Blackmere Hearth — local crafts and communal cooking character.
+        - Variant C: Modern Manor Kitchen — elegant combination of traditional materials and subtle inventions.
