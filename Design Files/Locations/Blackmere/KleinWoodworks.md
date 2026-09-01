@@ -26,26 +26,30 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-* Weathered:
-    - Mara works around warped lumber and limited dry storage; orders are few and the shop is dominated by repair triage.
-
-* Rebuilding:
-    - Sawing/beam stations return; stacked restoration orders visually communicate Blackmere's rebuilding phase.
-
-* Recovering:
-    - NPC deliveries/pickups and steady machinery show construction becoming organized; fabrication stock is dependable.
-
-* Renewed:
-    - Workshop walls display completed local projects and personal artifacts from Mara's arc, making success communal.
-
-* Growing:
-    - Community workshop sessions or small custom-furniture jobs add social activity and player-facing customization hooks.
-
-* Prospering:
-    - Woodworks supplies decorative/structural upgrades across town; recognizable designs appear on restored properties.
-
-* Flourishing:
-    - The shop becomes a craft commons where residents occasionally build/repair together; it visually demonstrates that Blackmere now maintains itself rather than waiting for the player.
+* Initial Weathered Stage:
+    - The player can purchase currently available fabricated items, but Mara works around warped lumber, limited dry storage, and a workshop dominated by emergency repair needs. Orders are limited and the shop feels reactive rather than established.
+* Weathered to Rebuilding:
+    1) Updated Visuals: Dry lumber storage, safe sawing and beam stations, and organized order storage allow Woodworks to function as a dependable workshop rather than an emergency repair space.
+    2) Updated NPC Routines: Mara spends less time protecting materials from flood damage and more time on normal fabrication and restoration orders.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Organized fabrication stations and material storage make regular orders visibly dependable.
+    2) Updated Audio: Steady sawing, planing, hammering, and delivery sounds make Woodworks feel like a dependable production shop.
+    3) Additional NPC Gatherings at Location: NPC deliveries/pickups begin occurring on schedules, showing Woodworks serving town projects.
+* Recovering to Renewed:
+    1) Updated Visuals: Completed Blackmere projects, local craft examples, and Mara-specific objects appear on workshop walls.
+    2) Updated NPC Dialogue: Mara and visiting residents can reference recognizable projects completed around town.
+* Renewed to Growing:
+    1) Updated Visuals: A small community-work/custom-order area becomes available within the workshop.
+    2) Updated Audio: Community-work sessions add multiple tools, conversation, and furniture assembly to normal shop ambience.
+    3) Additional Function or Service: Small custom-furniture/civic furnishing jobs or community workshop interactions become available.
+* Growing to Prospering:
+    1) Updated Visuals: Recognizable Woodworks designs/materials appear on restored properties and civic spaces around Blackmere.
+    2) Cross-Location Synergy: Design Studio plans and Forge fittings can combine with Woodworks to unlock selected structural/civic upgrades.
+* Prospering to Flourishing:
+    1) Updated Visuals: Refined shared worktables, completed communal projects, and local craft displays turn the shop into a craft commons.
+    2) Updated Audio: Occasional multi-NPC building/repair sessions create a richer collaborative workshop sound.
+    3) Additional NPC Gatherings at Location: Residents occasionally build or repair together, showing Blackmere maintaining itself without always relying on the player.
+    4) Updated NPC Dialogue: Mara and participants can reference upkeep, shared craft knowledge, and community projects created at the restored shop.
 
 ---
 
