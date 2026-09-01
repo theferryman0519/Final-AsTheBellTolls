@@ -25,6 +25,35 @@ Version: 0.0.1
 
 ---
 
+# Restoration Progression
+
+* Initial Weathered Stage:
+    - Mercer Farms remains one of Blackmere's essential food sources. The player can purchase seasonal crop seeds from Jonas, purchase available animals from Jasmine, collect from the Fields, attend Seedwake Brunch and Harvest Supper, and visit the Mercer household, but production is visibly reduced by damaged fencing, field edges, storage, and animal areas.
+* Weathered to Rebuilding:
+    1) Updated Visuals: Essential fencing, field edges, storage, and animal areas are stabilized and usable again while overall production still reflects a farm early in recovery.
+    2) Updated NPC Routines: The Mercer family spends less time compensating for flood-damaged infrastructure and returns to more consistent crop and animal-care routines.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Dependable field rows, repaired fencing, feed/storage areas, and safer animal spaces make production feel stable.
+    2) Updated Audio: Full farm ambience returns through animals, field work, gates, tools, wind, and household activity.
+    3) Updated NPC Routines: The Mercer family resumes fuller crop/animal routines and hired/helping NPC visits can appear where appropriate.
+* Recovering to Renewed:
+    1) Updated Visuals: Organized produce/seed areas, healthy field presentation, and festival-prep spaces make the farm read as dependable food infrastructure.
+    2) Cross-Location Synergy: Farm produce/animal goods can visibly supply Winding Banks Inn, General Store, and communal meals/events.
+* Renewed to Growing:
+    1) Updated Visuals: Demonstration plots, expanded animal/crop areas, and communal work anchors reflect a farm that can teach/share rather than only produce.
+    2) Updated Audio: Seasonal work days add multiple workers, animals, harvest handling, and communal field activity.
+    3) Additional NPC Gatherings at Location: Occasional farm-work/help days, child/family activities, or crop/animal demonstrations bring residents onto the property.
+* Growing to Prospering:
+    1) Updated Visuals: Larger organized storage, outgoing crates, prize/quality displays, and mature field/animal infrastructure signal surplus production.
+    2) Economic Effect with Added Shop Items: Selected higher-stage seed/animal offerings, quality stock, or seasonal specialty availability can expand according to the final farming economy.
+* Prospering to Flourishing:
+    1) Updated Visuals: Mature fields, cared-for animal areas, community meal staging, and abundant but organized production make Mercer Farms a visible food-security anchor.
+    2) Updated Audio: Harvest/animal/household activity creates a rich, continuous farm soundscape with seasonal peaks.
+    3) Cross-Location Synergy: Inn menus, General Store local goods, festivals, animal systems, and town food requests can draw recurring content from the Flourishing farm.
+    4) Additional NPC Gatherings at Location: Harvest meals, demonstrations, family/community work, and festival preparation make the farm one of Blackmere's primary communal production spaces.
+
+---
+
 ## Shop Items with Jonas
 
 *Note: All items are visible at once when shopping based on their season.*
