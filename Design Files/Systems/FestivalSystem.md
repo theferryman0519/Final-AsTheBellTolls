@@ -62,6 +62,42 @@ Festivals may contain:
 
 All NPCs attend all main festivals
 
+For the Toll of Hearths, the added rotations depend on the restoration state of the manor's Dining Hall
+
+| NPC Name       | Rotation |
+|----------------|----------|
+| Anya           | 3        |
+| Felix          | 1        |
+| Kira           | 5        |
+| Milo           | 5        |
+| Adrian         | 6        |
+| Clara          | 4        |
+| Dante          | 6        |
+| Leo            | 2        |
+| Madison        | 6        |
+| Mara           | 4        |
+| Marcus         | 4        |
+| Nora           | 2        |
+| Sabrina        | 6        |
+| Victor         | 6        |
+| Agatha         | 1        |
+| Beatrice       | 1        |
+| Claudia        | 5        |
+| Edward         | 0        |
+| Elise          | 2        |
+| Frederick      | 1        |
+| Helen          | 1        |
+| Irene          | 6        |
+| Jasmine        | 5        |
+| Jonas          | 5        |
+| Julian         | 3        |
+| Lena           | 3        |
+| Martin         | 1        |
+| Roland         | 1        |
+| Theo           | 1        |
+| Walter         | 5        |
+| Lucian/Vivian  | 1        |
+
 ### Aurora Watch
 
 All NPCs attend the Aurora Watch
