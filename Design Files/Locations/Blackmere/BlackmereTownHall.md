@@ -28,23 +28,27 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-* Weathered:
-    - Only essential offices are usable; notices overlap on damaged boards and civic business feels improvised.
-
-* Rebuilding:
-    - Repaired public counter and records area allow visible municipal work; Community Board remains modest.
-
-* Recovering:
-    - Regular civic hours and organized notices return; NPCs occasionally enter for permits/meetings/mail.
-
-* Renewed:
-    - Weddings, records and Community Board activity feel like normal public life; restored banners reflect town identity.
-
-* Growing:
-    - Council/community meeting nights create new NPC congregation; player can see restoration priorities or town initiatives discussed.
-
-* Prospering:
-    - Town Hall displays completed civic projects and hosts visiting delegations/traders, tying progress to governance.
-
-* Flourishing:
-    - Town Hall becomes the visible seat of autonomy: after repossession success, state notices are removed/replaced with Blackmere's charter and resident-driven planning boards.
+* Initial Weathered Stage:
+    - The player can use the Community Board and Public Mailbox, and Town Hall still handles essential civic records and marriage services, but only the most necessary offices are dependable. Notices overlap on damaged boards and public business feels improvised.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The public counter, record storage, notice board, and essential municipal workspaces are dependable again while the building remains plainly furnished.
+    2) Updated NPC Routines: Beatrice and civic workers move from improvised recordkeeping to predictable public-counter and office routines.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Civic records, notices, Community Board, and public service areas become organized and dependable.
+    2) Updated Audio: Paper and record handling, counter interactions, footsteps, and low civic conversation establish dependable civic activity.
+    3) Additional NPC Gatherings at Location: Residents occasionally visit for permits, records, mail, notices, or municipal business.
+* Recovering to Renewed:
+    1) Updated Visuals: Restored banners, wedding/records presentation, and organized civic displays make Town Hall feel like normal public life.
+    2) Updated NPC Dialogue: Residents can reference Town Hall services and civic routines as dependable again rather than improvised.
+* Renewed to Growing:
+    1) Updated Visuals: Meeting seating, planning boards, and active initiative displays create a visible community-governance space.
+    2) Updated Audio: Council/community meeting nights add restrained group conversation and public-session ambience.
+    3) Additional NPC Gatherings at Location: Scheduled community/council meetings bring rotating residents together to discuss Blackmere priorities.
+* Growing to Prospering:
+    1) Updated Visuals: Completed project displays, delegation seating, and civic achievement records show accumulated town progress.
+    2) Additional Function or Service: Visiting delegations/trade representatives can use Town Hall for formal meetings tied to prosperity.
+* Prospering to Flourishing:
+    1) Updated Visuals: State oversight materials are replaced or supplemented by Blackmere's own charter, future-planning boards, and resident-led civic identity after story resolution.
+    2) Updated Audio: Active planning sessions and civic gatherings make Town Hall sound like a functioning seat of government.
+    3) Additional Function or Service: Future Planning/civic project selection becomes available here after the repossession threat is resolved.
+    4) Cross-Location Synergy: Restoration, treasury, visitor, and regional-link states feed projects and delegations into Town Hall planning.
