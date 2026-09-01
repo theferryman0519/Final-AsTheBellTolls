@@ -26,26 +26,30 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-* Weathered:
-    - Julian works with salvaged shelving and limited drying space; herb bundles dominate every safe surface.
-
-* Rebuilding:
-    - Repaired hut and drying racks improve organization; patient/customer visits remain sparse but visible.
-
-* Recovering:
-    - Normal tonic/herb service returns; NPCs occasionally collect remedies and seasonal herb stock is displayed.
-
-* Renewed:
-    - The apothecary feels calm and dependable; treatment/preparation scenes support Julian's identity beyond being a shop.
-
-* Growing:
-    - A small teaching/herb-garden area enables tonic demonstrations or gathering hints tied to weather/season.
-
-* Prospering:
-    - Improved storage and equipment allow rare community-preparation events before storms/winter/festivals.
-
-* Flourishing:
-    - Rain & Hale becomes a health-and-knowledge node: cultivated herb beds, visiting residents and shared remedies visibly show Blackmere can care for its people.
+* Initial Weathered Stage:
+    - The player can use the Tonic Kit and purchase seasonally available Herbs from Julian Hale, but salvaged shelving and limited drying space force herb bundles and supplies onto nearly every safe surface. The hut remains functional through careful improvisation.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The hut has dependable shelving, drying racks, and an organized tonic-preparation area while retaining its modest forest-apothecary character.
+    2) Updated NPC Routines: Julian spends less time managing damaged storage and more time gathering, preparing, and serving remedies.
+* Rebuilding to Recovering:
+    1) Updated Visuals: Herb storage, tonic preparation surfaces, and seasonal displays become fully dependable.
+    2) Updated Audio: Drying herbs, glassware, grinding/mixing, and occasional customer sounds create a calm working-apothecary ambience.
+    3) Additional NPC Gatherings at Location: Residents occasionally collect remedies or consult Julian during normal service periods.
+* Recovering to Renewed:
+    1) Updated Visuals: Treatment/preparation areas become calm and deliberate, with clear separation between shop, work, and living functions.
+    2) Updated NPC Dialogue: Julian and visiting residents can reference treatments, herb knowledge, and Blackmere's improving ability to care for people.
+* Renewed to Growing:
+    1) Updated Visuals: A small teaching/herb-garden area appears near the hut.
+    2) Updated Audio: Outdoor teaching adds foliage, bees/birds, herb clipping, and small-group conversation.
+    3) Additional Function or Service: Tonic demonstrations or broad gathering/weather hints become available through Julian at selected times.
+* Growing to Prospering:
+    1) Updated Visuals: Improved storage, storm-preparation supplies, and advanced equipment show a stocked community apothecary.
+    2) Cross-Location Synergy: Manor Garden/herb gathering, festivals, severe weather, or winter preparation can trigger community remedy-preparation needs.
+* Prospering to Flourishing:
+    1) Updated Visuals: Cultivated herb beds, organized remedy stores, and shared-care spaces make Rain & Hale a health-and-knowledge node.
+    2) Updated Audio: Full service days layer herb preparation, visitors, outdoor garden ambience, and occasional teaching.
+    3) Additional NPC Gatherings at Location: Residents can gather for storm/winter/festival preparation or shared remedy work.
+    4) Updated NPC Dialogue: Julian and residents can acknowledge that Blackmere now has enough stability and knowledge to care proactively rather than reactively.
 
 ---
 
