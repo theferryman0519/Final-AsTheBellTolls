@@ -33,14 +33,14 @@ Version: 0.0.1
     2) Updated NPC Routines: Nora and Elise spend less time compensating for unsafe waterfront areas and gain clearer fishing, sorting, and work anchors.
 * Rebuilding to Recovering:
     1) Updated Visuals: Safe working platforms, organized nets, catch tables, and basic fish-handling areas become dependable.
-    2) Updated Audio: Regular water, boat, net, crate, and fish-handling sounds make the working waterfront feel routinely active.
+    2) Updated Audio: Regular water, boat, net, crate, and fish-handling sounds make the working waterfront feel routinely active. A slight sea shanty can be heard humming through the fishery.
     3) Additional NPC Gatherings at Location: Local buyers or residents begin appearing for catches/pickups during active fishery hours.
 * Recovering to Renewed:
     1) Updated Visuals: Clean sorting/storage areas and regular catch displays make the Fishery read as a working waterfront.
     2) Updated NPC Dialogue: Nora/Elise and visitors can reference catches, river conditions, and restored daily work rather than constant repairs.
 * Renewed to Growing:
     1) Updated Visuals: A fish-prep/drying/smoking area and seasonal work station appear if retained in the economy design.
-    2) Updated Audio: Preparation adds chopping, drying/smoking activity, crate handling, and small group work to the wharf ambience.
+    2) Updated Audio: Preparation adds chopping, drying/smoking activity, crate handling, and small group work to the wharf ambience. Sea shanties can be heard more vocal for passersby.
     3) Additional Function or Service: Seasonal fish-preparation/community processing interactions can support meals, events, or requests.
 * Growing to Prospering:
     1) Updated Visuals: Restored cold/storage infrastructure and outbound crates show reliable distribution rather than magically increased fish spawns.
