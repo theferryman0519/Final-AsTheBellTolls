@@ -65,6 +65,20 @@ Those systems provide the relevant transaction context to the Economy System.
 
 ---
 
+## Restoration Thresholds
+
+- Each shop has a threshold on what items they sell. Items that cost more than the threshold are not available to be sold until the appropriate restoration stage.
+
+* Weathered: 500 Bellnotes
+* Rebuilding: 1,000 Bellnotes
+* Recovering: 1,750 Bellnotes
+* Renewed: 2,500 Bellnotes
+* Growing: 5,000 Bellnotes
+* Prospering: 10,000 Bellnotes
+* Flourishing: No limit
+
+---
+
 ## Income Sources
 
 Bellnotes may be earned through approved gameplay sources, including:
