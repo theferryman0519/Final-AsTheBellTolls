@@ -92,7 +92,7 @@ For the Toll of Hearths, the added rotations depend on the restoration state of 
 | Jonas          | 5        |
 | Julian         | 3        |
 | Lena           | 3        |
-| Martin         | 1        |
+| Martin         | 0        |
 | Roland         | 1        |
 | Theo           | 1        |
 | Walter         | 5        |
