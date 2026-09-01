@@ -16,47 +16,47 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks        |
-|-------------------|----------------|
-| Weathered         | n/a            |
-| Rebuilding        | n/a            |
-| Recovering        | 1 Max Child    |
-| Renewed           | 1 Max Child    |
-| Growing           | 2 Max Children |
-| Prospering        | 3 Max Children |
-| Flourishing       | 4 Max Children |
-
-* Weathered:
-    - Room is damaged/unused, perhaps holding covered furniture that foreshadows a future the player has not chosen.
-
-* Rebuilding:
-    - Rebuilding makes the room safe but deliberately neutral; no pressure to have children. It can temporarily serve as storage/display space.
-
-* Recovering:
-    - One child capacity brings age-appropriate furniture and first family routines only if the player actually has a child; otherwise it remains an optional prepared room.
-
-* Renewed:
-    - One-child Renewed stage improves play/sleep space and adds child-specific environmental storytelling rather than capacity.
-
-* Growing:
-    - Two-child capacity adds shared play anchors and sibling/family routines if relevant; otherwise cosmetic room options can fill the space.
-
-* Prospering:
-    - Three-child capacity should improve family utility — toy storage, reading nook, caregiver routines — not simply add beds.
-
-* Flourishing:
-    - Four-child Flourishing stage is a fully lived family wing when used; for child-free saves, offer an alternate “Legacy Room” use so Flourishing never requires parenthood.
-
----
-
-## Visual Customizations
-
-| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
-|---|---|---|---|
-| Weathered | n/a | n/a | n/a |
-| Rebuilding | **Quiet Guest Room** — neutral bed, simple storage, restrained décor | **Legacy Room** — family artifacts, covered heirlooms, restored furniture | **Reading Room** — bookcases, chairs, maps, quiet study atmosphere |
-| Recovering | **Traditional Nursery** — wooden crib, gentle colors, classic toys | **Woodland Nursery** — animals, plants, natural colors, handmade toys | **Blackmere Nursery** — locally crafted crib, quilts, town-made toys |
-| Renewed | **Storybook Room** — books, illustrations, imaginative decorations | **Learning Room** — alphabet blocks, maps, activity table | **Heritage Nursery** — Pendrelle family objects, traditional furniture, heirloom details |
-| Growing | **Shared Children's Room** — coordinated beds, shared storage, play area | **Adventure Room** — maps, exploration motifs, imaginative play equipment | **Nature Room** — plants, animals, botanical imagery, natural materials |
-| Prospering | **Family Playroom** — toy storage, reading nook, family activity space | **Young Scholars' Room** — desks, books, educational objects | **Creative Room** — art table, crafts, music/toy displays |
-| Flourishing | **Pendrelle Family Wing** — elegant heirloom family-room design | **Blackmere Childhood** — community-made toys, quilts, local storytelling | **Legacy Room** — museum-quality family history, books, accomplishments, and keepsakes for child-free households |
+* Initial Weathered Stage:
+    - The Nursery begins damaged and unused. It represents a possible future for the Manor, but the room has no functional requirement and does not assume that the player will choose marriage or parenthood.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The room becomes structurally safe, clean, and neutral, with repaired walls, flooring, windows, and basic furnishings but no assumption that it is currently occupied by a child.
+    2) Additional Function or Service: None.
+    3) Player Customization:
+        - Variant A: Quiet Guest Room — neutral bed, simple storage, restrained décor.
+        - Variant B: Legacy Room — family artifacts, covered heirlooms, restored furniture.
+        - Variant C: Reading Room — bookcases, chairs, maps, quiet study atmosphere.
+* Rebuilding to Recovering:
+    1) Updated Visuals: The room can visually support one child through an appropriate sleeping area, storage, play space, and age-appropriate furnishings if the player has a child.
+    2) Additional Function or Service: 1 Max Child.
+    3) Player Customization:
+        - Variant A: Traditional Nursery — wooden crib, gentle colors, classic toys.
+        - Variant B: Woodland Nursery — animals, plants, natural colors, handmade toys.
+        - Variant C: Blackmere Nursery — locally crafted crib, quilts, town-made toys.
+* Recovering to Renewed:
+    1) Updated Visuals: The one-child room becomes more complete and comfortable, with fuller play/sleep organization, better lighting, and more developed child-specific environmental detail when occupied.
+    2) Additional Function or Service: 1 Max Child.
+    3) Player Customization:
+        - Variant A: Storybook Room — books, illustrations, imaginative decorations.
+        - Variant B: Learning Room — alphabet blocks, maps, activity table.
+        - Variant C: Heritage Nursery — Pendrelle family objects, traditional furniture, heirloom details.
+* Renewed to Growing:
+    1) Updated Visuals: The Nursery expands visually for two children through additional sleeping/storage/play organization while remaining attractive and complete if fewer or no children currently use it.
+    2) Additional Function or Service: 2 Max Children.
+    3) Player Customization:
+        - Variant A: Shared Children's Room — coordinated beds, shared storage, play area.
+        - Variant B: Adventure Room — maps, exploration motifs, imaginative play equipment.
+        - Variant C: Nature Room — plants, animals, botanical imagery, natural materials.
+* Growing to Prospering:
+    1) Updated Visuals: The room supports three children with a more developed family-room presentation, including organized toys, reading/play areas, and improved storage without becoming visually overcrowded.
+    2) Additional Function or Service: 3 Max Children.
+    3) Player Customization:
+        - Variant A: Family Playroom — toy storage, reading nook, family activity space.
+        - Variant B: Young Scholars' Room — desks, books, educational objects.
+        - Variant C: Creative Room — art table, crafts, music/toy displays.
+* Prospering to Flourishing:
+    1) Updated Visuals: The Nursery reaches its full four-child-capable family-wing presentation. If the player remains child-free, the room should still have a complete high-stage visual configuration rather than appearing unfinished.
+    2) Additional Function or Service: 4 Max Children.
+    3) Player Customization:
+        - Variant A: Pendrelle Family Wing — elegant heirloom family-room design.
+        - Variant B: Blackmere Childhood — community-made toys, quilts, local storytelling.
+        - Variant C: Legacy Room — museum-quality family history, books, accomplishments, and keepsakes for child-free households.
