@@ -17,47 +17,47 @@ Version: 0.0.1
 
 ## Restoration Progression
 
-| Restoration Stage | Unlocks
-|-------------------|---|
-| Weathered         | n/a
-| Rebuilding        | Farming / 9 Soil Squares
-| Recovering        | 12 Soil Squares
-| Renewed           | 15 Soil Squares
-| Growing           | 18 Soil Squares
-| Prospering        | Greenhouse Effect / 24 Soil Squares
-| Flourishing       | 30 Soil Squares
-
-* Weathered:
-    - Mud, debris and unusable beds show what the flood did; wild volunteer plants can hint at future fertility.
-
-* Rebuilding:
-    - Nine usable squares open with clear paths and simple tools; planting visibly returns life to the estate.
-
-* Recovering:
-    - Twelve squares plus repaired edging/irrigation cues; more pollinators/ambient activity appear as planted diversity increases.
-
-* Renewed:
-    - Fifteen squares feel like a maintained garden; NPC/spouse may visit, sit, or comment on seasonal blooms.
-
-* Growing:
-    - Eighteen squares support decorative/cooking/flower zones and optional garden layout expression.
-
-* Prospering:
-    - Greenhouse effect + 24 squares gets a visible roof/glass transformation; off-season plants become a striking proof of invention/restoration synergy.
-
-* Flourishing:
-    - Thirty squares should feel like an estate garden in full life: strong pollinator ambience, family/NPC use, and perhaps a limited communal donation/flower-cutting perk rather than only six more plots.
-
----
-
-## Visual Customizations
-
-| Restoration Stage | Decor Variant A | Decor Variant B | Decor Variant C |
-|---|---|---|---|
-| Weathered | n/a | n/a | n/a |
-| Rebuilding | **Reclaimed Garden** — rough timber edging, gravel paths, reused containers | **Estate Beds** — stone edging, symmetrical paths, traditional planters | **Cottage Beds** — woven borders, small flower accents, informal pathways |
-| Recovering | **Pollinator Garden** — bee houses, wildflower edges, natural planting accents | **Kitchen Garden** — herb markers, baskets, practical garden equipment | **Formal Garden** — clipped borders, matching planters, geometric detailing |
-| Renewed | **Blackmere Garden** — local stone, handmade benches, regional flowers | **Pendrelle Garden** — traditional estate ornamentation and symmetrical features | **Natural Garden** — softer paths, wildlife features, abundant greenery |
-| Growing | **Botanical Retreat** — seating nook, specimen labels, climbing plants | **Working Garden** — practical baskets, tool racks, harvest tables | **Romantic Garden** — arbor, decorative lanterns, floral seating area |
-| Prospering | **Victorian Glasshouse** — ornate greenhouse framing and traditional details | **Blackmere Glasshouse** — wood-and-glass construction with local craftsmanship | **Inventor Glasshouse** — brass mechanisms, automated vents, subtle mechanical irrigation |
-| Flourishing | **Grand Estate Garden** — formal paths, statuary, immaculate detailing | **Living Blackmere Garden** — community-crafted accents, lush natural character | **Inventor's Botanical Garden** — elegant integration of horticulture and restrained technology |
+* Initial Weathered Stage:
+    - The Garden begins as flood-damaged ground with unusable planting beds, disturbed soil, debris, and little sense of organized cultivation. Crops and flowers cannot yet be planted.
+* Weathered to Rebuilding:
+    1) Updated Visuals: The first nine soil squares are cleared and organized, with repaired paths, basic edging, and a visibly usable cultivation area.
+    2) Additional Function or Service: Farming becomes available with 9 Soil Squares.
+    3) Player Customization:
+        - Variant A: Reclaimed Garden — rough timber edging, gravel paths, reused containers.
+        - Variant B: Estate Beds — stone edging, symmetrical paths, traditional planters.
+        - Variant C: Cottage Beds — woven borders, small flower accents, informal pathways.
+* Rebuilding to Recovering:
+    1) Updated Visuals: The Garden gains additional maintained beds, cleaner paths, improved borders, and more established planting structure around the twelve soil squares.
+    2) Additional Function or Service: 12 Soil Squares.
+    3) Player Customization:
+        - Variant A: Pollinator Garden — bee houses, wildflower edges, natural planting accents.
+        - Variant B: Kitchen Garden — herb markers, baskets, practical garden equipment.
+        - Variant C: Formal Garden — clipped borders, matching planters, geometric detailing.
+* Recovering to Renewed:
+    1) Updated Visuals: Fifteen soil squares are integrated into a cohesive estate garden with complete paths, healthy borders, and a more intentional balance between productive and decorative planting space.
+    2) Additional Function or Service: 15 Soil Squares.
+    3) Player Customization:
+        - Variant A: Blackmere Garden — local stone, handmade benches, regional flowers.
+        - Variant B: Pendrelle Garden — traditional estate ornamentation and symmetrical features.
+        - Variant C: Natural Garden — softer paths, wildlife features, abundant greenery.
+* Renewed to Growing:
+    1) Updated Visuals: The expanded eighteen-square Garden feels mature and established, with stronger landscaping structure, richer planting zones, and more room for the chosen visual identity to shape the grounds.
+    2) Additional Function or Service: 18 Soil Squares.
+    3) Player Customization:
+        - Variant A: Botanical Retreat — seating nook, specimen labels, climbing plants.
+        - Variant B: Working Garden — practical baskets, tool racks, harvest tables.
+        - Variant C: Romantic Garden — arbor, decorative lanterns, floral seating area.
+* Growing to Prospering:
+    1) Updated Visuals: The greenhouse roof/effect becomes a major fixed visual upgrade. Glass, framing, protection, and twenty-four soil squares make off-season planting visibly believable.
+    2) Additional Function or Service: Greenhouse Effect becomes available with 24 Soil Squares, allowing crops and flowers from any season to be planted.
+    3) Player Customization:
+        - Variant A: Victorian Glasshouse — ornate greenhouse framing and traditional details.
+        - Variant B: Blackmere Glasshouse — wood-and-glass construction with local craftsmanship.
+        - Variant C: Inventor Glasshouse — brass mechanisms, automated vents, subtle mechanical irrigation.
+* Prospering to Flourishing:
+    1) Updated Visuals: Thirty soil squares, mature paths, completed garden structures, and a fully developed greenhouse/garden presentation make the space feel like the Manor's definitive cultivated grounds.
+    2) Additional Function or Service: 30 Soil Squares.
+    3) Player Customization:
+        - Variant A: Grand Estate Garden — formal paths, statuary, immaculate detailing.
+        - Variant B: Living Blackmere Garden — community-crafted accents, lush natural character.
+        - Variant C: Inventor's Botanical Garden — elegant integration of horticulture and restrained technology.
