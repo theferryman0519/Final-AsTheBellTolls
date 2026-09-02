@@ -1,0 +1,12073 @@
+---
+Title: Routines / Roland Whitmore
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Roland follows a reflective elder routine centered on 1 Resident Lane, Town Square, gardening, woodworking, reading, and recurring visits with Leo at Thread & Thimble. His profile explicitly names Thread & Thimble with Leo as his favorite location and lists visiting Leo's tailor shop among his hobbies, so that relationship is a major routine anchor rather than an incidental social visit.
+
+The current `NpcInteractionTable.md` confirms that Roland + Leo is **INT-036**, Best Friends / Informal Mentorship, Established, Several Times Weekly. This corrects the previously generated Leo routine's interaction-ID label: Leo's authored times are preserved exactly, but the canonical ID is INT-036, not INT-031. INT-031 belongs to Beatrice + Madison.
+
+Thread & Thimble first becomes available on Day 23 of Summer, Year 1, is open 10:00am-7:00pm Tuesday-Sunday, is closed Monday, and closes during Rainy (Severe) and Snowy (Severe). Roland therefore receives a separate pre-Leo routine before Day 23 Summer Y1 and does not visit an unavailable shop.
+
+Agatha is Roland's wife, Beatrice is his daughter, Leo is his best friend, and Victor is a lower-frequency mentorship connection. The completed Agatha, Beatrice, Leo, and Victor routines provide fixed synchronization anchors and are mirrored without shifting their times.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Residence:** 1 Resident Lane.
+- **1 Resident Lane Public Hours:** 8:00am-8:00pm; residence occupancy continues outside player-access hours.
+- **Thread & Thimble First Availability:** Day 23 of Summer, Year 1.
+- **Thread & Thimble Hours:** 10:00am-7:00pm Tuesday-Sunday.
+- **Thread & Thimble Closed:** Monday; Rainy (Severe); Snowy (Severe).
+- **NPC Interactions:** Agatha/Beatrice household times, Leo's completed shop visits, and Victor's completed monthly mentorship block are fixed synchronization anchors.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Traveling
+- 1:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Traveling
+- 1:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Traveling
+- 1:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Traveling
+- 1:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Town Square
+            - Activity: Walking
+        - Recovering:
+            - Location: Town Square
+            - Activity: Walking
+        - Renewed:
+            - Location: Town Square
+            - Activity: Walking
+        - Growing:
+            - Location: Town Square
+            - Activity: Walking
+        - Prospering:
+            - Location: Town Square
+            - Activity: Walking
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-036: Roland + Leo
+        - Condition: Leo available (Day 23 Summer Y1+); Thread & Thimble open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Traveling
+- 2:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Traveling
+- 2:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - Restoration Override:
+        - Recovering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Renewed:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Growing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Prospering:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Before Day 23 Summer, Year 1 - Pre-Leo Special Base Routine
+
+Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Before that date, Roland's Tuesday, Thursday, and Saturday shop-visit periods are replaced by Town Square walks, reading, woodworking, gardening, and home time. INT-036 is disabled during this period; household interactions and other already-available low-frequency interactions remain eligible.
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 5:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+    - NPC Interaction Override:
+        - Interaction: INT-020: Agatha + Roland
+        - Location: 1 Resident Lane
+        - Activity: Drinking
+- 6:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 1 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Roland follows the Base Routine.
+- **Cloudy:** Neutral. No general change is required.
+- **Rainy:** Neutral. Thread & Thimble remains open, so Roland keeps normal visits.
+- **Rainy (Severe):** Disliked. Thread & Thimble closes; Roland remains at 1 Resident Lane instead of attempting the Leo visit. Optional Town Square/Outskirts social blocks also cancel.
+- **Snowy:** Neutral. Roland generally follows the Base Routine.
+- **Snowy (Severe):** Disliked. Thread & Thimble closes and optional outdoor social travel is canceled.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Roland spends more time maintaining the flood-worn Whitmore home, woodworking, reading, and quietly observing Blackmere rather than actively inserting himself into rebuilding decisions.
+- **Rebuilding:** Dependable home space reduces repair compensation and gives Roland a steadier home routine.
+- **Recovering:** The porch/garden becomes usable, increasing predictable gardening and quiet outdoor time at 1 Resident Lane.
+- **Renewed:** As Blackmere's civic spaces stabilize, Roland's Town Square walks become less about observing damage and more about watching ordinary town life return.
+- **Growing:** Occasional residents begin visiting Agatha/Roland for advice. Roland can spend more time Socializing at home without becoming a formal civic leader again.
+- **Prospering:** Roland's experience becomes more visibly useful. Selected home blocks shift toward Teaching or advice rather than private woodworking/readings.
+- **Flourishing:** Roland is increasingly willing to offer guidance without waiting to be explicitly asked. His routine still remains gentle and low-key, but more of his public/home time can involve mentoring the next generation, directly supporting his arc.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-020 - Agatha + Roland:** Exact mirror of Agatha. Daily 5:30pm-6:10pm at 1 Resident Lane for tea / Drinking.
+- **INT-019 / INT-021 - Whitmore Household / Beatrice + Parents:** Exact mirror of Agatha and Beatrice. Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm family dinner; Sunday 7:10pm-7:50pm additional family Socializing.
+- **INT-036 - Roland + Leo:** **Correct canonical interaction ID.** Exact mirror of Leo's completed routine: Tuesday/Thursday 10:00am-11:20am Socializing and 11:30am-1:10pm Working at Thread & Thimble; Saturday 10:30am-11:50am Socializing and 12:00pm-1:40pm Working. Active only from Day 23 Summer Y1 onward while Thread & Thimble is open and weather is not severe.
+- **INT-044 - Victor + Roland:** Exact mirror of Victor's completed routine. Second Sunday of each season, 4:00pm-5:10pm Walking at Blackmere Outskirts, weather permitting.
+- **INT-050 - Walter + Roland:** Fourth Sunday of each season, 1:30pm-2:50pm Socializing in Town Square. This is a low-frequency monthly anchor inside the table's Biweekly/Monthly cadence and is intentionally placed on a different Sunday from Victor's mentorship block.
+- **INT-040 - Edward + Roland:** Occasional. No weekly hard block is added.
+- **INT-042 - Frederick + Roland:** Occasional. No weekly hard block is added.
+- **INT-053 - Adrian + Roland:** Occasional. No weekly hard block is added.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Agatha:** Daily tea and Whitmore family blocks exactly match her completed routine.
+- **Beatrice:** Family dinner/Sunday family blocks exactly match her completed routine.
+- **Leo:** All recurring shop times exactly match Leo's already-completed routine; only the interaction label is corrected from the erroneous INT-031 to canonical **INT-036**.
+- **Victor:** Second-Sunday INT-044 exactly matches Victor's completed routine.
+- **Walter:** His future routine should reserve the fourth Sunday of each season from 1:30pm-2:50pm for INT-050.
+- **Edward / Frederick / Adrian:** Their Roland relationships remain Occasional, avoiding conflicts with already-authored schedules.
+
+---
+
+## Leo Interaction ID Correction
+
+The previously generated Leo routine used `INT-031` for Roland + Leo. The current canonical `NpcInteractionTable.md` shows that this is incorrect: `INT-031` is Beatrice + Madison, while **`INT-036` is Roland + Leo**. Roland's file uses INT-036 throughout. Leo's actual times do not need to change; only his interaction ID should be corrected in a cleanup pass before implementation.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Roland's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Roland's routine is deliberately slower and relationship-centered. He is retired, patient, reflective, and content to observe rather than command. His visits to Leo are the clearest recurring outward commitment because Leo is his best friend and Thread & Thimble is explicitly his favorite place.
+
+His restoration progression should not turn him back into Blackmere's de facto leader. Instead, later stages give him more opportunities to mentor, advise, and share experience when useful. That expresses his arc correctly: his purpose is not to reclaim authority, but to recognize that stepping aside does not require becoming silent.
