@@ -1,0 +1,7298 @@
+---
+Title: Routines / Nora Reed
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Nora follows an early-start, river-centered routine built around Riverbend Fishery, the River Wharf, Graythorne River, fishing, customer service, and frequent informal contact with the people who pass through the waterfront. Her high Sociability, Humor, Optimism, and Warmth make her one of Blackmere's most publicly visible residents even though fishing remains her professional anchor.
+
+Riverbend Fishery is open from 6:00am to 2:00pm every day and has no weather closures. Nora lives there with Elise, so the Fishery is both workplace and home. Nora begins most mornings on or beside the water, returns for breakfast and shop hours, then spends afternoons fishing, handling catches, walking the Wharf, or creating the casual social atmosphere described in her profile.
+
+Elise is Nora's best friend and housemate. Because Elise's complete routine has not yet been authored, Nora now establishes the canonical INT-024 household/friendship windows that Elise should mirror later. Those windows are deliberately placed around Blackmere Bank & Exchange's 9:00am-5:00pm weekday hours so the friendship does not interfere with Elise's professional routine.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Riverbend Fishery Hours:** 6:00am to 2:00pm every day.
+- **Days Closed:** None.
+- **Weather Closures:** None.
+- **Residence:** Riverbend Fishery, shared with Elise.
+- **Rainy / Rainy (Severe):** Nora likes both and does not automatically abandon fishing or Wharf routines.
+- **Snowy (Severe):** Disliked. Exposed fishing/walking/social blocks move inside Riverbend Fishery.
+- **Windy:** Liked. Nora follows the normal routine when conditions remain safe.
+- **NPC Interactions:** Recurring interaction timing comes from `NpcInteractionTable.md`. INT-057 with Kira and INT-058 with Felix remain Occasional/Seasonal rather than becoming forced weekly meetings.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:30am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:40am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Fishing
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:30am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:40am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Renewed:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Prospering:
+            - Location: Riverbend Fishery
+            - Activity: Working
+        - Flourishing:
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 7:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Elise available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Relaxing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. Nora follows the Base Routine.
+- **Cloudy:** Neutral. No general routine change is required.
+- **Rainy:** Liked. Riverbend Fishery stays open and Nora generally continues fishing, working, and Wharf activity.
+- **Rainy (Severe):** Liked. The Fishery has no weather closure, and Nora's profile explicitly likes severe rain. She therefore keeps most of her routine unless a specific navigation/safety system later marks an individual exterior path unavailable.
+- **Snowy:** Neutral. Nora follows the Base Routine.
+- **Snowy (Severe):** Disliked. The Fishery itself stays open, but exposed Graythorne River and River Wharf blocks move indoors to work, rest, or social time.
+- **Windy:** Liked. Nora generally keeps her outdoor routine and enjoys the waterfront atmosphere.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Nora and Elise keep the Fishery operating around damaged planks, patched boats and nets, sparse equipment, and very little outside traffic. Nora's work is practical and survival-oriented.
+- **Rebuilding:** Safe wharf platforms, net racks, and dependable equipment give Nora clearer fishing, sorting, and customer anchors instead of constantly compensating for unsafe space.
+- **Recovering:** Organized nets, catch tables, and fish-handling areas support regular buyers/residents during active Fishery hours. Nora's morning work becomes visibly more social.
+- **Renewed:** Clean sorting/storage and dependable catch displays shift conversations away from flood damage and toward catches, river conditions, and ordinary daily work.
+- **Growing:** Fish-prep, drying/smoking, and seasonal work stations create small-group processing activity. Nora can spend more of a Saturday afternoon working with catches rather than only fishing.
+- **Prospering:** Restored cold/storage infrastructure and outbound crates create visible supply handoffs to the Inn, traders, and community events. Friday midday becomes more distribution-focused.
+- **Flourishing:** Riverbend Fishery becomes a mature, active waterfront with organized boats, nets, buyers, crates, and recurring handoffs. Nora's public role expands naturally without changing her into an administrator; she remains the social heartbeat of the Wharf.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-024 - Nora + Elise:** Daily breakfast from 7:20am-7:50am at Riverbend Fishery. Monday/Wednesday/Friday dinner from 6:00pm-6:30pm. Tuesday 6:40pm-7:30pm is a River Wharf walk. Thursday 7:40pm-8:20pm is shared conversation at Riverbend Fishery. Saturday 6:30pm-7:50pm is a longer Wharf social block. Sunday 6:20pm-7:10pm is a Wharf walk followed by 7:20pm-8:20pm Socializing at home. Elise's future routine should mirror these exact windows.
+- **INT-057 - Nora + Kira:** Established but Occasional/Seasonal. Keep this for a seasonal fishing lesson, exploration outing, or event at River Wharf/Graythorne River rather than scheduling it every week. This preserves Kira's already-authored routine.
+- **INT-058 - Nora + Felix:** Directional and Occasional. Use occasional child-friendly fishing or Fishery interaction without creating a fixed weekly obligation that would conflict with Felix's existing school and Milo routines.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Elise:** Her future routine must preserve Nora's INT-024 household windows. Weekday breakfast ends before Elise needs to travel for Blackmere Bank & Exchange's 9:00am opening, and all weekday evening blocks occur after the Bank's 5:00pm close.
+- **Kira:** INT-057 remains Occasional/Seasonal, so Kira's completed Tuesday/Wednesday/family/mentor anchors are not altered.
+- **Felix:** INT-058 remains Occasional, preserving Felix's completed school, children's-group, Milo, Sabrina, and Theo blocks.
+- **Riverbend Fishery Visitors:** Restoration-driven buyers and supply handoffs occur during Nora's existing Fishery hours so future NPC visitor routines can overlap naturally without forcing Nora away from her workplace.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Nora's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Nora's routine is intentionally lively and public without making her feel detached from fishing. The River Wharf is where her profession, hobbies, favorite location, and social personality overlap, so she does not need frequent trips to unrelated districts simply to appear outgoing.
+
+Her character arc is also reflected subtly rather than by making later Nora less cheerful. Restoration gives her more stable work and more people around the Wharf, while recurring quiet time with Elise gives her believable opportunities to stop performing optimism and share what she is actually carrying. The routine therefore supports vulnerability without erasing the resilient, playful person the town already knows.
