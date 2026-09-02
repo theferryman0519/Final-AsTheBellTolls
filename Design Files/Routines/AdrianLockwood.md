@@ -2,8 +2,8 @@
 Title: Routines / Adrian Lockwood
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
-Created: August, 2026
-Updated: August, 2026
+Created: September, 2026
+Updated: September, 2026
 Version: 0.0.1
 ---
 
