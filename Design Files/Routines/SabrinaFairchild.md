@@ -1,0 +1,11730 @@
+---
+Title: Routines / Sabrina Fairchild
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Sabrina follows a school-centered routine built around A. Whitmore Public School, 3 Resident Lane, her students, reading, gardening, and a small number of close relationships. Her professional schedule is stable by design: the children need a dependable adult anchor, while restoration gradually expands what she can do with them before and after the core class day.
+
+A. Whitmore Public School is open from 8:00am to 3:00pm Monday through Friday, closed Saturday and Sunday, closed during Rainy (Severe) and Snowy (Severe), and closed from Day 18 of Winter until its Day 4 Spring reopening. Sabrina first becomes available on Day 4 of Spring, Year 1.
+
+Adrian is Sabrina's best friend and housemate. His completed routine already establishes the canonical INT-023 household times, so Sabrina mirrors those exact windows. The completed child routines also establish Sabrina's individual mentoring windows with Milo, Felix, Kira, and Anya. One collision exists in the already-authored data: Anya and Kira both use Thursday after-school Sabrina interactions at the same School location. Rather than make Sabrina resolve two atomic NPC Interaction Overrides at once, this routine treats the overlap as one small-group mentoring block while preserving both children's existing times and location.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 4 of Spring, Year 1.
+- **School Hours:** 8:00am to 3:00pm Monday through Friday.
+- **Weekend Closure:** Saturday and Sunday.
+- **Weather Closures:** Rainy (Severe) and Snowy (Severe).
+- **Seasonal Closure:** Day 18 of Winter until the Day 4 Spring reopening.
+- **Residence:** 3 Resident Lane, shared with Adrian.
+- **Ordinary Rain:** Neutral. Core classes continue; optional garden/outdoor activity moves indoors.
+- **NPC Interactions:** Existing completed routines are treated as fixed timing anchors. Sabrina does not invent alternate times that would move a child or Adrian away from an already-authored shared interaction.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 10:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 10:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 10:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 1:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 1:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 1:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Public Library available; Library restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Public Library available; Library restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Public Library available; Library restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Public Library available; Library restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Public Library available; Library restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School open; Not Rainy or Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Attending
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Attending
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Attending
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Attending
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Attending
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Attending
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Traveling
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 11:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 11:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## School Seasonal Closure - Special Base Routine
+
+A. Whitmore Public School closes annually from Day 18 of Winter until its Day 4 Spring reopening. During this period, Sabrina does not run the normal class-day schedule. She works from 3 Resident Lane on lesson preparation, reading, student notes, and personal study, with modest Town Square walks when conditions allow.
+
+School-based INT-011, INT-012, INT-013, and INT-014 blocks do not run while the School is closed. INT-023 household interactions with Adrian remain eligible because they occur at 3 Resident Lane.
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Sabrina follows the Base Routine and uses School garden/grounds activity when scheduled.
+- **Cloudy:** Liked. No general routine change is required.
+- **Rainy:** Neutral. School remains open. Core teaching continues, while optional gardening or outdoor walking moves indoors where listed.
+- **Rainy (Severe):** Disliked. School closes. Sabrina remains at 3 Resident Lane for reading, lesson preparation, study, meals, and quiet household time.
+- **Snowy:** Neutral. Sabrina follows the normal routine.
+- **Snowy (Severe):** Neutral in preference, but School closes. Sabrina uses the same home-based replacement routine.
+- **Windy:** Neutral. No general routine change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Sabrina and the children operate in compressed usable space. Her routine emphasizes maintaining normal class structure despite visibly damaged grounds and limited facilities.
+- **Rebuilding:** One dependable classroom and safe access path make the class-day anchor reliable. Sabrina can teach without constantly adapting around unusable space.
+- **Recovering:** Full class-day schedules resume, more grounds become safe, and individual after-school mentoring becomes practical. This is the minimum stage used for the recurring child mentoring blocks created in the completed child routines.
+- **Renewed:** Student projects, lesson displays, and parent/community visits let Sabrina connect teaching to Blackmere's restoration rather than keeping education isolated inside one classroom.
+- **Growing:** Improved garden/play areas create dedicated after-school activity anchors. Sabrina can use Gardening, Playing, and small-group teaching as meaningful routine activities.
+- **Prospering:** Workshop/demo resources and profession-linked learning allow restored businesses, farms, the Library, Fishery, and other locations to contribute to class projects.
+- **Flourishing:** Mature school projects and community showcases let Sabrina focus on individual strengths rather than measuring herself by whether every child progresses identically. Her routine becomes more facilitative and less personally controlling, supporting her character arc.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-023 - Adrian + Sabrina:** Exact mirror of Adrian's completed routine. Weekday breakfast is 7:00am-7:30am. Monday/Wednesday/Friday dinner is 6:20pm-7:00pm. Tuesday 7:10pm-8:10pm is shared Reading. Thursday 7:10pm-8:10pm is Socializing. Sunday breakfast is 7:50am-8:30am, and Sunday 7:10pm-8:20pm is extended household conversation.
+- **INT-014 - Sabrina + Milo:** Exact mirror of Milo. Monday 3:00pm-3:20pm Playing at A. Whitmore Public School, then 3:30pm-4:10pm Teaching. Requires the School to be open and at least Recovering.
+- **INT-012 - Sabrina + Felix:** Exact mirror of Felix. Wednesday 4:20pm-5:00pm Teaching at A. Whitmore Public Library. Requires the Library to be available and at least Recovering.
+- **INT-011 / INT-013 - Sabrina + Anya + Kira:** The completed Anya and Kira routines currently overlap on Thursday after school at A. Whitmore Public School. Sabrina therefore treats 3:00pm-4:10pm as a shared small-group mentoring period so both children remain physically aligned with their authored schedules. At 4:20pm, Anya's final Gardening tick remains INT-011 only. This should eventually be represented by one canonical multi-participant interaction record rather than two atomic Sabrina overrides.
+- **INT-045 - Sabrina + Beatrice:** Established but Occasional. No fixed weekly appointment is forced; use school/Town Hall overlap, restoration content, or a specific event when needed.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Adrian:** All INT-023 windows exactly match Adrian's completed routine.
+- **Milo:** Monday INT-014 exactly matches Milo's completed 3:00pm-4:10pm block.
+- **Felix:** Wednesday INT-012 exactly matches Felix's completed 4:20pm-5:00pm Library block.
+- **Kira:** Thursday INT-013 preserves Kira's completed 3:00pm-4:10pm School mentoring window.
+- **Anya:** Thursday INT-011 preserves Anya's completed 3:00pm-4:20pm School mentoring/gardening window. Because it overlaps Kira, Sabrina resolves the shared portion as one combined small-group block.
+- **School Community:** INT-010 remains Base Routine on open weekdays. Sabrina teaches while Anya, Felix, Kira, and Milo attend School, so no redundant NPC Interaction Override is required for ordinary class time.
+
+---
+
+## Interaction Consistency Note
+
+The current completed child routines contain one schedule-model conflict that should be normalized before implementation: Anya's INT-011 and Kira's INT-013 both require Sabrina on Thursday from 3:00pm through 4:10pm. The location is the same, so the characters can physically coexist, but the NPC Routine System's atomic first-valid-override model does not provide a clean way for Sabrina to resolve two separate NPC Interaction IDs simultaneously. This Sabrina routine preserves all authored times by treating that overlap as a shared mentoring session. A future revision to `NpcInteractionTable.md` should either create a canonical Sabrina/Anya/Kira group interaction for that Thursday window or move one child's individual mentoring block and update both participant files together.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Sabrina's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Sabrina's routine is intentionally dependable. Her work is less geographically varied than many other marriage candidates because a teacher's presence is itself part of the simulation: children and players should be able to predict where she is during the school day.
+
+Her variation comes through people and restoration rather than constant travel. As the School improves, Sabrina gains better grounds, individual mentoring opportunities, community projects, profession-linked lessons, and showcases. That lets the player see her gradually accept that helping each child in the way they need is more important than personally controlling every outcome.
