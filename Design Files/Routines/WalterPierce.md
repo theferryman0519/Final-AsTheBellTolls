@@ -1,0 +1,6115 @@
+---
+Title: Routines / Walter Pierce
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Walter follows one of Blackmere's most fixed shopkeeper routines. Blackmere General Store is both his residence and workplace, and his profile strongly supports consistency, traditional habits, shelf repair, tool maintenance, a small vegetable patch, and quiet evenings rather than frequent social wandering.
+
+Blackmere General Store is open from 8:00am to 6:00pm Sunday through Friday, is closed Saturday, and has no weather closures. Walter therefore remains behind the counter or handling stock for most documented opening hours. Saturday is his primary maintenance, fishing, garden, and Memorial Hill day.
+
+Irene and Roland are Walter's only recurring named interactions in the current `NpcInteractionTable.md`. Their completed routines already established exact low-frequency Sunday anchors, so Walter mirrors those times without alteration. Victor and Lucian/Vivian remain Occasional and receive no invented weekly appointment.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Residence / Workplace:** Blackmere General Store.
+- **General Store Hours:** 8:00am to 6:00pm Sunday-Friday.
+- **Closed Day:** Saturday.
+- **Weather Closures:** None.
+- **Severe Weather:** The Store remains open. Optional Town Square, Memorial Hill, and fishing activity can be canceled.
+- **NPC Interactions:** Irene's completed INT-049 and Roland's completed INT-050 are fixed synchronization anchors.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere General Store
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere General Store
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Cleaning
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 7:40am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 7:50am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 8:00am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 8:10am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 8:20am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 8:30am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 8:40am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 8:50am
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Traveling
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Traveling
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Traveling
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Repairing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Blackmere General Store
+            - Activity: Repairing
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Traveling
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Traveling
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Traveling
+- 6:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Blackmere General Store
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Walter follows the Base Routine.
+- **Cloudy:** Liked. No general change is required.
+- **Rainy:** Neutral. Blackmere General Store remains open and Walter continues normal shopkeeping.
+- **Rainy (Severe):** Disliked. The Store still remains open because its location file has no weather closure. Optional fishing, Memorial Hill, and Town Square social activity is canceled if conditions make travel unsafe.
+- **Snowy:** Neutral. Walter follows the Base Routine.
+- **Snowy (Severe):** Disliked. The Store remains open; optional outdoor routines are canceled.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Walter operates with sparse shelves and inconsistent stock. Residents primarily visit for essentials and rarely linger. His non-counter time is dominated by making do, repairing old fixtures, and keeping basic inventory organized.
+- **Rebuilding:** The storefront is secure, delivery storage is usable, and essential shelves become more dependable. Walter gains regular restocking and delivery-management blocks while still keeping the shop modest.
+- **Recovering:** Dependable shelving and storage allow scheduled NPC shoppers to return for ordinary purchases. Walter spends more time in straightforward Shopkeeping rather than compensating for damaged infrastructure.
+- **Renewed:** Seasonal displays and Blackmere-produced goods make the shop feel curated. Walter's opening-prep work can include arranging local products and seasonal windows rather than merely filling empty shelves.
+- **Growing:** A dedicated local-producer shelf or counter connects restored farms and trades to the General Store. Walter's stock-management blocks increasingly include producer rotation or consignment-style work.
+- **Prospering:** Expanded displays and bulk-order staging support occasional community orders. Walter remains practical and conservative, but the Store visibly participates in healthy town commerce.
+- **Flourishing:** Polished seasonal windows, local merchandise, visitor trade, festival demand, and NPC-to-NPC shopping chatter establish the Store as proof of Blackmere's self-sufficiency. Walter's routine remains recognizable, but the world around his routine has finally moved forward.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-049 - Walter + Irene:** Exact mirror of Irene's completed routine. Third Sunday of each season: 2:30pm-3:20pm Walking in Town Square, followed by 3:30pm-3:50pm Socializing, weather permitting.
+- **INT-050 - Walter + Roland:** Exact mirror of Roland's completed routine. Fourth Sunday of each season: 1:30pm-2:50pm Socializing in Town Square, weather permitting.
+- **INT-051 - Walter + Victor:** Directional Friend / Acquaintance, Occasional, Socializing / Shopping at Blackmere General Store or Caravan Stall. Victor's completed routine intentionally leaves this Occasional, so Walter does not add a hard weekly block.
+- **INT-056 - Lucian/Vivian + Walter:** Established Friends, Occasional, Repairing / Socializing at General Store or Town Square. No fixed time is invented before Lucian/Vivian's full routine is authored.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Irene:** Third-Sunday INT-049 exactly matches Irene's completed routine.
+- **Roland:** Fourth-Sunday INT-050 exactly matches Roland's completed routine.
+- **Victor:** INT-051 remains Occasional, matching Victor's completed routine.
+- **Lucian/Vivian:** INT-056 remains Occasional and does not constrain the rival's future routine.
+
+---
+
+## General Store Coverage Conflict
+
+INT-049 and INT-050 were already established by Irene and Roland during hours when Blackmere General Store is documented as open. Because Walter is the Store's owner and no alternate clerk or automatic-shop system is specified in the current source files, these Sunday social anchors create a real coverage question: on the third Sunday Walter is away from approximately 2:30pm-3:50pm, and on the fourth Sunday he is away from approximately 1:30pm-2:50pm.
+
+This file preserves the previously established cross-NPC times rather than silently changing Irene or Roland. Before implementation, one canonical rule should resolve the shop behavior during those windows: either the Store temporarily becomes unavailable, another NPC/staffing system covers the counter, or the interaction times are deliberately moved for all participants. Until Carey chooses one, the routine treats the NPC Interaction Override as higher priority than Walter's Base Shopkeeping.
+
+---
+
+## Opal / Memorial Hill Note
+
+Walter's profile identifies Memorial Hill at Opal's grave marker as his favorite location and says visiting Memorial Hill at sunset is one of his hobbies. Because Saturday is his documented closed day, his regular Saturday late-afternoon Memorial Hill block expresses that behavior without reducing General Store access on an ordinary open day. This is Base Routine characterization, not an NPC Interaction Override.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Walter's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Walter's routine should feel stubbornly consistent. The player should learn that the Store opens, Walter is there, the shelves are maintained, and Saturday is the one predictable day when he turns toward his own habits and memories. That consistency directly supports his Core Belief that people who depend on him deserve reliability.
+
+Restoration changes the Store more readily than it changes Walter. New local goods, more shoppers, bulk orders, producer shelves, and visitor trade gradually force his familiar routines to exist inside a town that is no longer frozen in the past. His Saturday Memorial Hill visit remains, but later stages make it increasingly clear that remembering Opal and participating in Blackmere's future do not have to be opposing choices.
