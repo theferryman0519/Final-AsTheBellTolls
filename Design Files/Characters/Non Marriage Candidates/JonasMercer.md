@@ -51,9 +51,9 @@ Hated Gifts: Eel, Foxglove, Lamprey, Onyx, Witch Hazel
 
 Character Arc: Learning That Peace Sometimes Requires Difficult Conversations
 
-Character Arc Start State: Jonas learns that honesty isn't the enemy of peace. By speaking openly about difficult feelings, he strengthens the trust his family already shares instead of protecting them through silence.
+Character Arc Start State: Jonas believes keeping the peace is the best way to protect the people he loves. Rather than confronting conflict directly, he quietly absorbs tension himself, hoping time and kindness will smooth things over.
 
-Character Arc End State: Jonas believes keeping the peace is the best way to protect the people he loves. Rather than confronting conflict directly, he quietly absorbs tension himself, hoping time and kindness will smooth things over.
+Character Arc End State: Jonas learns that honesty isn't the enemy of peace. By speaking openly about difficult feelings, he strengthens the trust his family already shares instead of protecting them through silence.
 
 Core Belief: The strongest harvest comes from people working together.
 
