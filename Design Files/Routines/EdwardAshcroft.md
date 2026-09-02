@@ -1,0 +1,4913 @@
+---
+Title: Routines / Edward Ashcroft
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Edward follows a Manor-centered routine built around quiet service, maintenance, records, meal preparation, the Grandfather Clock, the garden, and his Butler Quarters. Unlike town shopkeepers, Edward has no public business hours; Pendrelle Manor is both his residence and workplace, so his routine is driven by household needs and restoration progression rather than opening and closing times.
+
+His strongest recurring relationship outside the player is Martin, his son and best friend. The interaction table defines INT-039 as Weekly, so this routine establishes one exact Saturday father/son block for Martin to mirror later. Roland, Frederick, and Julian are meaningful older-generation or mentorship connections, but their interaction-table frequencies are Occasional, so they are not turned into weekly obligations here.
+
+Edward's restoration behavior is tied especially closely to Butler Quarters. Its services progress from Butler Help at Weathered to Daily Advice, Weather Forecast, Manor Report, Lost & Found, Groundskeeper, and finally Butler Tunnels. His routine reflects those services without assuming that every Manor room must be fully restored before he can move through the house.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Residence:** Pendrelle Manor; Butler Quarters is Edward's private living space.
+- **Workplace:** Pendrelle Manor.
+- **Public Hours:** None. Edward's availability is controlled by his routine, events, and player interactions rather than shop hours.
+- **Severe Weather:** Because most of Edward's routine is indoors, severe weather has limited effect. Off-Manor visits are canceled when travel is unsafe.
+- **Player Interaction:** Player-to-NPC interaction temporarily supersedes the currently resolved routine; afterwards the current tick is re-resolved.
+- **NPC Interactions:** INT-039 receives an exact weekly source-of-truth time. INT-040, INT-041, and INT-043 remain Occasional.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Relaxing
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Relaxing
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Relaxing
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Waking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 6:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Recovering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Renewed:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Growing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Prospering:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Cleaning
+- 9:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 9:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Cleaning
+- 10:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:10am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:20am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:30am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:40am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 11:50am
+    - Base Routine:
+        - Location: Pendrelle Manor - Garden
+        - Activity: Gardening
+- 12:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Kitchen
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 2:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+    - Restoration Override:
+        - Prospering:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Pendrelle Manor - Garden
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Martin available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Dining Hall
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Central Room
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Pendrelle Manor - Butler Quarters
+            - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Pendrelle Manor - Butler Quarters
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. Edward follows the Base Routine.
+- **Cloudy:** Liked. No routine change is required.
+- **Rainy:** Liked. Because Edward spends most of the day inside Pendrelle Manor, ordinary rain does not meaningfully disrupt his work.
+- **Rainy (Severe):** Disliked. Edward remains at the Manor and cancels optional off-estate visits, including the Saturday Martin visit if travel is unsafe.
+- **Snowy:** Neutral. Edward follows the Base Routine.
+- **Snowy (Severe):** Neutral in preference. The Manor remains his safe work/residence anchor, so only off-Manor travel is canceled.
+- **Windy:** Neutral. No general routine change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Edward performs Butler Help from his already-serviceable quarters and spends much of the day cleaning, maintaining damaged rooms, protecting Myrtle's records, and keeping the Manor functional despite its condition.
+- **Rebuilding:** Butler Quarters becomes a dependable personal office and bedroom. Daily Advice is now supported by an organized writing desk, records, and morning planning, making Edward's first work block more administrative.
+- **Recovering:** Weather instruments, charts, and almanacs support the Weather Forecast service. On selected afternoons Edward shifts from general estate work into Studying forecasts and maintaining weather records.
+- **Renewed:** Manor Report becomes available. Ledgers, estate diagrams, crop/animal records, and correspondence turn Butler Quarters into an operational office, so Edward spends more scheduled time maintaining reports rather than merely cleaning damaged spaces.
+- **Growing:** Lost & Found adds recovered-item organization, while the Dining Hall and other Manor spaces are increasingly suitable for guests. Edward's role visibly broadens from caretaker of a damaged estate into steward of an inhabited home.
+- **Prospering:** Groundskeeper becomes available. Edward's afternoon Garden work becomes a functional part of the player's estate loop because he can harvest ready crops or flowers and place them into storage.
+- **Flourishing:** Butler Tunnels unlock. Edward's quarters now include service-door details, routing information, keys, and tunnel maps; selected evening work blocks represent maintaining and coordinating that fast-travel network rather than simply polishing the Manor.
+
+---
+
+## Manor Room Integration Notes
+
+- **Central Room:** Edward cleans and monitors the damaged heart of the Manor from Weathered onward. Once Rebuilding restores the Grandfather Clock, his Central Room work reads more as stewardship of the clock, estate planning, and protecting Myrtle's legacy.
+- **Dining Hall:** Weathered is largely unusable for guests, so Edward's early activity there is maintenance rather than hosting. From Rebuilding onward the room supports guests and increasingly functions as a genuine service/gathering space.
+- **Kitchen:** Pantry storage is usable at Weathered; Stove and Blender become available at Rebuilding. Edward's Kitchen blocks therefore represent pantry/service work from the start and can become fuller meal preparation once the room is repaired.
+- **Garden:** The Weathered Garden cannot grow crops or flowers. Edward's early Garden activity should be interpreted as clearing, tending surviving grounds, and maintenance. Planting/harvesting becomes literal from Rebuilding, and Groundskeeper automation begins at Prospering.
+- **Butler Quarters:** This is Edward's core progression room and the primary source for his restoration-specific services.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-039 - Edward + Martin:** Saturday 2:30pm-2:50pm Traveling to 2 Resident Lane; 3:00pm-3:40pm Drinking together; 3:50pm-4:20pm Socializing. This is now the canonical Weekly father/son block Martin's future complete routine should mirror.
+- **INT-040 - Edward + Roland:** Established but Occasional. No fixed weekly block is added because the interaction table specifically treats this mentor/friend relationship as low-frequency.
+- **INT-041 - Frederick + Edward:** Established but Occasional. Winding Banks Inn or Pendrelle Manor can host a later event/seasonal hospitality conversation without forcing a weekly meeting.
+- **INT-043 - Julian + Edward:** Established but Occasional. Historical/knowledge conversations at Rain & Hale or Pendrelle Manor should be driven by a specific event, restoration state, or later seasonal pass.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Martin:** His future routine should reserve Saturday 2:30pm-4:20pm for INT-039, with 2:30pm-2:50pm travel, 3:00pm-3:40pm Drinking, and 3:50pm-4:20pm Socializing at 2 Resident Lane.
+- **Roland:** INT-040 remains Occasional, so Roland's already-established spouse/family/Leo/Victor commitments are not disturbed.
+- **Frederick:** INT-041 remains Occasional, preserving the Inn's future family/work schedule.
+- **Julian:** INT-043 remains Occasional and does not create an arbitrary recurring clinic/apothecary conflict.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+The Toll of Hearths festival on Day 25 of Winter is a specific event override. The Dining Hall file states that if the room is still Weathered, the festival is skipped for that year; if it occurs, the event schedule supersedes Edward's normal routine.
+
+---
+
+## Routine Characterization
+
+Edward's routine is intentionally repetitive in a useful way. His defining quality is consistency: the player should repeatedly see him preparing rooms, maintaining records, tending the grounds, arranging meals, and quietly keeping Pendrelle Manor functioning. Variety comes from which room needs his attention and which restoration service he is supporting, not from giving him unexplained trips around Blackmere.
+
+His character arc is reflected by the Manor becoming increasingly social. Early Edward behaves like a caretaker protecting Myrtle's estate and the clock. Later stages give him guest-ready rooms, family meals, recovered belongings, groundskeeping responsibilities, and a fuller household to care for. That progression supports the idea that his duty is gradually becoming family rather than remaining emotionally detached service.
