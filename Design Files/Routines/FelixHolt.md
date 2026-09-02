@@ -1,0 +1,12566 @@
+---
+Title: Routines / Felix Holt
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Felix follows a curious but cautious routine centered around Winding Banks Inn, A. Whitmore Public School, the nearby River Wharf and Graythorne River, and a small set of trusted people who make exploration feel safe.
+
+On school days, Felix attends A. Whitmore Public School from 8:00am through 3:00pm. Outside of school, he reads adventure stories, studies objects from his collection, watches wildlife, explores familiar riverbank and wharf areas, and gradually spends more time in restored public spaces as Blackmere becomes safer and more active.
+
+Felix's strongest peer relationship is Milo. Their weekly best-friend block is deliberately separate from the larger Tuesday children's-group interaction with Anya, Kira, and Milo. Sabrina also receives an individual mentoring block once the restored Library supports dependable child visits. At home, Frederick, Helen, and Theo remain Felix's daily household anchors.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Each day is represented at 10-minute resolution from 6:00am through 11:50pm. 12:00am is the end-of-day boundary.
+
+### Routine Conditions
+
+- **School Term:** A. Whitmore Public School is open Monday through Friday from 8:00am through 3:00pm.
+- **Weekend:** The school and public library are closed Saturday and Sunday.
+- **Seasonal School Closure:** The school and public library are closed from Day 18 of Winter through Day 4 of Spring. During this period, Felix uses the `School Seasonal Closure` special Base Routine instead of the school-term weekday Base Routine.
+- **Early Spring:** Felix is available beginning Day 1 of Spring, Year 1. From Day 1 through Day 3 he uses the seasonal-closure routine; beginning Day 4 he uses the normal weekday schedule when the school is open.
+- **Severe Weather:** Rainy (Severe) and Snowy (Severe) close the school and public library. Felix remains at Winding Banks Inn for optional activities and school replacement time.
+- **NPC Interaction Eligibility:** Outdoor/group interactions are invalid during Rainy (Severe) and Snowy (Severe), allowing the lower-priority Weather Override to resolve the tick safely.
+- **NPC Interactions:** Established recurring interactions are taken from the Master NPC Interaction Table. Household time already matching Felix's Base Routine is not duplicated as an override.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+- 3:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+- 3:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Exploring
+- 3:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: River Wharf District
+            - Activity: Traveling
+        - Prospering:
+            - Location: River Wharf District
+            - Activity: Traveling
+        - Flourishing:
+            - Location: River Wharf District
+            - Activity: Traveling
+- 4:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: River Wharf District
+            - Activity: Traveling
+        - Prospering:
+            - Location: River Wharf District
+            - Activity: Traveling
+        - Flourishing:
+            - Location: River Wharf District
+            - Activity: Traveling
+- 4:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: River Wharf District
+            - Activity: Traveling
+        - Prospering:
+            - Location: River Wharf District
+            - Activity: Traveling
+        - Flourishing:
+            - Location: River Wharf District
+            - Activity: Traveling
+- 4:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Traveling
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Library available; Not Rainy (Severe) or Snowy (Severe); Library restoration at least Recovering
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Library available; Not Rainy (Severe) or Snowy (Severe); Library restoration at least Recovering
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Library available; Not Rainy (Severe) or Snowy (Severe); Library restoration at least Recovering
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Library available; Not Rainy (Severe) or Snowy (Severe); Library restoration at least Recovering
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-012: Sabrina + Felix
+        - Condition: Library available; Not Rainy (Severe) or Snowy (Severe); Library restoration at least Recovering
+        - Location: A. Whitmore Public Library
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+    - Restoration Override:
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+    - Restoration Override:
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+    - Restoration Override:
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+    - Restoration Override:
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+    - Restoration Override:
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+    - Restoration Override:
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+---
+
+## School Seasonal Closure - Special Base Routine
+
+A. Whitmore Public School and A. Whitmore Public Library are closed annually from Day 18 of Winter through Day 4 of Spring. Felix is available to the player on Day 1 of Spring, so this special Base Routine also governs his Day 1 through Day 3 weekday behavior in Year 1.
+
+The closure routine keeps Felix close to Winding Banks Inn and the familiar riverfront rather than turning the school break into unrestricted travel. Tuesday retains the established Blackmere Children's Group, and Thursday retains his best-friend time with Milo when severe weather does not invalidate those interactions.
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Riverbank near Winding Banks Inn
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Playing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Felix follows the Base Routine and is comfortable using outdoor riverbank and wharf blocks.
+- **Cloudy:** Neutral. No routine change is required.
+- **Rainy:** Neutral. School remains open. Optional outdoor Exploring or Walking blocks shift to Reading at Winding Banks Inn where listed in the per-tick Weather Overrides.
+- **Rainy (Severe):** Disliked. School and public library close. Outdoor child-group and best-friend interactions are invalidated; Felix remains at Winding Banks Inn and uses reading, studying, play, meals, and quiet family time.
+- **Snowy:** Liked. School remains open. Felix follows his normal routine and can still enjoy ordinary outdoor free-time blocks.
+- **Snowy (Severe):** Disliked. The same severe-weather home routine applies because school and public library close.
+- **Windy:** Neutral. No routine change is required unless another location or event rule supersedes it.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Felix spends most free time at Winding Banks Inn or along the familiar nearby riverfront. The damaged Inn and limited School/Library spaces keep his exploration geographically conservative.
+- **Rebuilding:** Safer Inn spaces make his household routine more dependable, but the Library is still not treated as a regular child destination.
+- **Recovering:** The Library's repaired circulation and reading areas support Felix's regular Wednesday reading visit. More dependable Inn activity also gives him additional opportunities to listen to travelers and observe unfamiliar objects without leaving a familiar setting.
+- **Renewed:** Comfortable hearth/common-room areas make Friday evening social time at Winding Banks Inn more natural.
+- **Growing:** Improved School grounds can hold a Monday after-school observational/exploration block, and the Inn's added social areas give Felix safe ways to encounter visitors and stories.
+- **Prospering:** Expanded School/Library resources and steady Inn occupancy make Felix more comfortable pursuing curiosity in public spaces while still returning to familiar home and river anchors.
+- **Flourishing:** Felix's routine shows increased confidence through dependable use of restored learning and community spaces, not by suddenly sending him into dangerous or distant locations alone.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-007 - Blackmere Children's Group:** Tuesday after school. Felix aligns exactly with Anya's established group block: travel toward Town Square from 3:00pm-3:20pm, social time from 3:30pm-4:20pm, contained Blackmere exploration from 4:30pm-5:20pm, and return travel from 5:30pm-5:50pm. The interaction is invalid during severe rain or severe snow.
+- **INT-009 - Felix + Milo:** Thursday after school. Milo comes to the Winding Banks / River Wharf area, allowing Felix to explore more confidently without requiring him to travel far from home. This becomes the pair's dedicated weekly best-friend block.
+- **INT-010 - School Community:** Monday through Friday school hours remain Base Routine because Felix, Anya, Kira, Milo, and Sabrina are naturally aligned there when school is open.
+- **INT-012 - Sabrina + Felix:** Wednesday late afternoon once the Library is at least Recovering. Sabrina provides an individual reading/teaching block while Felix is already using the restored Library.
+- **INT-015 - Winding Banks Household:** Daily meals and evening family time with Frederick, Helen, and Theo are embedded in Felix's Base Routine and do not need redundant overrides.
+- **INT-018 - Theo + Felix:** Sunday afternoon board-game time at Winding Banks Inn gives Felix a dependable low-pressure family interaction separate from his peer relationships.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Anya:** Tuesday INT-007 uses the same time windows and locations already authored in Anya's complete routine.
+- **Kira and Milo:** Their future Tuesday INT-007 blocks should use these same Town Square / Blackmere windows so all four children resolve to the same interaction.
+- **Milo:** His future Thursday INT-009 block should mirror Felix's Winding Banks Inn / River Wharf timing.
+- **Sabrina:** Her future Wednesday INT-012 block should overlap Felix's restored-Library mentoring period.
+- **Theo:** His future Sunday INT-018 block should overlap Felix's 2:30pm-4:00pm board-game period.
+- **Frederick and Helen:** Felix's household meals are intentionally placed at Winding Banks Inn so their eventual routines can share the same household anchors without requiring an override.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact festival- and story-specific tick schedules should come from the corresponding event files rather than being invented in Felix's standard routine.
+
+Player-to-NPC interaction temporarily supersedes Felix's currently resolved Routine while active. When the interaction ends, the system re-resolves the currently valid tick.
+
+---
+
+## Routine Characterization
+
+Felix's routine is intentionally adventurous only within a cautious radius. His curiosity repeatedly pulls him toward the river, books, travelers, objects, and small discoveries, but his low confidence prevents him from behaving like Kira. Milo is the relationship most likely to expand Felix's willingness to explore, while the larger children's group gives him safe, recurring exposure to broader parts of Blackmere.
+
+Restoration changes Felix primarily by increasing the number of safe, dependable spaces in which he can pursue curiosity. The late-stage routine should therefore feel more confident and connected without erasing his shy, thoughtful personality.
