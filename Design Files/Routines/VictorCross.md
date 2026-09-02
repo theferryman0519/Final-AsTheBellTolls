@@ -1,0 +1,8064 @@
+---
+Title: Routines / Victor Cross
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Victor follows a trade-centered but mobile routine built around the Caravan Stall, Town Square, Blackmere's outskirts, and 5 Resident Lane. His schedule needs to feel less rooted than the routines of permanent-shop owners: even while Blackmere becomes a regular home base, Victor still spends free time near roads, travelers, public spaces, and the edges of town where movement remains visible.
+
+The Caravan Stall is open from 10:00am to 6:00pm Monday through Saturday, closed Sunday, and closes during Rainy (Severe) and Snowy (Severe). Victor first becomes available on Day 1 of Spring, Year 1. He lives at 5 Resident Lane with Dante and Madison.
+
+Dante is Victor's best friend and strongest recurring personal relationship. Dante's completed routine already establishes the canonical INT-026 windows, so Victor mirrors those exact times. INT-025 household dinners also exactly match the completed Dante and Madison routines. Roland's mentor relationship remains Occasional/Monthly; this routine establishes a low-frequency second-Sunday walking block that avoids Roland's recurring Thread & Thimble schedule with Leo.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Caravan Stall Hours:** 10:00am to 6:00pm Monday through Saturday.
+- **Weekly Closure:** Sunday.
+- **Weather Closures:** Rainy (Severe) and Snowy (Severe).
+- **Residence:** 5 Resident Lane, shared with Dante and Madison.
+- **Ordinary Rain:** Neutral. The Caravan remains open; optional outskirts/Town Square wandering can move indoors.
+- **Windy:** Liked. Victor generally keeps his normal travel and outdoor routine.
+- **NPC Interactions:** Completed Dante and Madison schedules are fixed synchronization anchors. Occasional relationships are not promoted to weekly meetings unless the interaction table supports that frequency.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 11:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 11:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 11:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 12:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 12:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-044: Victor + Roland
+        - Condition: Second Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 6:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 6:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 6:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 6:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Working
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Renewed:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Growing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Prospering:
+            - Location: Caravan Stall
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Caravan Stall
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:10pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:20pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: Caravan Stall
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Victor follows the Base Routine.
+- **Cloudy:** Neutral. No general routine change is required.
+- **Rainy:** Neutral. Caravan Stall remains open. Optional outskirts and Town Square wandering can move to 5 Resident Lane, while public trade continues.
+- **Rainy (Severe):** Disliked. Caravan Stall closes. Victor remains at 5 Resident Lane for inventory notes, reading, planning, meals, conversation, and rest.
+- **Snowy:** Neutral. Victor generally follows the normal routine.
+- **Snowy (Severe):** Disliked. Caravan Stall closes and Victor uses the same home-based severe-weather routine.
+- **Windy:** Liked. Victor generally keeps travel/outskirts blocks and enjoys the sense of movement around the roads.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** The Caravan pitch is a rough temporary stop with limited shelter, little reason for residents to linger, and a strong sense that Victor could pack up and leave at any time.
+- **Rebuilding:** Level ground, tie-down points, and a dependable awning create orderly setup/teardown routines. Victor's daily work becomes more reliable without making the Caravan feel permanent.
+- **Recovering:** Secure storage, signage, and organized crates make recurring trade dependable. Local residents begin scheduled browsing, so Victor's afternoon work becomes more socially active.
+- **Renewed:** Seating, signage, and repeated-trader details make Victor's presence feel like part of Blackmere's ordinary rhythm. His dialogue/social blocks can increasingly reference restored businesses and familiar residents.
+- **Growing:** A local-export display and producer handoffs connect Victor's trade directly to Blackmere's farms and crafts. Friday late afternoon becomes more logistics-focused.
+- **Prospering:** Specialty-order markers and higher-value exchange scenes increase Victor's role as a connector between Blackmere and the wider region rather than merely a seller of random goods.
+- **Flourishing:** Regional flags, recognizable imported/export crates, visiting traders, producers, and townspeople make the Caravan a true exchange point. Victor's routine becomes more integrated with the town while still preserving the visual language of travel.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm shared dinner with Dante and Madison. These exact windows match both completed routines.
+- **INT-026 - Dante + Victor:** Tuesday 8:20pm-8:50pm shared dinner at 5 Resident Lane; Wednesday 5:00pm-6:20pm and 7:30pm-8:50pm Socializing at 5 Resident Lane; Saturday 6:00pm-6:50pm Socializing at Hall of Wonder. These exactly preserve Dante's completed routine.
+- **INT-044 - Victor + Roland:** Second Sunday of each season, 4:00pm-5:10pm Walking at Blackmere Outskirts. This preserves the interaction table's Occasional/Monthly frequency and gives Roland a commitment/belonging mentorship context without competing with his regular Leo visits.
+- **INT-051 - Walter + Victor:** Directional and Occasional. No fixed weekly block is added. It can occur through Caravan Stall/General Store trade overlap or later seasonal/restoration content.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Dante:** Every INT-026 window exactly matches Dante's completed routine.
+- **Madison:** Monday, Friday, and Sunday INT-025 dinners exactly match Madison's completed routine.
+- **Roland:** His future complete routine should reserve the second Sunday of each season from 4:00pm-5:10pm at Blackmere Outskirts for INT-044, unless a higher-priority event supersedes it.
+- **Walter:** INT-051 remains Occasional, so Walter's future routine does not need a fixed Victor appointment.
+- **5 Resident Lane:** Household interactions are deliberately limited so Victor's home life becomes meaningful without erasing his restless/travel-oriented identity.
+
+---
+
+## Shop-Hours Consistency Note
+
+Dante's already-completed INT-026 routine places Dante and Victor together at 5 Resident Lane on Wednesday from 5:00pm-6:20pm. The Caravan Stall's documented public hours continue until 6:00pm. This Victor routine preserves Dante's interaction exactly, which means Victor leaves the Caravan Stall at 5:00pm on Wednesday despite the location's 6:00pm closing time. The source files do not state whether Victor is the Stall's sole required shopkeeper, so this cannot be resolved conclusively from the current design files. Before implementation, choose one canonical rule: either the Caravan Stall can remain open without Victor during that final hour, or INT-026 should be moved to 6:00pm-6:20pm (and Dante's routine updated at the same time). The current file does not silently change Dante's authored schedule.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Victor's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Victor's routine is intentionally more mobile than a normal shopkeeper's. The Caravan Stall gives him a dependable professional anchor, but his Sunday closure, Town Square evenings, and repeated outskirts walks keep movement and possibility visible in his life.
+
+His restoration progression should not simply make him more stationary. Instead, Blackmere becomes a place increasingly worth returning to: more local producers, familiar traders, recurring household meals, and deeper friendships give him reasons to belong without removing the road from his identity. That supports his arc from keeping every option open toward understanding that choosing a home can make his adventures more meaningful.
