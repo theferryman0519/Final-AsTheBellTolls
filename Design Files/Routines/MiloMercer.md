@@ -1,0 +1,13211 @@
+---
+Title: Routines / Milo Mercer
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Milo follows a playful, highly social routine centered around Mercer Farms, A. Whitmore Public School, the fields and riverbank bordering the farm, and recurring time with the people who make ordinary days feel like adventures.
+
+On school days, Milo attends A. Whitmore Public School from 8:00am through 3:00pm. Outside school he plays make-believe, explores the farm and nearby water, collects odd sticks and rocks, draws adventure maps, and spends frequent time with family. His weekly routine is intentionally less geographically ambitious than Kira's: Milo can turn familiar places into adventures without needing to travel far.
+
+Felix is Milo's strongest peer connection. Their Thursday best-friend interaction exactly matches Felix's already-authored routine. Milo's Tuesday Children's Group, Friday family skill block, and Saturday aunt/children block likewise exactly match the already-authored Kira routine, ensuring the shared NPC Interaction Overrides resolve to the same locations and activities for every participating character.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Each day is represented at 10-minute resolution from 6:00am through 11:50pm. 12:00am is the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Milo first becomes available on Day 4 of Spring, Year 1.
+- **School Term:** A. Whitmore Public School is open Monday through Friday from 8:00am through 3:00pm.
+- **Weekend:** The school is closed Saturday and Sunday.
+- **Seasonal School Closure:** The school closes from Day 18 of Winter until its Day 4 Spring reopening. In later years, weekday dates in this period use the `School Seasonal Closure` Base Routine.
+- **Severe Weather:** Rainy (Severe) and Snowy (Severe) close the School. Outdoor/group interaction conditions become invalid, allowing Weather Overrides to keep Milo at Mercer Farms.
+- **Ordinary Rain:** Milo is neutral toward rain. Riverbank, River Wharf, and fishing blocks may shift indoors, while ordinary farm play can continue where appropriate.
+- **NPC Interactions:** Established recurring interactions come from `NpcInteractionTable.md`. Household meals already represented by Base Routine are not duplicated as interaction overrides.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 1:40pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 1:50pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 2:00pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 2:10pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 2:20pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Graythorne Lake
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Renewed:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne Lake
+            - Activity: Fishing
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-005: Jonas + Milo
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Playing
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-014: Sabrina + Milo
+        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Renewed:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+---
+
+## School Seasonal Closure - Special Base Routine
+
+A. Whitmore Public School closes annually from Day 18 of Winter until its Day 4 Spring reopening. Milo first becomes available on Day 4 of Spring, Year 1, so this special routine matters primarily from Year 2 onward.
+
+During the closure, Milo stays centered on Mercer Farms, its riverbank, family play, and study. Tuesday INT-007, Thursday INT-009, and Friday INT-003 can still occur when all participants and locations are available; Monday INT-014 does not occur because the school is closed.
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-009: Felix + Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Riverbank
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Claudia available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Milo follows his normal routine and favors outdoor play and exploration.
+- **Cloudy:** Neutral. No routine change is required.
+- **Rainy:** Neutral. Milo can still play around Mercer Farms, but exposed riverbank, River Wharf, and fishing blocks move indoors where listed.
+- **Rainy (Severe):** Disliked. School closes, optional travel is canceled, and Milo remains at Mercer Farms Residence for play, study, reading, meals, and family time.
+- **Snowy:** Neutral. Milo generally follows the Base Routine with ordinary seasonal caution.
+- **Snowy (Severe):** Disliked. The severe-weather Mercer Farms routine applies.
+- **Windy:** Liked. Milo generally follows his Base Routine and enjoys outdoor movement when conditions are safe.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Milo's adventures remain centered on familiar parts of Mercer Farms and the nearby riverbank while damaged farm infrastructure limits communal activity.
+- **Rebuilding:** Stabilized fences and farm areas make everyday outdoor play and family routines more dependable.
+- **Recovering:** Safer school grounds support Milo's individual Sabrina mentoring block, and repaired farm spaces allow fuller family routines.
+- **Renewed:** The farm reads as dependable rather than emergency-focused, giving Milo more room for ordinary games, stories, and exploration.
+- **Growing:** Demonstration plots, communal work anchors, and child/family activities make Friday and Saturday shared interactions feel visibly supported by the restored farm.
+- **Prospering:** Mature farm infrastructure creates more varied safe spaces for Milo's imaginative play and family involvement.
+- **Flourishing:** Mercer Farms becomes one of Blackmere's primary communal production spaces. Milo's routine can feel socially rich without needing to send him far from home for every adventure.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-001 - Mercer Household:** Daily household meals and evening family time with Claudia, Jonas, Jasmine, and Kira are embedded directly in Milo's Base Routine.
+- **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms. This exactly matches Kira's authored routine. Claudia's future routine should reserve the same period.
+- **INT-005 - Jonas + Milo:** Sunday 1:00pm-3:50pm including travel, with Fishing at Graythorne Lake from 1:30pm-3:20pm. This is Milo's dedicated weekly father/son outing and becomes the exact anchor Jonas should mirror.
+- **INT-006 - Jasmine + Kira + Milo:** Saturday 2:30pm-3:10pm Playing and 3:20pm-3:50pm Exploring at Mercer Farms. This exactly matches Kira's authored routine.
+- **INT-007 - Blackmere Children's Group:** Tuesday exactly matches Anya, Felix, and Kira: 3:00pm-3:20pm travel toward Town Square, 3:30pm-4:20pm Socializing, 4:30pm-5:20pm Exploring through Blackmere, and 5:30pm-5:50pm return travel.
+- **INT-009 - Felix + Milo:** Thursday exactly matches Felix: 3:00pm-3:20pm travel, 3:30pm-4:00pm Playing at Winding Banks Inn, 4:10pm-5:10pm Exploring around the River Wharf, and 5:20pm-5:50pm return travel.
+- **INT-010 - School Community:** Weekday school hours remain Base Routine because Sabrina, Anya, Felix, Kira, and Milo naturally overlap there while the school is open.
+- **INT-014 - Sabrina + Milo:** Monday 3:00pm-3:20pm Playing/settling into the after-school block, followed by 3:30pm-4:10pm Teaching. This establishes a non-conflicting individual mentoring window for Sabrina's future routine.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Anya:** Tuesday INT-007 uses the exact already-authored Anya times and locations.
+- **Felix:** Tuesday INT-007 and Thursday INT-009 use Felix's exact authored times and locations.
+- **Kira:** Tuesday INT-007, Friday INT-003, and Saturday INT-006 use Kira's exact authored times and locations.
+- **Claudia:** Her future Friday routine should reserve 3:30pm-4:20pm for INT-003.
+- **Jasmine:** Her future Saturday routine should reserve 2:30pm-3:50pm for INT-006.
+- **Jonas:** His future Sunday routine should mirror INT-005 from 1:00pm through 3:50pm, with Graythorne Lake fishing from 1:30pm through 3:20pm.
+- **Sabrina:** Her future Monday routine should reserve 3:00pm-4:10pm for INT-014. This avoids Felix's Wednesday mentoring block and does not add another overlap to the already-authored Thursday mentoring windows.
+- **Mercer Household:** Shared meal anchors are placed at Mercer Farms Residence so future Claudia, Jonas, and Jasmine routines can synchronize without redundant interaction overrides.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their event files rather than being duplicated in Milo's standard routine.
+
+Player-to-NPC interaction temporarily supersedes Milo's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Milo's routine is intentionally energetic without making him a copy of Kira. Kira seeks undiscovered places; Milo turns familiar places into imaginary adventures. That is why his routine repeatedly uses Mercer Farms, its riverbank, Winding Banks Inn with Felix, and family spaces rather than sending him deep into Gloamwood Forest every free afternoon.
+
+His character arc is reflected by the social structure of the week. Milo gets multiple opportunities to slow down with specific people: fishing with Jonas, practical learning with Claudia, shared play with Jasmine and Kira, and focused best-friend time with Felix. The routine therefore supports his lesson that adventures matter because of the people and memories inside them, not simply because he kept moving.
