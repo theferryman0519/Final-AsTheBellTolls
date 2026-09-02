@@ -1,0 +1,7993 @@
+---
+Title: Routines / Jasmine Mercer
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Jasmine follows a ranch-centered routine at Mercer Farms, where her profession, family role, shop function, and social personality naturally overlap. She spends most mornings and afternoons caring for animals, selling livestock, handling farm work, and interacting with family or visitors rather than traveling around Blackmere simply to appear outgoing.
+
+Mercer Farms is open from 6:00am to 9:00pm every day, with no closed days and no weather closures. Jasmine sells animals from the Farm and remains available there for substantial portions of every day. Her routine leaves the Farm mainly for the established Thursday Winding Banks Inn social visit.
+
+Claudia is Jasmine's sister-in-law and best friend, Jonas is her brother, and Kira and Milo are her niece and nephew. Household meal anchors therefore mirror the exact Mercer-family windows already established in Claudia's completed routine. INT-006 also exactly mirrors Kira and Milo's Saturday aunt/children block. Lena and Jasmine's established Thursday Winding Banks visit is represented through one combined INT-034/INT-048 interaction so Jasmine does not resolve two separate atomic overrides for the same people, place, and time.
+
+Jasmine's crush on Theo is preserved without creating a conflicting second Thursday override. The interaction table describes INT-035 as Weekly + Progression, with early coincidental overlap progressing into explicit shared outings. The Thursday Inn group supplies that recurring early overlap. When the Ongoing Event `A Little Backwards` becomes eligible, that event has higher priority and can provide the explicit Jasmine/Theo progression scene.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 4 of Spring, Year 1.
+- **Mercer Farms Hours:** 6:00am to 9:00pm every day.
+- **Days Closed:** None.
+- **Weather Closures:** None.
+- **Residence / Workplace:** Mercer Farms.
+- **Shop Role:** Jasmine sells available animals from Mercer Farms.
+- **Severe Weather:** Mercer Farms remains open, but optional children's exploration or off-Farm travel can move indoors.
+- **NPC Interactions:** Claudia, Kira, Milo, Frederick, and Helen provide already-authored synchronization anchors. No existing participant's time is shifted.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Attending
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Farming
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Farming
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Playing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Playing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Playing
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Playing
+    - NPC Interaction Override:
+        - Interaction: INT-006: Jasmine + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Exploring
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Exploring
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Farming
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Jasmine follows the Base Routine.
+- **Cloudy:** Neutral. No general change is required.
+- **Rainy:** Liked. Mercer Farms has no weather closure, so Jasmine continues normal ranch work.
+- **Rainy (Severe):** Disliked. The Farm remains open, but optional child exploration and off-Farm social travel are canceled when unsafe.
+- **Snowy:** Neutral. Jasmine follows the Base Routine.
+- **Snowy (Severe):** Disliked. Mercer Farms remains open, but optional outdoor play/exploration and Thursday travel can move indoors.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Jasmine spends significant time compensating for damaged fencing, storage, and animal areas. Livestock sales remain available, but ranch work feels survival-oriented and infrastructure-limited.
+- **Rebuilding:** Stabilized animal areas, fencing, feed storage, and dependable work zones allow her mornings to become more consistent and reduce emergency repair behavior.
+- **Recovering:** Safer animal spaces and organized storage support fuller animal-care routines and more predictable visitor/helping-NPC activity.
+- **Renewed:** Healthy farm presentation and organized produce/animal-good handling make Mercer Farms feel like dependable food infrastructure. Jasmine's work can visibly support Inn meals and communal events.
+- **Growing:** Expanded animal areas, demonstration spaces, and communal work anchors support Kira/Milo activities, visitor gatherings, and animal-care demonstrations. Jasmine's naturally social personality becomes part of the Farm's simulation rather than requiring constant travel elsewhere.
+- **Prospering:** Mature animal infrastructure, outgoing goods, quality displays, and higher-stage stock make Jasmine's ranch shop visibly reflect surplus production. Teaching/demonstration blocks can appear more often.
+- **Flourishing:** Mercer Farms becomes a major communal production space with harvest meals, animal demonstrations, family work, and festival preparation. Jasmine can be present with people without feeling responsible for personally making every visitor happy, supporting her character arc toward simply being present rather than constantly fixing moods.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-001 - Mercer Household:** Uses the exact household anchors established in Claudia's completed routine. Weekday breakfast 6:50am-7:10am. Dinner: Monday 6:10pm-6:50pm; Tuesday 6:00pm-6:50pm; Wednesday 6:20pm-6:50pm; Thursday 6:30pm-6:50pm; Friday 6:00pm-6:50pm; Saturday 6:20pm-7:00pm; Sunday 5:30pm-6:20pm. These periods were selected from actual Kira/Milo overlap rather than inventing one universal dinner hour.
+- **INT-006 - Jasmine + Kira + Milo:** Exact mirror of both completed child routines. Saturday 2:30pm-3:10pm Playing at Mercer Farms, followed by 3:20pm-3:50pm Exploring.
+- **INT-034 / INT-048 - Lena + Jasmine / Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn. This exactly matches the Frederick/Helen group anchor and preserves the interaction table's existing Thursday Lena/Jasmine visit. It is represented as one combined override because INT-034 and INT-048 describe the same recurring place/time from Jasmine's perspective.
+- **INT-035 - Jasmine + Theo:** The weekly early-stage relationship is satisfied by Theo's natural presence in the Thursday Inn group rather than a second simultaneous NPC Interaction Override. The Ongoing Event `A Little Backwards` is located at Winding Banks Inn, occurs between 5:00pm and 8:00pm in any season/weather, and requires Connect 1 / Friendship 4 for both NPCs. When eligible, that Ongoing Event supersedes the normal Thursday routine and serves as explicit crush progression.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Claudia:** INT-001 uses Claudia's already-established household meal windows without modification.
+- **Kira + Milo:** INT-006 exactly matches their completed Saturday 2:30pm-3:50pm block.
+- **Frederick + Helen:** Thursday 5:00pm-5:50pm exactly matches their completed INT-048 Inn-group routines.
+- **Lena:** Her future routine should reserve Thursday 5:00pm-5:50pm at Winding Banks Inn for INT-034/INT-048.
+- **Theo:** His future routine should preserve Thursday 5:00pm-5:50pm at Winding Banks Inn as the recurring early INT-035 overlap, while any explicit progression outing should be driven by the higher-priority `A Little Backwards` Ongoing Event rather than an additional hard weekly override.
+- **Jonas:** His future routine should use the Mercer household meal anchors above where compatible with farm work.
+
+---
+
+## Interaction Consistency Note
+
+Jasmine has three interaction concepts converging on the same Thursday Inn visit: INT-034 Lena/Jasmine, INT-048 the Thursday Inn Social Group, and INT-035 Jasmine/Theo's early coincidental overlap. Creating three separate atomic NPC Interaction Overrides for the same tick would conflict with the first-valid-override model. This routine therefore uses one INT-034 + INT-048 canonical group override, with INT-035 relationship progression observing Theo's presence in that group until its dedicated Ongoing Event takes priority. This should eventually be reflected in the canonical interaction record/schema so implementation does not duplicate the same social gathering under multiple independent schedule decisions.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. `A Little Backwards` is specifically relevant to Jasmine and Theo and should replace the affected normal routine ticks when its requirements are met.
+
+Player-to-NPC interaction temporarily supersedes Jasmine's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Jasmine's routine is intentionally social without making her wander Blackmere constantly. Mercer Farms is already the place where her animals, family, customers, niece/nephew, and future community gatherings intersect, so keeping her physically rooted there makes the farm feel alive and gives players predictable access to her animal shop.
+
+Thursday is the main exception because it has strong relationship evidence: Lena's recurring Inn visit, the established Inn social group, and Jasmine's mutual crush with Theo all converge naturally at Winding Banks Inn. This gives her a believable weekly social night while keeping the rest of the week grounded in ranch work and family life.
