@@ -1,0 +1,8751 @@
+---
+Title: Routines / Clara Weiss
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Clara follows a highly structured, work-driven routine centered on Weiss Design Studio, Blackmere restoration sites, and a small professional network of craftspeople. Her schedule is deliberately more work-heavy than most marriage candidates because her profile establishes Ambition 100, Diligence 95, a favorite location at her drafting table, and a tendency to overwork designs long after they are ready.
+
+Weiss Design Studio is both Clara's residence and workplace. It is open from 7:00am to 4:00pm, is closed every Thursday, and closes during Rainy (Severe) and Snowy (Severe). Clara usually continues private drafting, research, and design work after public hours because the Studio is also her home.
+
+Clara's strongest recurring NPC relationship is Mara, her best friend and professional collaborator. Their weekly collaboration is split between Weiss Design Studio and Klein Woodworks so the friendship is visible in both characters' professional spaces. A separate weekly Blackmere Trades Trio block with Mara and Marcus is established after normal public-shop hours so the three can collaborate without abandoning their shops during core business hours.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Weiss Design Studio Hours:** 7:00am to 4:00pm.
+- **Weekly Closure:** Thursday.
+- **Weather Closures:** Rainy (Severe) and Snowy (Severe).
+- **Residence:** Because Clara lives at Weiss Design Studio, Studio closure means public/client activity stops; it does not force Clara to leave her home workspace.
+- **Ordinary Rain:** Clara is neutral toward rain. Optional exterior survey/walking blocks move indoors, but normal Studio work continues.
+- **NPC Interactions:** Established and recommended recurring interactions come from `NpcInteractionTable.md`. Clara's Tuesday/Thursday Mara blocks and Wednesday Trades Trio block are now the exact source-of-truth times that Mara and Marcus should mirror when their complete routines are authored.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Mara available; Weiss Design Studio open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Mara available; Weiss Design Studio open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Mara available; Weiss Design Studio open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Mara available; Weiss Design Studio open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Mara available; Weiss Design Studio open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Mara available; Weiss Design Studio open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+    - Restoration Override:
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Mara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Recovering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Trades Quarter District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Weiss Design Studio
+            - Activity: Relaxing
+- 6:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 7:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Weiss Design Studio
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Clara follows the Base Routine and is comfortable using outdoor survey blocks.
+- **Cloudy:** Neutral. No routine change is required.
+- **Rainy:** Neutral. Weiss Design Studio remains open. Optional exterior surveying or long walking blocks move indoors when listed, usually becoming Studying at the Studio.
+- **Rainy (Severe):** Disliked. Weiss Design Studio closes to the public. Clara remains inside because it is also her residence, shifting public/client and off-site blocks to private drafting, study, design work, meals, and rest.
+- **Snowy:** Neutral. Clara generally follows her normal routine.
+- **Snowy (Severe):** Disliked. Weiss Design Studio closes to the public and Clara uses the same private home-work routine as severe rain.
+- **Windy:** Neutral. No general override is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Clara drafts around damaged tables, salvaged plans, incomplete models, and immediate-recovery priorities. Her routine is productive but reactive, with much of her work focused on keeping Blackmere functional.
+- **Rebuilding:** Stable drafting tables, organized tools, and a proper restoration-plan area give Clara dependable morning drafting and Workbench blocks.
+- **Recovering:** Organized model shelves, workbench space, and client-plan areas support regular client/contractor visits and make professional collaboration visible in the Studio.
+- **Renewed:** Completed district models and finished plans become visible records of Blackmere's recovery. Clara spends more time reviewing completed work and adjusting future plans rather than only responding to damage.
+- **Growing:** Planning tables, material samples, and selected civic variants create stronger collaborative design sessions. Clara's work increasingly involves decisions with other craftspeople rather than solitary revision.
+- **Prospering:** Forge, Woodworks, and Studio synergies become explicit. The Wednesday Trades Trio block becomes especially important as Clara coordinates larger cross-location projects.
+- **Flourishing:** The Studio transitions from emergency-repair headquarters into future planning. Multi-profession planning meetings, regional maps, and post-repossession growth projects allow Clara to visibly shift from perfecting isolated plans to helping others act on completed designs.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-027 - Clara + Mara:** Tuesday 2:00pm-2:50pm at Weiss Design Studio for Working. Thursday, Clara's Studio closure day, she visits Klein Woodworks: 3:00pm-3:50pm Working followed by 4:00pm-4:50pm Socializing. Mara's eventual routine should mirror these exact times and locations.
+- **INT-029 - Blackmere Trades Trio:** Wednesday 4:30pm-4:50pm travel toward the active Restoration Site, followed by 5:00pm-5:50pm Working there with Mara and Marcus. This is deliberately after Clara's 4:00pm public close and after the other trades' main customer windows, minimizing shop-service conflicts. Mara and Marcus should mirror this exact block.
+- **INT-028 - Mara + Marcus:** Clara is not a participant. Their craft-rival relationship remains separate from the Trades Trio and should not pull Clara into every Mara/Marcus interaction.
+- Clara's ordinary Friend relationships with Madison, Claudia, Adrian, Elise, and Marcus are not automatically converted into weekly social appointments. The Master NPC Interaction Table does not establish those as recurring Clara-specific overrides.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Mara:** Her future routine must reserve Tuesday 2:00pm-2:50pm at Weiss Design Studio and Thursday 3:00pm-4:50pm at Klein Woodworks for INT-027.
+- **Marcus:** His future routine must reserve Wednesday 4:30pm-5:50pm for INT-029, with the working portion at the active Restoration Site from 5:00pm-5:50pm.
+- **Mara + Marcus:** Both should use the same Wednesday INT-029 travel/work sequence so all three tradespeople resolve to one canonical interaction.
+- **Shop Hours:** Clara's recurring collaboration blocks were chosen around Weiss Design Studio (7:00am-4:00pm, closed Thursday), Klein Woodworks (9:00am-5:00pm, closed Friday), and Ironveil Forge (9:00am-5:00pm, closed Tuesday) to avoid requiring a participant to abandon a public shop during an incompatible closure.
+- **Restoration Sites:** INT-029 should resolve to the currently relevant restoration location rather than a hard-coded single building. The interaction ID is the canonical shared source; all three NPCs must resolve to the same site on a given occurrence.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their event files rather than being duplicated in Clara's standard routine.
+
+Player-to-NPC interaction temporarily supersedes Clara's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Clara's routine is intentionally more demanding than a balanced workweek. That is character-driven: she is ambitious, highly diligent, confident, and prone to endlessly revising work. Her Thursday closure prevents the Studio from functioning as a seven-day public shop, but Clara herself still spends much of that day studying Blackmere, visiting Mara, and refining designs.
+
+Her restoration progression is also tied directly to her character arc. Early Clara works alone and reacts to urgent damage. Later Clara increasingly collaborates, delegates, presents finished plans, and coordinates other craftspeople. The routine therefore makes 'knowing when a design is ready to serve people' visible through how she spends her time, rather than only through dialogue.
