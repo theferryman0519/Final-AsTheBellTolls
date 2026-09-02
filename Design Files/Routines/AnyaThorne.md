@@ -1,0 +1,10286 @@
+---
+Title: Routines / Anya Thorne
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Anya follows a quiet, observant routine centered around Memorial Hill, A. Whitmore Public School, the A. Whitmore Public Library, and a small number of trusted relationships.
+
+On school days, she attends A. Whitmore Public School from 8:00am through 3:00pm. Outside of school, she prefers reading, gardening, walking Memorial Hill, observing plants and birds, collecting or documenting small details, and spending time with Lena. Her strongest recurring peer connection is Kira, while the larger children's group with Felix, Kira, and Milo gives her one dependable weekly social block without making her routine unusually extroverted.
+
+Memorial Hill remains her emotional center. Restoration gradually changes how comfortably Anya uses its grounds: early stages keep more of her free time close to the residence or familiar paths, while later stages allow more gardening, reading, walking, and relaxed use of the restored memorial spaces.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Each day is represented at 10-minute resolution from 6:00am through 11:50pm. 12:00am is the end-of-day boundary.
+
+### Routine Conditions
+
+- **School Term:** A. Whitmore Public School is open Monday through Friday from 8:00am through 3:00pm.
+- **Weekend:** The school and public library are closed Saturday and Sunday.
+- **Seasonal School Closure:** The school and public library are closed from Day 18 of Winter through Day 4 of Spring. During this period, Anya uses the `School Seasonal Closure` special Base Routine instead of her school-term Base Routine.
+- **Early Spring:** Anya is available beginning Day 1 of Spring, Year 1. From Day 1 through Day 3 she uses the seasonal-closure routine; beginning Day 4 she uses the normal schedule when the school is open.
+- **Severe Weather:** Rainy (Severe) and Snowy (Severe) close the school and library. The Weather Override keeps Anya at Memorial Hill Residence for the day.
+- **NPC Interactions:** Established recurring interactions use the Master NPC Interaction Table and appear only where they change Anya's Base Routine.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Sitting
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Prospering:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+        - Flourishing:
+            - Location: A. Whitmore Public School
+            - Activity: Gardening
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Traveling
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Traveling
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Traveling
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Blackmere
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Blackmere
+        - Activity: Exploring
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Blackmere
+        - Activity: Exploring
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Location: Blackmere
+        - Activity: Exploring
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-007: Return home after group activity
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Location: A. Whitmore Public School
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: Return to Memorial Hill
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: Return to Memorial Hill
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: Return to Memorial Hill
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: After mentoring block
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: After mentoring block
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: After mentoring block
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: After mentoring block
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: After mentoring block
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-011: After mentoring block
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public School
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Weathered:
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Reading
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+---
+
+## School Seasonal Closure - Special Base Routine
+
+A. Whitmore Public School and A. Whitmore Public Library are closed annually from Day 18 of Winter through Day 4 of Spring. Anya is already available to the player on Day 1 of Spring, so this special Base Routine also governs her Day 1 through Day 3 weekday behavior in Year 1.
+
+The closure routine intentionally keeps Anya closer to Memorial Hill than the more adventurous children. Tuesday retains the established children's-group interaction because the interaction is not dependent on the school being open.
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Traveling
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Traveling
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Traveling
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Town Square
+        - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Blackmere
+        - Activity: Exploring
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 8:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 12:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 1:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 1:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 1:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 1:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 1:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 1:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 2:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 2:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 2:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Exploring
+- 2:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 2:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 2:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 3:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 3:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 3:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 3:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 3:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 3:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Sitting
+- 4:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 6:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: School Seasonal Closure
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. No routine change is required.
+- **Cloudy:** Liked. Anya follows the Base Routine; cloudy weather supports her preference for quiet outdoor observation without requiring a location or activity change.
+- **Rainy:** Neutral. School remains open. Optional outdoor gardening, walking, exploring, sitting, and relaxed Memorial Hill blocks may become indoor Reading or Relaxing at Memorial Hill Residence as listed in the per-tick Weather Overrides.
+- **Rainy (Severe):** Disliked. School and library close. The severe Weather Override keeps her at Memorial Hill Residence using reading, quiet relaxation, meals, and time with Lena.
+- **Snowy:** Liked. School remains open. Anya follows the Base Routine and may remain outdoors during ordinary free-time blocks.
+- **Snowy (Severe):** Neutral, but school and library close for safety. The same severe-weather home routine applies.
+- **Windy:** Neutral. No routine change is required unless a separate Game Event or location-specific safety condition overrides the day.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Anya spends more of her weekend free time indoors or on the most familiar Memorial Hill routes. She observes damaged spaces rather than treating restoration work as her responsibility.
+- **Rebuilding:** She begins using safe Memorial Hill paths more consistently while repairs occur around her.
+- **Recovering:** Improved grounds allow regular gardening and quiet outdoor activity to return.
+- **Renewed:** Memorial Hill feels stable enough for Anya to spend unstructured time outside without every visit centering on damage or loss.
+- **Growing:** Expanded gardens create additional Gardening time. The improved school grounds also support a recurring Monday after-school gardening block.
+- **Prospering:** Comfortable memorial gathering areas make reading and observation outdoors more natural, while the improved school continues supporting after-school use.
+- **Flourishing:** Anya uses Memorial Hill as a place to live as well as remember. Her routine includes relaxed outdoor time rather than increasing the amount of memorial-focused activity.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-007 - Blackmere Children's Group:** Tuesday after school. Anya meets Felix, Kira, and Milo in Town Square and joins a contained Blackmere exploration before returning home for dinner.
+- **INT-008 - Anya + Kira:** Wednesday after school at Memorial Hill. This gives the best-friend relationship a quieter block distinct from the larger Tuesday group. Kira brings movement and curiosity; Anya keeps the interaction closer to observation and conversation.
+- **INT-010 - School Community:** Monday through Friday school hours remain Base Routine because Anya, Felix, Kira, Milo, and Sabrina are already naturally aligned at the school.
+- **INT-011 - Sabrina + Anya:** Thursday after school. Sabrina spends individual time with Anya through teaching and gardening before Anya returns to Memorial Hill.
+- **INT-022 - Lena + Anya:** Daily meals, evening walks, and home time are already embedded in Anya's Base Routine and therefore do not require redundant NPC Interaction Overrides.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and other Ongoing Events continue to supersede this routine according to the NPC Routine System priority order. Exact festival- or story-specific tick schedules should come from the corresponding event file rather than being invented inside Anya's standard routine.
+
+Player-to-NPC interaction temporarily supersedes Anya's currently resolved Routine while the interaction is active. When the interaction ends, the system re-resolves the currently valid tick.
+
+---
+
+## Routine Characterization
+
+Anya's routine is intentionally quieter and geographically narrower than Kira's or Milo's. She attends school normally, but her free time repeatedly returns to Memorial Hill, books, flowers, observation, and a small number of people she trusts.
+
+The Tuesday children's-group block prevents her from becoming socially isolated, while the Wednesday Kira block gives her best friendship a distinct identity. Sabrina provides a weekly adult mentorship connection without replacing Lena's role as Anya's primary family relationship.
+
+Restoration should not simply make Anya busier or more outgoing. The meaningful change is that restored spaces become places where she can make new memories without feeling that doing so abandons the old ones. Her late-stage routine therefore becomes more comfortable and open, not more extroverted.
