@@ -97,3 +97,12 @@ Version: 0.0.1
 - Dialogue Panel shows options of Cook with Theo, Give Gift, or Leave Conversation.
 - Dialogue Panel appears with a cooking response dialogue piece from Theo.
 - Player completes cooking action.
+
+### Group Conversation with Jonas Mercer, Kira Mercer, and Milo Mercer
+
+- Player enters Mercer Farms during the time Jonas, Kira, and Milo are altogether.
+- Player interacts with Kira Mercer with the interact action of Join Conversation.
+- Dialogue Panel appears with a group conversation piece, starting with Jonas.
+- Dialogue Panel continues through the conversation, toggling the speaker between Jonas, Kira, and Milo.
+- Dialogue Panel shows the option to Leave Conversation.
+- Player selects Leave Conversation.
