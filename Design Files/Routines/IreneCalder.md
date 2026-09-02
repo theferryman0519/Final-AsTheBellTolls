@@ -1,0 +1,6619 @@
+---
+Title: Routines / Irene Calder
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Irene follows one of Blackmere's most deliberate and repetitive professional routines. Her life is anchored to Blackmere Bell Tower, 4 Resident Lane, the Town Square surrounding the tower, and the daily responsibility of keeping Blackmere's bell functioning with precision. The repetition is intentional: Irene is described as punctual, disciplined, traditional, and almost inseparable from the town's daily rhythm.
+
+Blackmere Bell Tower is open from 7:00am to 10:00pm every day, has no closed days, and has no weather closures. Irene's normal work blocks all remain inside those hours, including her evening return to the tower for the final bell and the private period immediately afterward.
+
+Agatha is Irene's best friend and mentor. INT-037 therefore exactly mirrors Agatha's already-completed Tuesday Library block. Lucian/Vivian is Irene's recurring technical partner at the Bell Tower; INT-038 is Several Times Weekly, so this routine establishes exact Tuesday and Saturday maintenance blocks for Lucian/Vivian to mirror later. Walter's friendship remains low-frequency through INT-049 and receives one monthly seasonal anchor rather than a weekly appointment.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Bell Tower Hours:** 7:00am to 10:00pm every day.
+- **Days Closed:** None.
+- **Weather Closures:** None.
+- **Residence:** 4 Resident Lane.
+- **Severe Weather:** Bell Tower duties continue because the location does not close. Optional Library/Town Square social visits can be canceled.
+- **NPC Interactions:** Agatha's completed INT-037 times are fixed. INT-038 establishes canonical Bell Tower technical-pair times for Lucian/Vivian.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Socializing
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Socializing
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-037: Agatha + Irene
+        - Condition: Library open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: A. Whitmore Public Library
+        - Activity: Socializing
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Town Square
+            - Activity: Socializing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Town Square
+            - Activity: Socializing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Town Square
+            - Activity: Socializing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Town Square
+            - Activity: Socializing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Town Square
+            - Activity: Socializing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Town Square
+            - Activity: Socializing
+        - Growing:
+            - Location: Town Square
+            - Activity: Socializing
+        - Prospering:
+            - Location: Town Square
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Town Square
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Cleaning
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Lucian/Vivian available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Recovering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Renewed:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Growing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Bell Tower
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 7:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 8:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+- 8:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+- 8:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+- 8:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+- 8:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+- 8:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Bell Tower
+            - Activity: Attending
+- 9:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Sitting
+- 9:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 9:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Traveling
+- 10:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 4 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Irene follows the Base Routine.
+- **Cloudy:** Liked. No change is required.
+- **Rainy:** Neutral. Bell Tower remains open, so Irene continues normal duty.
+- **Rainy (Severe):** Disliked. Bell Tower still remains open; Irene cancels optional Library/Town Square social travel but continues tower maintenance and toll duties.
+- **Snowy:** Neutral. Irene follows the Base Routine.
+- **Snowy (Severe):** Neutral in preference. Bell Tower remains open; optional external social visits can be canceled while tower work continues.
+- **Windy:** Neutral. No general routine change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Irene performs frequent manual checks because cracks, missing trim, and unreliable tolling make the tower feel fragile. Her work is dominated by inspection and emergency maintenance.
+- **Rebuilding:** Stabilized access areas and mechanism housing let Irene move from constant emergency checking to a predictable inspection and maintenance schedule.
+- **Recovering:** The core mechanism, bell supports, and clock details become dependable. The hourly toll becomes clear and reliable, allowing other NPC schedules to begin visibly aligning with it.
+- **Renewed:** The tower becomes a confident center of Town Square and occasional meeting/waiting anchors begin using its base. Irene's work increasingly overlaps with public life rather than happening in isolation.
+- **Growing:** Seating, banners, planters, and stronger bell ambience make the tower base a genuine congregation point. Irene increasingly witnesses town life gathering around the tradition she has spent decades preserving.
+- **Prospering:** Ceremonial and festival peals become available. Irene's Bellwarden role expands from routine timekeeping into marking important civic moments.
+- **Flourishing:** Signature bells and town-wide timing behavior make the tower a synchronization anchor. Other residents can pause, gather, depart work, or begin communal activity in response to tolls. This directly supports Irene's arc: the bell is no longer only a memorial to the past but an active part of Blackmere's future.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-037 - Agatha + Irene:** Exact mirror of Agatha's completed routine. Tuesday 10:00am-10:50am Reading at A. Whitmore Public Library, followed by 11:00am-11:20am Socializing. The Library is open 9:00am-6:00pm Monday-Friday and closes during severe rain/snow, so the block is valid only when the Library is open.
+- **INT-038 - Irene + Lucian/Vivian:** Tuesday 2:30pm-3:20pm Repairing at Blackmere Bell Tower; Saturday 10:00am-10:50am Working together, followed by 11:00am-11:20am Repairing. These are now the canonical Several-Times-Weekly technical-pair blocks Lucian/Vivian should mirror later.
+- **INT-049 - Walter + Irene:** Third Sunday of each season, 2:30pm-3:20pm Walking in Town Square followed by 3:30pm-3:50pm Socializing. This satisfies the table's Biweekly/Monthly intent without turning Irene into a highly social NPC.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Agatha:** INT-037 exactly matches Agatha's completed routine.
+- **Lucian/Vivian:** Their future routine should reserve Tuesday 2:30pm-3:20pm and Saturday 10:00am-11:20am for INT-038 at Blackmere Bell Tower.
+- **Walter:** His future routine should reserve the third Sunday of each season from 2:30pm-3:50pm for INT-049.
+- **Bell Tower:** All recurring Irene/Lucian-Vivian work happens while the Tower is open, and no severe-weather closure is assumed because the location file explicitly lists none.
+
+---
+
+## Final Bell & James Note
+
+Irene's profile states that every evening after the final bell she climbs to the top of the tower and spends a few private moments speaking to James. The 8:00pm-9:00pm Working block represents the final scheduled Bellwarden duties, and the 9:00pm-9:20pm Sitting block represents that private ritual before she returns home. This is Base Routine characterization rather than an NPC Interaction Override.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Irene's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Irene's routine should feel more fixed than almost anyone else's. That is not a lack of content; it is characterization. Players can learn her patterns and experience the Bell Tower as a dependable part of Blackmere's daily rhythm, just as the residents do.
+
+The meaningful progression is what begins happening around that routine. Early Irene preserves the bell because continuity itself feels necessary. Later restoration stages make the tower a gathering place, civic landmark, ceremonial instrument, and synchronization system. Her work remains recognizable, but its meaning changes from guarding James's past toward helping structure a living town's future.
