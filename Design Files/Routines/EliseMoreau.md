@@ -1,0 +1,8222 @@
+---
+Title: Routines / Elise Moreau
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Elise follows a precise weekday routine centered on Blackmere Bank & Exchange, with Riverbend Fishery functioning as both home and her main personal retreat. Her schedule is deliberately structured: she begins the day quietly, keeps predictable banking hours, and returns to the river in the evening where her strongest personal relationship—with Nora—has room to exist away from work.
+
+Blackmere Bank & Exchange is open from 9:00am to 5:00pm Monday through Friday, closed Saturday and Sunday, and closes during Snowy (Severe). Riverbend Fishery is open every day from 6:00am to 2:00pm and has no weather closures. Elise's routine respects both sets of location rules.
+
+Nora is Elise's best friend and housemate. Nora's completed routine already established the canonical INT-024 breakfast, dinner, walk, and evening conversation windows, so Elise mirrors those exact times without alteration. No other Elise relationship has a dedicated interaction-table row, so Agatha, Madison, Martin, Walter, and other friends are left to natural overlap, restoration content, or events rather than being assigned invented recurring meetings.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Bank Hours:** 9:00am to 5:00pm Monday through Friday.
+- **Bank Closed Days:** Saturday and Sunday.
+- **Bank Weather Closure:** Snowy (Severe).
+- **Residence:** Riverbend Fishery, shared with Nora.
+- **Riverbend Fishery Hours:** 6:00am to 2:00pm every day; no weather closures.
+- **Windy:** Disliked. Optional river/Town Square walking moves indoors.
+- **NPC Interactions:** INT-024 is taken directly from Nora's completed routine and is treated as fixed source-of-truth timing.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 10:40am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 10:50am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Attending
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Renewed:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Growing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Bank & Exchange
+        - Activity: Working
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Bank & Exchange
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Shopping
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 5:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 5:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 6:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: River Wharf District
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-024: Nora + Elise
+        - Condition: Nora available; Not Snowy (Severe)
+        - Location: River Wharf District
+        - Activity: Socializing
+    - Weather Override:
+        - Windy:
+            - Location: Riverbend Fishery
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Riverbend Fishery
+            - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Traveling
+- 8:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Riverbend Fishery
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Elise follows the Base Routine.
+- **Cloudy:** Neutral. No general routine change is required.
+- **Rainy:** Neutral. The Bank remains open and Elise follows her normal workday.
+- **Rainy (Severe):** Neutral. The Bank remains open according to its current location file, so Elise continues banking work unless a later navigation/safety rule closes access to Town Square.
+- **Snowy:** Neutral. Elise follows the Base Routine.
+- **Snowy (Severe):** Neutral in preference, but Blackmere Bank & Exchange closes. Elise remains at Riverbend Fishery and shifts to private ledger work, reading, planning, meals, and quiet social time.
+- **Windy:** Disliked. Optional Wharf and Town Square walking moves inside Riverbend Fishery.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Elise operates from a reduced counter with records kept safely above old water lines. Her work is defensive, meticulous, and focused on protecting existing accounts and basic lending rather than expansion.
+- **Rebuilding:** Secure counters, dry record storage, and orderly ledgers make the banking day predictable again. Elise can spend less time safeguarding damaged records and more time serving customers.
+- **Recovering:** The public counter and exchange workspace become dependable, and residents begin returning for ordinary transactions and repayments. Elise's midday routine becomes more socially active without making her an outgoing character.
+- **Renewed:** A restored civic-finance desk and visible reserves support larger loan products and more complex decision-making. Elise's afternoon work becomes more analytical and consultation-focused.
+- **Growing:** A private consultation desk and fuller records support restructuring or financial planning. Elise increasingly deals with uncertain human situations rather than only straightforward transactions, which directly challenges her preference for predictable outcomes.
+- **Prospering:** Funded-work records and visible project acknowledgements connect the Bank to restored businesses and Town Hall projects. Elise's work visibly affects Blackmere beyond account balances.
+- **Flourishing:** Regional trade, Caravan activity, civic-finance consultation, and future planning turn the Bank into a stable financial institution supporting long-term prosperity. Elise's role becomes less about controlling risk and more about helping people make informed choices even when outcomes cannot be guaranteed.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-024 - Nora + Elise:** Exact mirror of Nora's completed routine. Daily breakfast 7:20am-7:50am at Riverbend Fishery. Monday/Wednesday/Friday dinner 6:00pm-6:30pm. Tuesday 6:40pm-7:30pm River Wharf walk. Thursday 7:40pm-8:20pm Socializing at Riverbend Fishery. Saturday 6:30pm-7:50pm River Wharf Socializing. Sunday 6:20pm-7:10pm Wharf walk followed by 7:20pm-8:20pm Socializing at home.
+- **Agatha:** Elise lists Agatha as Friend/Mentor, but `NpcInteractionTable.md` contains no dedicated Elise/Agatha interaction row. No recurring hard appointment is invented here.
+- **Madison / Martin / Walter / Irene / Beatrice:** All are meaningful friendships, but none have a dedicated Elise interaction row in the current table. They should appear through natural overlap, business visits, festivals, restoration scenes, or future event content rather than fixed weekly meetings.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Nora:** Every INT-024 window exactly matches Nora's completed routine.
+- **Bank Workday:** Weekday breakfast ends at 7:50am, leaving enough time for Elise's 8:30am departure and 9:00am Bank opening.
+- **Tuesday:** The 6:40pm-7:30pm River Wharf walk occurs after the Bank closes at 5:00pm.
+- **Saturday / Sunday:** Bank closure allows the longer Nora social blocks to happen without any shop-hours conflict.
+- **Snowy (Severe):** INT-024 outdoor Wharf interactions are invalidated when necessary, while indoor Riverbend Fishery interactions remain eligible.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Elise's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Elise's routine is intentionally more controlled than Nora's even though they share a home. During the week she keeps a highly predictable work structure, reflecting Diligence 95, Duty 95, low Sociability, and her belief that security comes from preparation.
+
+The Riverbend evenings matter because they expose the part of her life that cannot be managed through ledgers. Nora provides recurring companionship without turning Elise into a suddenly social character, while later Bank restoration stages increasingly force Elise to work with people whose futures cannot be reduced to simple calculations. That makes her character arc visible through routine as well as dialogue.
