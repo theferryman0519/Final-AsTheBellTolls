@@ -1,0 +1,7806 @@
+---
+Title: Routines / Lucian/Vivian Darrow
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Lucian/Vivian follows a precision-focused clockmaker routine centered on 6 Resident Lane, Town Square, and Blackmere Bell Tower. Their residence is both home and private workshop, while the Bell Tower supplies the clearest recurring external craft responsibility through their established relationship with Irene.
+
+6 Resident Lane is available from 8:00am to 10:00pm every day, has no closed days, and has no weather closures. The residence's restoration progression explicitly turns it into a stronger private clockwork workshop over time. Blackmere Bell Tower is open from 7:00am to 10:00pm every day, also with no closed days or weather closures.
+
+Irene is Lucian/Vivian's Friend/Mentor, and INT-038 is the only Several-Times-Weekly interaction attached to them in the current `NpcInteractionTable.md`. Irene's completed routine already established exact Tuesday and Saturday Bell Tower maintenance windows, so this file mirrors those times without alteration. Dante, Martin, and Walter remain Occasional and receive no invented weekly appointments.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Residence:** 6 Resident Lane.
+- **Workplace:** None; primary clockwork work occurs at home and Blackmere Bell Tower.
+- **6 Resident Lane Hours:** 8:00am to 10:00pm for player access; Lucian/Vivian may occupy the residence outside public access hours.
+- **Bell Tower Hours:** 7:00am to 10:00pm every day.
+- **Weather Closures:** None for either 6 Resident Lane or Blackmere Bell Tower.
+- **NPC Interactions:** Irene's completed INT-038 is a fixed synchronization anchor. INT-054, INT-055, and INT-056 remain Occasional.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Traveling
+- 3:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Traveling
+- 3:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Traveling
+- 4:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Traveling
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere Bell Tower
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-038: Irene + Lucian/Vivian
+        - Condition: Irene available
+        - Location: Blackmere Bell Tower
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Traveling
+- 11:40am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Traveling
+- 11:50am
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Traveling
+- 12:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 5:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 5:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 5:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 5:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 5:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 6:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 6:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 6:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Renewed:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Growing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Working
+        - Prospering:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+        - Flourishing:
+            - Location: 6 Resident Lane
+            - Activity: Repairing
+- 6:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 6 Resident Lane
+            - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 6 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Disliked, but not enough to change the overall routine.
+- **Cloudy:** Liked. Lucian/Vivian follows the Base Routine.
+- **Rainy:** Liked. Bell Tower and residence remain open; no special closure behavior is required.
+- **Rainy (Severe):** Neutral. Optional Town Square walks can move indoors, while Bell Tower maintenance still remains valid because the Tower has no weather closure.
+- **Snowy:** Neutral. No general change is required.
+- **Snowy (Severe):** Neutral. The Tower remains open; optional Town Square walks can move into workshop time.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Lucian/Vivian uses the least-damaged part of 6 Resident Lane as an improvised workbench surrounded by salvaged mechanisms and ticking parts. Their routine already includes substantial home work because clockmaking is both profession and coping mechanism.
+- **Rebuilding:** A stable private workshop nook appears with organized tools and a dependable work surface. Morning workshop blocks become more structured and visibly productive.
+- **Recovering:** Finished clocks, prototype housings, and steady wall mechanisms support a regular home workshop block. Their routine increasingly looks like that of a professional clockmaker rather than someone merely repairing flood damage.
+- **Renewed:** Recovered rival-history objects and refined furnishings make the residence more personally expressive. Evening Studying blocks can reference Myrtle, historical clockmaking, and prototype refinement.
+- **Growing:** A porch/window mechanism becomes visible from the Resident Lanes district, and curious residents occasionally stop to inspect it. Selected afternoon periods can become Socializing without changing Lucian/Vivian into an outgoing character.
+- **Prospering:** Higher-quality tools and a maintained service/testing station support precision Repairing and, after the relevant Connection/invention progression, slight Chime replenishment.
+- **Flourishing:** 6 Resident Lane becomes a recognizable second clockwork landmark whose restrained hourly response can synchronize with Bell Tower or Manor milestones. Lucian/Vivian's routine increasingly connects their private craft to Blackmere's broader timekeeping identity.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-038 - Irene + Lucian/Vivian:** Exact mirror of Irene's completed routine. Tuesday 2:30pm-3:20pm Repairing at Blackmere Bell Tower. Saturday 10:00am-10:50am Working together, followed by 11:00am-11:20am Repairing. These are the canonical Several-Times-Weekly Bell Tower technical-pair blocks.
+- **INT-054 - Dante + Lucian/Vivian:** Friends, Established, Occasional. Studying / Socializing at Hall of Wonder, Bell Tower, or Town Square. Dante's completed routine intentionally leaves this Occasional, so no weekly appointment is added.
+- **INT-055 - Lucian/Vivian + Martin:** Friends, Established, Occasional. Walking / Socializing in Resident Lanes District or Town Square. Martin's completed routine leaves this Occasional, so no hard time is added.
+- **INT-056 - Lucian/Vivian + Walter:** Friends, Established, Occasional. Repairing / Socializing at General Store or Town Square. Walter's completed routine leaves this Occasional, so no hard time is added.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Irene:** Tuesday and Saturday INT-038 times exactly match Irene's completed routine.
+- **Dante:** INT-054 remains Occasional, matching Dante's completed routine.
+- **Martin:** INT-055 remains Occasional, matching Martin's completed routine.
+- **Walter:** INT-056 remains Occasional, matching Walter's completed routine.
+- **No existing completed NPC routine is shifted to accommodate Lucian/Vivian.**
+
+---
+
+## Ongoing Event Note
+
+The current Ongoing Event file contains **Better Than Before**, involving Irene Calder and Lucian/Vivian Darrow at Blackmere Bell Tower. It can occur from **1:00pm to 5:00pm**, in any season and any weather, when Irene is at Connect 1 / Friendship 4 and Lucian/Vivian is at Connect 2 / Friendship 5. Because Ongoing Events outrank NPC Interaction Overrides, this event can supersede the normal Bell Tower routine during its eligible window without changing the canonical INT-038 weekly times.
+
+The event's theme—whether an aging component should be replaced for precision or preserved for its history—fits both Irene's tradition-focused role and Lucian/Vivian's control-versus-trust arc, so no additional routine-only progression scene is needed to force that relationship development.
+
+---
+
+## Rival / Grandfather Clock Note
+
+Lucian/Vivian's rivalry with the player and concern about Pendrelle Manor's grandfather clock are central to their profile, but those are player-facing story/event relationships rather than NPC-to-NPC Routine Overrides. This routine therefore does not send them to Pendrelle Manor on an arbitrary weekly schedule. Manor visits should come from Rival, Connection, Quest, Game Event, or Ongoing Event content with higher priority.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Lucian/Vivian's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Lucian/Vivian's routine should feel disciplined rather than socially empty. Long workshop blocks, repeated Town Square clock-listening walks, Bell Tower maintenance, mechanical study, and evening prototype work all reinforce their belief that patience and craftsmanship—not shortcuts—are how Blackmere should recover.
+
+The most important progression is that their craft becomes increasingly connected to other people. Irene's Bell Tower maintenance begins as technical cooperation, the restored residence becomes visible to curious residents, and later clockwork systems synchronize with the wider town. Their routine therefore supports the same arc as their story: control slowly gives way to trust without requiring them to abandon their principles.
