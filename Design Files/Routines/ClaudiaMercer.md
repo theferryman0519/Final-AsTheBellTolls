@@ -1,0 +1,10787 @@
+---
+Title: Routines / Claudia Mercer
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Claudia follows a work-heavy routine divided between Ashfall Mines and Mercer Farms. Her weekday life is defined by long mining shifts followed by practical work and family time at the farm, while weekends reduce mine hours and give the Mercer household more of her attention.
+
+Claudia first becomes available on Day 4 of Spring, Year 1, but Ashfall Mines do not become available until Day 9. The routine therefore includes a separate Day 4-8 Spring Year 1 schedule in which Claudia remains at Mercer Farms rather than being assigned to an unavailable workplace.
+
+Ashfall Mines are available from 6:00am to 12:00am every day, with no closed days and no weather closures. Mercer Farms is available from 6:00am to 9:00pm every day. Claudia's mine shifts and farm-return times respect those location rules.
+
+Jonas is Claudia's husband and best friend. Kira and Milo are her children, and Jasmine is her sister-in-law. The Mercer household is represented primarily through synchronized Base/Interaction meal windows. Friday INT-003 exactly matches Kira and Milo's completed routine, and Thursday INT-030 exactly matches Marcus's completed routine.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm. 12:00am is the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 4 of Spring, Year 1.
+- **Ashfall Mines First Availability:** Day 9 of Spring, Year 1.
+- **Ashfall Mines Hours:** 6:00am to 12:00am; no closed days; no weather closures.
+- **Mercer Farms Hours:** 6:00am to 9:00pm; no closed days; no weather closures.
+- **Residence:** Mercer Farms.
+- **Severe Weather:** Mining continues because Ashfall Mines do not close. Optional outdoor farm/couple blocks may move indoors.
+- **NPC Interactions:** Completed Kira, Milo, and Marcus schedules are fixed timing anchors. Jonas receives new canonical spouse times that his future routine should mirror.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Gardening
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Restoration Override:
+        - Renewed:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Growing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Restoration Override:
+        - Renewed:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Growing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Restoration Override:
+        - Renewed:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Growing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Restoration Override:
+        - Renewed:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Growing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Restoration Override:
+        - Renewed:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Growing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - Restoration Override:
+        - Renewed:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Growing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms Residence
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Marcus available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 7:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Relaxing
+- 10:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Recovering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Renewed:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Working
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 8:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Traveling
+- 8:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ashfall Mines
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Relaxing
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Prospering:
+            - Location: Mercer Farms
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Mercer Farms
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+---
+
+## Day 4-8 Spring, Year 1 - Pre-Mines Special Base Routine
+
+Claudia is available beginning Day 4 of Spring, Year 1, while Ashfall Mines do not open until Day 9. During this short introductory period, she remains at Mercer Farms and focuses on flood-recovery labor, farm repairs, family work, and practical skills with the children. The game should not schedule her inside Ashfall Mines before the location itself becomes available.
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-002: Claudia + Jonas
+        - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Walking
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - NPC Interaction Override:
+        - Interaction: INT-003: Claudia + Kira + Milo
+        - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Teaching
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:30am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Mercer Farms
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Mercer Farms Residence
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-001: Mercer Household
+        - Location: Mercer Farms Residence
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 9:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Mercer Farms Residence
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. Claudia follows the Base Routine.
+- **Cloudy:** Liked. No general change is required.
+- **Rainy:** Neutral. Ashfall Mines and Mercer Farms remain open, so Claudia generally follows her routine.
+- **Rainy (Severe):** Disliked. Ashfall Mines still remain open. Claudia keeps scheduled mining work but cancels optional outdoor farm/couple blocks when conditions are unsafe.
+- **Snowy:** Liked. Claudia follows the Base Routine and continues mining/farm work.
+- **Snowy (Severe):** Neutral. Ashfall Mines remain open; optional exterior farm activity can move indoors.
+- **Windy:** Neutral. No general override is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Claudia's farm return is dominated by essential repairs, food security, and helping keep damaged family infrastructure functional after mine shifts.
+- **Rebuilding:** Stabilized fences, storage, and fields make her late-afternoon farm work more predictable and reduce the amount of emergency repair she personally has to absorb.
+- **Recovering:** Fuller crop and animal routines allow Claudia to divide responsibilities more reliably with Jonas and Jasmine instead of treating every farm need as her problem.
+- **Renewed:** Dependable farm supply and improved household stability create more regular couple/family time, allowing Claudia to return home without immediately moving into another emergency shift.
+- **Growing:** Demonstration plots and expanded child/family activity areas support Friday practical teaching with Kira and Milo as a visible routine rather than incidental help.
+- **Prospering:** Mature infrastructure allows Claudia to teach practical skills and participate in farm/community production without carrying every task herself.
+- **Flourishing:** Communal production, harvest meals, demonstrations, and festival preparation distribute work across the family and community. Claudia's routine increasingly shows other people carrying meaningful responsibility beside her.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-001 - Mercer Household:** Weekday breakfast 6:50am-7:10am exactly overlaps Kira and Milo's completed school-day breakfast. Dinner windows are synchronized to periods where both completed child routines are already at Mercer Farms Residence Eating: Monday 6:10pm-6:50pm; Tuesday 6:00pm-6:50pm; Wednesday 6:20pm-6:50pm; Thursday 6:30pm-6:50pm; Friday 6:00pm-6:50pm; Saturday 6:20pm-7:00pm; Sunday 5:30pm-6:20pm. Jonas and Jasmine should mirror these household anchors where practical.
+- **INT-002 - Claudia + Jonas:** Tuesday 7:00pm-7:50pm Socializing at home; Thursday 7:00pm-7:50pm Walking around Mercer Farms; Sunday 6:30pm-7:20pm Socializing at home. These are now the canonical recurring spouse/best-friend blocks for Jonas's future routine.
+- **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms, Teaching. This exactly matches both Kira and Milo's completed routines.
+- **INT-030 - Claudia + Marcus:** Thursday 10:30am-10:50am Repairing/inspecting mining equipment at Ironveil Forge, followed by 11:00am-11:50am Working together. This exactly matches Marcus's completed routine.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Kira:** Friday INT-003 exactly matches Kira's completed routine. Household meal windows were selected from actual overlap with her existing Base Routine rather than assigning new times she is not home.
+- **Milo:** Friday INT-003 exactly matches Milo's completed routine. Household meal windows also preserve his existing home/eating periods.
+- **Marcus:** Thursday INT-030 exactly matches Marcus's completed 10:30am-11:50am Forge block.
+- **Jonas:** His future routine should reserve Tuesday 7:00pm-7:50pm, Thursday 7:00pm-7:50pm, and Sunday 6:30pm-7:20pm for INT-002, plus the household meal anchors above.
+- **Jasmine:** Her future routine should use the Mercer household meal anchors where compatible with ranch work and her already-established Kira/Milo Saturday block.
+
+---
+
+## Existing Household Timing Note
+
+Kira and Milo's completed routines do not use one identical dinner start/end time on every day. Claudia therefore does not invent a new universal Mercer dinner hour. The INT-001 windows in this file are the intersections where both children are already home and Eating. This preserves current authored schedules and gives Jonas/Jasmine a reliable synchronization target without silently rewriting Kira or Milo.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Claudia's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Claudia's routine is intentionally demanding. She works long mine shifts and then returns to practical farm responsibilities because her character is built around the belief that providing for everyone is her responsibility. The schedule should make that burden visible rather than making her merely 'the miner NPC.'
+
+At the same time, the restoration progression deliberately does not reward later stages by adding endless new labor. As Mercer Farms becomes dependable, more of Claudia's schedule can be shared work, teaching, family meals, and couple time. That makes her arc—learning that strength includes letting others carry the weight—visible through the simulation itself.
