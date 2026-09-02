@@ -1,0 +1,6233 @@
+---
+Title: Routines / Theo Bennett
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Theo follows a bakery-centered routine within Winding Banks Inn. His profession, residence, family relationships, and preferred lifestyle all overlap there, so his schedule is intentionally stable and local rather than built around unnecessary travel. He begins with baking, helps sustain meal service through the day, and spends quieter periods with family or maintaining recipes.
+
+Winding Banks Inn is open from 6:00am to 10:00pm every day, with no closed days and no weather closures. Theo's routine therefore remains highly stable across weather and seasons, which suits his Routine-driven trait and his character arc about accepting that an ordinary, peaceful life is meaningful.
+
+Helen is Theo's twin sister and best friend, Frederick his brother-in-law, and Felix his nephew. Their completed routines already establish the Winding Banks Household, Helen/Theo twin blocks, and Theo/Felix board-game time, so this file mirrors those exact times. Jasmine's crush relationship with Theo overlaps the established Thursday Inn social group; explicit progression is left to the higher-priority Ongoing Event `A Little Backwards` rather than creating a conflicting second same-tick NPC Interaction Override.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Residence / Workplace:** Winding Banks Inn.
+- **Inn Hours:** 6:00am to 10:00pm every day.
+- **Days Closed:** None.
+- **Weather Closures:** None.
+- **NPC Interactions:** Frederick, Helen, Felix, Jasmine, and Lena provide already-authored synchronization anchors. No established participant time is moved.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-018: Theo + Felix
+        - Location: Winding Banks Inn
+        - Activity: Playing
+    - Restoration Override:
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Playing
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - NPC Interaction Override:
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 6:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 8:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 9:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Cooking
+- 10:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 2:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - NPC Interaction Override:
+        - Interaction: INT-017: Helen + Theo
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Relaxing
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+    - Restoration Override:
+        - Recovering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Renewed:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Growing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Prospering:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Winding Banks Inn
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-015: Winding Banks Household
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 7:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cooking
+- 8:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 8:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Cleaning
+- 9:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 9:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+- 10:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Reading
+- 10:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Theo follows the Base Routine.
+- **Cloudy:** Neutral. No general routine change is needed.
+- **Rainy:** Neutral. Winding Banks Inn remains open and Theo continues normal baking.
+- **Rainy (Severe):** Disliked personally, but the Inn has no weather closure, so Theo remains indoors and follows the Base Routine.
+- **Snowy:** Neutral. No general change is required.
+- **Snowy (Severe):** Neutral. The Inn remains open and Theo stays inside, so no special closure routine is required.
+- **Windy:** Liked. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Theo works around limited kitchen and common-room infrastructure, relying on simple breads and dependable recipes that can be produced with reduced equipment.
+- **Rebuilding:** Repaired work surfaces, ovens, and storage make the morning bake more predictable and let him return to a recognizable bakery rhythm.
+- **Recovering:** Fuller pantry/storage capacity and stronger guest traffic support seasonal breads, preserved ingredients, and more regular collaboration with Helen.
+- **Renewed:** More reliable kitchen and dining infrastructure reduces emergency maintenance and lets Theo spend more time on recipe work, family, and guests.
+- **Growing:** Increased Inn activity and social gatherings create more reasons for breads and pastries to anchor communal moments, without changing Theo into an ambitious entrepreneur.
+- **Prospering:** Better equipment and event accommodations allow occasional teaching or demonstrations while still keeping his work rooted in familiar everyday baking.
+- **Flourishing:** The Inn operates as a mature hospitality hub. Theo can share recipes, help teach others, and support larger gatherings while still living the same fundamentally contented life. This supports his arc: growth comes from confidently valuing his chosen life, not replacing it with larger ambitions.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-015 - Winding Banks Household:** Exact mirror of Frederick/Helen/Felix. Weekday breakfast 6:50am-7:50am; Saturday/Sunday breakfast 7:00am-7:50am. Monday-Saturday dinner 6:00pm-6:50pm; Sunday dinner 5:30pm-6:50pm.
+- **INT-017 - Helen + Theo:** Exact mirror of Helen. Tuesday 3:30pm-4:20pm Cooking together; Saturday 2:00pm-2:50pm Socializing / recipe-sharing.
+- **INT-018 - Theo + Felix:** Exact mirror of Felix. Sunday 2:30pm-3:50pm Playing / board games at Winding Banks Inn.
+- **INT-048 - Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn, exactly matching Frederick, Helen, Jasmine, and Lena's completed group routines.
+- **INT-035 - Jasmine + Theo:** The early weekly relationship overlap is satisfied by Theo's presence in the Thursday Inn group rather than a second simultaneous override. When the Ongoing Event `A Little Backwards` becomes eligible, that higher-priority event can provide the explicit mutual-crush progression scene.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Frederick:** Household breakfast/dinner anchors exactly match his completed routine.
+- **Helen:** INT-015 and both INT-017 twin blocks exactly match her completed routine.
+- **Felix:** INT-018 exactly matches his completed Sunday 2:30pm-3:50pm board-game block.
+- **Jasmine:** Thursday 5:00pm-5:50pm matches Jasmine's completed recurring Inn visit and supplies the early INT-035 overlap.
+- **Lena:** Thursday 5:00pm-5:50pm matches her completed INT-034/INT-048 routine.
+
+---
+
+## Interaction Consistency Note
+
+Thursday contains both the broader INT-048 Inn group and the early-stage Jasmine/Theo crush overlap described by INT-035. These should not be implemented as two competing atomic NPC Interaction Overrides for Theo at the same tick. The schedule-producing record is the Thursday Inn group; INT-035 supplies relationship meaning until its dedicated progression event supersedes the routine.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. `A Little Backwards` is specifically relevant to Jasmine and Theo and should replace the affected Thursday routine ticks when its requirements are met.
+
+Player-to-NPC interaction temporarily supersedes Theo's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Theo's routine is intentionally predictable. That predictability is not missing content; it is central to who he is. He genuinely enjoys baking for the same people, sharing meals with family, playing games with Felix, and repeating small rituals that make the Inn feel like home.
+
+His progression should therefore avoid the common life-sim mistake of treating bigger ambition as automatic character growth. The later routine gives him more confidence in sharing what he knows and participating in a thriving Inn, while preserving the quiet life he already values.
