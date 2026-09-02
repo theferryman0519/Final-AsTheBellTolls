@@ -1,0 +1,9395 @@
+---
+Title: Routines / Leo Finch
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Leo follows a creative, public-facing routine centered on Thread & Thimble, Town Square, fashion design, customer fittings, and a small number of meaningful recurring relationships. His high Sociability, Warmth, Curiosity, and Humor make him one of Blackmere's more visibly social marriage candidates, but his strongest professional anchor remains the tailor shop he also calls home.
+
+Thread & Thimble is open from 10:00am to 7:00pm Tuesday through Sunday and is closed Monday. The shop also closes during Rainy (Severe) and Snowy (Severe). Leo first becomes available on Day 23 of Summer, Year 1, when Thread & Thimble becomes available.
+
+Roland is Leo's best friend, and Roland's existing routine already establishes recurring visits to Thread & Thimble on Tuesday, Thursday, and Saturday. Leo's routine therefore mirrors Roland's actual visit windows rather than inventing new best-friend times. Those blocks are treated as the canonical recurring Leo/Roland interaction schedule.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm. 12:00am is the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 23 of Summer, Year 1.
+- **Thread & Thimble Hours:** 10:00am to 7:00pm Tuesday through Sunday.
+- **Weekly Closure:** Monday.
+- **Weather Closures:** Rainy (Severe) and Snowy (Severe).
+- **Residence:** Thread & Thimble is also Leo's home, so public shop closure does not force him out of the building.
+- **Ordinary Rain:** Neutral. The shop remains open; optional Town Square inspiration/social blocks move indoors when needed.
+- **NPC Interactions:** Recurring interaction timing comes from `NpcInteractionTable.md` and already-authored NPC schedules. Roland's existing profile routine is the source of truth for INT-031 timing.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 4:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 4:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 5:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 5:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 5:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 5:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 5:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 5:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 6:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 6:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 6:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Teaching
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 10:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 10:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 11:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 12:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 12:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 4:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 4:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 5:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 7:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Waking
+- 7:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+- 8:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 8:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+- 9:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 10:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:40am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 11:50am
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Shopkeeping
+- 12:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-031: Leo + Roland
+        - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 7:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Eating
+- 8:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 9:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Thread & Thimble
+            - Activity: Working
+- 10:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 10:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Relaxing
+- 11:00pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Thread & Thimble
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Leo follows the Base Routine and enjoys Town Square inspiration/social periods.
+- **Cloudy:** Neutral. No routine change is required.
+- **Rainy:** Neutral. Thread & Thimble remains open. Optional Town Square blocks move back to the shop when needed, usually becoming design study or private creative work.
+- **Rainy (Severe):** Disliked. Thread & Thimble closes to the public. Because it is Leo's residence, he remains inside and shifts to private designing, embroidery, studying, meals, and rest.
+- **Snowy:** Liked. Leo follows the normal routine and enjoys winter clothing inspiration.
+- **Snowy (Severe):** Neutral in preference, but Thread & Thimble closes. Leo uses the same private home-work routine as severe rain.
+- **Windy:** Neutral. No general override is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Thread & Thimble is unavailable before Day 23 of Summer, Year 1. Once opened, early Leo works with limited display space and a narrow customer area, emphasizing basic tailoring and rebuilding his clientele.
+- **Rebuilding:** Stable worktables, organized fabrics, and dependable public-shop space make daily tailoring and shopkeeping more reliable.
+- **Recovering:** A clearer fitting/customer area increases direct customer interaction, making Leo's afternoon routine more social rather than purely production-focused.
+- **Renewed:** Seasonal collection displays and improved decor let Leo visibly showcase more of his identity through the shop rather than keeping creativity behind the worktable.
+- **Growing:** Custom fitting, embroidery, dye, or personalization areas make his creative work more expressive and allow customers to participate more directly in their clothing choices.
+- **Prospering:** Stronger seasonal presentation and community-fashion activity let Leo teach, demonstrate, or prepare residents for events rather than only selling finished clothing.
+- **Flourishing:** Thread & Thimble becomes a confident expression of Leo's own taste. His later routine includes more public creative leadership and less self-censoring, reflecting his character arc toward valuing authenticity over universal approval.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-031 - Leo + Roland:** The exact recurring schedule comes from Roland's already-authored profile routine. Tuesday and Thursday: 10:00am-11:20am Socializing at Thread & Thimble, followed by 11:30am-1:10pm Working while Roland remains nearby. Saturday: 10:30am-11:50am Socializing, followed by 12:00pm-1:40pm Working. Roland's presence is not treated as a customer transaction; he watches Leo work, talks with him, and offers advice only when invited.
+- Roland's relationship with Leo also carries an informal mentorship component, but no separate mentorship override is necessary because it occurs inside INT-031.
+- Leo's Friend relationships with Nora, Sabrina, Victor, Adrian, Beatrice, Frederick, Helen, Theo, and others are not automatically converted into weekly appointments. They can overlap naturally with Town Square, Winding Banks Inn, festivals, restoration events, and other communal routines.
+- **Milo:** Milo lists Leo as Friend/Mentor, while Leo lists Milo as Friend. This is not currently assigned a fixed weekly mentoring block so Milo's already-established child routine remains stable.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Roland:** Leo exactly mirrors Roland's existing Thread & Thimble visits: Tuesday 10:00am-1:10pm, Thursday 10:00am-1:10pm, and Saturday 10:30am-1:40pm. The activity changes inside those windows are authored consistently for Leo while keeping Roland physically present at the shop.
+- **Town Square:** Leo's evening Town Square blocks occur after the 7:00pm shop close so future social interactions can use him without compromising shop availability.
+- **Winding Banks Inn:** Monday's lunch occurs on Leo's closure day and can naturally overlap Frederick/Helen/Theo without forcing a named recurring interaction.
+- **Milo:** No new weekly Leo/Milo time is added, preventing conflicts with Milo's established Felix, Mercer family, and Sabrina blocks.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Leo's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Leo's routine is intentionally more outward-facing than Adrian's or Dante's. He spends much of the week talking to customers, observing people, and using Town Square for inspiration, which matches his Sociability 95 and Warmth 95. At the same time, his Monday closure and late-night design blocks preserve the vulnerable side of his character: many of his most personal ideas are still created privately.
+
+Restoration gradually moves those ideas into public view. Early Leo makes safe, practical clothing and keeps his boldest designs private. Later shop stages create more display, customization, teaching, and community-fashion opportunities, giving his routine a visible path toward expressing himself without filtering every creative choice through anticipated criticism.
