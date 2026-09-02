@@ -1,0 +1,6966 @@
+---
+Title: Routines / Julian Hale
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Julian follows a research-heavy apothecary routine centered on Rain & Hale and Gloamwood Forest. Because his residence and workplace are the same location, most of his daily movement is between the apothecary and nearby field-study areas rather than between home and a separate shop.
+
+Rain & Hale is available from 6:00am to 12:00am every day, has no closed days, and has no weather closures. Gloamwood Forest is also available from 6:00am to 12:00am every day with no weather closures. Julian's routine therefore remains unusually consistent across the week, with variation coming primarily from field research and restoration progression.
+
+The current `NpcInteractionTable.md` contains only one dedicated Julian relationship row: INT-043 with Edward, marked Occasional. Edward's completed routine also keeps INT-043 Occasional rather than assigning a hard weekly time. Julian therefore does the same. No fixed Edward meeting is invented, and none of Julian's other profile relationships are promoted into recurring schedule commitments without table support.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Rain & Hale Hours:** 6:00am to 12:00am every day.
+- **Days Closed:** None.
+- **Weather Closures:** None.
+- **Residence / Workplace:** Rain & Hale.
+- **Gloamwood Forest Hours:** 6:00am to 12:00am every day; no weather closures.
+- **NPC Interactions:** INT-043 Julian + Edward remains Occasional, matching Edward's completed routine and the interaction table.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Gardening
+    - Restoration Override:
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+- 12:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Working
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Traveling
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Traveling
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Traveling
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:10am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:20am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Shopkeeping
+- 11:30am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 12:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:00pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Rain & Hale
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Traveling
+- 2:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 2:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 2:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 3:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 3:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 3:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 4:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Rain & Hale
+            - Activity: Teaching
+- 5:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 5:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Shopkeeping
+- 6:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Rain & Hale
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Disliked, but not enough to change the routine. Julian still works and gathers normally.
+- **Cloudy:** Liked. No change is required.
+- **Rainy:** Liked. Rain & Hale and Gloamwood Forest remain open, so Julian often keeps normal field-study behavior.
+- **Rainy (Severe):** Neutral. The locations do not close, but long optional forest-study blocks can move indoors to Studying when conditions are impractical.
+- **Snowy:** Neutral. Julian follows the Base Routine.
+- **Snowy (Severe):** Neutral. Neither Rain & Hale nor Gloamwood Forest has a weather closure in the current design files, so no blanket shutdown is added.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Julian works around salvaged shelving and limited drying space. A large portion of his day is spent maintaining order, preserving specimens, and keeping herbs/remedies accessible despite cramped storage.
+- **Rebuilding:** Dependable shelving, drying racks, and tonic-preparation surfaces reduce storage-management overhead. More of his morning becomes actual remedy preparation and research.
+- **Recovering:** Fully dependable herb storage and preparation areas support regular resident consultations during normal shop hours.
+- **Renewed:** Clear separation between shop, treatment, work, and living areas lets Julian conduct more deliberate consultations and discuss treatments or natural knowledge with visitors.
+- **Growing:** A teaching and herb-garden area appears near the hut. Julian begins scheduled Teaching blocks, turning his knowledge into something actively shared rather than merely documented.
+- **Prospering:** Advanced equipment, storm supplies, and cross-location remedy needs make Julian part of Blackmere's preparation network. Selected work periods can represent community remedy preparation rather than solitary research.
+- **Flourishing:** Cultivated herb beds, organized remedy stores, and shared-care spaces make Rain & Hale a full knowledge-and-health node. Teaching and shared remedy work become a routine part of Julian's week, directly supporting his arc about passing wisdom forward.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-043 - Julian + Edward:** Friend / Mentor (Directional), Established, Occasional. The interaction table allows Reading / Socializing at Rain & Hale or Pendrelle Manor. Edward's completed routine intentionally leaves this interaction Occasional, so Julian does not assign a conflicting fixed weekly time. A future event, seasonal scene, restoration trigger, or explicit canonical interaction record can schedule it for both NPCs simultaneously.
+- **All other profile relationships:** Julian has friends and acquaintances beyond Edward, but the current interaction table does not provide dedicated Julian rows for them. They remain natural-overlap or event relationships rather than hard recurring schedule overrides.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Edward:** No Julian/Edward time is changed. Both completed routines now agree that INT-043 is Occasional with no fixed weekly slot.
+- **Rain & Hale Visitors:** Recovering and later restoration stages permit occasional resident consultations, but those are location/restoration-driven gatherings rather than fixed named-NPC appointments.
+- **Future Mentorship:** Julian's character arc strongly supports future teaching relationships, but no specific successor or student is canonically identified in the current profile or interaction table. This routine therefore adds Teaching as restoration behavior without assigning an unsupported named student.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Julian's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Julian's routine is intentionally methodical. His Diligence 100, Patience 100, Curiosity 95, low Sociability, and lifelong research focus all support long uninterrupted stretches of Shopkeeping, Working, Studying, Reading, and field observation.
+
+The important progression is not making him suddenly more social. Instead, later restoration stages convert some of the same research time into Teaching and shared-care work. That preserves his personality while making the simulation reflect his arc: knowledge gradually stops being something he only records and becomes something he deliberately gives to other people.
