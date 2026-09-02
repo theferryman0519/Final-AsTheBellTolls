@@ -1,0 +1,6743 @@
+---
+Title: Routines / Martin Ashcroft
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Martin follows a postal-service routine centered on Blackmere Town Hall, the Resident Lanes district, broader delivery routes through Blackmere, and 2 Resident Lane. Unlike a stationary clerk, Martin should regularly leave Town Hall to deliver letters and parcels because his profile explicitly identifies his familiar route through town as part of his public identity.
+
+Blackmere Town Hall is open from 8:00am to 5:00pm every day, has no closed days, and has no weather closures. Martin uses Town Hall as the postal sorting, civic-mail, and coordination hub, while his Walking blocks represent active delivery routes rather than leisure wandering.
+
+Edward is Martin's father and mentor, and Martin considers him his best friend. Edward's completed routine already established the exact weekly INT-039 father/son visit, so Martin mirrors it without alteration. Martin considers Beatrice his best friend, but Beatrice's completed routine intentionally leaves INT-046 without a fixed appointment and treats their Town Hall overlap as the primary source of contact. INT-047 is likewise usually Base Routine civic coordination, not a separate social override. Lucian/Vivian remains Occasional through INT-055.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Residence:** 2 Resident Lane.
+- **Workplace:** Blackmere Town Hall.
+- **Town Hall Hours:** 8:00am to 5:00pm every day.
+- **Town Hall Closed Days:** None.
+- **Town Hall Weather Closures:** None.
+- **Delivery Routes:** `Walking` in Resident Lanes District or Blackmere represents active postal delivery.
+- **Severe Weather:** Town Hall remains open. Long delivery routes can compress into indoor sorting/coordination work when travel is unsafe.
+- **NPC Interactions:** Edward's completed INT-039 is a fixed synchronization anchor. Beatrice's INT-046 and the INT-047 civic group remain natural/base overlap rather than receiving new conflicting hard times.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 9:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 9:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 9:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 12:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 12:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 1:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 1:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 1:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 1:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 1:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 1:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 2:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 6:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 6:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 7:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 7:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 7:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Blackmere
+            - Activity: Walking
+        - Growing:
+            - Location: Blackmere
+            - Activity: Walking
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Walking
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Walking
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Attending
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 8:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Recovering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Renewed:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Growing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Flourishing:
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 2:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 2:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 2:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward traveling to 2 Resident Lane; Not Rainy (Severe) or Snowy (Severe)
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward traveling to 2 Resident Lane; Not Rainy (Severe) or Snowy (Severe)
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward traveling to 2 Resident Lane; Not Rainy (Severe) or Snowy (Severe)
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Drinking
+- 3:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-039: Edward + Martin
+        - Condition: Edward available
+        - Location: 2 Resident Lane
+        - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Blackmere Town Hall
+        - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:40pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 6:50pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:00pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Walking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Blackmere Town Hall
+            - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Working
+- 9:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 2 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Martin follows the Base Routine.
+- **Cloudy:** Liked. No general change is required.
+- **Rainy:** Neutral. Martin continues normal postal delivery and Town Hall work.
+- **Rainy (Severe):** Disliked. Town Hall remains open, but long outdoor delivery routes can compress into indoor sorting, returned-mail processing, and civic correspondence work.
+- **Snowy:** Neutral. Martin generally follows the Base Routine.
+- **Snowy (Severe):** Disliked. Town Hall remains open; nonessential long routes can be deferred while Martin remains available for postal coordination.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Martin's postal work is improvised around damaged civic space, inconsistent notices, and recovery-era correspondence. A larger share of his effort goes into sorting urgent messages and keeping communication functioning despite disruption.
+- **Rebuilding:** Dependable counters, record storage, and municipal workspaces give Martin a stable sorting point and predictable morning postal routine.
+- **Recovering:** Organized notices, mail, permits, and resident services increase dependable correspondence volume. Afternoon sorting and delivery become more routine rather than emergency-driven.
+- **Renewed:** Town Hall feels like ordinary civic life again. Martin's delivery routes increasingly carry normal personal letters, parcels, business correspondence, and community notices instead of primarily recovery messages.
+- **Growing:** Meeting seating and initiative boards create scheduled civic sessions. Martin supports them through notices, agendas, outgoing correspondence, and postal coordination rather than becoming a political decision-maker.
+- **Prospering:** Delegations, completed-project records, and regional links increase parcel and correspondence traffic. Saturday postal work can include formal incoming/outgoing materials tied to visitors and trade representatives.
+- **Flourishing:** Blackmere's own future-planning systems and regional relationships create a mature postal/civic network. Martin's work increasingly represents connection between residents, businesses, Town Hall, travelers, and neighboring communities—directly supporting his belief that communication holds people together.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-039 - Edward + Martin:** Exact mirror of Edward's completed routine. Saturday 2:30pm-2:50pm is the travel/arrival portion at 2 Resident Lane; 3:00pm-3:40pm Drinking; 3:50pm-4:20pm Socializing. No time is changed from Edward's file.
+- **INT-046 - Martin + Beatrice:** The table defines this as Directional and Occasional / Weekly, with Working / Socializing at Town Hall or Town Square. Beatrice's completed routine explicitly leaves it without a fixed hard block and asks Martin to preserve natural Town Hall overlap unless a canonical dedicated meeting is added later. Martin therefore does the same.
+- **INT-047 - Beatrice + Madison + Martin:** Town Hall Civic Group, Weekdays / As Needed, Working. The interaction table explicitly says this is usually Base Routine rather than a social override. Martin's weekday Town Hall work naturally overlaps Beatrice, and Madison's civic visits can resolve through her own completed schedule.
+- **INT-055 - Lucian/Vivian + Martin:** Friends, Established, Occasional, Walking / Socializing in Resident Lanes District or Town Square. No weekly hard block is invented.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Edward:** INT-039 exactly matches Edward's completed Saturday father/son block.
+- **Beatrice:** No new INT-046 time is created, preserving Beatrice's already-completed routine. Their relationship is supported through ordinary Town Hall overlap.
+- **Madison:** INT-047 remains civic Base Routine / As Needed, so Madison's existing INT-031 Beatrice meetings and patrol schedule are not disturbed.
+- **Lucian/Vivian:** INT-055 remains Occasional, avoiding a premature fixed time before the rival's complete routine is authored.
+
+---
+
+## Postal Route Semantics Note
+
+Martin's `Walking` activity during work hours is not recreational. It represents active mail and parcel delivery. This avoids adding a non-controlled `Delivering` activity while still giving the route clear semantic meaning. In implementation, route anchors can identify specific mailboxes, shops, residences, or district stops without changing the controlled Activity vocabulary.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Martin's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Martin's routine is deliberately dependable but physically mobile. Players should repeatedly see him sorting mail at Town Hall, walking familiar delivery routes, returning to civic work, and quietly maintaining correspondence at home. That gives his profession a visible simulation identity without requiring a special one-off delivery system for every letter.
+
+His relationship progression should gradually challenge the idea that reliability means carrying everything alone. Edward's weekly visit gives him one dependable place where someone comes to him, while Town Hall restoration increasingly turns postal work into a shared civic network rather than a burden Martin personally keeps functioning through sheer endurance.
