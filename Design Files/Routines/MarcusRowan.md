@@ -1,0 +1,9385 @@
+---
+Title: Routines / Marcus Rowan
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Marcus follows a highly dependable, work-heavy routine centered on Ironveil Forge, the base of Ironveil Peak, Blackmere restoration work, and a small number of craft relationships. His schedule reflects Diligence 100, Duty 100, Loyalty 100, and a character flaw built around consistently placing everyone else's needs ahead of his own.
+
+Ironveil Forge is open from 9:00am to 5:00pm, is closed every Tuesday, and closes during Rainy (Severe) and Snowy (Severe). Marcus lives at the Forge, so a public closure ends customer service but does not prevent him from performing private smithing, tool repair, or maintenance.
+
+Mara is Marcus's strongest recurring peer relationship: Marcus considers her his Best Friend and Rival, while Mara lists him as a Friend. The Friday INT-028 block therefore exactly matches Mara's already-completed routine. The Wednesday INT-029 Trades Trio also exactly matches both Clara and Mara. Claudia's INT-030 mentor relationship did not yet have a completed routine anchor, so Marcus establishes the canonical Thursday time that Claudia should mirror later.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Ironveil Forge Hours:** 9:00am to 5:00pm.
+- **Weekly Closure:** Tuesday.
+- **Weather Closures:** Rainy (Severe) and Snowy (Severe).
+- **Residence:** Ironveil Forge.
+- **Ordinary Rain:** Neutral. Normal Forge work continues, while optional fishing, gardening, and mountain/outdoor blocks move indoors when needed.
+- **Snowy:** Liked. Normal routine continues unless the snowfall is severe enough to trigger the Forge closure.
+- **NPC Interactions:** Times come from `NpcInteractionTable.md` and already-completed character routines. Clara/Mara interaction windows are treated as fixed source-of-truth anchors.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge Garden
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge Garden
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge Garden
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge Garden
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge Garden
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge Garden
+        - Activity: Gardening
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Repairing
+- 3:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 3:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 3:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 4:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 4:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 4:30pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 4:40pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 4:50pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 5:00pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 5:10pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 5:20pm
+    - Base Routine:
+        - Location: Graythorne River
+        - Activity: Fishing
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Growing:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Prospering:
+            - Location: Graythorne River
+            - Activity: Fishing
+        - Flourishing:
+            - Location: Graythorne River
+            - Activity: Fishing
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Repairing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Repairing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Repairing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-030: Claudia + Marcus
+        - Condition: Claudia available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Mara available; Ironveil Forge open; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:40am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 11:50am
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 12:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Shopkeeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+    - Restoration Override:
+        - Recovering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Renewed:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Ironveil Peak Base
+        - Activity: Walking
+    - Weather Override:
+        - Rainy:
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Ironveil Forge
+            - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. Marcus follows the Base Routine.
+- **Cloudy:** Neutral. No general routine change is required.
+- **Rainy:** Neutral. Ironveil Forge remains open. Optional fishing, gardening, mountain walking, and exposed restoration-site work can move indoors to repair or study blocks.
+- **Rainy (Severe):** Disliked. Ironveil Forge closes to the public. Marcus remains at the Forge and shifts to private smithing, repair, maintenance, planning, meals, and rest.
+- **Snowy:** Liked. Marcus follows the normal routine and is comfortable with ordinary winter conditions.
+- **Snowy (Severe):** Neutral in preference, but the Forge closes. Marcus uses the same private Forge routine as severe rain.
+- **Windy:** Neutral. No general override is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Marcus spends substantial time keeping damaged forge equipment operational, repairing basic tools, and producing whatever Blackmere urgently needs. His schedule is strongly reactive and service-driven.
+- **Rebuilding:** A dependable forge, ventilation system, work surface, and order racks let Marcus spend less time keeping the shop alive and more time at a stable forging station.
+- **Recovering:** Organized racks, component storage, and safe forging stations support regular resident tool drop-offs/pickups. Claudia's mentor/work block becomes especially natural here because mining equipment and ore handling can be serviced predictably.
+- **Renewed:** Finished tools and active upgrade components appear throughout the Forge. Marcus can spend more time on advanced workmanship rather than emergency maintenance.
+- **Growing:** Demonstration/commission space and civic components create regular collaboration with other craftspeople. The Wednesday Trades Trio becomes a visible normal part of Blackmere's rebuilding.
+- **Prospering:** Forge-made fixtures and specialized components appear across restored Blackmere. Marcus begins teaching/demonstrating more often and sees his work reflected throughout town rather than only inside the Forge.
+- **Flourishing:** Masterwork displays, Showcase components, and refined workstations establish the Forge as a regional craft landmark. Marcus still works hard, but his Tuesday closure and personal fishing/garden time remain important signs that he is beginning to allow himself a life outside service to others.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-028 - Mara + Marcus:** Exactly matches Mara's completed routine. Friday 2:30pm-2:50pm Traveling to/within Ironveil Forge, 3:00pm-3:50pm Working together, and 4:00pm-4:20pm Socializing/friendly rivalry.
+- **INT-029 - Blackmere Trades Trio:** Exactly matches Clara and Mara. Wednesday 4:30pm-4:50pm Traveling toward the active Restoration Site, followed by 5:00pm-5:50pm Working with Clara and Mara.
+- **INT-030 - Claudia + Marcus:** Thursday 10:30am-10:50am Repairing/inspecting mining equipment at Ironveil Forge, followed by 11:00am-11:50am Working together on ore, tools, or mining-equipment needs. This is now the canonical weekly mentor/work block Claudia's future complete routine should mirror.
+- Marcus's Friend relationships with Clara, Madison, and Walter are not automatically converted into additional weekly appointments. Clara is already represented through INT-029; other friendships can appear through natural overlap, restoration events, festivals, or future seasonal content.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Mara:** INT-028 exactly matches Mara's completed Friday block and is not shifted.
+- **Clara + Mara:** INT-029 exactly matches both completed routines. All three characters must resolve to the same active Restoration Site on a given occurrence.
+- **Claudia:** Her future routine should reserve Thursday 10:30am-11:50am at Ironveil Forge for INT-030.
+- **Ironveil Forge Availability:** Friday is an open Forge day, allowing Mara to visit during her own Klein Woodworks closure. Tuesday remains Marcus's shop closure and contains no required recurring NPC interaction.
+- **Restoration Site:** INT-029 should resolve from one canonical interaction record so Clara, Mara, and Marcus cannot choose different restoration locations independently.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Marcus's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Marcus's routine is intentionally service-heavy. He works before opening, through public hours, after closing, and often again after dinner. That is not presented as ideal behavior; it is the visible expression of his core misbelief that his own happiness can always wait as long as other people need him.
+
+Tuesday is therefore important. Even though Marcus still performs some private repair work, the closure gives him gardening, hiking, and fishing time that is not tied to serving customers. As the Forge reaches later restoration stages, preserving that personal time becomes part of his character progression rather than filling every new capability with even more work.
