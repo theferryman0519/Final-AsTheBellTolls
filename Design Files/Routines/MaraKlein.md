@@ -486,9 +486,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
             - Activity: Socializing
 - 2:40pm
     - Base Routine:
@@ -505,9 +502,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
@@ -532,9 +526,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
             - Activity: Socializing
 - 3:00pm
     - Base Routine:
@@ -551,9 +542,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
@@ -578,9 +566,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
             - Activity: Socializing
 - 3:20pm
     - Base Routine:
@@ -597,9 +582,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
@@ -624,9 +606,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
             - Activity: Socializing
 - 3:40pm
     - Base Routine:
@@ -643,9 +622,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
@@ -670,9 +646,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
             - Activity: Socializing
 - 4:00pm
     - Base Routine:
@@ -689,9 +662,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
@@ -716,9 +686,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
             - Activity: Socializing
 - 4:20pm
     - Base Routine:
@@ -735,9 +702,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
@@ -2361,8 +2325,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Shopkeeping
 - 1:50pm
     - Base Routine:
-        - Location: Klein Woodworks
-        - Activity: Shopkeeping
+        - Location: Weiss Design Studio
+        - Activity: Traveling
 - 2:00pm
     - Base Routine:
         - Location: Klein Woodworks
@@ -2375,16 +2339,16 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Restoration Override:
         - Renewed:
             - Location: Weiss Design Studio
-            - Activity: Working
+            - Activity: Traveling
         - Growing:
             - Location: Weiss Design Studio
-            - Activity: Working
+            - Activity: Traveling
         - Prospering:
             - Location: Weiss Design Studio
-            - Activity: Working
+            - Activity: Traveling
         - Flourishing:
             - Location: Weiss Design Studio
-            - Activity: Working
+            - Activity: Traveling
 - 2:10pm
     - Base Routine:
         - Location: Klein Woodworks
@@ -2443,18 +2407,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Renewed:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Growing:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Renewed:
             - Location: Weiss Design Studio
             - Activity: Working
         - Growing:
@@ -2477,18 +2429,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Working
     - Restoration Override:
         - Recovering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Renewed:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Growing:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
             - Location: Klein Woodworks
             - Activity: Working
         - Renewed:
@@ -2517,18 +2457,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Klein Woodworks
             - Activity: Working
         - Renewed:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Growing:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Prospering:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Flourishing:
-            - Location: Klein Woodworks
-            - Activity: Working
-        - Renewed:
             - Location: Weiss Design Studio
             - Activity: Working
         - Growing:
@@ -2543,23 +2471,23 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 3:00pm
     - Base Routine:
         - Location: Klein Woodworks
-        - Activity: Working
+        - Activity: Traveling
     - Restoration Override:
         - Recovering:
             - Location: Klein Woodworks
             - Activity: Working
         - Renewed:
             - Location: Klein Woodworks
-            - Activity: Working
+            - Activity: Traveling
         - Growing:
             - Location: Klein Woodworks
-            - Activity: Working
+            - Activity: Traveling
         - Prospering:
             - Location: Klein Woodworks
-            - Activity: Working
+            - Activity: Traveling
         - Flourishing:
             - Location: Klein Woodworks
-            - Activity: Working
+            - Activity: Traveling
 - 3:10pm
     - Base Routine:
         - Location: Klein Woodworks
@@ -3660,58 +3588,43 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Klein Woodworks
         - Activity: Cleaning
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Klein Woodworks
         - Activity: Cleaning
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
 - 4:50pm
     - Base Routine:
         - Location: Klein Woodworks
         - Activity: Cleaning
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
 - 5:00pm
     - Base Routine:
@@ -3720,7 +3633,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -3731,13 +3644,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:10pm
     - Base Routine:
@@ -3746,7 +3659,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -3757,13 +3670,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:20pm
     - Base Routine:
@@ -3772,7 +3685,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -3783,13 +3696,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:30pm
     - Base Routine:
@@ -3798,7 +3711,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy:
@@ -3812,13 +3725,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:40pm
     - Base Routine:
@@ -3827,7 +3740,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy:
@@ -3841,13 +3754,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:50pm
     - Base Routine:
@@ -3856,7 +3769,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy:
@@ -3870,18 +3783,18 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 6:00pm
     - Base Routine:
         - Location: Blackmere
-        - Activity: Working
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Klein Woodworks
@@ -3892,6 +3805,16 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: Klein Woodworks
             - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Prospering:
+            - Location: Blackmere
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Blackmere
+            - Activity: Traveling
 - 6:10pm
     - Base Routine:
         - Location: Blackmere
@@ -7007,8 +6930,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## NPC Interaction Routine Notes
 
 - **INT-027 - Clara + Mara:** Exactly matches Clara's completed routine. Tuesday 2:00pm-2:50pm Working at Weiss Design Studio. Thursday 3:00pm-3:50pm Working at Klein Woodworks, followed by 4:00pm-4:50pm Socializing there.
-- **INT-029 - Blackmere Trades Trio:** Exactly matches Clara. Wednesday 4:30pm-4:50pm Traveling toward the active Restoration Site, followed by 5:00pm-5:50pm Working there with Clara and Marcus.
-- **INT-028 - Mara + Marcus:** Friday, on Mara's closure day: 2:30pm-2:50pm Traveling to Ironveil Forge, 3:00pm-3:50pm Working together, and 4:00pm-4:20pm Socializing/friendly rivalry. Marcus's future routine should mirror these exact times.
+- **INT-029 - Blackmere Trades Trio:** Wednesday 5:00pm-5:50pm Working at **Klein Woodworks** with Clara and Marcus. Mara is already at Klein Woodworks before the meeting; Clara and Marcus travel there at 4:50pm.
+- **INT-028 - Mara + Marcus:** Friday, on Mara's closure day: 2:30pm-2:50pm Traveling to Ironveil Forge, 3:00pm-3:50pm Working together, and 4:00pm-4:20pm Socializing/friendly rivalry. Marcus's completed routine mirrors these exact times.
 - Mara's Friend relationships with Beatrice, Claudia, Irene, Julian, Madison, and others are not automatically converted into weekly appointments. They remain available for festivals, restoration events, Town Square overlap, or future seasonal routines.
 
 ---
@@ -7016,8 +6939,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## Cross-NPC Alignment Notes
 
 - **Clara:** INT-027 and INT-029 exactly match Clara's completed routine and are not shifted.
-- **Marcus:** His future routine must reserve Wednesday 4:30pm-5:50pm for INT-029 and Friday 2:30pm-4:20pm for INT-028.
-- **Restoration Site:** INT-029 should resolve to the same currently active restoration site for Clara, Mara, and Marcus. The Interaction ID is the canonical source rather than three independent location decisions.
+- **Marcus:** His completed routine matches Wednesday INT-029 at Klein Woodworks from 5:00pm-5:50pm and Friday INT-028 from 2:30pm-4:20pm.
+- **Klein Woodworks:** INT-029 now resolves to Klein Woodworks for Clara, Mara, and Marcus from one shared interaction definition.
 - **Shop Availability:** Tuesday's Clara/Mara block happens while Weiss Design Studio is open; Thursday's block happens at Klein Woodworks while Clara's Studio is closed; Friday's Mara/Marcus block happens at Ironveil Forge while Klein Woodworks is closed. This distributes collaboration without unnecessarily closing participants' public shops.
 
 ---

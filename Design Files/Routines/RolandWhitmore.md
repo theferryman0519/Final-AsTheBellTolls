@@ -512,11 +512,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -528,11 +523,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -544,11 +534,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -560,11 +545,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -576,11 +556,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -592,11 +567,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -608,11 +578,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -624,11 +589,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -640,11 +600,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -666,20 +621,20 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Working
 - 3:30pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
 - 3:40pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
 - 3:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
 - 4:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -703,8 +658,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -728,8 +683,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:20pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -753,8 +708,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:30pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -778,8 +733,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:40pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -803,8 +758,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -828,8 +783,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 5:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -853,8 +808,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 5:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -879,7 +834,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:20pm
     - Base Routine:
         - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Activity: Traveling
     - Restoration Override:
         - Recovering:
             - Location: 1 Resident Lane
@@ -941,7 +896,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -959,7 +914,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -977,7 +932,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -995,7 +950,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -1013,7 +968,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -1031,7 +986,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1049,7 +1004,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1067,7 +1022,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1085,7 +1040,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1103,7 +1058,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -2013,7 +1968,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2031,7 +1986,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2049,7 +2004,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2067,7 +2022,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2085,7 +2040,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2663,6 +2618,25 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Traveling
 - 10:10am
     - Base Routine:
         - Location: Thread & Thimble
@@ -4251,7 +4225,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4269,7 +4243,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4287,7 +4261,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4305,7 +4279,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4323,7 +4297,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4901,6 +4875,25 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Recovering:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Renewed:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Growing:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Prospering:
+            - Location: Thread & Thimble
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Thread & Thimble
+            - Activity: Traveling
 - 10:10am
     - Base Routine:
         - Location: Thread & Thimble
@@ -6080,7 +6073,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Restoration Override:
         - Flourishing:
             - Location: Town Square
-            - Activity: Socializing
+            - Activity: Traveling
 - 1:10pm
     - Base Routine:
         - Location: Town Square
@@ -6229,6 +6222,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 3:10pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -6474,7 +6471,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6492,7 +6489,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6510,7 +6507,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6528,7 +6525,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6546,7 +6543,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -7473,36 +7470,66 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Eating
 - 2:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Eating
+        - Location: Town Square
+        - Activity: Traveling
 - 3:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:20pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:30pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:40pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
     - Restoration Override:
         - Recovering:
             - Location: 1 Resident Lane
@@ -7521,8 +7548,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
     - Restoration Override:
         - Recovering:
             - Location: 1 Resident Lane
@@ -7541,8 +7568,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 4:20pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
     - Restoration Override:
         - Recovering:
             - Location: 1 Resident Lane
@@ -7562,7 +7589,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 4:30pm
     - Base Routine:
         - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Activity: Traveling
     - Restoration Override:
         - Recovering:
             - Location: 1 Resident Lane
@@ -8111,11 +8138,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8127,11 +8149,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8143,11 +8160,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8159,11 +8171,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8175,11 +8182,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8191,11 +8193,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8207,11 +8204,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8223,11 +8215,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8239,11 +8226,6 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8265,20 +8247,20 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Working
 - 3:30pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
 - 3:40pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
 - 3:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Traveling
 - 4:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8286,8 +8268,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 4:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8295,8 +8277,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 4:20pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8304,8 +8286,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 4:30pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8313,8 +8295,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 4:40pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8322,8 +8304,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 4:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8331,8 +8313,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 5:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8340,8 +8322,8 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Activity: Walking
 - 5:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Location: Blackmere Outskirts
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-044: Victor + Roland
         - Condition: Second Sunday of each season; Victor available; Not Rainy (Severe) or Snowy (Severe)
@@ -8350,7 +8332,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
 - 5:20pm
     - Base Routine:
         - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Activity: Traveling
 - 5:30pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -8396,7 +8378,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -8404,7 +8386,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -8412,7 +8394,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -8420,7 +8402,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -8428,7 +8410,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -8436,7 +8418,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
 - 7:20pm
@@ -8444,7 +8426,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
 - 7:30pm
@@ -8452,7 +8434,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
 - 7:40pm
@@ -8460,7 +8442,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
 - 7:50pm
@@ -8468,7 +8450,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
 - 8:00pm
@@ -8996,7 +8978,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -9004,7 +8986,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -9012,7 +8994,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -9020,7 +9002,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -9028,7 +9010,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -10136,7 +10118,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -10144,7 +10126,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -10152,7 +10134,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -10160,7 +10142,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -10168,7 +10150,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -11276,7 +11258,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -11284,7 +11266,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -11292,7 +11274,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -11300,7 +11282,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -11308,7 +11290,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -11757,7 +11739,7 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
 - 2:50pm
     - Base Routine:
         - Location: Town Square
-        - Activity: Walking
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -11767,44 +11749,74 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
             - Activity: Reading
 - 3:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:20pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:30pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:40pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:50pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:00pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
 - 4:10pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
 - 4:20pm
     - Base Routine:
-        - Location: 1 Resident Lane
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
 - 4:30pm
     - Base Routine:
         - Location: 1 Resident Lane
-        - Activity: Gardening
+        - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -12031,10 +12043,10 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
 ## NPC Interaction Routine Notes
 
 - **INT-020 - Agatha + Roland:** Exact mirror of Agatha. Daily 5:30pm-6:10pm at 1 Resident Lane for tea / Drinking.
-- **INT-019 / INT-021 - Whitmore Household / Beatrice + Parents:** Exact mirror of Agatha and Beatrice. Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm family dinner; Sunday 7:10pm-7:50pm additional family Socializing.
+- **INT-019 - Whitmore Household:** Exact mirror of Agatha and Beatrice. Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm family dinner; Sunday 7:10pm-7:50pm additional family Socializing.
 - **INT-036 - Roland + Leo:** **Correct canonical interaction ID.** Exact mirror of Leo's completed routine: Tuesday/Thursday 10:00am-11:20am Socializing and 11:30am-1:10pm Working at Thread & Thimble; Saturday 10:30am-11:50am Socializing and 12:00pm-1:40pm Working. Active only from Day 23 Summer Y1 onward while Thread & Thimble is open and weather is not severe.
 - **INT-044 - Victor + Roland:** Exact mirror of Victor's completed routine. Second Sunday of each season, 4:00pm-5:10pm Walking at Blackmere Outskirts, weather permitting.
-- **INT-050 - Walter + Roland:** Fourth Sunday of each season, 1:30pm-2:50pm Socializing in Town Square. This is a low-frequency monthly anchor inside the table's Biweekly/Monthly cadence and is intentionally placed on a different Sunday from Victor's mentorship block.
+- **INT-050 - Walter + Roland:** Fourth Saturday of each season, 3:00pm-3:50pm Socializing in Town Square. This is a low-frequency monthly anchor inside the table's Biweekly/Monthly cadence and uses Walter's documented General Store closure day.
 - **INT-040 - Edward + Roland:** Occasional. No weekly hard block is added.
 - **INT-042 - Frederick + Roland:** Occasional. No weekly hard block is added.
 - **INT-053 - Adrian + Roland:** Occasional. No weekly hard block is added.
@@ -12045,16 +12057,16 @@ Leo and Thread & Thimble are not available until Day 23 of Summer, Year 1. Befor
 
 - **Agatha:** Daily tea and Whitmore family blocks exactly match her completed routine.
 - **Beatrice:** Family dinner/Sunday family blocks exactly match her completed routine.
-- **Leo:** All recurring shop times exactly match Leo's already-completed routine; only the interaction label is corrected from the erroneous INT-031 to canonical **INT-036**.
+- **Leo:** All recurring shop times exactly match Leo's corrected routine and both files now use canonical **INT-036**.
 - **Victor:** Second-Sunday INT-044 exactly matches Victor's completed routine.
-- **Walter:** His future routine should reserve the fourth Sunday of each season from 1:30pm-2:50pm for INT-050.
+- **Walter:** His completed routine reserves the fourth Saturday of each season from 3:00pm-3:50pm for INT-050.
 - **Edward / Frederick / Adrian:** Their Roland relationships remain Occasional, avoiding conflicts with already-authored schedules.
 
 ---
 
 ## Leo Interaction ID Correction
 
-The previously generated Leo routine used `INT-031` for Roland + Leo. The current canonical `NpcInteractionTable.md` shows that this is incorrect: `INT-031` is Beatrice + Madison, while **`INT-036` is Roland + Leo**. Roland's file uses INT-036 throughout. Leo's actual times do not need to change; only his interaction ID should be corrected in a cleanup pass before implementation.
+The earlier Leo routine mislabeled Roland + Leo as `INT-031`. The corrected routine set now uses **`INT-036`** in both Leo and Roland; `INT-031` remains Beatrice + Madison. The interaction times themselves are unchanged.
 
 ---
 

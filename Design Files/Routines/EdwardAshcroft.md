@@ -4476,11 +4476,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: 2 Resident Lane
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Pendrelle Manor - Butler Quarters
@@ -4499,11 +4494,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: 2 Resident Lane
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Pendrelle Manor - Butler Quarters
@@ -4520,11 +4510,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Gardening
 - 2:50pm
     - Base Routine:
-        - Location: 2 Resident Lane
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available; Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Traveling
     - Weather Override:
@@ -4547,7 +4532,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
     - Restoration Override:
@@ -4557,13 +4542,20 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Pendrelle Manor - Garden
             - Activity: Gardening
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 3:10pm
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
     - Restoration Override:
@@ -4579,7 +4571,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
     - Restoration Override:
@@ -4595,16 +4587,23 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
+    - Restoration Override:
+        - Prospering:
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Flourishing:
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 3:40pm
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
 - 3:50pm
@@ -4613,7 +4612,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:00pm
@@ -4622,7 +4621,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:10pm
@@ -4631,7 +4630,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:20pm
@@ -4640,7 +4639,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Martin available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:30pm
@@ -4891,7 +4890,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 ## Cross-NPC Alignment Notes
 
-- **Martin:** His future routine should reserve Saturday 2:30pm-4:20pm for INT-039, with 2:30pm-2:50pm travel, 3:00pm-3:40pm Drinking, and 3:50pm-4:20pm Socializing at 2 Resident Lane.
+- **Martin:** His completed routine reserves Saturday 2:30pm-4:20pm for INT-039, with 2:30pm-2:50pm travel, 3:00pm-3:40pm Drinking, and 3:50pm-4:20pm Socializing at 2 Resident Lane.
 - **Roland:** INT-040 remains Occasional, so Roland's already-established spouse/family/Leo/Victor commitments are not disturbed.
 - **Frederick:** INT-041 remains Occasional, preserving the Inn's future family/work schedule.
 - **Julian:** INT-043 remains Occasional and does not create an arbitrary recurring clinic/apothecary conflict.

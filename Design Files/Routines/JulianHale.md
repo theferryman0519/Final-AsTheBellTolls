@@ -1627,7 +1627,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Rain & Hale
@@ -2528,7 +2528,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Rain & Hale
@@ -3585,7 +3585,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Rain & Hale
@@ -4486,7 +4486,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Rain & Hale
@@ -5543,7 +5543,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Rain & Hale
@@ -6509,6 +6509,22 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Rainy (Severe):
             - Location: Rain & Hale
             - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: Gloamwood Forest
+            - Activity: Traveling
+        - Renewed:
+            - Location: Gloamwood Forest
+            - Activity: Traveling
+        - Growing:
+            - Location: Gloamwood Forest
+            - Activity: Traveling
+        - Prospering:
+            - Location: Gloamwood Forest
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Gloamwood Forest
+            - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: Gloamwood Forest

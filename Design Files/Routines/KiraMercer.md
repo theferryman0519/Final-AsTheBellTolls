@@ -257,7 +257,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -289,7 +289,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -321,7 +321,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -353,7 +353,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -385,7 +385,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -417,7 +417,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -449,7 +449,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -481,7 +481,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -513,7 +513,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-004: Jonas + Kira
         - Condition: Jonas available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms Fields
+        - Location: Mercer Farms
         - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
@@ -2798,8 +2798,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -2814,7 +2814,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2830,7 +2830,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2846,7 +2846,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2862,7 +2862,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2878,7 +2878,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2891,11 +2891,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -2907,11 +2902,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -2922,11 +2912,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:50pm
     - Base Routine:
         - Location: Mercer Farms Residence
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -4735,7 +4720,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Exploring
     - Weather Override:
@@ -4767,7 +4752,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Exploring
     - Weather Override:
@@ -4799,7 +4784,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Exploring
     - Weather Override:
@@ -4831,7 +4816,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Studying
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
     - Weather Override:
@@ -4863,7 +4848,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Studying
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
     - Weather Override:
@@ -4895,7 +4880,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Studying
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
     - Weather Override:
@@ -4927,7 +4912,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Studying
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
     - Weather Override:
@@ -4959,7 +4944,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Studying
     - NPC Interaction Override:
         - Interaction: INT-013: Sabrina + Kira
-        - Condition: School available; Not Rainy (Severe) or Snowy (Severe); School restoration at least Recovering
+        - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
     - Weather Override:
@@ -7012,7 +6997,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7038,7 +7023,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7064,7 +7049,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7090,7 +7075,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7643,7 +7628,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -8515,7 +8500,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -8978,8 +8963,8 @@ During the closure, Kira gains more exploration time but still maintains family,
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -8995,7 +8980,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9012,7 +8997,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9029,7 +9014,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9046,7 +9031,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9063,7 +9048,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9077,11 +9062,6 @@ During the closure, Kira gains more exploration time but still maintains family,
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9094,11 +9074,6 @@ During the closure, Kira gains more exploration time but still maintains family,
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9110,11 +9085,6 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -9477,7 +9447,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9806,8 +9776,8 @@ During the closure, Kira gains more exploration time but still maintains family,
 - 3:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Mercer Farms
-        - Activity: Exploring
+        - Location: Memorial Hill
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9972,7 +9942,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -10394,7 +10364,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -11266,7 +11236,7 @@ During the closure, Kira gains more exploration time but still maintains family,
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Gloamwood Forest
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -12024,13 +11994,13 @@ During the closure, Kira gains more exploration time but still maintains family,
 ## NPC Interaction Routine Notes
 
 - **INT-001 - Mercer Household:** Daily shared breakfast/dinner and family evening anchors are represented directly in Kira's Base Routine. Claudia, Jonas, Jasmine, and Milo should align with the relevant household windows when their routines are created.
-- **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms. Claudia teaches or supervises a practical skill. Milo's future routine should use the same window.
-- **INT-004 - Jonas + Kira:** Sunday 10:00am-11:20am at Mercer Farms Fields for gardening/crop-care teaching. Jonas's future routine should mirror this exact period.
-- **INT-006 - Jasmine + Kira + Milo:** Saturday 2:30pm-3:10pm Playing, then 3:20pm-3:50pm Exploring at Mercer Farms. Jasmine and Milo should mirror these exact times.
-- **INT-007 - Blackmere Children's Group:** Tuesday exactly matches Anya and Felix: 3:00pm-3:20pm travel toward Town Square, 3:30pm-4:20pm Socializing, 4:30pm-5:20pm Exploring through Blackmere, and 5:30pm-5:50pm return travel.
+- **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms. Claudia teaches or supervises a practical skill. Milo's completed routine uses the same window.
+- **INT-004 - Jonas + Kira:** Sunday 10:00am-11:20am at Mercer Farms for gardening/crop-care teaching. Jonas's completed routine mirrors this exact period.
+- **INT-006 - Jasmine + Kira + Milo:** Saturday 2:30pm-3:10pm Playing, then 3:20pm-3:50pm Socializing at Mercer Farms. Jasmine and Milo should mirror these exact times.
+- **INT-007 - Blackmere Children's Group:** Tuesday exactly matches Anya and Felix: 3:00pm-3:20pm travel toward Town Square, 3:30pm-4:20pm Socializing, 4:30pm shared travel into Resident Lanes District, and 4:40pm-5:20pm Exploring there. The interaction ends at 5:20pm; return travel after that is individual Base Routine.
 - **INT-008 - Anya + Kira:** Wednesday exactly matches Anya's existing routine: 3:30pm-4:10pm Socializing at Memorial Hill and 4:20pm-4:50pm Walking at Memorial Hill.
 - **INT-010 - School Community:** Weekday school time remains Base Routine because Sabrina, Anya, Felix, Kira, and Milo naturally overlap there while school is open.
-- **INT-013 - Sabrina + Kira:** Thursday 3:00pm-3:20pm Exploring around the School followed by 3:30pm-4:10pm Teaching. It becomes eligible at Recovering, when the school grounds are safely usable before/after lessons. Sabrina's future routine should mirror this exact block.
+- **INT-013 - Sabrina + Kira:** Thursday 3:00pm-3:20pm Exploring around the School followed by 3:30pm-4:10pm Teaching. It becomes eligible at Recovering, and Sabrina's completed routine now mirrors this exact block.
 - **INT-057 - Nora + Kira:** Kept Occasional/Seasonal rather than weekly. A future event or seasonal schedule can use River Wharf / Graythorne River fishing without forcing another recurring commitment into Kira's week.
 
 ---
@@ -12039,8 +12009,8 @@ During the closure, Kira gains more exploration time but still maintains family,
 
 - **Anya:** INT-007 and INT-008 use the exact already-authored Anya times and locations.
 - **Felix:** INT-007 uses the exact already-authored Felix times and locations.
-- **Milo:** His future routine must mirror Tuesday INT-007, Friday INT-003, and Saturday INT-006. Felix/Milo INT-009 remains separate and does not involve Kira.
-- **Sabrina:** Her future routine should mirror Kira's Thursday INT-013 from 3:00pm through 4:10pm once the School is at least Recovering.
+- **Milo:** His completed routine mirrors Tuesday INT-007, Friday INT-003, and Saturday INT-006. Felix/Milo INT-009 remains separate and does not involve Kira.
+- **Sabrina:** Her completed routine exactly mirrors Kira's Thursday INT-013 from 3:00pm through 4:10pm once the School is at least Recovering.
 - **Claudia:** Her future Friday routine should reserve 3:30pm-4:20pm for INT-003.
 - **Jasmine:** Her future Saturday routine should reserve 2:30pm-3:50pm for INT-006.
 - **Jonas:** His future Sunday routine should reserve 10:00am-11:20am for INT-004.

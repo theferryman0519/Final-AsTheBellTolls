@@ -36,7 +36,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## Weekly Routine
 
 ### Sunday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -92,22 +91,22 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Restoration Override:
         - Rebuilding:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Recovering:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Renewed:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Growing:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 8:10am
     - Base Routine:
         - Location: Blackmere Town Hall
@@ -153,9 +152,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 8:30am
     - Base Routine:
@@ -175,9 +171,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Town Hall
             - Activity: Working
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
         - Flourishing:
@@ -205,9 +198,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 8:50am
     - Base Routine:
@@ -227,9 +217,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Town Hall
             - Activity: Working
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
         - Flourishing:
@@ -386,6 +373,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: Winding Banks Inn
@@ -413,10 +407,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 12:40pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -494,10 +488,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 3:10pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -590,6 +584,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -768,7 +769,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Monday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -808,10 +808,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: Resident Lanes District
@@ -1531,10 +1531,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 5:10pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -1584,10 +1584,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -1636,6 +1636,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 7:20pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -1750,7 +1757,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Tuesday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -1790,10 +1796,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: Resident Lanes District
@@ -2522,10 +2528,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 5:10pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -2575,10 +2581,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -2627,6 +2633,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 7:20pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -2741,7 +2754,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Wednesday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -2781,10 +2793,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: Resident Lanes District
@@ -3504,10 +3516,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 5:10pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -3557,10 +3569,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -3609,6 +3621,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 7:20pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -3723,7 +3742,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Thursday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -3763,10 +3781,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: Resident Lanes District
@@ -4595,10 +4613,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 5:10pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -4648,10 +4666,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -4700,6 +4718,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 7:20pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -4814,7 +4839,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Friday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -4854,10 +4878,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: Resident Lanes District
@@ -5577,10 +5601,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 5:10pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -5630,10 +5654,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -5682,6 +5706,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 7:20pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -5796,7 +5827,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Saturday
-
 - 6:00am
     - Base Routine:
         - Location: 2 Resident Lane
@@ -5868,12 +5898,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Working
 - 8:10am
     - Base Routine:
         - Location: Blackmere Town Hall
@@ -5889,12 +5913,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Town Hall
             - Activity: Working
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
         - Prospering:
@@ -5926,12 +5944,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Working
 - 8:30am
     - Base Routine:
         - Location: Blackmere Town Hall
@@ -5947,12 +5959,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Town Hall
             - Activity: Working
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
         - Prospering:
@@ -5984,12 +5990,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Working
 - 8:50am
     - Base Routine:
         - Location: Blackmere Town Hall
@@ -6005,12 +6005,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Town Hall
             - Activity: Working
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Working
         - Prospering:
@@ -6300,10 +6294,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 2 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 2:10pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -6330,36 +6324,21 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-039: Edward + Martin
-        - Condition: Edward traveling to 2 Resident Lane; Not Rainy (Severe) or Snowy (Severe)
-        - Location: 2 Resident Lane
-        - Activity: Traveling
 - 2:40pm
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-039: Edward + Martin
-        - Condition: Edward traveling to 2 Resident Lane; Not Rainy (Severe) or Snowy (Severe)
-        - Location: 2 Resident Lane
-        - Activity: Traveling
 - 2:50pm
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-039: Edward + Martin
-        - Condition: Edward traveling to 2 Resident Lane; Not Rainy (Severe) or Snowy (Severe)
-        - Location: 2 Resident Lane
-        - Activity: Traveling
 - 3:00pm
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
 - 3:10pm
@@ -6368,7 +6347,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
 - 3:20pm
@@ -6377,7 +6356,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
 - 3:30pm
@@ -6386,7 +6365,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
 - 3:40pm
@@ -6395,7 +6374,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Drinking
 - 3:50pm
@@ -6404,7 +6383,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:00pm
@@ -6413,7 +6392,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:10pm
@@ -6422,7 +6401,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:20pm
@@ -6431,7 +6410,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Socializing
     - NPC Interaction Override:
         - Interaction: INT-039: Edward + Martin
-        - Condition: Edward available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: 2 Resident Lane
         - Activity: Socializing
 - 4:30pm
@@ -6510,10 +6489,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:40pm
     - Base Routine:
         - Location: Resident Lanes District
@@ -6573,6 +6552,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 2 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 2 Resident Lane
+            - Activity: Traveling
 - 7:40pm
     - Base Routine:
         - Location: 2 Resident Lane
@@ -6706,7 +6692,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 ## NPC Interaction Routine Notes
 
-- **INT-039 - Edward + Martin:** Exact mirror of Edward's completed routine. Saturday 2:30pm-2:50pm is the travel/arrival portion at 2 Resident Lane; 3:00pm-3:40pm Drinking; 3:50pm-4:20pm Socializing. No time is changed from Edward's file.
+- **INT-039 - Edward + Martin:** Exact mirror of Edward's completed routine. Edward travels independently toward 2 Resident Lane from 2:30pm-2:50pm. The shared INT-039 begins only after arrival: Saturday 3:00pm-3:40pm Drinking and 3:50pm-4:20pm Socializing. No time is changed from Edward's file.
 - **INT-046 - Martin + Beatrice:** The table defines this as Directional and Occasional / Weekly, with Working / Socializing at Town Hall or Town Square. Beatrice's completed routine explicitly leaves it without a fixed hard block and asks Martin to preserve natural Town Hall overlap unless a canonical dedicated meeting is added later. Martin therefore does the same.
 - **INT-047 - Beatrice + Madison + Martin:** Town Hall Civic Group, Weekdays / As Needed, Working. The interaction table explicitly says this is usually Base Routine rather than a social override. Martin's weekday Town Hall work naturally overlaps Beatrice, and Madison's civic visits can resolve through her own completed schedule.
 - **INT-055 - Lucian/Vivian + Martin:** Friends, Established, Occasional, Walking / Socializing in Resident Lanes District or Town Square. No weekly hard block is invented.

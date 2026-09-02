@@ -775,15 +775,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Growing:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
             - Activity: Socializing
         - Prospering:
             - Location: Memorial Hill
@@ -804,15 +795,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Renewed:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
@@ -841,15 +823,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Growing:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
             - Activity: Socializing
         - Prospering:
             - Location: Memorial Hill
@@ -870,15 +843,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Renewed:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
@@ -907,15 +871,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Growing:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
             - Activity: Socializing
         - Prospering:
             - Location: Memorial Hill
@@ -936,15 +891,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Renewed:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
@@ -973,15 +919,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Growing:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
             - Activity: Socializing
         - Prospering:
             - Location: Memorial Hill
@@ -1002,15 +939,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Renewed:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
@@ -1039,15 +967,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Growing:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
             - Activity: Socializing
         - Prospering:
             - Location: Memorial Hill
@@ -1068,15 +987,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Renewed:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
@@ -1105,15 +1015,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Growing:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
             - Activity: Socializing
         - Prospering:
             - Location: Memorial Hill
@@ -1134,15 +1035,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Renewed:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
@@ -5365,6 +5257,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Memorial Hill Residence
             - Activity: Socializing
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 4:50pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -5378,8 +5273,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Weather Override:
@@ -5391,8 +5286,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Weather Override:
@@ -5404,8 +5299,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Weather Override:
@@ -5417,8 +5312,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Weather Override:
@@ -5430,8 +5325,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Weather Override:
@@ -5443,8 +5338,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Weather Override:
@@ -5453,31 +5348,23 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
 - 6:00pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-022: Lena + Anya
         - Location: Memorial Hill Residence
-        - Activity: Eating
+        - Activity: Traveling
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 6:10pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-022: Lena + Anya
         - Location: Memorial Hill Residence
-        - Activity: Eating
+        - Activity: Traveling
 - 6:20pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-022: Lena + Anya
         - Location: Memorial Hill Residence
-        - Activity: Eating
+        - Activity: Traveling
 - 6:30pm
     - Base Routine:
-        - Location: Winding Banks Inn
+        - Location: Memorial Hill Residence
         - Activity: Eating
     - NPC Interaction Override:
         - Interaction: INT-022: Lena + Anya
@@ -5485,73 +5372,85 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Eating
 - 6:40pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Traveling
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - NPC Interaction Override:
         - Interaction: INT-022: Lena + Anya
-        - Condition: Anya available; Not Snowy (Severe)
-        - Location: Memorial Hill
-        - Activity: Walking
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - Weather Override:
         - Snowy (Severe):
             - Location: Memorial Hill Residence
-            - Activity: Reading
+            - Activity: Traveling
 - 6:50pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Traveling
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - NPC Interaction Override:
         - Interaction: INT-022: Lena + Anya
-        - Condition: Anya available; Not Snowy (Severe)
-        - Location: Memorial Hill
-        - Activity: Walking
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - Weather Override:
         - Snowy (Severe):
             - Location: Memorial Hill Residence
             - Activity: Reading
 - 7:00pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Traveling
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - NPC Interaction Override:
         - Interaction: INT-022: Lena + Anya
-        - Condition: Anya available; Not Snowy (Severe)
-        - Location: Memorial Hill
-        - Activity: Walking
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - Weather Override:
         - Snowy (Severe):
             - Location: Memorial Hill Residence
             - Activity: Reading
 - 7:10pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-022: Lena + Anya
-        - Condition: Anya available; Not Snowy (Severe)
+        - Condition: Not Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
 - 7:20pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
     - NPC Interaction Override:
         - Interaction: INT-022: Lena + Anya
-        - Condition: Anya available; Not Snowy (Severe)
+        - Condition: Not Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
 - 7:30pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 7:40pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 7:50pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 8:00pm
     - Base Routine:
         - Location: Memorial Hill Residence
@@ -7464,12 +7363,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Prospering:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
             - Activity: Attending
         - Flourishing:
             - Location: Memorial Hill
@@ -7490,12 +7383,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Prospering:
@@ -7524,12 +7411,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Prospering:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
             - Activity: Attending
         - Flourishing:
             - Location: Memorial Hill
@@ -7550,12 +7431,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Prospering:
@@ -7584,12 +7459,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Prospering:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
             - Activity: Attending
         - Flourishing:
             - Location: Memorial Hill
@@ -7610,12 +7479,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Prospering:
@@ -7644,12 +7507,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Prospering:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
             - Activity: Attending
         - Flourishing:
             - Location: Memorial Hill
@@ -7670,12 +7527,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Prospering:
@@ -7704,12 +7555,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Prospering:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
             - Activity: Attending
         - Flourishing:
             - Location: Memorial Hill
@@ -7730,12 +7575,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Prospering:
@@ -7764,12 +7603,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Walking
         - Prospering:
             - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
             - Activity: Attending
         - Flourishing:
             - Location: Memorial Hill
@@ -7790,12 +7623,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Memorial Hill
             - Activity: Walking
         - Growing:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Prospering:
-            - Location: Memorial Hill
-            - Activity: Walking
-        - Flourishing:
             - Location: Memorial Hill
             - Activity: Walking
         - Prospering:
@@ -8115,9 +7942,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## NPC Interaction Routine Notes
 
-- **INT-022 - Lena + Anya:** Daily household interaction aligned to Anya's completed routine. Weekday breakfast 6:50am-7:10am; Saturday/Sunday breakfast 7:10am-7:50am. Weekday dinner 6:00pm-6:30pm; Saturday/Sunday dinner 5:30pm-6:20pm. Evening Memorial Hill walk: Monday-Friday 6:40pm-7:20pm; Saturday/Sunday 6:30pm-7:20pm. The interaction uses Anya's existing authored windows rather than changing her schedule.
+- **INT-022 - Lena + Anya:** Daily household interaction aligned to Anya's completed routine. Weekday breakfast remains 6:50am-7:10am; Saturday/Sunday breakfast 7:10am-7:50am. Monday/Tuesday/Wednesday/Friday dinner remains 6:00pm-6:30pm with the evening walk beginning at 6:40pm. Thursday is intentionally shifted because Lena attends the Inn group: Lena travels home 6:00pm-6:20pm, mother/daughter dinner is 6:30pm-7:00pm, and the Memorial Hill walk is 7:10pm-7:50pm. Saturday/Sunday dinner remains 5:30pm-6:20pm with the walk beginning at 6:30pm.
 - **INT-032 - Lena + Madison:** Exact mirror of Madison's completed routine. First Sunday of each season, 11:00am-12:20pm, Walking at Memorial Hill, weather permitting.
-- **INT-034 / INT-048 - Lena + Jasmine / Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn. This exactly matches Jasmine, Frederick, and Helen's completed routines and uses one combined override for the same physical gathering.
+- **INT-048 - Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn. This exactly matches Jasmine, Frederick, Helen, and Theo. INT-034 remains the Lena/Jasmine relationship basis rather than a second schedule-producing override.
 - **INT-033 - Beatrice + Lena:** Occasional mentor/friend relationship. No weekly hard block is added, so Beatrice's completed civic/family routine is not disturbed.
 
 ---
@@ -8128,14 +7955,14 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - **Madison:** First-Sunday INT-032 exactly matches Madison's completed routine.
 - **Jasmine:** Thursday 5:00pm-5:50pm exactly matches Jasmine's completed INT-034/INT-048 routine.
 - **Frederick + Helen:** Thursday 5:00pm-5:50pm exactly matches their completed Thursday Inn-group schedules.
-- **Theo:** His future routine should keep Thursday 5:00pm-5:50pm available for the group where compatible, but attendance remains flexible as already defined.
+- **Theo:** His completed routine keeps Thursday 5:00pm-5:50pm available for the group where compatible, but attendance remains flexible as already defined.
 - **Beatrice:** INT-033 remains Occasional, matching Beatrice's completed routine.
 
 ---
 
 ## Interaction Consistency Note
 
-Thursday's Winding Banks visit is represented as one combined `INT-034 + INT-048` override because the interaction table describes both Lena/Jasmine's weekly friendship visit and the broader Inn social group at the same established gathering. Keeping them as separate same-tick atomic overrides would create unnecessary first-valid-override conflicts. The canonical interaction schema should eventually treat the group gathering as the schedule-producing record, with the Lena/Jasmine relationship represented as evidence/basis rather than as a competing schedule decision.
+Thursday's Winding Banks visit now resolves only through `INT-048`, the canonical schedule-producing group record. `INT-034` remains relationship evidence for Lena/Jasmine, so there is no same-tick first-valid-override conflict.
 
 ---
 

@@ -29,7 +29,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - **Mercer Farms Hours:** 6:00am to 9:00pm; no closed days; no weather closures.
 - **Residence:** Mercer Farms.
 - **Severe Weather:** Mining continues because Ashfall Mines do not close. Optional outdoor farm/couple blocks may move indoors.
-- **NPC Interactions:** Completed Kira, Milo, and Marcus schedules are fixed timing anchors. Jonas receives new canonical spouse times that his future routine should mirror.
+- **NPC Interactions:** Completed Kira, Milo, and Marcus schedules are fixed timing anchors. Jonas receives new canonical spouse times that his completed routine mirrors.
 
 ---
 
@@ -870,7 +870,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Monday
-
 - 6:00am
     - Base Routine:
         - Location: Mercer Farms Residence
@@ -1118,10 +1117,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
 - 3:40pm
     - Base Routine:
         - Location: Mercer Farms
@@ -1592,7 +1591,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Tuesday
-
 - 6:00am
     - Base Routine:
         - Location: Mercer Farms Residence
@@ -1840,10 +1838,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
 - 3:40pm
     - Base Routine:
         - Location: Mercer Farms
@@ -2342,7 +2340,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Wednesday
-
 - 6:00am
     - Base Routine:
         - Location: Mercer Farms Residence
@@ -2590,10 +2587,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
 - 3:40pm
     - Base Routine:
         - Location: Mercer Farms
@@ -3060,7 +3057,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Thursday
-
 - 6:00am
     - Base Routine:
         - Location: Mercer Farms Residence
@@ -3179,8 +3175,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Working
 - 10:20am
     - Base Routine:
-        - Location: Ashfall Mines
-        - Activity: Relaxing
+        - Location: Ironveil Forge
+        - Activity: Traveling
 - 10:30am
     - Base Routine:
         - Location: Ashfall Mines
@@ -3265,7 +3261,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: Ashfall Mines
-        - Activity: Working
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Ashfall Mines
@@ -3353,10 +3349,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
 - 3:40pm
     - Base Routine:
         - Location: Mercer Farms
@@ -4088,8 +4084,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Working
 - 3:20pm
     - Base Routine:
-        - Location: Ashfall Mines
-        - Activity: Working
+        - Location: Mercer Farms
+        - Activity: Traveling
 - 3:30pm
     - Base Routine:
         - Location: Mercer Farms
@@ -4109,13 +4105,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Restoration Override:
         - Growing:
             - Location: Mercer Farms
-            - Activity: Teaching
+            - Activity: Traveling
         - Prospering:
             - Location: Mercer Farms
-            - Activity: Teaching
+            - Activity: Traveling
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Teaching
+            - Activity: Traveling
 - 3:40pm
     - Base Routine:
         - Location: Mercer Farms
@@ -4196,15 +4192,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Growing:
             - Location: Mercer Farms
-            - Activity: Working
-        - Prospering:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Flourishing:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Growing:
-            - Location: Mercer Farms
             - Activity: Teaching
         - Prospering:
             - Location: Mercer Farms
@@ -4240,15 +4227,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Growing:
             - Location: Mercer Farms
-            - Activity: Working
-        - Prospering:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Flourishing:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Growing:
-            - Location: Mercer Farms
             - Activity: Teaching
         - Prospering:
             - Location: Mercer Farms
@@ -4280,15 +4258,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Working
         - Renewed:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Growing:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Prospering:
-            - Location: Mercer Farms
-            - Activity: Working
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Working
         - Growing:
@@ -4662,7 +4631,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Saturday
-
 - 6:00am
     - Base Routine:
         - Location: Mercer Farms Residence
@@ -4802,10 +4770,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: Mercer Farms
@@ -10750,7 +10718,7 @@ Claudia is available beginning Day 4 of Spring, Year 1, while Ashfall Mines do n
 ## NPC Interaction Routine Notes
 
 - **INT-001 - Mercer Household:** Weekday breakfast 6:50am-7:10am exactly overlaps Kira and Milo's completed school-day breakfast. Dinner windows are synchronized to periods where both completed child routines are already at Mercer Farms Residence Eating: Monday 6:10pm-6:50pm; Tuesday 6:00pm-6:50pm; Wednesday 6:20pm-6:50pm; Thursday 6:30pm-6:50pm; Friday 6:00pm-6:50pm; Saturday 6:20pm-7:00pm; Sunday 5:30pm-6:20pm. Jonas and Jasmine should mirror these household anchors where practical.
-- **INT-002 - Claudia + Jonas:** Tuesday 7:00pm-7:50pm Socializing at home; Thursday 7:00pm-7:50pm Walking around Mercer Farms; Sunday 6:30pm-7:20pm Socializing at home. These are now the canonical recurring spouse/best-friend blocks for Jonas's future routine.
+- **INT-002 - Claudia + Jonas:** Tuesday 7:00pm-7:50pm Socializing at home; Thursday 7:00pm-7:50pm Walking around Mercer Farms; Sunday 6:30pm-7:20pm Socializing at home. These are now the canonical recurring spouse/best-friend blocks for Jonas's completed routine.
 - **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms, Teaching. This exactly matches both Kira and Milo's completed routines.
 - **INT-030 - Claudia + Marcus:** Thursday 10:30am-10:50am Repairing/inspecting mining equipment at Ironveil Forge, followed by 11:00am-11:50am Working together. This exactly matches Marcus's completed routine.
 
@@ -10761,8 +10729,8 @@ Claudia is available beginning Day 4 of Spring, Year 1, while Ashfall Mines do n
 - **Kira:** Friday INT-003 exactly matches Kira's completed routine. Household meal windows were selected from actual overlap with her existing Base Routine rather than assigning new times she is not home.
 - **Milo:** Friday INT-003 exactly matches Milo's completed routine. Household meal windows also preserve his existing home/eating periods.
 - **Marcus:** Thursday INT-030 exactly matches Marcus's completed 10:30am-11:50am Forge block.
-- **Jonas:** His future routine should reserve Tuesday 7:00pm-7:50pm, Thursday 7:00pm-7:50pm, and Sunday 6:30pm-7:20pm for INT-002, plus the household meal anchors above.
-- **Jasmine:** Her future routine should use the Mercer household meal anchors where compatible with ranch work and her already-established Kira/Milo Saturday block.
+- **Jonas:** His completed routine reserves Tuesday 7:00pm-7:50pm, Thursday 7:00pm-7:50pm, and Sunday 6:30pm-7:20pm for INT-002, plus the household meal anchors above.
+- **Jasmine:** Her completed routine uses the Mercer household meal anchors where compatible with ranch work and her already-established Kira/Milo Saturday block.
 
 ---
 

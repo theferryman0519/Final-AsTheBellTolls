@@ -2883,7 +2883,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 8:30pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -2891,7 +2891,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 8:40pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -2899,7 +2899,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 8:50pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -2907,7 +2907,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 9:00pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -2982,7 +2982,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Wednesday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -3271,7 +3270,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 12:00pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -3299,13 +3298,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Windy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Studying
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Studying
+            - Activity: Traveling
 - 1:10pm
     - Base Routine:
         - Location: Town Square
@@ -3482,10 +3481,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3504,10 +3499,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
 - 5:10pm
     - Base Routine:
-        - Location: 5 Resident Lane
-        - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -3530,10 +3521,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3552,10 +3539,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
 - 5:30pm
     - Base Routine:
-        - Location: 5 Resident Lane
-        - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -3578,10 +3561,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3600,10 +3579,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
 - 5:50pm
     - Base Routine:
-        - Location: 5 Resident Lane
-        - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -3626,10 +3601,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3648,10 +3619,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
 - 6:10pm
     - Base Routine:
-        - Location: 5 Resident Lane
-        - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -3698,6 +3665,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3718,6 +3689,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3738,6 +3713,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3758,6 +3737,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3778,6 +3761,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -3798,6 +3785,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: 5 Resident Lane
@@ -6962,11 +6953,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Hall of Wonder
         - Activity: Socializing
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Victor available; Hall of Wonder open
-        - Location: Hall of Wonder
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Hall of Wonder
@@ -7110,6 +7096,11 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
 - 7:00pm
     - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
         - Location: Hall of Wonder
         - Activity: Socializing
     - Restoration Override:
@@ -7289,8 +7280,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## NPC Interaction Routine Notes
 
-- **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm are shared household dinner blocks for Dante, Madison, and Victor. Madison's future routine should mirror these exact three windows unless a higher-priority duty/event supersedes them.
-- **INT-026 - Dante + Victor:** Tuesday 8:20pm-8:50pm shared dinner at 5 Resident Lane; Wednesday 5:00pm-6:20pm and 7:30pm-8:50pm Socializing at 5 Resident Lane; Saturday 6:00pm-6:50pm Socializing at Hall of Wonder. Victor's future routine should mirror these exact windows.
+- **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm are shared household dinner blocks for Dante, Madison, and Victor. Madison's completed routine mirrors these exact three windows unless a higher-priority duty/event supersedes them.
+- **INT-026 - Dante + Victor:** Tuesday 8:20pm-8:50pm Socializing at 5 Resident Lane; Wednesday 6:20pm-8:50pm Socializing at 5 Resident Lane after Victor closes Caravan Stall and travels home; Saturday 6:10pm-7:00pm Socializing at Hall of Wonder after Victor closes the Stall and travels there. These are the synchronized canonical windows.
 - **INT-052 - Adrian + Dante:** Established but Occasional. Adrian's completed routine already keeps this connection occasional; no weekly Dante override is added.
 - **INT-054 - Dante + Lucian/Vivian:** Established but Occasional. Hall of Wonder/Bell Tower historical-mechanical interactions should be scheduled through a specific event, restoration visit, or later seasonal pass.
 - **INT-060 - Dante + Milo:** Directional and Occasional because Milo sees Dante as a mentor while Dante lists Milo as an acquaintance. No weekly mentoring block is forced.
@@ -7299,8 +7290,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## Cross-NPC Alignment Notes
 
-- **Victor:** His future routine must reserve Tuesday 8:20pm-8:50pm, Wednesday 5:00pm-6:20pm and 7:30pm-8:50pm, and Saturday 6:00pm-6:50pm for INT-026.
-- **Madison:** Her future routine should reserve Monday, Friday, and Sunday 8:20pm-8:50pm for INT-025 household dinner, with the understanding that higher-priority sheriff/civic events can supersede those blocks.
+- **Victor:** INT-026 now exactly matches this file: Tuesday 8:20pm-8:50pm, Wednesday 6:20pm-8:50pm, and Saturday 6:10pm-7:00pm.
+- **Madison:** Her completed routine reserves Monday, Friday, and Sunday 8:20pm-8:50pm for INT-025 household dinner, with the understanding that higher-priority sheriff/civic events can supersede those blocks.
 - **Adrian:** INT-052 remains Occasional in both completed routines, preventing an invented weekly history meeting from becoming accidental canon.
 - **Milo:** INT-060 remains Directional/Occasional and does not conflict with Milo's established weekly school, family, or Felix interactions.
 - **Hall of Wonder Visitors:** Restoration-driven school/library/scholar visits are placed inside Dante's existing museum work hours so future visitor routines can overlap naturally without forcing Dante away from his workplace.

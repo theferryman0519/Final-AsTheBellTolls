@@ -774,9 +774,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
             - Activity: Socializing
 - 2:40pm
     - Base Routine:
@@ -793,9 +790,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Flourishing:
@@ -820,9 +814,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
             - Activity: Socializing
 - 3:00pm
     - Base Routine:
@@ -839,9 +830,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Flourishing:
@@ -866,9 +854,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
             - Activity: Socializing
 - 3:20pm
     - Base Routine:
@@ -885,9 +870,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Flourishing:
@@ -919,9 +901,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
             - Activity: Socializing
 - 3:40pm
     - Base Routine:
@@ -945,9 +924,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Flourishing:
@@ -979,9 +955,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
             - Activity: Socializing
 - 4:00pm
     - Base Routine:
@@ -1005,9 +978,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Flourishing:
@@ -1039,9 +1009,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Flourishing:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
             - Activity: Socializing
 - 4:20pm
     - Base Routine:
@@ -1065,9 +1032,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Flourishing:
@@ -4567,11 +4531,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Ironveil Forge
         - Activity: Cleaning
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Ironveil Forge
@@ -4581,23 +4540,18 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Repairing
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Ironveil Forge
         - Activity: Cleaning
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Ironveil Forge
@@ -4607,22 +4561,17 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Repairing
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
 - 4:50pm
     - Base Routine:
-        - Location: Ironveil Forge
-        - Activity: Cleaning
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -4633,13 +4582,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Repairing
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Traveling
 - 5:00pm
     - Base Routine:
@@ -4648,7 +4597,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -4659,13 +4608,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:10pm
     - Base Routine:
@@ -4674,7 +4623,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -4685,13 +4634,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:20pm
     - Base Routine:
@@ -4700,7 +4649,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -4711,13 +4660,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:30pm
     - Base Routine:
@@ -4726,7 +4675,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy:
@@ -4740,13 +4689,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:40pm
     - Base Routine:
@@ -4755,7 +4704,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy:
@@ -4769,13 +4718,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:50pm
     - Base Routine:
@@ -4784,7 +4733,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy:
@@ -4798,18 +4747,18 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Growing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 6:00pm
     - Base Routine:
         - Location: Ironveil Peak Base
-        - Activity: Walking
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Ironveil Forge
@@ -5473,21 +5422,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Shopkeeping
         - Recovering:
             - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Renewed:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Growing:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Recovering:
-            - Location: Ironveil Forge
             - Activity: Repairing
         - Renewed:
             - Location: Ironveil Forge
@@ -5523,21 +5457,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Shopkeeping
         - Recovering:
             - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Renewed:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Growing:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Recovering:
-            - Location: Ironveil Forge
             - Activity: Repairing
         - Renewed:
             - Location: Ironveil Forge
@@ -5569,21 +5488,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Repairing
     - Restoration Override:
         - Rebuilding:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Recovering:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Renewed:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Growing:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Shopkeeping
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Shopkeeping
         - Recovering:
@@ -8662,12 +8566,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Prospering:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
             - Activity: Teaching
         - Flourishing:
             - Location: Ironveil Forge
@@ -8684,12 +8582,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Growing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
@@ -8714,12 +8606,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Prospering:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
             - Activity: Teaching
         - Flourishing:
             - Location: Ironveil Forge
@@ -8736,12 +8622,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Growing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
@@ -8766,12 +8646,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Prospering:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
             - Activity: Teaching
         - Flourishing:
             - Location: Ironveil Forge
@@ -8788,12 +8662,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Growing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
@@ -8825,12 +8693,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Prospering:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
             - Activity: Teaching
         - Flourishing:
             - Location: Ironveil Forge
@@ -8854,12 +8716,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Growing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
@@ -8891,12 +8747,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Prospering:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
             - Activity: Teaching
         - Flourishing:
             - Location: Ironveil Forge
@@ -8920,12 +8770,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Growing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
@@ -8957,12 +8801,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Prospering:
             - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
             - Activity: Teaching
         - Flourishing:
             - Location: Ironveil Forge
@@ -8986,12 +8824,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Ironveil Forge
             - Activity: Working
         - Growing:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Prospering:
-            - Location: Ironveil Forge
-            - Activity: Working
-        - Flourishing:
             - Location: Ironveil Forge
             - Activity: Working
         - Prospering:
@@ -9354,7 +9186,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## NPC Interaction Routine Notes
 
 - **INT-028 - Mara + Marcus:** Exactly matches Mara's completed routine. Friday 2:30pm-2:50pm Traveling to/within Ironveil Forge, 3:00pm-3:50pm Working together, and 4:00pm-4:20pm Socializing/friendly rivalry.
-- **INT-029 - Blackmere Trades Trio:** Exactly matches Clara and Mara. Wednesday 4:30pm-4:50pm Traveling toward the active Restoration Site, followed by 5:00pm-5:50pm Working with Clara and Mara.
+- **INT-029 - Blackmere Trades Trio:** Wednesday 5:00pm-5:50pm Working at **Klein Woodworks** with Clara and Mara. Marcus travels there at 4:50pm; Mara is already on site.
 - **INT-030 - Claudia + Marcus:** Thursday 10:30am-10:50am Repairing/inspecting mining equipment at Ironveil Forge, followed by 11:00am-11:50am Working together on ore, tools, or mining-equipment needs. This is now the canonical weekly mentor/work block Claudia's future complete routine should mirror.
 - Marcus's Friend relationships with Clara, Madison, and Walter are not automatically converted into additional weekly appointments. Clara is already represented through INT-029; other friendships can appear through natural overlap, restoration events, festivals, or future seasonal content.
 
@@ -9363,10 +9195,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## Cross-NPC Alignment Notes
 
 - **Mara:** INT-028 exactly matches Mara's completed Friday block and is not shifted.
-- **Clara + Mara:** INT-029 exactly matches both completed routines. All three characters must resolve to the same active Restoration Site on a given occurrence.
-- **Claudia:** Her future routine should reserve Thursday 10:30am-11:50am at Ironveil Forge for INT-030.
+- **Clara + Mara:** INT-029 exactly matches both completed routines at Klein Woodworks from 5:00pm-5:50pm Wednesday.
+- **Claudia:** Her completed routine reserves Thursday 10:30am-11:50am at Ironveil Forge for INT-030.
 - **Ironveil Forge Availability:** Friday is an open Forge day, allowing Mara to visit during her own Klein Woodworks closure. Tuesday remains Marcus's shop closure and contains no required recurring NPC interaction.
-- **Restoration Site:** INT-029 should resolve from one canonical interaction record so Clara, Mara, and Marcus cannot choose different restoration locations independently.
+- **Klein Woodworks:** INT-029 is now explicitly resolved to Klein Woodworks for all three participants.
 
 ---
 

@@ -291,7 +291,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Eating
+        - Activity: Traveling
 - 1:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -315,11 +315,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 2:00pm
     - Base Routine:
         - Location: Town Square
-        - Activity: Shopping
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 2:10pm
     - Base Routine:
         - Location: Town Square
@@ -1657,7 +1657,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
             - Activity: Eating
@@ -2555,9 +2555,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:10pm
     - Base Routine:
         - Location: Caravan Stall
@@ -2580,9 +2577,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Caravan Stall
             - Activity: Socializing
         - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Flourishing:
@@ -2615,9 +2609,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:30pm
     - Base Routine:
         - Location: Caravan Stall
@@ -2640,9 +2631,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Caravan Stall
             - Activity: Socializing
         - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Flourishing:
@@ -2675,9 +2663,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:50pm
     - Base Routine:
         - Location: Caravan Stall
@@ -2700,9 +2685,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Caravan Stall
             - Activity: Socializing
         - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Flourishing:
@@ -2891,7 +2873,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
             - Activity: Eating
@@ -3021,7 +3003,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 8:30pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -3029,7 +3011,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 8:40pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -3037,7 +3019,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 8:50pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -3045,7 +3027,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
         - Location: 5 Resident Lane
-        - Activity: Eating
+        - Activity: Socializing
 - 9:00pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -3930,11 +3912,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -3946,11 +3923,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -3962,11 +3934,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -3978,11 +3945,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -3994,11 +3956,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -4010,11 +3967,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
-        - Location: 5 Resident Lane
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -4024,13 +3976,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 6:00pm
     - Base Routine:
-        - Location: Caravan Stall
-        - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
         - Location: 5 Resident Lane
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -4040,13 +3987,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 6:10pm
     - Base Routine:
-        - Location: Caravan Stall
-        - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
         - Location: 5 Resident Lane
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -4060,7 +4002,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Working
     - NPC Interaction Override:
         - Interaction: INT-026: Dante + Victor
-        - Condition: Preserves Dante's completed interaction window; see Shop-Hours Consistency Note
         - Location: 5 Resident Lane
         - Activity: Socializing
     - Weather Override:
@@ -4074,6 +4015,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Caravan Stall
         - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -4085,10 +4030,14 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
             - Activity: Eating
@@ -4099,6 +4048,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
@@ -4113,6 +4066,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
@@ -4127,6 +4084,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
@@ -4140,6 +4101,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 7:20pm
     - Base Routine:
         - Location: Town Square
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
         - Activity: Socializing
     - Weather Override:
         - Rainy:
@@ -4942,18 +4907,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Renewed:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:10pm
     - Base Routine:
         - Location: Caravan Stall
@@ -4967,18 +4920,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
     - Restoration Override:
         - Recovering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Renewed:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Renewed:
@@ -5020,18 +4961,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Renewed:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:30pm
     - Base Routine:
         - Location: Caravan Stall
@@ -5045,18 +4974,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
     - Restoration Override:
         - Recovering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Renewed:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Renewed:
@@ -5098,18 +5015,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Renewed:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:50pm
     - Base Routine:
         - Location: Caravan Stall
@@ -5123,18 +5028,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
     - Restoration Override:
         - Recovering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Renewed:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Renewed:
@@ -5332,7 +5225,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
             - Activity: Eating
@@ -6528,7 +6421,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
             - Activity: Eating
@@ -7402,12 +7295,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:10pm
     - Base Routine:
         - Location: Caravan Stall
@@ -7427,12 +7314,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Caravan Stall
             - Activity: Socializing
         - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Prospering:
@@ -7468,12 +7349,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:30pm
     - Base Routine:
         - Location: Caravan Stall
@@ -7493,12 +7368,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Caravan Stall
             - Activity: Socializing
         - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Prospering:
@@ -7534,12 +7403,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Caravan Stall
-            - Activity: Socializing
 - 3:50pm
     - Base Routine:
         - Location: Caravan Stall
@@ -7559,12 +7422,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Caravan Stall
             - Activity: Socializing
         - Growing:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Caravan Stall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Caravan Stall
             - Activity: Socializing
         - Prospering:
@@ -7707,13 +7564,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 6:00pm
     - Base Routine:
-        - Location: Caravan Stall
-        - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-026: Dante + Victor
-        - Condition: Hall of Wonder open; Dante available
         - Location: Hall of Wonder
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 5 Resident Lane
@@ -7781,7 +7633,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 5 Resident Lane
             - Activity: Eating
@@ -7811,6 +7663,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Hall of Wonder open; Dante available
+        - Location: Hall of Wonder
+        - Activity: Socializing
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
@@ -7824,7 +7681,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 7:10pm
     - Base Routine:
         - Location: Town Square
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: 5 Resident Lane
@@ -8027,7 +7884,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## NPC Interaction Routine Notes
 
 - **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm shared dinner with Dante and Madison. These exact windows match both completed routines.
-- **INT-026 - Dante + Victor:** Tuesday 8:20pm-8:50pm shared dinner at 5 Resident Lane; Wednesday 5:00pm-6:20pm and 7:30pm-8:50pm Socializing at 5 Resident Lane; Saturday 6:00pm-6:50pm Socializing at Hall of Wonder. These exactly preserve Dante's completed routine.
+- **INT-026 - Dante + Victor:** Tuesday 8:20pm-8:50pm Socializing at 5 Resident Lane; Wednesday 6:20pm-8:50pm Socializing at 5 Resident Lane after the Caravan Stall closes; Saturday 6:10pm-7:00pm Socializing at Hall of Wonder after close-and-travel. Dante's routine has been rewritten to the same windows.
 - **INT-044 - Victor + Roland:** Second Sunday of each season, 4:00pm-5:10pm Walking at Blackmere Outskirts. This preserves the interaction table's Occasional/Monthly frequency and gives Roland a commitment/belonging mentorship context without competing with his regular Leo visits.
 - **INT-051 - Walter + Victor:** Directional and Occasional. No fixed weekly block is added. It can occur through Caravan Stall/General Store trade overlap or later seasonal/restoration content.
 
@@ -8038,14 +7895,14 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - **Dante:** Every INT-026 window exactly matches Dante's completed routine.
 - **Madison:** Monday, Friday, and Sunday INT-025 dinners exactly match Madison's completed routine.
 - **Roland:** His future complete routine should reserve the second Sunday of each season from 4:00pm-5:10pm at Blackmere Outskirts for INT-044, unless a higher-priority event supersedes it.
-- **Walter:** INT-051 remains Occasional, so Walter's future routine does not need a fixed Victor appointment.
+- **Walter:** INT-051 remains Occasional, so Walter's completed routine does not need a fixed Victor appointment.
 - **5 Resident Lane:** Household interactions are deliberately limited so Victor's home life becomes meaningful without erasing his restless/travel-oriented identity.
 
 ---
 
 ## Shop-Hours Consistency Note
 
-Dante's already-completed INT-026 routine places Dante and Victor together at 5 Resident Lane on Wednesday from 5:00pm-6:20pm. The Caravan Stall's documented public hours continue until 6:00pm. This Victor routine preserves Dante's interaction exactly, which means Victor leaves the Caravan Stall at 5:00pm on Wednesday despite the location's 6:00pm closing time. The source files do not state whether Victor is the Stall's sole required shopkeeper, so this cannot be resolved conclusively from the current design files. Before implementation, choose one canonical rule: either the Caravan Stall can remain open without Victor during that final hour, or INT-026 should be moved to 6:00pm-6:20pm (and Dante's routine updated at the same time). The current file does not silently change Dante's authored schedule.
+The previous 5:00pm Wednesday Dante/Victor block conflicted with Caravan Stall's 6:00pm closing time. The rewritten routines resolve that conflict: Victor remains at the Stall through closing, travels at 6:00pm-6:10pm, and INT-026 begins at 6:20pm. Saturday follows the same rule, with travel immediately after the Stall closes and the Hall of Wonder interaction beginning at 6:10pm.
 
 ---
 

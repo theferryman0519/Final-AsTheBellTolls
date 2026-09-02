@@ -1029,6 +1029,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Studying
+        - Rainy:
+            - Location: Blackmere
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Blackmere
@@ -2339,6 +2342,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Studying
+        - Rainy:
+            - Location: Blackmere
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Blackmere
@@ -3673,6 +3679,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Studying
+        - Rainy:
+            - Location: Blackmere
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Blackmere
@@ -4880,11 +4889,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere
         - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Weiss Design Studio
@@ -4892,22 +4896,20 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Studying
+        - Rainy:
+            - Location: Blackmere
+            - Activity: Traveling
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
-            - Activity: Working
+            - Location: Klein Woodworks
+            - Activity: Traveling
         - Flourishing:
-            - Location: Restoration Site
-            - Activity: Working
+            - Location: Klein Woodworks
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Blackmere
         - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Weiss Design Studio
@@ -4917,19 +4919,14 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Studying
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 4:50pm
     - Base Routine:
-        - Location: Blackmere
-        - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-029: Clara + Mara + Marcus
-        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -4940,10 +4937,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Studying
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:00pm
     - Base Routine:
@@ -4952,7 +4949,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -4963,10 +4960,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Relaxing
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:10pm
     - Base Routine:
@@ -4975,7 +4972,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -4986,10 +4983,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Relaxing
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:20pm
     - Base Routine:
@@ -4998,7 +4995,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -5009,10 +5006,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Relaxing
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:30pm
     - Base Routine:
@@ -5021,7 +5018,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -5032,10 +5029,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Relaxing
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:40pm
     - Base Routine:
@@ -5044,7 +5041,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -5055,10 +5052,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Relaxing
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 5:50pm
     - Base Routine:
@@ -5067,7 +5064,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - NPC Interaction Override:
         - Interaction: INT-029: Clara + Mara + Marcus
         - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Restoration Site
+        - Location: Klein Woodworks
         - Activity: Working
     - Weather Override:
         - Rainy (Severe):
@@ -5078,10 +5075,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Relaxing
     - Restoration Override:
         - Prospering:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
         - Flourishing:
-            - Location: Restoration Site
+            - Location: Klein Woodworks
             - Activity: Working
 - 6:00pm
     - Base Routine:
@@ -5582,6 +5579,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Eating
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -5640,11 +5640,11 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 1:00pm
     - Base Routine:
         - Location: Blackmere
-        - Activity: Studying
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Weiss Design Studio
-            - Activity: Studying
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Weiss Design Studio
             - Activity: Working
@@ -7223,6 +7223,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Studying
+        - Rainy:
+            - Location: Blackmere
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Blackmere
@@ -8437,6 +8440,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Weiss Design Studio
             - Activity: Studying
+        - Rainy:
+            - Location: Blackmere
+            - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Blackmere
@@ -8720,7 +8726,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 ## NPC Interaction Routine Notes
 
 - **INT-027 - Clara + Mara:** Tuesday 2:00pm-2:50pm at Weiss Design Studio for Working. Thursday, Clara's Studio closure day, she visits Klein Woodworks: 3:00pm-3:50pm Working followed by 4:00pm-4:50pm Socializing. Mara's eventual routine should mirror these exact times and locations.
-- **INT-029 - Blackmere Trades Trio:** Wednesday 4:30pm-4:50pm travel toward the active Restoration Site, followed by 5:00pm-5:50pm Working there with Mara and Marcus. This is deliberately after Clara's 4:00pm public close and after the other trades' main customer windows, minimizing shop-service conflicts. Mara and Marcus should mirror this exact block.
+- **INT-029 - Blackmere Trades Trio:** Wednesday 5:00pm-5:50pm Working at **Klein Woodworks**. Clara and Marcus each receive explicit travel at 4:50pm; Mara is already at Klein Woodworks and therefore does not need a redundant travel tick.
 - **INT-028 - Mara + Marcus:** Clara is not a participant. Their craft-rival relationship remains separate from the Trades Trio and should not pull Clara into every Mara/Marcus interaction.
 - Clara's ordinary Friend relationships with Madison, Claudia, Adrian, Elise, and Marcus are not automatically converted into weekly social appointments. The Master NPC Interaction Table does not establish those as recurring Clara-specific overrides.
 
@@ -8728,11 +8734,11 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## Cross-NPC Alignment Notes
 
-- **Mara:** Her future routine must reserve Tuesday 2:00pm-2:50pm at Weiss Design Studio and Thursday 3:00pm-4:50pm at Klein Woodworks for INT-027.
-- **Marcus:** His future routine must reserve Wednesday 4:30pm-5:50pm for INT-029, with the working portion at the active Restoration Site from 5:00pm-5:50pm.
-- **Mara + Marcus:** Both should use the same Wednesday INT-029 travel/work sequence so all three tradespeople resolve to one canonical interaction.
+- **Mara:** Her completed routine reserves Tuesday 2:00pm-2:50pm at Weiss Design Studio and Thursday 3:00pm-4:50pm at Klein Woodworks for INT-027.
+- **Marcus:** His corrected routine travels to Klein Woodworks at 4:50pm and matches INT-029 from 5:00pm-5:50pm.
+- **Mara + Marcus:** Both corrected routines resolve to Klein Woodworks for the same Wednesday 5:00pm-5:50pm INT-029 work block.
 - **Shop Hours:** Clara's recurring collaboration blocks were chosen around Weiss Design Studio (7:00am-4:00pm, closed Thursday), Klein Woodworks (9:00am-5:00pm, closed Friday), and Ironveil Forge (9:00am-5:00pm, closed Tuesday) to avoid requiring a participant to abandon a public shop during an incompatible closure.
-- **Restoration Sites:** INT-029 should resolve to the currently relevant restoration location rather than a hard-coded single building. The interaction ID is the canonical shared source; all three NPCs must resolve to the same site on a given occurrence.
+- **Klein Woodworks:** INT-029 is now hard-resolved to Klein Woodworks for all three participants, eliminating the previous generic `Restoration Site` ambiguity.
 
 ---
 

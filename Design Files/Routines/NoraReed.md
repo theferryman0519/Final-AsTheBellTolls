@@ -48,7 +48,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 6:20am
     - Base Routine:
         - Location: Graythorne River
-        - Activity: Fishing
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -87,8 +87,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 7:10am
     - Base Routine:
-        - Location: Graythorne River
-        - Activity: Fishing
+        - Location: Riverbend Fishery
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -96,7 +96,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 7:20am
     - Base Routine:
         - Location: Riverbend Fishery
-        - Activity: Eating
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-024: Nora + Elise
         - Location: Riverbend Fishery
@@ -6193,7 +6193,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 6:20am
     - Base Routine:
         - Location: Graythorne River
-        - Activity: Fishing
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -6232,8 +6232,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 7:10am
     - Base Routine:
-        - Location: Graythorne River
-        - Activity: Fishing
+        - Location: Riverbend Fishery
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -6241,7 +6241,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 7:20am
     - Base Routine:
         - Location: Riverbend Fishery
-        - Activity: Eating
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-024: Nora + Elise
         - Location: Riverbend Fishery
@@ -6789,7 +6789,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 2:00pm
     - Base Routine:
         - Location: River Wharf District
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -6897,7 +6897,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 3:00pm
     - Base Routine:
         - Location: Graythorne River
-        - Activity: Fishing
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -7024,12 +7024,12 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Eating
 - 6:20pm
     - Base Routine:
-        - Location: Riverbend Fishery
-        - Activity: Eating
+        - Location: River Wharf
+        - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: River Wharf District
-        - Activity: Socializing
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-024: Nora + Elise
         - Condition: Elise available; Not Snowy (Severe)
@@ -7268,7 +7268,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 ## NPC Interaction Routine Notes
 
-- **INT-024 - Nora + Elise:** Daily breakfast from 7:20am-7:50am at Riverbend Fishery. Monday/Wednesday/Friday dinner from 6:00pm-6:30pm. Tuesday 6:40pm-7:30pm is a River Wharf walk. Thursday 7:40pm-8:20pm is shared conversation at Riverbend Fishery. Saturday 6:30pm-7:50pm is a longer Wharf social block. Sunday 6:20pm-7:10pm is a Wharf walk followed by 7:20pm-8:20pm Socializing at home. Elise's future routine should mirror these exact windows.
+- **INT-024 - Nora + Elise:** Daily breakfast from 7:20am-7:50am at Riverbend Fishery. Monday/Wednesday/Friday dinner from 6:00pm-6:30pm. Tuesday 6:40pm-7:30pm is a River Wharf walk. Thursday 7:40pm-8:20pm is shared conversation at Riverbend Fishery. Saturday 6:30pm-7:50pm is a longer Wharf social block. Sunday 6:20pm-7:10pm is a Wharf walk followed by 7:20pm-8:20pm Socializing at home. Elise's completed routine mirrors these exact windows.
 - **INT-057 - Nora + Kira:** Established but Occasional/Seasonal. Keep this for a seasonal fishing lesson, exploration outing, or event at River Wharf/Graythorne River rather than scheduling it every week. This preserves Kira's already-authored routine.
 - **INT-058 - Nora + Felix:** Directional and Occasional. Use occasional child-friendly fishing or Fishery interaction without creating a fixed weekly obligation that would conflict with Felix's existing school and Milo routines.
 
@@ -7276,7 +7276,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 ## Cross-NPC Alignment Notes
 
-- **Elise:** Her future routine must preserve Nora's INT-024 household windows. Weekday breakfast ends before Elise needs to travel for Blackmere Bank & Exchange's 9:00am opening, and all weekday evening blocks occur after the Bank's 5:00pm close.
+- **Elise:** Her completed routine preserves Nora's INT-024 household windows. Weekday breakfast ends before Elise needs to travel for Blackmere Bank & Exchange's 9:00am opening, and all weekday evening blocks occur after the Bank's 5:00pm close.
 - **Kira:** INT-057 remains Occasional/Seasonal, so Kira's completed Tuesday/Wednesday/family/mentor anchors are not altered.
 - **Felix:** INT-058 remains Occasional, preserving Felix's completed school, children's-group, Milo, Sabrina, and Theo blocks.
 - **Riverbend Fishery Visitors:** Restoration-driven buyers and supply handoffs occur during Nora's existing Fishery hours so future NPC visitor routines can overlap naturally without forcing Nora away from her workplace.

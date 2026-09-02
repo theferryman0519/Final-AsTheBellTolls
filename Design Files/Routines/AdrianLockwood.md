@@ -369,6 +369,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 3 Resident Lane
             - Activity: Eating
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -7210,15 +7213,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Growing:
             - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Flourishing:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Growing:
-            - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
             - Location: A. Whitmore Public Library
@@ -7242,15 +7236,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Working
         - Renewed:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Growing:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Working
         - Growing:
@@ -7282,15 +7267,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Growing:
             - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Flourishing:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Growing:
-            - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
             - Location: A. Whitmore Public Library
@@ -7314,15 +7290,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Working
         - Renewed:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Growing:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Working
         - Growing:
@@ -7354,15 +7321,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Growing:
             - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Flourishing:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Growing:
-            - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
             - Location: A. Whitmore Public Library
@@ -7386,15 +7344,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Working
         - Renewed:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Growing:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Working
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Working
         - Growing:
@@ -8254,6 +8203,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 3 Resident Lane
             - Activity: Eating
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -8316,7 +8268,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Windy:
             - Location: 3 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 3 Resident Lane
             - Activity: Studying
@@ -14161,7 +14113,7 @@ INT-023 household interactions with Sabrina remain eligible during the closure b
 
 ## NPC Interaction Routine Notes
 
-- **INT-023 - Adrian + Sabrina:** This is Adrian's primary recurring social relationship. Weekday breakfast is 7:00am-7:30am. Monday/Wednesday/Friday shared dinner is 6:20pm-7:00pm. Tuesday 7:10pm-8:10pm is shared Reading. Thursday 7:10pm-8:10pm is shared Socializing. Sunday breakfast is 7:50am-8:30am, and Sunday 7:10pm-8:20pm is extended household conversation. Sabrina's future routine should mirror these exact windows.
+- **INT-023 - Adrian + Sabrina:** This is Adrian's primary recurring social relationship. Weekday breakfast is 7:00am-7:30am. Monday/Wednesday/Friday shared dinner is 6:20pm-7:00pm. Tuesday 7:10pm-8:10pm is shared Reading. Thursday 7:10pm-8:10pm is shared Socializing. Sunday breakfast is 7:50am-8:30am, and Sunday 7:10pm-8:20pm is extended household conversation. Sabrina's completed routine mirrors these exact windows.
 - **INT-052 - Adrian + Dante:** Established but Occasional. Use the Public Library or Hall of Wonder for history/archive interaction when a monthly, seasonal, restoration, or event schedule calls for it. No weekly override is forced here.
 - **INT-053 - Adrian + Roland:** Established but Occasional. Library/Town Square history conversations should be scheduled only when Roland's eventual routine or an event supplies a matching block.
 - **INT-061 - Adrian + Milo:** Directional and Occasional because Milo sees Adrian as a mentor while Adrian currently lists Milo as an acquaintance. Do not create a weekly mentoring block unless the relationship is strengthened or a specific school/library activity requires it.
@@ -14170,7 +14122,7 @@ INT-023 household interactions with Sabrina remain eligible during the closure b
 
 ## Cross-NPC Alignment Notes
 
-- **Sabrina:** Future routine must reserve the INT-023 household windows listed above. These are now the source-of-truth times for Adrian/Sabrina recurring household interaction.
+- **Sabrina:** Her completed routine mirrors the INT-023 household windows listed above. These are the source-of-truth times for Adrian/Sabrina recurring household interaction.
 - **Felix:** At Recovering+, Felix's authored Wednesday Library visit overlaps Adrian's normal 3:00pm-5:40pm Library presence. Felix's Sabrina mentoring block therefore occurs while Adrian is naturally present at work; no Adrian override is needed.
 - **Kira/Milo/Anya:** Their weekday School interactions do not require Adrian to move. Library visits should only involve Adrian when an established Library block overlaps his normal work schedule.
 - **Dante and Roland:** Their Adrian relationships remain Occasional rather than being assigned a weekly time that could conflict with their eventual complete routines.

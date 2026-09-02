@@ -2576,6 +2576,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Traveling
     - Weather Override:
@@ -2591,6 +2592,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Traveling
     - Weather Override:
@@ -2606,6 +2608,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Traveling
     - Weather Override:
@@ -2621,6 +2624,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Socializing
     - Weather Override:
@@ -2639,6 +2643,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Socializing
     - Weather Override:
@@ -2657,6 +2662,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Socializing
     - Weather Override:
@@ -2675,6 +2681,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Socializing
     - Weather Override:
@@ -2693,6 +2700,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Socializing
     - Weather Override:
@@ -2711,6 +2719,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Socializing
     - Weather Override:
@@ -2729,8 +2738,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
-        - Location: Blackmere
-        - Activity: Exploring
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -2747,7 +2757,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
-        - Location: Blackmere
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -2765,7 +2776,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Gardening
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
-        - Location: Blackmere
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -2783,7 +2795,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Reading
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
-        - Location: Blackmere
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 5:10pm
     - Base Routine:
@@ -2791,7 +2804,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Reading
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
-        - Location: Blackmere
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 5:20pm
     - Base Routine:
@@ -2799,14 +2813,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Reading
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
-        - Location: Blackmere
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 5:30pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
         - Location: Memorial Hill
         - Activity: Traveling
     - Weather Override:
@@ -2818,10 +2829,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Eating
 - 5:40pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
         - Location: Memorial Hill
         - Activity: Traveling
     - Weather Override:
@@ -2833,10 +2840,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Eating
 - 5:50pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
         - Location: Memorial Hill
         - Activity: Traveling
     - Weather Override:
@@ -3655,6 +3658,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Socializing
     - Weather Override:
@@ -3673,6 +3677,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Socializing
     - Weather Override:
@@ -3691,6 +3696,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Socializing
     - Weather Override:
@@ -3709,6 +3715,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Socializing
     - Weather Override:
@@ -3727,6 +3734,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Socializing
     - Weather Override:
@@ -3745,6 +3753,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
     - Weather Override:
@@ -3763,6 +3772,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
     - Weather Override:
@@ -3781,6 +3791,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
     - Weather Override:
@@ -3799,6 +3810,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Exploring
     - NPC Interaction Override:
         - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
     - Weather Override:
@@ -4651,10 +4663,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Blackmere
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Teaching
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4666,10 +4674,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Blackmere
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Teaching
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4681,10 +4685,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Blackmere
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Teaching
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4696,10 +4696,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Memorial Hill Residence
         - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Teaching
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4711,10 +4707,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Memorial Hill Residence
         - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Teaching
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4726,10 +4718,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Memorial Hill Residence
         - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4741,10 +4729,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Memorial Hill Residence
         - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4756,10 +4740,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Memorial Hill Residence
         - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Gardening
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4769,12 +4749,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Relaxing
 - 4:20pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Location: A. Whitmore Public School
-        - Activity: Gardening
+        - Location: Memorial Hill
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Memorial Hill Residence
@@ -4785,10 +4761,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 4:30pm
     - Base Routine:
         - Location: Memorial Hill
-        - Activity: Gardening
-    - NPC Interaction Override:
-        - Interaction: INT-011: Return to Memorial Hill
-        - Location: Blackmere
         - Activity: Traveling
     - Weather Override:
         - Rainy:
@@ -4803,10 +4775,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 4:40pm
     - Base Routine:
         - Location: Memorial Hill
-        - Activity: Gardening
-    - NPC Interaction Override:
-        - Interaction: INT-011: Return to Memorial Hill
-        - Location: Blackmere
         - Activity: Traveling
     - Weather Override:
         - Rainy:
@@ -4821,10 +4789,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 4:50pm
     - Base Routine:
         - Location: Memorial Hill
-        - Activity: Gardening
-    - NPC Interaction Override:
-        - Interaction: INT-011: Return to Memorial Hill
-        - Location: Blackmere
         - Activity: Traveling
     - Weather Override:
         - Rainy:
@@ -4841,9 +4805,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Memorial Hill
         - Activity: Gardening
     - NPC Interaction Override:
-        - Interaction: INT-011: After mentoring block
-        - Location: Memorial Hill Residence
-        - Activity: Relaxing
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4859,9 +4824,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Memorial Hill
         - Activity: Gardening
     - NPC Interaction Override:
-        - Interaction: INT-011: After mentoring block
-        - Location: Memorial Hill Residence
-        - Activity: Relaxing
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4877,9 +4843,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Memorial Hill
         - Activity: Gardening
     - NPC Interaction Override:
-        - Interaction: INT-011: After mentoring block
-        - Location: Memorial Hill Residence
-        - Activity: Relaxing
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4895,9 +4862,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Memorial Hill
         - Activity: Gardening
     - NPC Interaction Override:
-        - Interaction: INT-011: After mentoring block
-        - Location: Memorial Hill Residence
-        - Activity: Relaxing
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4913,9 +4881,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Memorial Hill
         - Activity: Gardening
     - NPC Interaction Override:
-        - Interaction: INT-011: After mentoring block
-        - Location: Memorial Hill Residence
-        - Activity: Relaxing
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4931,9 +4900,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Memorial Hill
         - Activity: Gardening
     - NPC Interaction Override:
-        - Interaction: INT-011: After mentoring block
-        - Location: Memorial Hill Residence
-        - Activity: Relaxing
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4947,17 +4917,21 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 6:00pm
     - Base Routine:
         - Location: Memorial Hill Residence
-        - Activity: Eating
+        - Activity: Reading
 - 6:10pm
     - Base Routine:
         - Location: Memorial Hill Residence
-        - Activity: Eating
+        - Activity: Reading
 - 6:20pm
     - Base Routine:
         - Location: Memorial Hill Residence
-        - Activity: Eating
+        - Activity: Reading
 - 6:30pm
     - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
         - Location: Memorial Hill Residence
         - Activity: Eating
     - Weather Override:
@@ -4969,8 +4943,12 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
 - 6:40pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Walking
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4983,8 +4961,12 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
 - 6:50pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Walking
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -4997,8 +4979,12 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
 - 7:00pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Walking
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -5011,6 +4997,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
 - 7:10pm
     - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
         - Location: Memorial Hill
         - Activity: Walking
     - Weather Override:
@@ -5027,6 +5018,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Memorial Hill
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
     - Weather Override:
         - Rainy:
             - Location: Memorial Hill Residence
@@ -5039,16 +5035,31 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
 - 7:30pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 7:40pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 7:50pm
     - Base Routine:
-        - Location: Memorial Hill Residence
-        - Activity: Reading
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 8:00pm
     - Base Routine:
         - Location: Memorial Hill Residence
@@ -8338,76 +8349,151 @@ The closure routine intentionally keeps Anya closer to Memorial Hill than the mo
         - Routine: School Seasonal Closure
         - Location: Town Square
         - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
 - 3:10pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Town Square
         - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
 - 3:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Town Square
         - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-007: Blackmere Children's Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Traveling
 - 3:30pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Blackmere
-        - Activity: Exploring
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:40pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Blackmere
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:50pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Blackmere
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:00pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Blackmere
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:10pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Blackmere
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Blackmere
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:30pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
+        - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Blackmere
+        - Location: Resident Lanes District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 4:50pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Blackmere
+        - Location: Resident Lanes District
+        - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 5:00pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill
         - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
+        - Activity: Exploring
 - 5:10pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill
         - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
+        - Activity: Exploring
 - 5:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill
         - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-007: Anya, Felix, Kira, Milo
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Resident Lanes District
+        - Activity: Exploring
 - 5:30pm
     - Base Routine:
         - Routine: School Seasonal Closure
@@ -8896,46 +8982,91 @@ The closure routine intentionally keeps Anya closer to Memorial Hill than the mo
         - Routine: School Seasonal Closure
         - Location: Memorial Hill
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Socializing
 - 3:40pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Socializing
 - 3:50pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill
         - Activity: Exploring
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Socializing
 - 4:00pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill Residence
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Socializing
 - 4:10pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill Residence
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Socializing
 - 4:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill Residence
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 4:30pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill Residence
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 4:40pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill Residence
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 4:50pm
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Memorial Hill Residence
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-008: Anya + Kira
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
 - 5:00pm
     - Base Routine:
         - Routine: School Seasonal Closure
@@ -10264,7 +10395,7 @@ The closure routine intentionally keeps Anya closer to Memorial Hill than the mo
 - **INT-007 - Blackmere Children's Group:** Tuesday after school. Anya meets Felix, Kira, and Milo in Town Square and joins a contained Blackmere exploration before returning home for dinner.
 - **INT-008 - Anya + Kira:** Wednesday after school at Memorial Hill. This gives the best-friend relationship a quieter block distinct from the larger Tuesday group. Kira brings movement and curiosity; Anya keeps the interaction closer to observation and conversation.
 - **INT-010 - School Community:** Monday through Friday school hours remain Base Routine because Anya, Felix, Kira, Milo, and Sabrina are already naturally aligned at the school.
-- **INT-011 - Sabrina + Anya:** Thursday after school. Sabrina spends individual time with Anya through teaching and gardening before Anya returns to Memorial Hill.
+- **INT-011 - Sabrina + Anya:** Thursday 5:00pm-5:50pm at Memorial Hill for Gardening. Anya and Sabrina travel from the School toward Memorial Hill beforehand, keeping this individual mentoring block separate from Kira's earlier INT-013 session.
 - **INT-022 - Lena + Anya:** Daily meals, evening walks, and home time are already embedded in Anya's Base Routine and therefore do not require redundant NPC Interaction Overrides.
 
 ---

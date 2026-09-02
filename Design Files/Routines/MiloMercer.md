@@ -220,7 +220,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 9:30am
     - Base Routine:
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -346,7 +346,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 11:00am
     - Base Routine:
         - Location: Mercer Farms Residence
-        - Activity: Relaxing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -3143,8 +3143,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -3159,7 +3159,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -3175,7 +3175,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -3191,7 +3191,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -3207,7 +3207,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -3223,7 +3223,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -3236,11 +3236,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -3252,11 +3247,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -3267,11 +3257,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:50pm
     - Base Routine:
         - Location: Mercer Farms Residence
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -5110,16 +5095,16 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 4:10pm
     - Base Routine:
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-009: Felix + Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
-            - Activity: Playing
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Mercer Farms Residence
             - Activity: Studying
@@ -5242,12 +5227,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 5:20pm
     - Base Routine:
-        - Location: Mercer Farms
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
+        - Location: Mercer Farms Residence
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -5258,12 +5238,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 5:30pm
     - Base Routine:
-        - Location: Mercer Farms
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
+        - Location: Mercer Farms Residence
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -5274,12 +5249,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 5:40pm
     - Base Routine:
-        - Location: Mercer Farms
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
+        - Location: Mercer Farms Residence
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -5290,12 +5260,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 5:50pm
     - Base Routine:
-        - Location: Mercer Farms
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
+        - Location: Mercer Farms Residence
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -6749,7 +6714,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 9:30am
     - Base Routine:
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -7208,7 +7173,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7234,7 +7199,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7260,7 +7225,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7286,7 +7251,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Jasmine available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7868,7 +7833,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -8923,7 +8888,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -9470,8 +9435,8 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9487,7 +9452,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9504,7 +9469,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9521,7 +9486,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9538,7 +9503,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9555,7 +9520,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -9569,11 +9534,6 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9586,11 +9546,6 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -9602,11 +9557,6 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -10068,7 +10018,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -11123,7 +11073,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -11637,7 +11587,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
         - Interaction: INT-009: Felix + Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -11750,12 +11700,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
 - 5:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Mercer Farms
-        - Activity: Playing
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
+        - Location: Mercer Farms Residence
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -11769,11 +11714,6 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -11786,11 +11726,6 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -11802,11 +11737,6 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Residence
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Mercer Farms
         - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
@@ -12268,7 +12198,7 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Mercer Farms Riverbank
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Mercer Farms Residence
@@ -13173,13 +13103,13 @@ During the closure, Milo stays centered on Mercer Farms, its riverbank, family p
 ## NPC Interaction Routine Notes
 
 - **INT-001 - Mercer Household:** Daily household meals and evening family time with Claudia, Jonas, Jasmine, and Kira are embedded directly in Milo's Base Routine.
-- **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms. This exactly matches Kira's authored routine. Claudia's future routine should reserve the same period.
+- **INT-003 - Claudia + Kira + Milo:** Friday 3:30pm-4:20pm at Mercer Farms. This exactly matches Kira's authored routine. Claudia's completed routine reserves the same period.
 - **INT-005 - Jonas + Milo:** Sunday 1:00pm-3:50pm including travel, with Fishing at Graythorne Lake from 1:30pm-3:20pm. This is Milo's dedicated weekly father/son outing and becomes the exact anchor Jonas should mirror.
-- **INT-006 - Jasmine + Kira + Milo:** Saturday 2:30pm-3:10pm Playing and 3:20pm-3:50pm Exploring at Mercer Farms. This exactly matches Kira's authored routine.
-- **INT-007 - Blackmere Children's Group:** Tuesday exactly matches Anya, Felix, and Kira: 3:00pm-3:20pm travel toward Town Square, 3:30pm-4:20pm Socializing, 4:30pm-5:20pm Exploring through Blackmere, and 5:30pm-5:50pm return travel.
-- **INT-009 - Felix + Milo:** Thursday exactly matches Felix: 3:00pm-3:20pm travel, 3:30pm-4:00pm Playing at Winding Banks Inn, 4:10pm-5:10pm Exploring around the River Wharf, and 5:20pm-5:50pm return travel.
+- **INT-006 - Jasmine + Kira + Milo:** Saturday 2:30pm-3:10pm Playing and 3:20pm-3:50pm Socializing at Mercer Farms. This exactly matches Kira's authored routine.
+- **INT-007 - Blackmere Children's Group:** Tuesday exactly matches Anya, Felix, and Kira: 3:00pm-3:20pm travel toward Town Square, 3:30pm-4:20pm Socializing, 4:30pm shared travel into Resident Lanes District, and 4:40pm-5:20pm Exploring there. The interaction ends at 5:20pm; return travel after that is individual Base Routine.
+- **INT-009 - Felix + Milo:** Thursday exactly matches Felix through the shared interaction: 3:00pm-3:20pm travel, 3:30pm-4:00pm Playing at Winding Banks Inn, 4:10pm shared travel to River Wharf District, and 4:20pm-5:10pm Exploring. The interaction ends at 5:10pm; Milo and Felix use separate Base `Traveling` afterward.
 - **INT-010 - School Community:** Weekday school hours remain Base Routine because Sabrina, Anya, Felix, Kira, and Milo naturally overlap there while the school is open.
-- **INT-014 - Sabrina + Milo:** Monday 3:00pm-3:20pm Playing/settling into the after-school block, followed by 3:30pm-4:10pm Teaching. This establishes a non-conflicting individual mentoring window for Sabrina's future routine.
+- **INT-014 - Sabrina + Milo:** Monday 3:00pm-3:20pm Playing/settling into the after-school block, followed by 3:30pm-4:10pm Teaching. This establishes a non-conflicting individual mentoring window for Sabrina's completed routine.
 
 ---
 

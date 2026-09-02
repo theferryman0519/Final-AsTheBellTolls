@@ -359,11 +359,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -384,11 +379,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -409,11 +399,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -434,11 +419,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -459,11 +439,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -484,11 +459,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -509,16 +479,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -539,16 +499,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -569,16 +519,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-050: Walter + Roland
-        - Condition: Fourth Sunday of each season; Roland available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -599,11 +539,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -624,11 +559,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -649,11 +579,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Shopkeeping
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Restoration Override:
         - Recovering:
             - Location: Blackmere General Store
@@ -674,11 +599,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Rebuilding:
             - Location: Blackmere General Store
@@ -702,11 +622,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Rebuilding:
             - Location: Blackmere General Store
@@ -730,11 +645,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Blackmere General Store
         - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Irene available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Restoration Override:
         - Rebuilding:
             - Location: Blackmere General Store
@@ -2043,9 +1953,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 11:40am
     - Base Routine:
         - Location: Blackmere General Store
@@ -2064,9 +1971,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere General Store
             - Activity: Working
         - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
         - Flourishing:
@@ -2095,9 +1999,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 12:00pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -2116,9 +2017,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere General Store
             - Activity: Working
         - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
         - Flourishing:
@@ -3345,15 +3243,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 3:40pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -3366,15 +3255,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere General Store
             - Activity: Working
         - Renewed:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
         - Growing:
@@ -3409,15 +3289,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 4:00pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -3441,15 +3312,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 4:10pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -3462,15 +3324,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere General Store
             - Activity: Working
         - Renewed:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
         - Growing:
@@ -5153,12 +5006,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 3:40pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -5174,12 +5021,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere General Store
             - Activity: Working
         - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
         - Prospering:
@@ -5211,12 +5052,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 4:00pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -5240,12 +5075,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
-            - Location: Blackmere General Store
-            - Activity: Working
 - 4:10pm
     - Base Routine:
         - Location: Blackmere General Store
@@ -5261,12 +5090,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere General Store
             - Activity: Working
         - Growing:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Prospering:
-            - Location: Blackmere General Store
-            - Activity: Working
-        - Flourishing:
             - Location: Blackmere General Store
             - Activity: Working
         - Prospering:
@@ -5501,7 +5324,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 7:30am
     - Base Routine:
         - Location: Graythorne River
-        - Activity: Fishing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5739,36 +5562,71 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Repairing
 - 2:50pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Traveling
 - 3:00pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:10pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:20pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:30pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:40pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 3:50pm
     - Base Routine:
-        - Location: Blackmere General Store
-        - Activity: Repairing
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-050: Walter + Roland
+        - Condition: Fourth Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:00pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Traveling
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5778,8 +5636,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Reading
 - 4:10pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Traveling
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5789,8 +5652,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Reading
 - 4:20pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Traveling
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5800,8 +5668,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Reading
 - 4:30pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Sitting
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5811,8 +5684,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Repairing
 - 4:40pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Sitting
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5822,8 +5700,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Repairing
 - 4:50pm
     - Base Routine:
-        - Location: Memorial Hill
-        - Activity: Sitting
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -5834,7 +5717,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 5:00pm
     - Base Routine:
         - Location: Memorial Hill
-        - Activity: Sitting
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere General Store
@@ -6070,8 +5953,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## NPC Interaction Routine Notes
 
-- **INT-049 - Walter + Irene:** Exact mirror of Irene's completed routine. Third Sunday of each season: 2:30pm-3:20pm Walking in Town Square, followed by 3:30pm-3:50pm Socializing, weather permitting.
-- **INT-050 - Walter + Roland:** Exact mirror of Roland's completed routine. Fourth Sunday of each season: 1:30pm-2:50pm Socializing in Town Square, weather permitting.
+- **INT-049 - Walter + Irene:** Exact mirror of Irene's completed routine. Third Saturday of each season: 4:00pm-4:30pm Walking in Town Square, followed by 4:40pm-4:50pm Socializing, weather permitting.
+- **INT-050 - Walter + Roland:** Exact mirror of Roland's completed routine. Fourth Saturday of each season: 3:00pm-3:50pm Socializing in Town Square, weather permitting.
 - **INT-051 - Walter + Victor:** Directional Friend / Acquaintance, Occasional, Socializing / Shopping at Blackmere General Store or Caravan Stall. Victor's completed routine intentionally leaves this Occasional, so Walter does not add a hard weekly block.
 - **INT-056 - Lucian/Vivian + Walter:** Established Friends, Occasional, Repairing / Socializing at General Store or Town Square. No fixed time is invented before Lucian/Vivian's full routine is authored.
 
@@ -6079,18 +5962,16 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## Cross-NPC Alignment Notes
 
-- **Irene:** Third-Sunday INT-049 exactly matches Irene's completed routine.
-- **Roland:** Fourth-Sunday INT-050 exactly matches Roland's completed routine.
+- **Irene:** Third-Saturday INT-049 exactly matches Irene's rewritten routine.
+- **Roland:** Fourth-Saturday INT-050 exactly matches Roland's rewritten routine.
 - **Victor:** INT-051 remains Occasional, matching Victor's completed routine.
-- **Lucian/Vivian:** INT-056 remains Occasional and does not constrain the rival's future routine.
+- **Lucian/Vivian:** INT-056 remains Occasional and does not constrain the rival's completed routine.
 
 ---
 
-## General Store Coverage Conflict
+## General Store Coverage Resolution
 
-INT-049 and INT-050 were already established by Irene and Roland during hours when Blackmere General Store is documented as open. Because Walter is the Store's owner and no alternate clerk or automatic-shop system is specified in the current source files, these Sunday social anchors create a real coverage question: on the third Sunday Walter is away from approximately 2:30pm-3:50pm, and on the fourth Sunday he is away from approximately 1:30pm-2:50pm.
-
-This file preserves the previously established cross-NPC times rather than silently changing Irene or Roland. Before implementation, one canonical rule should resolve the shop behavior during those windows: either the Store temporarily becomes unavailable, another NPC/staffing system covers the counter, or the interaction times are deliberately moved for all participants. Until Carey chooses one, the routine treats the NPC Interaction Override as higher priority than Walter's Base Shopkeeping.
+The earlier Sunday INT-049/INT-050 anchors pulled Walter away during General Store opening hours. Both low-frequency friendships now occur on **Saturday**, the Store's documented closed day. INT-050 with Roland runs on the fourth Saturday from 3:00pm-3:50pm. INT-049 with Irene runs on the third Saturday from 4:00pm-4:50pm. Walter has explicit Base `Traveling` before and after these windows, so the Store no longer needs substitute staffing or an unexplained temporary closure.
 
 ---
 

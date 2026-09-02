@@ -27,7 +27,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - **Weather Closures:** Rainy (Severe) and Snowy (Severe).
 - **Residence:** Thread & Thimble is also Leo's home, so public shop closure does not force him out of the building.
 - **Ordinary Rain:** Neutral. The shop remains open; optional Town Square inspiration/social blocks move indoors when needed.
-- **NPC Interactions:** Recurring interaction timing comes from `NpcInteractionTable.md` and already-authored NPC schedules. Roland's existing profile routine is the source of truth for INT-031 timing.
+- **NPC Interactions:** Recurring interaction timing comes from `NpcInteractionTable.md` and already-authored NPC schedules. Roland's existing profile routine is the source of truth for INT-036 timing.
 
 ---
 
@@ -1646,7 +1646,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:30pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Eating
+        - Activity: Traveling
 - 12:40pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -2289,7 +2289,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2324,7 +2324,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2359,7 +2359,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2394,7 +2394,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2429,7 +2429,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2464,7 +2464,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2499,7 +2499,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2534,7 +2534,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2569,7 +2569,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -2604,7 +2604,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2639,7 +2639,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2674,7 +2674,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2709,7 +2709,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2718,7 +2718,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2727,7 +2727,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2736,7 +2736,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2745,7 +2745,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2761,7 +2761,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2777,7 +2777,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -2793,7 +2793,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -4259,15 +4259,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Growing:
             - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
             - Activity: Working
         - Prospering:
             - Location: Thread & Thimble
@@ -4288,15 +4279,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Growing:
             - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
             - Activity: Working
         - Prospering:
             - Location: Thread & Thimble
@@ -4313,15 +4295,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Renewed:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Growing:
@@ -4353,15 +4326,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Growing:
             - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
             - Activity: Working
         - Prospering:
             - Location: Thread & Thimble
@@ -4385,15 +4349,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Renewed:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Growing:
@@ -4425,15 +4380,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Growing:
             - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
             - Activity: Working
         - Prospering:
             - Location: Thread & Thimble
@@ -4457,15 +4403,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Renewed:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Growing:
@@ -4497,15 +4434,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Growing:
             - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
             - Activity: Working
         - Prospering:
             - Location: Thread & Thimble
@@ -4529,15 +4457,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Renewed:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Growing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Growing:
@@ -5134,7 +5053,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5169,7 +5088,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5204,7 +5123,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5239,7 +5158,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5274,7 +5193,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5309,7 +5228,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5344,7 +5263,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5379,7 +5298,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5414,7 +5333,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -5449,7 +5368,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5484,7 +5403,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5519,7 +5438,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5554,7 +5473,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5563,7 +5482,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5572,7 +5491,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5581,7 +5500,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5590,7 +5509,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5606,7 +5525,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5622,7 +5541,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -5638,7 +5557,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8105,7 +8024,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8140,7 +8059,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8175,7 +8094,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8210,7 +8129,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8245,7 +8164,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8280,7 +8199,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8315,7 +8234,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8350,7 +8269,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8385,7 +8304,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Socializing
@@ -8420,7 +8339,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8429,7 +8348,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8438,7 +8357,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8447,7 +8366,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8456,7 +8375,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8472,7 +8391,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8488,7 +8407,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8504,7 +8423,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8520,7 +8439,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8536,7 +8455,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8552,7 +8471,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Thread & Thimble
         - Activity: Shopkeeping
     - NPC Interaction Override:
-        - Interaction: INT-031: Leo + Roland
+        - Interaction: INT-036: Leo + Roland
         - Condition: Thread & Thimble open; Roland available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Thread & Thimble
         - Activity: Working
@@ -8660,9 +8579,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
 - 3:10pm
     - Base Routine:
         - Location: Thread & Thimble
@@ -8683,9 +8599,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
 - 3:20pm
     - Base Routine:
         - Location: Thread & Thimble
@@ -8701,9 +8614,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Flourishing:
@@ -8736,9 +8646,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
 - 3:40pm
     - Base Routine:
         - Location: Thread & Thimble
@@ -8761,9 +8668,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Flourishing:
@@ -8796,9 +8700,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
 - 4:00pm
     - Base Routine:
         - Location: Thread & Thimble
@@ -8821,9 +8722,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Flourishing:
@@ -8856,9 +8754,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
-        - Flourishing:
-            - Location: Thread & Thimble
-            - Activity: Socializing
 - 4:20pm
     - Base Routine:
         - Location: Thread & Thimble
@@ -8881,9 +8776,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Thread & Thimble
             - Activity: Socializing
         - Prospering:
-            - Location: Thread & Thimble
-            - Activity: Socializing
-        - Flourishing:
             - Location: Thread & Thimble
             - Activity: Socializing
         - Flourishing:
@@ -9364,8 +9256,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 ## NPC Interaction Routine Notes
 
-- **INT-031 - Leo + Roland:** The exact recurring schedule comes from Roland's already-authored profile routine. Tuesday and Thursday: 10:00am-11:20am Socializing at Thread & Thimble, followed by 11:30am-1:10pm Working while Roland remains nearby. Saturday: 10:30am-11:50am Socializing, followed by 12:00pm-1:40pm Working. Roland's presence is not treated as a customer transaction; he watches Leo work, talks with him, and offers advice only when invited.
-- Roland's relationship with Leo also carries an informal mentorship component, but no separate mentorship override is necessary because it occurs inside INT-031.
+- **INT-036 - Leo + Roland:** The exact recurring schedule comes from Roland's already-authored profile routine. Tuesday and Thursday: 10:00am-11:20am Socializing at Thread & Thimble, followed by 11:30am-1:10pm Working while Roland remains nearby. Saturday: 10:30am-11:50am Socializing, followed by 12:00pm-1:40pm Working. Roland's presence is not treated as a customer transaction; he watches Leo work, talks with him, and offers advice only when invited.
+- Roland's relationship with Leo also carries an informal mentorship component, but no separate mentorship override is necessary because it occurs inside INT-036.
 - Leo's Friend relationships with Nora, Sabrina, Victor, Adrian, Beatrice, Frederick, Helen, Theo, and others are not automatically converted into weekly appointments. They can overlap naturally with Town Square, Winding Banks Inn, festivals, restoration events, and other communal routines.
 - **Milo:** Milo lists Leo as Friend/Mentor, while Leo lists Milo as Friend. This is not currently assigned a fixed weekly mentoring block so Milo's already-established child routine remains stable.
 

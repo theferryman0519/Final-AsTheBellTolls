@@ -15,7 +15,7 @@ Sabrina follows a school-centered routine built around A. Whitmore Public School
 
 A. Whitmore Public School is open from 8:00am to 3:00pm Monday through Friday, closed Saturday and Sunday, closed during Rainy (Severe) and Snowy (Severe), and closed from Day 18 of Winter until its Day 4 Spring reopening. Sabrina first becomes available on Day 4 of Spring, Year 1.
 
-Adrian is Sabrina's best friend and housemate. His completed routine already establishes the canonical INT-023 household times, so Sabrina mirrors those exact windows. The completed child routines also establish Sabrina's individual mentoring windows with Milo, Felix, Kira, and Anya. One collision exists in the already-authored data: Anya and Kira both use Thursday after-school Sabrina interactions at the same School location. Rather than make Sabrina resolve two atomic NPC Interaction Overrides at once, this routine treats the overlap as one small-group mentoring block while preserving both children's existing times and location.
+Adrian is Sabrina's best friend and housemate. His completed routine already establishes the canonical INT-023 household times, so Sabrina mirrors those exact windows. The child mentoring schedule is now separated cleanly: Kira uses INT-013 at the School from 3:00pm-4:10pm Thursday, then Sabrina and Anya travel to Memorial Hill for INT-011 from 5:00pm-5:50pm. Sabrina therefore never needs to resolve two NPC Interaction Overrides simultaneously.
 
 This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
 
@@ -232,6 +232,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -3198,18 +3202,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
-        - Renewed:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
 - 2:10pm
     - Base Routine:
         - Location: A. Whitmore Public School
@@ -3223,18 +3215,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Recovering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Renewed:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Renewed:
@@ -3276,18 +3256,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
-        - Renewed:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
 - 2:30pm
     - Base Routine:
         - Location: A. Whitmore Public School
@@ -3301,18 +3269,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Recovering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Renewed:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Renewed:
@@ -3354,18 +3310,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
-        - Renewed:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
 - 2:50pm
     - Base Routine:
         - Location: A. Whitmore Public School
@@ -3379,18 +3323,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Studying
     - Restoration Override:
         - Recovering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Renewed:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Renewed:
@@ -5077,8 +5009,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 4:10pm
     - Base Routine:
-        - Location: A. Whitmore Public School
-        - Activity: Working
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 3 Resident Lane
@@ -5141,7 +5073,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:10pm
     - Base Routine:
         - Location: 3 Resident Lane
-        - Activity: Reading
+        - Activity: Traveling
 - 5:20pm
     - Base Routine:
         - Location: 3 Resident Lane
@@ -6550,10 +6482,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
-        - Activity: Teaching
+        - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
             - Location: 3 Resident Lane
@@ -6566,10 +6498,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
-        - Activity: Teaching
+        - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
             - Location: 3 Resident Lane
@@ -6582,10 +6514,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
-        - Activity: Teaching
+        - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
             - Location: 3 Resident Lane
@@ -6598,7 +6530,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
@@ -6614,7 +6546,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
@@ -6630,7 +6562,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
@@ -6646,7 +6578,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
@@ -6662,7 +6594,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: A. Whitmore Public School
         - Activity: Working
     - NPC Interaction Override:
-        - Interaction: INT-011 + INT-013: Sabrina + Anya + Kira
+        - Interaction: INT-013: Sabrina + Kira
         - Condition: School open; School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
         - Location: A. Whitmore Public School
         - Activity: Teaching
@@ -6675,13 +6607,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 4:20pm
     - Base Routine:
-        - Location: A. Whitmore Public School
-        - Activity: Working
-    - NPC Interaction Override:
-        - Interaction: INT-011: Sabrina + Anya
-        - Condition: School open; Not Rainy or Rainy (Severe) or Snowy (Severe)
-        - Location: A. Whitmore Public School
-        - Activity: Gardening
+        - Location: Memorial Hill
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 3 Resident Lane
@@ -6691,48 +6618,99 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 4:30pm
     - Base Routine:
-        - Location: 3 Resident Lane
+        - Location: Memorial Hill
         - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
 - 4:40pm
     - Base Routine:
-        - Location: 3 Resident Lane
+        - Location: Memorial Hill
         - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
 - 4:50pm
     - Base Routine:
-        - Location: 3 Resident Lane
+        - Location: Memorial Hill
         - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
 - 5:00pm
     - Base Routine:
         - Location: 3 Resident Lane
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
 - 5:10pm
     - Base Routine:
         - Location: 3 Resident Lane
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
 - 5:20pm
     - Base Routine:
         - Location: 3 Resident Lane
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
 - 5:30pm
     - Base Routine:
         - Location: 3 Resident Lane
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
 - 5:40pm
     - Base Routine:
         - Location: 3 Resident Lane
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
 - 5:50pm
     - Base Routine:
         - Location: 3 Resident Lane
         - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-011: Sabrina + Anya
+        - Condition: School restoration at least Recovering; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Gardening
 - 6:00pm
     - Base Routine:
         - Location: 3 Resident Lane
-        - Activity: Reading
+        - Activity: Traveling
 - 6:10pm
     - Base Routine:
         - Location: 3 Resident Lane
-        - Activity: Reading
+        - Activity: Traveling
 - 6:20pm
     - Base Routine:
         - Location: 3 Resident Lane
@@ -7984,9 +7962,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
-            - Location: A. Whitmore Public School
             - Activity: Attending
 - 2:10pm
     - Base Routine:
@@ -8010,9 +7985,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
@@ -8044,9 +8016,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
-            - Location: A. Whitmore Public School
             - Activity: Attending
 - 2:30pm
     - Base Routine:
@@ -8070,9 +8039,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
@@ -8104,9 +8070,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
-            - Location: A. Whitmore Public School
             - Activity: Attending
 - 2:50pm
     - Base Routine:
@@ -8130,9 +8093,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Teaching
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
@@ -8745,11 +8705,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Town Square
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: 3 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
 - 1:10pm
     - Base Routine:
         - Location: Town Square
@@ -11693,7 +11653,7 @@ School-based INT-011, INT-012, INT-013, and INT-014 blocks do not run while the 
 - **INT-023 - Adrian + Sabrina:** Exact mirror of Adrian's completed routine. Weekday breakfast is 7:00am-7:30am. Monday/Wednesday/Friday dinner is 6:20pm-7:00pm. Tuesday 7:10pm-8:10pm is shared Reading. Thursday 7:10pm-8:10pm is Socializing. Sunday breakfast is 7:50am-8:30am, and Sunday 7:10pm-8:20pm is extended household conversation.
 - **INT-014 - Sabrina + Milo:** Exact mirror of Milo. Monday 3:00pm-3:20pm Playing at A. Whitmore Public School, then 3:30pm-4:10pm Teaching. Requires the School to be open and at least Recovering.
 - **INT-012 - Sabrina + Felix:** Exact mirror of Felix. Wednesday 4:20pm-5:00pm Teaching at A. Whitmore Public Library. Requires the Library to be available and at least Recovering.
-- **INT-011 / INT-013 - Sabrina + Anya + Kira:** The completed Anya and Kira routines currently overlap on Thursday after school at A. Whitmore Public School. Sabrina therefore treats 3:00pm-4:10pm as a shared small-group mentoring period so both children remain physically aligned with their authored schedules. At 4:20pm, Anya's final Gardening tick remains INT-011 only. This should eventually be represented by one canonical multi-participant interaction record rather than two atomic Sabrina overrides.
+- **INT-013 - Sabrina + Kira:** Thursday 3:00pm-3:20pm Exploring at A. Whitmore Public School, followed by 3:30pm-4:10pm Teaching. **INT-011 - Sabrina + Anya:** after travel from the School, Thursday 5:00pm-5:50pm Gardening at Memorial Hill. The two mentoring relationships now have distinct windows and no atomic-override collision.
 - **INT-045 - Sabrina + Beatrice:** Established but Occasional. No fixed weekly appointment is forced; use school/Town Hall overlap, restoration content, or a specific event when needed.
 
 ---
@@ -11704,14 +11664,14 @@ School-based INT-011, INT-012, INT-013, and INT-014 blocks do not run while the 
 - **Milo:** Monday INT-014 exactly matches Milo's completed 3:00pm-4:10pm block.
 - **Felix:** Wednesday INT-012 exactly matches Felix's completed 4:20pm-5:00pm Library block.
 - **Kira:** Thursday INT-013 preserves Kira's completed 3:00pm-4:10pm School mentoring window.
-- **Anya:** Thursday INT-011 preserves Anya's completed 3:00pm-4:20pm School mentoring/gardening window. Because it overlaps Kira, Sabrina resolves the shared portion as one combined small-group block.
+- **Anya:** Thursday INT-011 now runs 5:00pm-5:50pm at Memorial Hill, exactly matching Anya's corrected routine and remaining separate from Kira's earlier School block.
 - **School Community:** INT-010 remains Base Routine on open weekdays. Sabrina teaches while Anya, Felix, Kira, and Milo attend School, so no redundant NPC Interaction Override is required for ordinary class time.
 
 ---
 
 ## Interaction Consistency Note
 
-The current completed child routines contain one schedule-model conflict that should be normalized before implementation: Anya's INT-011 and Kira's INT-013 both require Sabrina on Thursday from 3:00pm through 4:10pm. The location is the same, so the characters can physically coexist, but the NPC Routine System's atomic first-valid-override model does not provide a clean way for Sabrina to resolve two separate NPC Interaction IDs simultaneously. This Sabrina routine preserves all authored times by treating that overlap as a shared mentoring session. A future revision to `NpcInteractionTable.md` should either create a canonical Sabrina/Anya/Kira group interaction for that Thursday window or move one child's individual mentoring block and update both participant files together.
+The previous Thursday mentoring collision has been resolved in the routines themselves. Kira's INT-013 ends at 4:10pm at A. Whitmore Public School; Sabrina and Anya then use travel time before their separate INT-011 Gardening block at Memorial Hill from 5:00pm-5:50pm. No combined interaction ID or simultaneous first-valid override is required.
 
 ---
 

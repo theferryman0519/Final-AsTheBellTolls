@@ -15,7 +15,7 @@ Madison follows a duty-heavy routine centered on Blackmere Town Hall, patrol rou
 
 Blackmere Town Hall is open from 8:00am to 5:00pm every day and has no weather closures. Madison's weekday schedule therefore combines office work during those hours with active patrols before, during, and after the public workday. Her favorite location is not a single building but Blackmere's paths, matching her ranger background and the way she approaches safety through constant observation.
 
-Madison's strongest recurring relationship is Beatrice, her best friend and civic counterpart. Several Town Hall work blocks are established here as exact recurring times for Beatrice's future routine to mirror. Lena remains a lower-frequency but emotionally significant best friend/mentor connection, so Madison receives a monthly Memorial Hill block instead of a weekly obligation. Her 5 Resident Lane household meals exactly match the already-authored Dante routine.
+Madison's strongest recurring relationship is Beatrice, her best friend and civic counterpart. Several Town Hall work blocks are established here as exact recurring times for Beatrice's completed routine to mirror. Lena remains a lower-frequency but emotionally significant best friend/mentor connection, so Madison receives a monthly Memorial Hill block instead of a weekly obligation. Her 5 Resident Lane household meals exactly match the already-authored Dante routine.
 
 This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
 
@@ -35,7 +35,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## Weekly Routine
 
 ### Sunday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -91,13 +90,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 8:10am
     - Base Routine:
         - Location: Blackmere
@@ -502,6 +501,16 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:40pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -529,13 +538,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 1:40pm
     - Base Routine:
         - Location: Town Square
@@ -652,6 +661,16 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 5 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy:
+            - Location: 5 Resident Lane
+            - Activity: Traveling
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Traveling
 - 3:10pm
     - Base Routine:
         - Location: 5 Resident Lane
@@ -922,7 +941,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Monday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -958,13 +976,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
 - 7:20am
     - Base Routine:
         - Location: Resident Lanes District
@@ -1979,10 +1997,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Rainy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
 - 6:10pm
     - Base Routine:
         - Location: Blackmere
@@ -2201,7 +2219,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Tuesday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -2237,13 +2254,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
 - 7:20am
     - Base Routine:
         - Location: Resident Lanes District
@@ -3273,10 +3290,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Rainy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
 - 6:10pm
     - Base Routine:
         - Location: Blackmere
@@ -3439,7 +3456,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Wednesday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -3475,13 +3491,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
 - 7:20am
     - Base Routine:
         - Location: Resident Lanes District
@@ -4544,10 +4560,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Rainy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
 - 6:10pm
     - Base Routine:
         - Location: Blackmere
@@ -4710,7 +4726,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Thursday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -4746,13 +4761,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
 - 7:20am
     - Base Routine:
         - Location: Resident Lanes District
@@ -5803,10 +5818,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Rainy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
     - Restoration Override:
         - Growing:
             - Location: Blackmere Town Hall
@@ -5999,7 +6014,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Friday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -6035,13 +6049,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
 - 7:20am
     - Base Routine:
         - Location: Resident Lanes District
@@ -7128,10 +7142,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
         - Rainy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: 5 Resident Lane
-            - Activity: Working
+            - Activity: Traveling
 - 6:10pm
     - Base Routine:
         - Location: Blackmere
@@ -7350,7 +7364,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Saturday
-
 - 6:00am
     - Base Routine:
         - Location: 5 Resident Lane
@@ -7394,10 +7407,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Eating
+            - Activity: Traveling
 - 7:40am
     - Base Routine:
         - Location: Blackmere
@@ -7760,6 +7773,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
+    - Weather Override:
+        - Rainy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -7787,13 +7804,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy:
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 1:10pm
     - Base Routine:
         - Location: Blackmere
@@ -8373,7 +8390,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 ## NPC Interaction Routine Notes
 
-- **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm shared household dinner with Dante and Victor. These times exactly match Dante's completed routine and should also be mirrored in Victor's future routine.
+- **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm shared household dinner with Dante and Victor. These times exactly match Dante's completed routine and should also be mirrored in Victor's completed routine.
 - **INT-031 - Beatrice + Madison:** Monday 8:30am-9:20am Working at Blackmere Town Hall; Wednesday 1:00pm-1:50pm Working; Friday 4:30pm-4:50pm Socializing/debriefing at Town Hall. These are now the exact source-of-truth recurring Beatrice/Madison times for Beatrice's future complete routine.
 - **INT-032 - Lena + Madison:** First Sunday of each season, 11:00am-12:20pm Walking at Memorial Hill. This keeps the relationship emotionally meaningful but appropriately low-frequency, matching the interaction table's Biweekly/Monthly guidance.
 - **INT-047 - Town Hall Civic Group:** Beatrice, Madison, and Martin naturally overlap at Town Hall on weekdays. Most civic coordination should remain Base Routine or be scheduled through restoration/event content rather than forcing another fixed weekly social override.
@@ -8383,9 +8400,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## Cross-NPC Alignment Notes
 
 - **Dante:** INT-025 exactly matches Dante's completed Monday/Friday/Sunday household dinner blocks.
-- **Victor:** His future routine should reserve Monday, Friday, and Sunday 8:20pm-8:50pm for INT-025.
-- **Beatrice:** Her future routine must reserve Monday 8:30am-9:20am, Wednesday 1:00pm-1:50pm, and Friday 4:30pm-4:50pm for INT-031.
-- **Lena:** Her future routine should reserve the first Sunday of each season from 11:00am-12:20pm at Memorial Hill for INT-032. This is intentionally monthly rather than weekly.
+- **Victor:** His completed routine reserves Monday, Friday, and Sunday 8:20pm-8:50pm for INT-025.
+- **Beatrice:** Her completed routine reserves Monday 8:30am-9:20am, Wednesday 1:00pm-1:50pm, and Friday 4:30pm-4:50pm for INT-031.
+- **Lena:** Her completed routine reserves the first Sunday of each season from 11:00am-12:20pm at Memorial Hill for INT-032. This is intentionally monthly rather than weekly.
 - **Martin:** INT-047 should be aligned through his normal Town Hall/postal work rather than by adding an arbitrary social appointment.
 
 ---

@@ -2821,8 +2821,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
 - 4:40pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -2830,7 +2830,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 4:50pm
     - Base Routine:
@@ -2839,7 +2839,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
 - 5:00pm
     - Base Routine:
@@ -2848,7 +2848,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2864,7 +2864,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2880,7 +2880,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy (Severe):
@@ -2892,28 +2892,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:30pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Relaxing
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
         - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Relaxing
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
         - Activity: Traveling
 - 5:50pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Relaxing
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Traveling
 - 6:00pm
@@ -3848,8 +3833,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
 - 4:10pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Reading
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -4036,7 +4021,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:10pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Reading
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -5020,7 +5005,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-009: Felix + Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -5147,11 +5132,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Relaxing
 - 5:20pm
     - Base Routine:
-        - Location: Riverbank near Winding Banks Inn
-        - Activity: Exploring
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Traveling
     - Weather Override:
@@ -5168,11 +5148,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -5184,11 +5159,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -5198,11 +5168,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Relaxing
 - 5:50pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Traveling
     - Weather Override:
@@ -7599,7 +7564,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Riverbank near Winding Banks Inn
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -7989,7 +7954,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -8573,7 +8538,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Riverbank near Winding Banks Inn
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -8963,7 +8928,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-007: Blackmere Children's Group
         - Condition: Not Rainy (Severe) or Snowy (Severe)
@@ -9147,8 +9112,8 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
-        - Activity: Exploring
+        - Location: Resident Lanes District
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -9167,7 +9132,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -9187,7 +9152,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -9207,7 +9172,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -9227,7 +9192,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -9247,7 +9212,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - NPC Interaction Override:
         - Interaction: INT-007: Anya, Felix, Kira, Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Blackmere
+        - Location: Resident Lanes District
         - Activity: Exploring
     - Weather Override:
         - Rainy:
@@ -9264,11 +9229,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
         - Routine: School Seasonal Closure
         - Location: Winding Banks Inn
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -9281,11 +9241,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
         - Routine: School Seasonal Closure
         - Location: Winding Banks Inn
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -9296,11 +9251,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
 - 5:50pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Winding Banks Inn
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-007: Return home after group activity
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Traveling
     - Weather Override:
@@ -9637,7 +9587,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Riverbank near Winding Banks Inn
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -10027,7 +9977,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -10611,7 +10561,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Riverbank near Winding Banks Inn
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -11001,7 +10951,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-009: Felix + Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
@@ -11146,7 +11096,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
         - Interaction: INT-009: Felix + Milo
         - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -11280,11 +11230,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
 - 5:20pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: River Wharf District
-        - Activity: Exploring
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Traveling
     - Weather Override:
@@ -11302,11 +11247,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
         - Routine: School Seasonal Closure
         - Location: Winding Banks Inn
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -11319,11 +11259,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
         - Routine: School Seasonal Closure
         - Location: Winding Banks Inn
         - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
-        - Location: Winding Banks Inn
-        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Winding Banks Inn
@@ -11334,11 +11269,6 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
 - 5:50pm
     - Base Routine:
         - Routine: School Seasonal Closure
-        - Location: Winding Banks Inn
-        - Activity: Traveling
-    - NPC Interaction Override:
-        - Interaction: INT-009: Felix + Milo
-        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Traveling
     - Weather Override:
@@ -11675,7 +11605,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: Riverbank near Winding Banks Inn
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -12065,7 +11995,7 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
     - Base Routine:
         - Routine: School Seasonal Closure
         - Location: River Wharf District
-        - Activity: Exploring
+        - Activity: Traveling
     - Weather Override:
         - Rainy:
             - Location: Winding Banks Inn
@@ -12531,8 +12461,8 @@ The closure routine keeps Felix close to Winding Banks Inn and the familiar rive
 
 ## NPC Interaction Routine Notes
 
-- **INT-007 - Blackmere Children's Group:** Tuesday after school. Felix aligns exactly with Anya's established group block: travel toward Town Square from 3:00pm-3:20pm, social time from 3:30pm-4:20pm, contained Blackmere exploration from 4:30pm-5:20pm, and return travel from 5:30pm-5:50pm. The interaction is invalid during severe rain or severe snow.
-- **INT-009 - Felix + Milo:** Thursday after school. Milo comes to the Winding Banks / River Wharf area, allowing Felix to explore more confidently without requiring him to travel far from home. This becomes the pair's dedicated weekly best-friend block.
+- **INT-007 - Blackmere Children's Group:** Tuesday after school. Felix aligns exactly with Anya's established group block: travel toward Town Square from 3:00pm-3:20pm, social time from 3:30pm-4:20pm, a 4:30pm shared travel step into Resident Lanes District, and exploration there from 4:40pm-5:20pm. The group interaction ends at 5:20pm; each child uses independent Base `Traveling` from 5:30pm onward toward their own home. The interaction is invalid during severe rain or severe snow.
+- **INT-009 - Felix + Milo:** Thursday after school. Shared interaction runs from 3:00pm through 5:10pm: travel to Winding Banks Inn, Playing there, a 4:10pm shared travel step to River Wharf District, then Exploring through 5:10pm. At 5:20pm the interaction ends and Felix/Milo travel independently toward their separate homes.
 - **INT-010 - School Community:** Monday through Friday school hours remain Base Routine because Felix, Anya, Kira, Milo, and Sabrina are naturally aligned there when school is open.
 - **INT-012 - Sabrina + Felix:** Wednesday late afternoon once the Library is at least Recovering. Sabrina provides an individual reading/teaching block while Felix is already using the restored Library.
 - **INT-015 - Winding Banks Household:** Daily meals and evening family time with Frederick, Helen, and Theo are embedded in Felix's Base Routine and do not need redundant overrides.

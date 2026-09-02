@@ -274,7 +274,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 12:30pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Eating
+        - Activity: Traveling
     - Weather Override:
         - Snowy (Severe):
             - Location: Riverbend Fishery
@@ -322,7 +322,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 1:30pm
     - Base Routine:
         - Location: Riverbend Fishery
-        - Activity: Reading
+        - Activity: Traveling
 - 1:40pm
     - Base Routine:
         - Location: Riverbend Fishery
@@ -4184,9 +4184,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
             - Activity: Attending
 - 2:10pm
     - Base Routine:
@@ -4207,9 +4204,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Flourishing:
@@ -4238,9 +4232,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
             - Activity: Attending
 - 2:30pm
     - Base Routine:
@@ -4261,9 +4252,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Flourishing:
@@ -4292,9 +4280,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
             - Activity: Attending
 - 2:50pm
     - Base Routine:
@@ -4315,9 +4300,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Flourishing:
@@ -4346,9 +4328,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
             - Activity: Attending
 - 3:10pm
     - Base Routine:
@@ -4373,9 +4352,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
             - Activity: Attending
 - 3:20pm
     - Base Routine:
@@ -4396,9 +4372,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Flourishing:
@@ -5494,15 +5467,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
 - 2:10pm
     - Base Routine:
         - Location: Blackmere Bank & Exchange
@@ -5516,15 +5480,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Renewed:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Growing:
@@ -5560,15 +5515,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
 - 2:30pm
     - Base Routine:
         - Location: Blackmere Bank & Exchange
@@ -5582,15 +5528,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Renewed:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Growing:
@@ -5626,15 +5563,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
 - 2:50pm
     - Base Routine:
         - Location: Blackmere Bank & Exchange
@@ -5648,15 +5576,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Renewed:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Growing:
@@ -5692,15 +5611,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
 - 3:10pm
     - Base Routine:
         - Location: Blackmere Bank & Exchange
@@ -5725,15 +5635,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
 - 3:20pm
     - Base Routine:
         - Location: Blackmere Bank & Exchange
@@ -5747,15 +5648,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Renewed:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Growing:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Bank & Exchange
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Bank & Exchange
             - Activity: Socializing
         - Growing:
@@ -7612,6 +7504,9 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Snowy (Severe):
             - Location: Riverbend Fishery
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: Winding Banks Inn
@@ -7655,11 +7550,11 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 12:30pm
     - Base Routine:
         - Location: Town Square
-        - Activity: Shopping
+        - Activity: Traveling
     - Weather Override:
         - Windy:
             - Location: Riverbend Fishery
-            - Activity: Reading
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Riverbend Fishery
             - Activity: Reading
@@ -7754,7 +7649,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 2:00pm
     - Base Routine:
         - Location: Riverbend Fishery
-        - Activity: Working
+        - Activity: Traveling
 - 2:10pm
     - Base Routine:
         - Location: Riverbend Fishery
@@ -7920,12 +7815,12 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Eating
 - 6:20pm
     - Base Routine:
-        - Location: Riverbend Fishery
-        - Activity: Eating
+        - Location: River Wharf
+        - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: River Wharf District
-        - Activity: Socializing
+        - Activity: Traveling
     - NPC Interaction Override:
         - Interaction: INT-024: Nora + Elise
         - Condition: Nora available; Not Snowy (Severe)

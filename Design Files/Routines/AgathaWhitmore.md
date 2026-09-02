@@ -321,6 +321,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 1:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -625,7 +628,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -643,7 +646,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -661,7 +664,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -679,7 +682,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -697,7 +700,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -715,7 +718,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Weather Override:
@@ -737,7 +740,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Weather Override:
@@ -759,7 +762,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Weather Override:
@@ -781,7 +784,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Weather Override:
@@ -803,7 +806,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Weather Override:
@@ -1422,7 +1425,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Windy:
             - Location: 1 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
@@ -1468,6 +1471,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -1970,7 +1976,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -1988,7 +1994,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2006,7 +2012,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2024,7 +2030,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2042,7 +2048,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2784,7 +2790,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Windy:
             - Location: 1 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
@@ -2830,6 +2836,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -3981,7 +3990,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Windy:
             - Location: 1 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
@@ -4027,6 +4036,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -4529,7 +4541,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4547,7 +4559,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4565,7 +4577,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4583,7 +4595,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4601,7 +4613,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -5298,7 +5310,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Windy:
             - Location: 1 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
@@ -5344,6 +5356,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -5441,12 +5456,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Prospering:
             - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
@@ -5467,12 +5476,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Prospering:
@@ -5501,12 +5504,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Prospering:
             - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
@@ -5527,12 +5524,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Prospering:
@@ -5561,12 +5552,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Prospering:
             - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
@@ -5587,12 +5572,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Prospering:
@@ -5621,12 +5600,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Prospering:
             - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
             - Activity: Teaching
         - Flourishing:
             - Location: A. Whitmore Public School
@@ -5647,12 +5620,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Growing:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Prospering:
-            - Location: A. Whitmore Public School
-            - Activity: Socializing
-        - Flourishing:
             - Location: A. Whitmore Public School
             - Activity: Socializing
         - Prospering:
@@ -6175,9 +6142,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 9:30am
     - Base Routine:
@@ -6204,9 +6168,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Flourishing:
@@ -6241,9 +6202,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 9:50am
     - Base Routine:
@@ -6270,9 +6228,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Flourishing:
@@ -6307,9 +6262,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 10:10am
     - Base Routine:
@@ -6336,9 +6288,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Flourishing:
@@ -6373,9 +6322,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 10:30am
     - Base Routine:
@@ -6402,9 +6348,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Flourishing:
@@ -6439,9 +6382,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 10:50am
     - Base Routine:
@@ -6468,9 +6408,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Flourishing:
@@ -6505,9 +6442,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 11:10am
     - Base Routine:
@@ -6534,9 +6468,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Prospering:
-            - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
             - Location: A. Whitmore Public Library
             - Activity: Reading
         - Flourishing:
@@ -6571,9 +6502,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Reading
         - Flourishing:
             - Location: A. Whitmore Public Library
-            - Activity: Reading
-        - Flourishing:
-            - Location: A. Whitmore Public Library
             - Activity: Teaching
 - 11:30am
     - Base Routine:
@@ -6582,7 +6510,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Windy:
             - Location: 1 Resident Lane
-            - Activity: Reading
+            - Activity: Traveling
         - Rainy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
@@ -6628,6 +6556,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Snowy (Severe):
             - Location: 1 Resident Lane
             - Activity: Reading
+        - Windy:
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -7130,7 +7061,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -7148,7 +7079,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -7166,7 +7097,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -7184,7 +7115,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -7202,7 +7133,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -7714,7 +7645,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 1:00pm
     - Base Routine:
         - Location: Winding Banks Inn
-        - Activity: Eating
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: 1 Resident Lane
@@ -8625,7 +8556,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -8633,7 +8564,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -8641,7 +8572,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -8649,7 +8580,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -8657,7 +8588,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -9819,7 +9750,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -9827,7 +9758,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -9835,7 +9766,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -9843,7 +9774,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -9851,7 +9782,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -11013,7 +10944,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:30pm
@@ -11021,7 +10952,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:40pm
@@ -11029,7 +10960,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 6:50pm
@@ -11037,7 +10968,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:00pm
@@ -11045,7 +10976,7 @@ INT-037 with Irene does not run during this closure because the canonical intera
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
 - 7:10pm
@@ -11218,16 +11149,16 @@ INT-037 with Irene does not run during this closure because the canonical intera
 ## NPC Interaction Routine Notes
 
 - **INT-020 - Agatha + Roland:** Daily 5:30pm-6:10pm at 1 Resident Lane for tea/Drinking. This establishes the canonical daily spouse block Roland should mirror later.
-- **INT-019 / INT-021 - Whitmore Household / Beatrice + Parents:** Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm shared family dinner at 1 Resident Lane. Sunday continues with 7:10pm-7:50pm family Socializing. Beatrice and Roland should mirror these exact windows when their complete routines are authored.
+- **INT-019 - Whitmore Household:** Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm shared family dinner at 1 Resident Lane. Sunday continues with 7:10pm-7:50pm family Socializing. Beatrice and Roland should mirror these exact windows when their complete routines are authored.
 - **INT-037 - Agatha + Irene:** Tuesday 10:00am-10:50am Reading together at A. Whitmore Public Library, followed by 11:00am-11:20am Socializing. This is a weekly anchor inside the interaction table's Weekly/Biweekly frequency and should be mirrored by Irene.
 
 ---
 
 ## Cross-NPC Alignment Notes
 
-- **Roland:** His future routine should reserve daily 5:30pm-6:10pm for INT-020, plus Monday/Wednesday/Friday/Sunday 6:20pm-7:00pm family dinner and Sunday 7:10pm-7:50pm family time.
-- **Beatrice:** Her future routine should reserve Monday/Wednesday/Friday/Sunday 6:20pm-7:00pm at 1 Resident Lane, plus Sunday 7:10pm-7:50pm.
-- **Irene:** Her future routine should reserve Tuesday 10:00am-11:20am at A. Whitmore Public Library for INT-037.
+- **Roland:** His completed routine reserves daily 5:30pm-6:10pm for INT-020, plus Monday/Wednesday/Friday/Sunday 6:20pm-7:00pm family dinner and Sunday 7:10pm-7:50pm family time.
+- **Beatrice:** Her completed routine reserves Monday/Wednesday/Friday/Sunday 6:20pm-7:00pm at 1 Resident Lane, plus Sunday 7:10pm-7:50pm.
+- **Irene:** Her completed routine reserves Tuesday 10:00am-11:20am at A. Whitmore Public Library for INT-037.
 - **Library / School:** Agatha's visits happen only during their documented open hours, avoiding the previous pattern of using symbolic locations without checking operational availability.
 
 ---

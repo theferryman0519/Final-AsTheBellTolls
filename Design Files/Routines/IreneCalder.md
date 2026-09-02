@@ -34,7 +34,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## Weekly Routine
 
 ### Sunday
-
 - 6:00am
     - Base Routine:
         - Location: 4 Resident Lane
@@ -66,22 +65,22 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Restoration Override:
         - Rebuilding:
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
         - Recovering:
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
         - Renewed:
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
         - Growing:
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
         - Prospering:
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
         - Flourishing:
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
 - 7:10am
     - Base Routine:
         - Location: 4 Resident Lane
@@ -108,7 +107,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 7:20am
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
     - Restoration Override:
         - Rebuilding:
             - Location: Blackmere Bell Tower
@@ -441,6 +440,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: 4 Resident Lane
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 4 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 4 Resident Lane
+            - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: 4 Resident Lane
@@ -504,10 +510,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Bell Tower
-            - Activity: Working
+            - Activity: Traveling
 - 2:10pm
     - Base Routine:
         - Location: Town Square
@@ -534,11 +540,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -554,15 +555,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Renewed:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Growing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Prospering:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Flourishing:
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Growing:
@@ -578,11 +570,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -598,15 +585,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Renewed:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Growing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Prospering:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Flourishing:
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Growing:
@@ -622,11 +600,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -642,15 +615,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Renewed:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Growing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Prospering:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Flourishing:
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Growing:
@@ -666,11 +630,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -686,15 +645,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Renewed:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Growing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Prospering:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Flourishing:
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Growing:
@@ -710,11 +660,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -730,15 +675,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Renewed:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Growing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Prospering:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Flourishing:
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Growing:
@@ -754,11 +690,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -777,15 +708,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Blackmere Bell Tower
             - Activity: Repairing
         - Growing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Prospering:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Flourishing:
-            - Location: Blackmere Bell Tower
-            - Activity: Repairing
-        - Growing:
             - Location: Town Square
             - Activity: Socializing
         - Prospering:
@@ -798,11 +720,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -824,11 +741,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -850,11 +762,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
-    - NPC Interaction Override:
-        - Interaction: INT-049: Walter + Irene
-        - Condition: Third Sunday of each season; Walter available; Not Rainy (Severe) or Snowy (Severe)
-        - Location: Town Square
-        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -911,7 +818,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 5:30pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -1442,7 +1349,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -1458,7 +1365,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:40pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 12:50pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -2304,8 +2211,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Working
 - 9:50am
     - Base Routine:
-        - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
 - 10:00am
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -2390,7 +2297,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 11:30am
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -2402,7 +2309,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -2418,7 +2325,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:40pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 12:50pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -3275,7 +3182,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -3291,7 +3198,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:40pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 12:50pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -4190,7 +4097,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -4206,7 +4113,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:40pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 12:50pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -5087,7 +4994,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -5103,7 +5010,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:40pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 12:50pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -6071,7 +5978,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:00pm
     - Base Routine:
         - Location: 4 Resident Lane
-        - Activity: Eating
+        - Activity: Traveling
 - 12:10pm
     - Base Routine:
         - Location: 4 Resident Lane
@@ -6087,7 +5994,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - 12:40pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 12:50pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -6303,6 +6210,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -6312,6 +6224,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 4:10pm
     - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Town Square
         - Activity: Walking
     - Weather Override:
@@ -6325,6 +6242,11 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Town Square
         - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Bell Tower
@@ -6334,20 +6256,35 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Working
 - 4:30pm
     - Base Routine:
-        - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Walking
 - 4:40pm
     - Base Routine:
-        - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 4:50pm
     - Base Routine:
-        - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Location: Town Square
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-049: Walter + Irene
+        - Condition: Third Saturday of each season; counterpart available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Town Square
+        - Activity: Socializing
 - 5:00pm
     - Base Routine:
         - Location: Blackmere Bell Tower
-        - Activity: Working
+        - Activity: Traveling
 - 5:10pm
     - Base Routine:
         - Location: Blackmere Bell Tower
@@ -6585,15 +6522,15 @@ This routine uses only activities defined by the NPC Routine System controlled v
 
 - **INT-037 - Agatha + Irene:** Exact mirror of Agatha's completed routine. Tuesday 10:00am-10:50am Reading at A. Whitmore Public Library, followed by 11:00am-11:20am Socializing. The Library is open 9:00am-6:00pm Monday-Friday and closes during severe rain/snow, so the block is valid only when the Library is open.
 - **INT-038 - Irene + Lucian/Vivian:** Tuesday 2:30pm-3:20pm Repairing at Blackmere Bell Tower; Saturday 10:00am-10:50am Working together, followed by 11:00am-11:20am Repairing. These are now the canonical Several-Times-Weekly technical-pair blocks Lucian/Vivian should mirror later.
-- **INT-049 - Walter + Irene:** Third Sunday of each season, 2:30pm-3:20pm Walking in Town Square followed by 3:30pm-3:50pm Socializing. This satisfies the table's Biweekly/Monthly intent without turning Irene into a highly social NPC.
+- **INT-049 - Walter + Irene:** Third Saturday of each season, 4:00pm-4:30pm Walking in Town Square followed by 4:40pm-4:50pm Socializing. This satisfies the table's Biweekly/Monthly intent without turning Irene into a highly social NPC.
 
 ---
 
 ## Cross-NPC Alignment Notes
 
 - **Agatha:** INT-037 exactly matches Agatha's completed routine.
-- **Lucian/Vivian:** Their future routine should reserve Tuesday 2:30pm-3:20pm and Saturday 10:00am-11:20am for INT-038 at Blackmere Bell Tower.
-- **Walter:** His future routine should reserve the third Sunday of each season from 2:30pm-3:50pm for INT-049.
+- **Lucian/Vivian:** Their completed routine reserves Tuesday 2:30pm-3:20pm and Saturday 10:00am-11:20am for INT-038 at Blackmere Bell Tower.
+- **Walter:** His completed routine reserves the third Saturday of each season from 4:00pm-4:50pm for INT-049.
 - **Bell Tower:** All recurring Irene/Lucian-Vivian work happens while the Tower is open, and no severe-weather closure is assumed because the location file explicitly lists none.
 
 ---

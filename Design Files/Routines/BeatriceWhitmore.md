@@ -34,7 +34,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 ## Weekly Routine
 
 ### Sunday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -66,10 +65,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:10am
     - Base Routine:
         - Location: Town Square
@@ -390,7 +389,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 10:00am
     - Base Routine:
         - Location: Town Square
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
@@ -456,7 +455,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 11:00am
     - Base Routine:
         - Location: Blackmere Town Hall
-        - Activity: Working
+        - Activity: Traveling
 - 11:10am
     - Base Routine:
         - Location: Blackmere Town Hall
@@ -572,9 +571,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 1:20pm
     - Base Routine:
@@ -591,9 +587,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Flourishing:
@@ -618,9 +611,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 1:40pm
     - Base Routine:
@@ -637,9 +627,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Flourishing:
@@ -664,9 +651,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 2:00pm
     - Base Routine:
@@ -683,9 +667,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Flourishing:
@@ -710,9 +691,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 2:20pm
     - Base Routine:
@@ -729,9 +707,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Flourishing:
@@ -756,9 +731,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 2:40pm
     - Base Routine:
@@ -779,9 +751,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Flourishing:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
             - Activity: Attending
 - 2:50pm
     - Base Routine:
@@ -798,9 +767,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Flourishing:
@@ -954,7 +920,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -972,7 +938,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -990,7 +956,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -1008,7 +974,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -1026,7 +992,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -1044,7 +1010,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1062,7 +1028,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1080,7 +1046,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1098,7 +1064,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1116,7 +1082,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Socializing
     - Restoration Override:
@@ -1227,7 +1193,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Monday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -1251,10 +1216,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:50am
     - Base Routine:
         - Location: Town Square
@@ -1292,6 +1257,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -2054,6 +2026,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -2075,7 +2054,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2093,7 +2072,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2111,7 +2090,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2129,7 +2108,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2147,7 +2126,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -2328,7 +2307,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Tuesday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -2352,10 +2330,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:50am
     - Base Routine:
         - Location: Town Square
@@ -2393,6 +2371,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -3248,6 +3233,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -3402,7 +3394,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Wednesday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -3426,10 +3417,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:50am
     - Base Routine:
         - Location: Town Square
@@ -3467,6 +3458,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -4229,6 +4227,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -4250,7 +4255,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4268,7 +4273,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4286,7 +4291,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4304,7 +4309,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4322,7 +4327,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -4503,7 +4508,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Thursday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -4527,10 +4531,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:50am
     - Base Routine:
         - Location: Town Square
@@ -4568,6 +4572,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -5426,6 +5437,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -5580,7 +5598,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Friday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -5604,10 +5621,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 6:50am
     - Base Routine:
         - Location: Town Square
@@ -5645,6 +5662,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 7:30am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -6395,6 +6419,13 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: 1 Resident Lane
         - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: 1 Resident Lane
+            - Activity: Traveling
 - 5:40pm
     - Base Routine:
         - Location: 1 Resident Lane
@@ -6416,7 +6447,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6434,7 +6465,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6452,7 +6483,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6470,7 +6501,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6488,7 +6519,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Location: 1 Resident Lane
         - Activity: Eating
     - NPC Interaction Override:
-        - Interaction: INT-019 + INT-021: Agatha + Roland + Beatrice
+        - Interaction: INT-019: Agatha + Roland + Beatrice
         - Location: 1 Resident Lane
         - Activity: Eating
     - Restoration Override:
@@ -6669,7 +6700,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Sleeping
 
 ### Saturday
-
 - 6:00am
     - Base Routine:
         - Location: 1 Resident Lane
@@ -6701,10 +6731,10 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Blackmere Town Hall
-            - Activity: Working
+            - Activity: Traveling
 - 7:10am
     - Base Routine:
         - Location: Town Square
@@ -7037,7 +7067,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 10:30am
     - Base Routine:
         - Location: Town Square
-        - Activity: Socializing
+        - Activity: Traveling
     - Weather Override:
         - Rainy (Severe):
             - Location: Blackmere Town Hall
@@ -7103,7 +7133,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 - 11:30am
     - Base Routine:
         - Location: Blackmere Town Hall
-        - Activity: Working
+        - Activity: Traveling
 - 11:40am
     - Base Routine:
         - Location: Blackmere Town Hall
@@ -7204,12 +7234,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
             - Activity: Attending
         - Flourishing:
             - Location: Blackmere Town Hall
@@ -7226,12 +7250,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
@@ -7256,12 +7274,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
             - Activity: Attending
         - Flourishing:
             - Location: Blackmere Town Hall
@@ -7278,12 +7290,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
@@ -7308,12 +7314,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
             - Activity: Attending
         - Flourishing:
             - Location: Blackmere Town Hall
@@ -7330,12 +7330,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
@@ -7360,12 +7354,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
             - Activity: Attending
         - Flourishing:
             - Location: Blackmere Town Hall
@@ -7382,12 +7370,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
@@ -7412,12 +7394,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
             - Activity: Attending
         - Flourishing:
             - Location: Blackmere Town Hall
@@ -7438,12 +7414,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Activity: Socializing
         - Prospering:
             - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
             - Activity: Attending
         - Flourishing:
             - Location: Blackmere Town Hall
@@ -7460,12 +7430,6 @@ This routine uses only activities from the controlled NPC Routine System vocabul
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Growing:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Prospering:
-            - Location: Blackmere Town Hall
-            - Activity: Socializing
-        - Flourishing:
             - Location: Blackmere Town Hall
             - Activity: Socializing
         - Prospering:
@@ -7741,7 +7705,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 ## NPC Interaction Routine Notes
 
 - **INT-031 - Beatrice + Madison:** Exact mirror of Madison's completed routine. Monday 8:30am-9:20am Working at Blackmere Town Hall; Wednesday 1:00pm-1:50pm Working; Friday 4:30pm-4:50pm Socializing/debriefing at Town Hall.
-- **INT-019 / INT-021 - Whitmore Household / Beatrice + Parents:** Exact mirror of Agatha's completed routine. Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm shared dinner at 1 Resident Lane. Sunday continues with 7:10pm-7:50pm family Socializing.
+- **INT-019 - Whitmore Household:** Exact mirror of Agatha's completed routine. Monday, Wednesday, Friday, and Sunday 6:20pm-7:00pm shared dinner at 1 Resident Lane. Sunday continues with 7:10pm-7:50pm family Socializing.
 - **INT-046 - Martin + Beatrice:** Directional and Occasional/Weekly. Both normally overlap at Town Hall, so routine coordination should primarily remain Base Routine until Martin's complete schedule establishes whether a dedicated recurring block is necessary.
 - **INT-047 - Beatrice + Madison + Martin:** Recommended civic group. Normal weekday Town Hall overlap already supports this relationship; larger coordination sessions should be driven by restoration or event content rather than adding a redundant fixed social override.
 - **INT-033 - Beatrice + Lena:** Occasional mentor/friend relationship. No weekly block is forced.
@@ -7753,8 +7717,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 - **Madison:** All INT-031 windows exactly match Madison's completed routine.
 - **Agatha:** All family dinner and Sunday family-social windows exactly match Agatha's completed routine.
-- **Roland:** His future routine should mirror Monday/Wednesday/Friday/Sunday 6:20pm-7:00pm family dinner and Sunday 7:10pm-7:50pm family time, in addition to the spouse tea block already established by Agatha.
-- **Martin:** His future routine should preserve normal Town Hall overlap with Beatrice and Madison. If a dedicated INT-046 block is added later, it should be authored once and then mirrored by both participants.
+- **Roland:** His completed routine mirrors Monday/Wednesday/Friday/Sunday 6:20pm-7:00pm family dinner and Sunday 7:10pm-7:50pm family time, in addition to the spouse tea block already established by Agatha.
+- **Martin:** His completed routine preserves normal Town Hall overlap with Beatrice and Madison. If a dedicated INT-046 block is added later, it should be authored once and then mirrored by both participants.
 - **Lena / Sabrina:** Both remain Occasional with Beatrice, avoiding invented weekly commitments that could conflict with their eventual complete routines.
 
 ---

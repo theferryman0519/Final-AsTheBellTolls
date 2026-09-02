@@ -730,9 +730,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Mercer Farms
             - Activity: Attending
 - 2:40pm
     - Base Routine:
@@ -743,9 +740,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Socializing
         - Prospering:
-            - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Socializing
         - Flourishing:
@@ -764,9 +758,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Mercer Farms
             - Activity: Attending
 - 3:00pm
     - Base Routine:
@@ -777,9 +768,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Socializing
         - Prospering:
-            - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Socializing
         - Flourishing:
@@ -798,9 +786,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Mercer Farms
             - Activity: Attending
 - 3:20pm
     - Base Routine:
@@ -811,9 +796,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Socializing
         - Prospering:
-            - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Socializing
         - Flourishing:
@@ -832,9 +814,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Mercer Farms
             - Activity: Attending
 - 3:40pm
     - Base Routine:
@@ -845,9 +824,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Socializing
         - Prospering:
-            - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Socializing
         - Flourishing:
@@ -866,9 +842,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Mercer Farms
             - Activity: Attending
 - 4:00pm
     - Base Routine:
@@ -879,9 +852,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Socializing
         - Prospering:
-            - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Socializing
         - Flourishing:
@@ -900,9 +870,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Activity: Socializing
         - Flourishing:
             - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
-            - Location: Mercer Farms
             - Activity: Attending
 - 4:20pm
     - Base Routine:
@@ -913,9 +880,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
             - Location: Mercer Farms
             - Activity: Socializing
         - Prospering:
-            - Location: Mercer Farms
-            - Activity: Socializing
-        - Flourishing:
             - Location: Mercer Farms
             - Activity: Socializing
         - Flourishing:
@@ -4592,7 +4556,6 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Activity: Sleeping
 
 ### Thursday
-
 - 6:00am
     - Base Routine:
         - Location: Mercer Farms Residence
@@ -5361,6 +5324,13 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
+        - Snowy (Severe):
+            - Location: Winding Banks Inn
+            - Activity: Traveling
 - 4:50pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -5370,8 +5340,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
 - 5:10pm
@@ -5379,8 +5349,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
 - 5:20pm
@@ -5388,8 +5358,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
 - 5:30pm
@@ -5397,8 +5367,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
 - 5:40pm
@@ -5406,8 +5376,8 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
 - 5:50pm
@@ -5415,22 +5385,22 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Location: Winding Banks Inn
         - Activity: Socializing
     - NPC Interaction Override:
-        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
-        - Condition: Lena available; Frederick/Helen/Theo attendance flexible
+        - Interaction: INT-048: Thursday Inn Social Group
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
 - 6:00pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
 - 6:10pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
 - 6:20pm
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
+        - Location: Mercer Farms Residence
+        - Activity: Traveling
 - 6:30pm
     - Base Routine:
         - Location: Winding Banks Inn
@@ -5462,10 +5432,10 @@ This routine uses only activities defined by the NPC Routine System controlled v
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
         - Snowy (Severe):
             - Location: Mercer Farms Residence
-            - Activity: Relaxing
+            - Activity: Traveling
 - 7:10pm
     - Base Routine:
         - Location: Mercer Farms
@@ -7617,7 +7587,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7643,7 +7613,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7669,7 +7639,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7695,7 +7665,7 @@ This routine uses only activities defined by the NPC Routine System controlled v
         - Interaction: INT-006: Jasmine + Kira + Milo
         - Condition: Kira and Milo available; Not Rainy (Severe) or Snowy (Severe)
         - Location: Mercer Farms
-        - Activity: Exploring
+        - Activity: Socializing
     - Weather Override:
         - Rainy (Severe):
             - Location: Mercer Farms Residence
@@ -7955,9 +7925,9 @@ This routine uses only activities defined by the NPC Routine System controlled v
 ## NPC Interaction Routine Notes
 
 - **INT-001 - Mercer Household:** Uses the exact household anchors established in Claudia's completed routine. Weekday breakfast 6:50am-7:10am. Dinner: Monday 6:10pm-6:50pm; Tuesday 6:00pm-6:50pm; Wednesday 6:20pm-6:50pm; Thursday 6:30pm-6:50pm; Friday 6:00pm-6:50pm; Saturday 6:20pm-7:00pm; Sunday 5:30pm-6:20pm. These periods were selected from actual Kira/Milo overlap rather than inventing one universal dinner hour.
-- **INT-006 - Jasmine + Kira + Milo:** Exact mirror of both completed child routines. Saturday 2:30pm-3:10pm Playing at Mercer Farms, followed by 3:20pm-3:50pm Exploring.
-- **INT-034 / INT-048 - Lena + Jasmine / Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn. This exactly matches the Frederick/Helen group anchor and preserves the interaction table's existing Thursday Lena/Jasmine visit. It is represented as one combined override because INT-034 and INT-048 describe the same recurring place/time from Jasmine's perspective.
-- **INT-035 - Jasmine + Theo:** The weekly early-stage relationship is satisfied by Theo's natural presence in the Thursday Inn group rather than a second simultaneous NPC Interaction Override. The Ongoing Event `A Little Backwards` is located at Winding Banks Inn, occurs between 5:00pm and 8:00pm in any season/weather, and requires Connect 1 / Friendship 4 for both NPCs. When eligible, that Ongoing Event supersedes the normal Thursday routine and serves as explicit crush progression.
+- **INT-006 - Jasmine + Kira + Milo:** Exact mirror of both completed child routines. Saturday 2:30pm-3:10pm Playing at Mercer Farms, followed by 3:20pm-3:50pm Socializing.
+- **INT-048 - Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn. This is the single schedule-producing group interaction for Lena, Jasmine, Helen, Frederick, and Theo. INT-034 remains the relationship basis for Lena/Jasmine but does not compete as a second same-tick override.
+- **INT-035 - Jasmine + Theo:** The weekly early-stage relationship is satisfied by Theo's natural presence in the Thursday Inn group rather than a second simultaneous NPC Interaction Override. The Ongoing Event `A Little Backwards` is located at Winding Banks Inn, occurs between 5:00pm and 8:00pm in any season/weather, and requires Connect 1 / Friendship 1 for both NPCs. When eligible, that Ongoing Event supersedes the normal Thursday routine and serves as explicit crush progression.
 
 ---
 
@@ -7966,15 +7936,15 @@ This routine uses only activities defined by the NPC Routine System controlled v
 - **Claudia:** INT-001 uses Claudia's already-established household meal windows without modification.
 - **Kira + Milo:** INT-006 exactly matches their completed Saturday 2:30pm-3:50pm block.
 - **Frederick + Helen:** Thursday 5:00pm-5:50pm exactly matches their completed INT-048 Inn-group routines.
-- **Lena:** Her future routine should reserve Thursday 5:00pm-5:50pm at Winding Banks Inn for INT-034/INT-048.
-- **Theo:** His future routine should preserve Thursday 5:00pm-5:50pm at Winding Banks Inn as the recurring early INT-035 overlap, while any explicit progression outing should be driven by the higher-priority `A Little Backwards` Ongoing Event rather than an additional hard weekly override.
-- **Jonas:** His future routine should use the Mercer household meal anchors above where compatible with farm work.
+- **Lena:** Her completed routine reserves Thursday 5:00pm-5:50pm at Winding Banks Inn for INT-034/INT-048.
+- **Theo:** His completed routine preserves Thursday 5:00pm-5:50pm at Winding Banks Inn as the recurring early INT-035 overlap, while any explicit progression outing should be driven by the higher-priority `A Little Backwards` Ongoing Event rather than an additional hard weekly override.
+- **Jonas:** His completed routine uses the Mercer household meal anchors above where compatible with farm work.
 
 ---
 
 ## Interaction Consistency Note
 
-Jasmine has three interaction concepts converging on the same Thursday Inn visit: INT-034 Lena/Jasmine, INT-048 the Thursday Inn Social Group, and INT-035 Jasmine/Theo's early coincidental overlap. Creating three separate atomic NPC Interaction Overrides for the same tick would conflict with the first-valid-override model. This routine therefore uses one INT-034 + INT-048 canonical group override, with INT-035 relationship progression observing Theo's presence in that group until its dedicated Ongoing Event takes priority. This should eventually be reflected in the canonical interaction record/schema so implementation does not duplicate the same social gathering under multiple independent schedule decisions.
+Thursday's schedule now uses **INT-048** as the single canonical group override. INT-034 supplies Lena/Jasmine relationship evidence and INT-035 supplies Jasmine/Theo relationship meaning, but neither creates a competing same-tick routine decision. The dedicated Jasmine/Theo Ongoing Event still supersedes the group routine when eligible.
 
 ---
 

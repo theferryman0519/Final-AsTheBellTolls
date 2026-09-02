@@ -62,16 +62,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:10am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 7:20am
@@ -972,24 +964,12 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:40am
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:50am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 8:00am
@@ -1768,24 +1748,12 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:40am
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:50am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 8:00am
@@ -2660,24 +2628,12 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:40am
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:50am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 8:00am
@@ -3456,24 +3412,12 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:40am
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:50am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 8:00am
@@ -4079,7 +4023,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Cooking
     - NPC Interaction Override:
         - Interaction: INT-048: Thursday Inn Social Group
-        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Restoration Override:
@@ -4098,7 +4042,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Cooking
     - NPC Interaction Override:
         - Interaction: INT-048: Thursday Inn Social Group
-        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Restoration Override:
@@ -4117,7 +4061,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Cooking
     - NPC Interaction Override:
         - Interaction: INT-048: Thursday Inn Social Group
-        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Restoration Override:
@@ -4136,7 +4080,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Cooking
     - NPC Interaction Override:
         - Interaction: INT-048: Thursday Inn Social Group
-        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Restoration Override:
@@ -4155,7 +4099,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Cooking
     - NPC Interaction Override:
         - Interaction: INT-048: Thursday Inn Social Group
-        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Restoration Override:
@@ -4174,7 +4118,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
         - Activity: Cooking
     - NPC Interaction Override:
         - Interaction: INT-048: Thursday Inn Social Group
-        - Condition: Lena/Jasmine established visit; Frederick/Helen/Theo participation naturally available
+        - Condition: Not Rainy (Severe) or Snowy (Severe)
         - Location: Winding Banks Inn
         - Activity: Socializing
     - Restoration Override:
@@ -4414,24 +4358,12 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:40am
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:50am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 8:00am
@@ -5182,16 +5114,8 @@ This routine uses only activities from the controlled NPC Routine System vocabul
     - Base Routine:
         - Location: Winding Banks Inn
         - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
-        - Location: Winding Banks Inn
-        - Activity: Eating
 - 7:10am
     - Base Routine:
-        - Location: Winding Banks Inn
-        - Activity: Eating
-    - NPC Interaction Override:
-        - Interaction: INT-015: Winding Banks Household
         - Location: Winding Banks Inn
         - Activity: Eating
 - 7:20am
@@ -6035,7 +5959,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 ## NPC Interaction Routine Notes
 
-- **INT-015 - Winding Banks Household:** Exact mirror of Frederick's completed routine. Weekday breakfast 6:50am-7:50am; Saturday/Sunday breakfast 7:00am-7:50am. Monday-Saturday dinner 6:00pm-6:50pm; Sunday dinner 5:30pm-6:50pm. These windows remain compatible with Felix's completed routine.
+- **INT-015 - Winding Banks Household:** Exact mirror of Frederick's completed routine. Weekday shared breakfast 6:50am-7:20am; Saturday/Sunday shared breakfast 7:20am-7:50am. Monday-Saturday dinner 6:00pm-6:50pm; Sunday dinner 5:30pm-6:50pm. These windows remain compatible with Felix's completed routine.
 - **INT-016 - Frederick + Helen:** Exact mirror of Frederick. Monday, Wednesday, and Friday 9:00pm-9:50pm Socializing; Sunday 7:00pm-7:50pm Socializing.
 - **INT-017 - Helen + Theo:** Tuesday 3:30pm-4:20pm Cooking together in the Inn kitchen; Saturday 2:00pm-2:50pm Socializing/recipe-sharing at Winding Banks Inn. These are now the canonical Several-Times-Weekly twin blocks Theo should mirror.
 - **INT-018 - Theo + Felix:** Helen is not a participant. Felix's completed Sunday 2:30pm-3:50pm board-game block remains untouched.
@@ -6047,7 +5971,7 @@ This routine uses only activities from the controlled NPC Routine System vocabul
 
 - **Frederick:** All INT-015 household meals and INT-016 spouse blocks exactly match his completed routine.
 - **Felix:** Household meal windows stay inside his already-authored home/eating periods; his other child, Milo, Sabrina, and Theo interactions are unchanged.
-- **Theo:** His future routine should preserve Tuesday 3:30pm-4:20pm and Saturday 2:00pm-2:50pm for INT-017, plus the established household and Thursday-group windows where compatible.
+- **Theo:** His completed routine preserves Tuesday 3:30pm-4:20pm and Saturday 2:00pm-2:50pm for INT-017, plus the established household and Thursday-group windows where compatible.
 - **Lena + Jasmine:** Thursday 5:00pm-5:50pm remains the shared INT-048 anchor. Helen is naturally present at her workplace, but the table's note that exact household attendance can vary is preserved.
 
 ---
