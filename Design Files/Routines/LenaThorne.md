@@ -1,0 +1,8160 @@
+---
+Title: Routines / Lena Thorne
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: September, 2026
+Updated: September, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Lena follows a Memorial-Hill-centered routine built around gravekeeping, marker care, flowers, quiet visitor support, and life with Anya. Memorial Hill is both her residence and workplace, so most of her day remains local rather than sending her across Blackmere without a relationship or event reason.
+
+Memorial Hill is available from 7:00am to 12:00am every day, has no closed days, and has no weather closures. Lena's professional work begins after the location opens, while her pre-7:00am time remains inside the Memorial Hill residence.
+
+Anya is Lena's daughter and their INT-022 relationship is Daily. This routine aligns Lena's shared meal and evening-walk blocks to Anya's already-completed Base Routine rather than creating new times for Anya. Madison's first-Sunday seasonal meeting exactly mirrors Madison's completed INT-032. Thursday's Winding Banks Inn visit exactly matches Jasmine, Frederick, and Helen's completed group anchor. Beatrice's INT-033 relationship remains Occasional and receives no invented weekly appointment.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Memorial Hill Hours:** 7:00am to 12:00am every day.
+- **Days Closed:** None.
+- **Weather Closures:** None.
+- **Residence / Workplace:** Memorial Hill.
+- **Severe Weather:** Memorial Hill itself remains open. Snowy (Severe) can cancel optional walks/gardening, while higher-priority events can still supersede routine.
+- **NPC Interactions:** Anya, Madison, Jasmine, Frederick, and Helen provide existing synchronization anchors. No established participant time is shifted.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-032: Lena + Madison
+        - Condition: First Sunday of each season; Madison available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 5:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 5:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 5:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 5:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 5:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-034 + INT-048: Lena + Jasmine / Thursday Inn Social Group
+        - Condition: Jasmine available; Frederick/Helen/Theo attendance flexible
+        - Location: Winding Banks Inn
+        - Activity: Socializing
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Socializing
+- 6:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Traveling
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Waking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Working
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 9:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:30am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:40am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 10:50am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Gardening
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Gardening
+- 11:00am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 11:10am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 11:20am
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 11:30am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 11:40am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 11:50am
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 2:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 2:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 3:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 3:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 3:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 3:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 3:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 3:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 4:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 4:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 4:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Renewed:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Growing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Walking
+        - Prospering:
+            - Location: Memorial Hill
+            - Activity: Attending
+        - Flourishing:
+            - Location: Memorial Hill
+            - Activity: Attending
+- 4:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Gardening
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 5:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Location: Memorial Hill Residence
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:40pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 6:50pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:00pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:10pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:20pm
+    - Base Routine:
+        - Location: Memorial Hill
+        - Activity: Walking
+    - NPC Interaction Override:
+        - Interaction: INT-022: Lena + Anya
+        - Condition: Anya available; Not Snowy (Severe)
+        - Location: Memorial Hill
+        - Activity: Walking
+    - Weather Override:
+        - Snowy (Severe):
+            - Location: Memorial Hill Residence
+            - Activity: Reading
+- 7:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 7:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 8:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 8:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Relaxing
+- 9:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Memorial Hill Residence
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Lena follows the Base Routine.
+- **Cloudy:** Neutral. No general change is required.
+- **Rainy:** Neutral. Memorial Hill remains open, so Lena continues normal gravekeeping and visitor-care work.
+- **Rainy (Severe):** Neutral. Memorial Hill still remains open, but optional off-Hill Thursday travel can be canceled if conditions make travel unsafe.
+- **Snowy:** Liked. Lena generally keeps her Base Routine.
+- **Snowy (Severe):** Disliked. Memorial Hill remains open, but optional walking/gardening and off-Hill social travel can move indoors.
+- **Windy:** Neutral. No general change is required.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Lena spends much of the day navigating damaged paths, stabilizing weathered markers, maintaining sparse plantings, and keeping Memorial Hill dignified despite visible flood damage.
+- **Rebuilding:** Safer paths, retaining edges, repaired markers, and basic memorial plantings make her gravekeeping routes more predictable and make Anya's daily movement around home safer.
+- **Recovering:** Cleaned markers, benches, and maintained flower areas support regular individual and family remembrance visits. Lena increasingly has quiet visitor-facing periods rather than working alone all day.
+- **Renewed:** Recovered names, offerings, flowers, and seating shift the Hill from damaged burial ground to cared-for memorial. Lena's routine can include more Socializing with visitors who come to remember specific people.
+- **Growing:** An oral-history/story marker or remembrance garden creates a deliberate reflection anchor. Lena's work begins connecting remembrance to active storytelling and recovered Archive material.
+- **Prospering:** Mature plantings and festival-ready paths support selected family/friend gatherings on anniversaries and remembrance days without turning Memorial Hill into a spectacle.
+- **Flourishing:** Memorial Hill becomes a fully maintained living memorial with mature plantings, preserved markers, community offerings, and cross-location context from Hall of Wonder/River Remembrance content. Lena increasingly helps residents remember while continuing to live, directly supporting her own character arc.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-022 - Lena + Anya:** Daily household interaction aligned to Anya's completed routine. Weekday breakfast 6:50am-7:10am; Saturday/Sunday breakfast 7:10am-7:50am. Weekday dinner 6:00pm-6:30pm; Saturday/Sunday dinner 5:30pm-6:20pm. Evening Memorial Hill walk: Monday-Friday 6:40pm-7:20pm; Saturday/Sunday 6:30pm-7:20pm. The interaction uses Anya's existing authored windows rather than changing her schedule.
+- **INT-032 - Lena + Madison:** Exact mirror of Madison's completed routine. First Sunday of each season, 11:00am-12:20pm, Walking at Memorial Hill, weather permitting.
+- **INT-034 / INT-048 - Lena + Jasmine / Thursday Inn Social Group:** Thursday 5:00pm-5:50pm at Winding Banks Inn. This exactly matches Jasmine, Frederick, and Helen's completed routines and uses one combined override for the same physical gathering.
+- **INT-033 - Beatrice + Lena:** Occasional mentor/friend relationship. No weekly hard block is added, so Beatrice's completed civic/family routine is not disturbed.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Anya:** INT-022 shared meals and walks are placed inside Anya's existing Memorial Hill Residence / Memorial Hill Base Routine windows.
+- **Madison:** First-Sunday INT-032 exactly matches Madison's completed routine.
+- **Jasmine:** Thursday 5:00pm-5:50pm exactly matches Jasmine's completed INT-034/INT-048 routine.
+- **Frederick + Helen:** Thursday 5:00pm-5:50pm exactly matches their completed Thursday Inn-group schedules.
+- **Theo:** His future routine should keep Thursday 5:00pm-5:50pm available for the group where compatible, but attendance remains flexible as already defined.
+- **Beatrice:** INT-033 remains Occasional, matching Beatrice's completed routine.
+
+---
+
+## Interaction Consistency Note
+
+Thursday's Winding Banks visit is represented as one combined `INT-034 + INT-048` override because the interaction table describes both Lena/Jasmine's weekly friendship visit and the broader Inn social group at the same established gathering. Keeping them as separate same-tick atomic overrides would create unnecessary first-valid-override conflicts. The canonical interaction schema should eventually treat the group gathering as the schedule-producing record, with the Lena/Jasmine relationship represented as evidence/basis rather than as a competing schedule decision.
+
+---
+
+## Flood Anniversary Note
+
+Lena's profile establishes a private annual pre-sunrise visit to Ian's grave on the anniversary of the Great Flood, where she remains until the first bell. The current source files inspected here do not provide the anniversary's exact calendar date, so this routine does not invent one. Once that date is canonical, it should be implemented as a higher-priority Game Event or Ongoing Event rather than a normal weekly routine rule.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. River Remembrance is specifically tied to Memorial Hill and should replace Lena's normal routine during its event window.
+
+Player-to-NPC interaction temporarily supersedes Lena's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Lena's routine is intentionally calm and local. Gravekeeping, flowers, marker care, resident remembrance visits, time with Anya, and quiet reading all reinforce her role without reducing her to a permanently grieving character.
+
+The strongest routine progression is social rather than occupational. As Memorial Hill recovers, more people return to remember, talk, sit, and gather. Lena remains the caretaker, but the place around her becomes increasingly alive. That creates a direct simulation expression of her arc: continuing to live does not erase those who were lost.
