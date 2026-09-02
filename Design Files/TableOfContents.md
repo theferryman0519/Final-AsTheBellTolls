@@ -353,6 +353,42 @@ Version: 0.0.1
 
 ---
 
+## Routines
+
+- Adrian Lockwood
+- Agatha Whitmore
+- Anya Thorne
+- Beatrice Whitmore
+- Clara Weiss
+- Claudia Mercer
+- Dante Menici
+- Edward Ashcroft
+- Elise Moreau
+- Felix Holt
+- Frederick Holt
+- Helen Holt
+- Irene Calder
+- Jasmine Mercer
+- Jonas Mercer
+- Julian Hale
+- Kira Mercer
+- Lena Thorne
+- Leo Finch
+- Lucian/Vivian Darrow
+- Madison Remington
+- Mara Klein
+- Marcus Rowan
+- Martin Ashcroft
+- Milo Mercer
+- Nora Reed
+- Roland Whitmore
+- Sabrina Fairchild
+- Theo Bennett
+- Victor Cross
+- Walter Pierce
+
+---
+
 ## Systems
 
 - Admin System
