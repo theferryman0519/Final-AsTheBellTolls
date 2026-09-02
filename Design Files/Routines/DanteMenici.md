@@ -1,0 +1,7322 @@
+---
+Title: Routines / Dante Menici
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Dante follows a museum-centered routine built around the Hall of Wonder, 5 Resident Lane, historical research, artifact preservation, and a small number of meaningful relationships. His low sociability keeps his weekly routine relatively contained, while his high curiosity and long-form speaking style make museum work, research, and exhibit interpretation natural anchors.
+
+The Hall of Wonder is open from 7:00am to 8:00pm and is closed every Wednesday. It has no weather closures. Dante first becomes available on Day 30 of Spring, Year 1, matching the Hall of Wonder's first availability. Because Dante lives at 5 Resident Lane with Madison and Victor, his home routine includes several recurring shared-household blocks without turning the residence into a constant social hub.
+
+Victor is Dante's best friend and strongest recurring non-work relationship. Their exact weekly blocks are established here so Victor's future complete routine can mirror them. Madison participates in several household meals through INT-025, but at a lower frequency than Dante/Victor, matching the interaction table's guidance that Madison can participate less often.
+
+This routine uses only activities from the controlled NPC Routine System vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 30 of Spring, Year 1.
+- **Hall of Wonder Hours:** 7:00am to 8:00pm.
+- **Weekly Closure:** Wednesday.
+- **Weather Closures:** None.
+- **5 Resident Lane:** Residence for Dante, Madison, and Victor; available daily.
+- **Windy:** Dante dislikes wind. Optional outdoor research/walking shifts indoors when listed.
+- **NPC Interactions:** Recurring interactions are taken from `NpcInteractionTable.md`. Occasional history/mentor connections are kept occasional unless another character or event file provides a canonical matching block.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 6:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Resident Lanes District
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:10am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:20am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:30am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: Hall of Wonder
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 5 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 5 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 2:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 2:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 3:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 4:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 4:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 4:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 4:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 4:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Studying
+- 5:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 5:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 5:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 5:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 5:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 5:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 6:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Location: 5 Resident Lane
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Renewed:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Socializing
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 3:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 3:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 3:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 3:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 3:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 4:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-025: 5 Resident Lane Household
+        - Location: 5 Resident Lane
+        - Activity: Eating
+    - Restoration Override:
+        - Growing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Prospering:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+        - Flourishing:
+            - Location: 5 Resident Lane
+            - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:30am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 6:50am
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Traveling
+- 7:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Working
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 10:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:00am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 12:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 3:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Studying
+- 4:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 4:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 5:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Teaching
+- 6:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 6:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-026: Dante + Victor
+        - Condition: Victor available; Hall of Wonder open
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:00pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:10pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Renewed:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Growing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Prospering:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+        - Flourishing:
+            - Location: Hall of Wonder
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:30pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:40pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 7:50pm
+    - Base Routine:
+        - Location: Hall of Wonder
+        - Activity: Cleaning
+- 8:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Traveling
+- 8:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 8:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Eating
+- 9:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 9:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Reading
+- 10:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Relaxing
+- 10:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 5 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. Dante follows the Base Routine.
+- **Cloudy:** Liked. No routine change is required.
+- **Rainy:** Liked. Hall of Wonder remains open and Dante follows his museum routine.
+- **Rainy (Severe):** Neutral. The Hall has no weather closure, so Dante still works when scheduled. Optional Wednesday outdoor research/walking shifts toward 5 Resident Lane.
+- **Snowy:** Neutral. No general routine change is required.
+- **Snowy (Severe):** Neutral. The Hall remains open. Optional off-site outdoor blocks are shortened or replaced, but scheduled museum work continues.
+- **Windy:** Disliked. Optional Town Square/Blackmere walking or outdoor research moves indoors where listed.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Dante focuses on rescue and preservation. Damaged cases and closed sections make much of his work about keeping surviving artifacts safe rather than presenting them.
+- **Rebuilding:** One public gallery becomes reliable. Dante shifts toward cataloguing, arranging, and maintaining exhibits rather than pure emergency preservation.
+- **Recovering:** Additional cases and collections open, and regular local visitors begin appearing. Dante's evening public block becomes more social and visitor-facing.
+- **Renewed:** Complete visitor pathways and school/library visit areas support research lessons and cross-location learning. Thursday afternoon can become a teaching/interpretation period.
+- **Growing:** A rotating exhibit and demonstration zone gives Dante reasons to present seasonal or themed material. Saturday late afternoon becomes a stronger demonstration block.
+- **Prospering:** Visiting scholars, collectors, and appraisal work increase Dante's contact with specialists. Friday afternoon becomes more socially/professionally active.
+- **Flourishing:** Completed collections, Blackmere-history displays, and signature galleries let Dante publicly connect the town's past to its future. Sunday late afternoon can become a formal presentation block, directly supporting his character arc.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-025 - 5 Resident Lane Household:** Monday, Friday, and Sunday 8:20pm-8:50pm are shared household dinner blocks for Dante, Madison, and Victor. Madison's future routine should mirror these exact three windows unless a higher-priority duty/event supersedes them.
+- **INT-026 - Dante + Victor:** Tuesday 8:20pm-8:50pm shared dinner at 5 Resident Lane; Wednesday 5:00pm-6:20pm and 7:30pm-8:50pm Socializing at 5 Resident Lane; Saturday 6:00pm-6:50pm Socializing at Hall of Wonder. Victor's future routine should mirror these exact windows.
+- **INT-052 - Adrian + Dante:** Established but Occasional. Adrian's completed routine already keeps this connection occasional; no weekly Dante override is added.
+- **INT-054 - Dante + Lucian/Vivian:** Established but Occasional. Hall of Wonder/Bell Tower historical-mechanical interactions should be scheduled through a specific event, restoration visit, or later seasonal pass.
+- **INT-060 - Dante + Milo:** Directional and Occasional because Milo sees Dante as a mentor while Dante lists Milo as an acquaintance. No weekly mentoring block is forced.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Victor:** His future routine must reserve Tuesday 8:20pm-8:50pm, Wednesday 5:00pm-6:20pm and 7:30pm-8:50pm, and Saturday 6:00pm-6:50pm for INT-026.
+- **Madison:** Her future routine should reserve Monday, Friday, and Sunday 8:20pm-8:50pm for INT-025 household dinner, with the understanding that higher-priority sheriff/civic events can supersede those blocks.
+- **Adrian:** INT-052 remains Occasional in both completed routines, preventing an invented weekly history meeting from becoming accidental canon.
+- **Milo:** INT-060 remains Directional/Occasional and does not conflict with Milo's established weekly school, family, or Felix interactions.
+- **Hall of Wonder Visitors:** Restoration-driven school/library/scholar visits are placed inside Dante's existing museum work hours so future visitor routines can overlap naturally without forcing Dante away from his workplace.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Dante's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Dante's routine is intentionally contemplative and museum-heavy. His social life is concentrated around Victor and a few household meals rather than broad weekly friend groups, which fits his Introverted trait and low Sociability while still making his strongest relationships visible.
+
+His restoration progression carries much of his character development. Early Dante preserves objects and studies what others created. Later Dante increasingly interprets collections, teaches visitors, works with scholars, and presents Blackmere's own recovery as history worth documenting. That makes his shift from preserving inspiration to sharing and creating it visible through routine rather than dialogue alone.
