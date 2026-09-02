@@ -1,0 +1,14193 @@
+---
+Title: Routines / Adrian Lockwood
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Adrian follows a quiet, research-centered routine built around A. Whitmore Public Library, 3 Resident Lane, the nearby Graythorne River, and a small number of dependable relationships rather than a broad social calendar.
+
+On Monday through Friday, Adrian works at A. Whitmore Public Library around its public hours of 9:00am to 6:00pm. He arrives shortly before opening, spends the day preserving books and records, helping readers, researching Blackmere history, and maintaining the Library, then returns to 3 Resident Lane after closing. The Library is closed Saturday and Sunday, during Rainy (Severe) and Snowy (Severe), and from Day 18 of Winter until its Day 4 Spring reopening.
+
+Adrian shares 3 Resident Lane with Sabrina, his best friend. Their strongest recurring interactions are household meals, shared reading, and quiet conversation. These exact recurring windows are established here so Sabrina's eventual complete routine can mirror them rather than creating conflicting household time. Adrian's other social-table connections with Dante, Roland, and Milo remain Occasional rather than being forced into a weekly schedule.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Each day is represented at 10-minute resolution from 6:00am through 11:50pm. 12:00am is the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 4 of Spring, Year 1.
+- **Library Hours:** 9:00am to 6:00pm Monday through Friday.
+- **Library Weekend Closure:** Saturday and Sunday.
+- **Library Weather Closures:** Rainy (Severe) and Snowy (Severe).
+- **Library Seasonal Closure:** Day 18 of Winter until the Day 4 Spring reopening.
+- **Ordinary Rain:** Adrian likes ordinary rain and generally keeps his normal work routine.
+- **Windy:** Adrian dislikes wind. Optional outdoor river reading and Town Square reading/walking move indoors when listed.
+- **NPC Interactions:** Established recurring interactions come from `NpcInteractionTable.md`. Occasional interactions are not converted into weekly obligations unless another character/event file supplies a matching scheduled block.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 4:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 5:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 5:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 5:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+    - Restoration Override:
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Socializing
+- 5:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Teaching
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Rebuilding:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+    - Restoration Override:
+        - Recovering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Renewed:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Growing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Prospering:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+        - Flourishing:
+            - Location: A. Whitmore Public Library
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: A. Whitmore Public Library
+        - Activity: Cleaning
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Waking
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Location: Graythorne River near A. Whitmore Public Library
+        - Activity: Reading
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Winding Banks Inn
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Studying
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Library Seasonal Closure - Special Base Routine
+
+A. Whitmore Public Library closes from Day 18 of Winter until its Day 4 Spring reopening. Adrian does not treat that as a normal public workweek. Instead, he works from home on research, manuscript revision, damaged-book notes, correspondence, and historical records, with modest daytime walks when conditions allow.
+
+INT-023 household interactions with Sabrina remain eligible during the closure because they occur at 3 Resident Lane rather than at the closed Library.
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Waking
+- 7:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 8:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+- 9:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 10:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 10:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:00am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:10am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:20am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 11:30am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:40am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 11:50am
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 12:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 1:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: Town Square
+        - Activity: Walking
+    - Weather Override:
+        - Windy:
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 2:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Studying
+- 3:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+- 3:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 3:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 4:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 5:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 5:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Relaxing
+- 6:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Eating
+    - NPC Interaction Override:
+        - Interaction: INT-023: Adrian + Sabrina
+        - Location: 3 Resident Lane
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 7:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Reading
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Socializing
+- 8:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 8:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Studying
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+        - Snowy (Severe):
+            - Location: 3 Resident Lane
+            - Activity: Reading
+- 9:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Routine: Library Seasonal Closure
+        - Location: 3 Resident Lane
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Neutral. Adrian follows his normal routine.
+- **Cloudy:** Liked. No routine change is required.
+- **Rainy:** Liked. The Library remains open, and Adrian follows his normal work schedule. Rain is compatible with indoor research and reading.
+- **Rainy (Severe):** The Library closes. Adrian remains at 3 Resident Lane and shifts to reading, manuscript research, historical study, meals, and quiet household time.
+- **Snowy:** Neutral. Adrian generally follows the normal routine.
+- **Snowy (Severe):** The Library closes. Adrian uses the same safe home-based routine as severe rain.
+- **Windy:** Disliked. Optional outdoor reading/walking at the Graythorne River or Town Square shifts to 3 Resident Lane; required work travel still occurs when the Library is open.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Adrian works around damaged shelves, closed sections, and restricted circulation. His public-facing routine is functional but subdued, and much of his day is spent preserving what can still be used.
+- **Rebuilding:** A dependable reading zone and circulation path give Adrian a reliable public-service area. His morning work block becomes more consistently visitor-facing.
+- **Recovering:** Additional shelves, tables, and circulation space allow children and adults to begin scheduled Library visits. Adrian spends more of the afternoon actively assisting readers rather than working entirely behind the scenes.
+- **Renewed:** Restored collections and the Preservation Display Case support predictable small reading groups and paired reading periods. Wednesday late afternoon becomes a stronger public/social Library block.
+- **Growing:** Reading nooks and/or garden seating add new reading anchors. Adrian can visibly use the Library as a place for both work and personal reading rather than remaining behind a desk all day.
+- **Prospering:** Expanded learning displays and cross-location demonstrations allow Adrian to take occasional teaching/history-program roles.
+- **Flourishing:** Mature preservation and community programming make Adrian more willing to present Blackmere history publicly, reflecting progress toward trusting his own judgment and sharing his research with conviction.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-023 - Adrian + Sabrina:** This is Adrian's primary recurring social relationship. Weekday breakfast is 7:00am-7:30am. Monday/Wednesday/Friday shared dinner is 6:20pm-7:00pm. Tuesday 7:10pm-8:10pm is shared Reading. Thursday 7:10pm-8:10pm is shared Socializing. Sunday breakfast is 7:50am-8:30am, and Sunday 7:10pm-8:20pm is extended household conversation. Sabrina's future routine should mirror these exact windows.
+- **INT-052 - Adrian + Dante:** Established but Occasional. Use the Public Library or Hall of Wonder for history/archive interaction when a monthly, seasonal, restoration, or event schedule calls for it. No weekly override is forced here.
+- **INT-053 - Adrian + Roland:** Established but Occasional. Library/Town Square history conversations should be scheduled only when Roland's eventual routine or an event supplies a matching block.
+- **INT-061 - Adrian + Milo:** Directional and Occasional because Milo sees Adrian as a mentor while Adrian currently lists Milo as an acquaintance. Do not create a weekly mentoring block unless the relationship is strengthened or a specific school/library activity requires it.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Sabrina:** Future routine must reserve the INT-023 household windows listed above. These are now the source-of-truth times for Adrian/Sabrina recurring household interaction.
+- **Felix:** At Recovering+, Felix's authored Wednesday Library visit overlaps Adrian's normal 3:00pm-5:40pm Library presence. Felix's Sabrina mentoring block therefore occurs while Adrian is naturally present at work; no Adrian override is needed.
+- **Kira/Milo/Anya:** Their weekday School interactions do not require Adrian to move. Library visits should only involve Adrian when an established Library block overlaps his normal work schedule.
+- **Dante and Roland:** Their Adrian relationships remain Occasional rather than being assigned a weekly time that could conflict with their eventual complete routines.
+- **Library Visitors:** Restoration-stage visitor blocks are designed to happen during Adrian's public work hours so future NPC schedules can enter the Library without requiring Adrian to abandon his professional anchor.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding event files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Adrian's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Adrian's routine is intentionally stable, indoor-heavy, and repetitive compared with more extroverted marriage candidates. His strongest variations come from restoration of the Library, quiet river reading, and his friendship with Sabrina rather than constant trips around Blackmere.
+
+His character arc is reflected through restoration progression: early Adrian preserves and researches privately; later Adrian spends more time assisting readers, participating in reading groups, and eventually teaching or presenting Blackmere history. The schedule therefore makes his increased confidence visible without changing him into an outgoing character.
