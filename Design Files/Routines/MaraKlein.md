@@ -1,0 +1,7037 @@
+---
+Title: Routines / Mara Klein
+Game: As The Bell Tolls
+Owner: Carey Clement Jr
+Created: August, 2026
+Updated: August, 2026
+Version: 0.0.1
+---
+
+# Schedule & Routine
+
+## General Routine
+
+Mara follows a practical, labor-heavy routine centered on Klein Woodworks, active restoration sites, Gloamwood Forest, and a small professional network. Her schedule is intentionally hands-on: even when the public shop closes, she spends substantial time repairing, building, studying materials, or inspecting Blackmere's structures.
+
+Klein Woodworks is open from 9:00am to 5:00pm and is closed every Friday. Mara lives at the shop, so closure only ends public business; it does not end her workday. Her Friday closure is used for Gloamwood material study, private carpentry, and a recurring craft-rival block with Marcus.
+
+Clara is Mara's best friend and most important recurring collaborator. Mara's Tuesday and Thursday INT-027 blocks exactly match Clara's completed routine. The Wednesday INT-029 Trades Trio block also exactly matches Clara, and Friday establishes a separate Mara/Marcus INT-028 block for Marcus to mirror later.
+
+This routine uses only activities defined by the NPC Routine System controlled vocabulary. Every day is represented at 10-minute resolution from 6:00am through 11:50pm, with 12:00am treated as the end-of-day boundary.
+
+### Routine Conditions
+
+- **First Availability:** Day 1 of Spring, Year 1.
+- **Klein Woodworks Hours:** 9:00am to 5:00pm.
+- **Weekly Closure:** Friday.
+- **Residence:** Klein Woodworks.
+- **Ordinary Rain:** Disliked. Optional forest/site activity moves toward workshop repair or study, but normal shop work continues.
+- **Severe Weather:** Optional off-site collaboration/travel is invalidated during Rainy (Severe) and Snowy (Severe). Mara remains at Klein Woodworks for private repair/building work when travel is unsafe.
+- **NPC Interactions:** Times come from `NpcInteractionTable.md` and already-completed character routines. Existing Clara interaction windows are treated as fixed source-of-truth anchors.
+
+---
+
+## Weekly Routine
+
+### Sunday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 2:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 2:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Socializing
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+### Monday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+### Tuesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Weiss Design Studio open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Weiss Design Studio open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Weiss Design Studio open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Weiss Design Studio open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Weiss Design Studio open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Weiss Design Studio open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Weiss Design Studio
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Growing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Prospering:
+            - Location: Weiss Design Studio
+            - Activity: Working
+        - Flourishing:
+            - Location: Weiss Design Studio
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+### Wednesday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Traveling
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Traveling
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Traveling
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Traveling
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Traveling
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-029: Clara + Mara + Marcus
+        - Condition: All participants available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Restoration Site
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+    - Restoration Override:
+        - Growing:
+            - Location: Restoration Site
+            - Activity: Working
+        - Prospering:
+            - Location: Restoration Site
+            - Activity: Working
+        - Flourishing:
+            - Location: Restoration Site
+            - Activity: Working
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+### Thursday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+    - NPC Interaction Override:
+        - Interaction: INT-027: Clara + Mara
+        - Condition: Klein Woodworks open; Clara available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Klein Woodworks
+        - Activity: Socializing
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+### Friday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 8:00am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 8:40am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 8:50am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 9:00am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 9:10am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 9:20am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 9:30am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 9:40am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 9:50am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 10:00am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 10:10am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 10:20am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 10:30am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 10:40am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 10:50am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 11:00am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 11:10am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 11:20am
+    - Base Routine:
+        - Location: Gloamwood Forest
+        - Activity: Exploring
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 2:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Working
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Working
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Ironveil Forge
+        - Activity: Working
+    - NPC Interaction Override:
+        - Interaction: INT-028: Mara + Marcus
+        - Condition: Ironveil Forge open; Marcus available; Not Rainy (Severe) or Snowy (Severe)
+        - Location: Ironveil Forge
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+    - Restoration Override:
+        - Growing:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Prospering:
+            - Location: Ironveil Forge
+            - Activity: Working
+        - Flourishing:
+            - Location: Ironveil Forge
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 4:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 4:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Repairing
+- 5:00pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Town Square
+        - Activity: Socializing
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+### Saturday
+
+- 6:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 6:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Waking
+- 6:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 8:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 9:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 9:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 10:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+    - Restoration Override:
+        - Rebuilding:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Shopkeeping
+- 11:00am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+- 11:10am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+- 11:20am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+- 11:30am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+- 11:40am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+- 11:50am
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Teaching
+- 12:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 12:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 12:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 1:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Shopkeeping
+- 2:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 2:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 3:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+    - Restoration Override:
+        - Recovering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Renewed:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Growing:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Prospering:
+            - Location: Klein Woodworks
+            - Activity: Working
+        - Flourishing:
+            - Location: Klein Woodworks
+            - Activity: Working
+- 4:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 4:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Cleaning
+- 5:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Traveling
+    - Weather Override:
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:30pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:40pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 5:50pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:00pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:10pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:20pm
+    - Base Routine:
+        - Location: Blackmere
+        - Activity: Working
+    - Weather Override:
+        - Rainy:
+            - Location: Klein Woodworks
+            - Activity: Repairing
+        - Rainy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+        - Snowy (Severe):
+            - Location: Klein Woodworks
+            - Activity: Studying
+- 6:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 6:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Traveling
+- 7:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Eating
+- 7:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 7:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 8:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Working
+- 9:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Studying
+- 9:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 9:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Relaxing
+- 10:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 10:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:00pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:10pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:20pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:30pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:40pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+- 11:50pm
+    - Base Routine:
+        - Location: Klein Woodworks
+        - Activity: Sleeping
+
+---
+
+## Weather Behavior Notes
+
+- **Clear:** Liked. Mara follows the Base Routine and is comfortable with forest/material and restoration-site work.
+- **Cloudy:** Neutral. No general change is required.
+- **Rainy:** Disliked. Klein Woodworks remains usable, while optional Gloamwood, Town Square, and restoration-site blocks shift toward indoor repair or study.
+- **Rainy (Severe):** Neutral in preference, but unsafe travel invalidates optional off-site interactions. Mara remains at Klein Woodworks and focuses on building, repair, tool maintenance, and planning.
+- **Snowy:** Neutral. Mara generally follows the Base Routine.
+- **Snowy (Severe):** Neutral in preference; unsafe off-site blocks are canceled and replaced with indoor workshop work.
+- **Windy:** Liked. Mara generally follows her normal routine and enjoys outdoor work when conditions are safe.
+
+---
+
+## Restoration Routine Notes
+
+- **Weathered:** Mara is primarily fixing urgent structural damage, salvaging usable lumber, and keeping basic repairs moving. Her work is reactive and heavily individual.
+- **Rebuilding:** Stable benches, lumber storage, and dependable public-shop space make morning shopkeeping and fabrication more predictable.
+- **Recovering:** Better organized material storage and repair areas allow more specialized commissions and stronger collaboration with other craftspeople.
+- **Renewed:** Completed structural plans and improved workshop organization let Mara spend less time on emergency patchwork and more time on durable, long-term building.
+- **Growing:** Cross-profession restoration work becomes routine. The Wednesday Trades Trio and Friday Marcus collaboration become more central because larger projects require coordinated carpentry, metalwork, and design.
+- **Prospering:** Expanded commissions and community projects create more teaching/consultation opportunities, making Mara's expertise part of Blackmere's broader rebuilding culture.
+- **Flourishing:** Klein Woodworks becomes a mature civic craft space. Mara increasingly collaborates, advises, and shares responsibility rather than personally carrying every task, directly supporting her character arc.
+
+---
+
+## NPC Interaction Routine Notes
+
+- **INT-027 - Clara + Mara:** Exactly matches Clara's completed routine. Tuesday 2:00pm-2:50pm Working at Weiss Design Studio. Thursday 3:00pm-3:50pm Working at Klein Woodworks, followed by 4:00pm-4:50pm Socializing there.
+- **INT-029 - Blackmere Trades Trio:** Exactly matches Clara. Wednesday 4:30pm-4:50pm Traveling toward the active Restoration Site, followed by 5:00pm-5:50pm Working there with Clara and Marcus.
+- **INT-028 - Mara + Marcus:** Friday, on Mara's closure day: 2:30pm-2:50pm Traveling to Ironveil Forge, 3:00pm-3:50pm Working together, and 4:00pm-4:20pm Socializing/friendly rivalry. Marcus's future routine should mirror these exact times.
+- Mara's Friend relationships with Beatrice, Claudia, Irene, Julian, Madison, and others are not automatically converted into weekly appointments. They remain available for festivals, restoration events, Town Square overlap, or future seasonal routines.
+
+---
+
+## Cross-NPC Alignment Notes
+
+- **Clara:** INT-027 and INT-029 exactly match Clara's completed routine and are not shifted.
+- **Marcus:** His future routine must reserve Wednesday 4:30pm-5:50pm for INT-029 and Friday 2:30pm-4:20pm for INT-028.
+- **Restoration Site:** INT-029 should resolve to the same currently active restoration site for Clara, Mara, and Marcus. The Interaction ID is the canonical source rather than three independent location decisions.
+- **Shop Availability:** Tuesday's Clara/Mara block happens while Weiss Design Studio is open; Thursday's block happens at Klein Woodworks while Clara's Studio is closed; Friday's Mara/Marcus block happens at Ironveil Forge while Klein Woodworks is closed. This distributes collaboration without unnecessarily closing participants' public shops.
+
+---
+
+## Event Priority Notes
+
+Game Events, Main Festivals, Mini Festivals, and Ongoing Events supersede this routine according to the NPC Routine System priority order. Exact event schedules should come from their corresponding files rather than being duplicated here.
+
+Player-to-NPC interaction temporarily supersedes Mara's currently resolved Routine. When the interaction ends, the current tick is re-resolved.
+
+---
+
+## Routine Characterization
+
+Mara's routine is intentionally work-heavy and independent. Even her day off from public business is not a leisure day; she studies timber, works privately, and collaborates with Marcus. That fits her Diligence 95, Ambition 90, practical personality, and belief that relying on herself is the safest way to guarantee quality.
+
+Her later restoration stages gradually challenge that pattern. Clara, Marcus, and cross-profession restoration work become increasingly important, making collaboration part of Mara's normal life instead of an exception. This lets her arc—learning that strong foundations are built together—show up directly in the world simulation.
