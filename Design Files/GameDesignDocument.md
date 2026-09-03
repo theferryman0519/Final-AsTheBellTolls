@@ -129,7 +129,7 @@ North of town stands Pendrelle Manor, the home of the player's late grandmother.
 
 Blackmere changes through accumulation rather than total replacement. Weathered repairs remain legible beneath newer work. Old memorials continue to matter. Some residents preserve repaired furniture or patched clothes even after they can afford replacements. The town's history is not scrubbed away by prosperity.
 
-As the town moves through restoration states, environmental changes become increasingly systemic. Streets gain foot traffic. Shops gain customers. Lighting becomes dependable. Seasonal decorations return. Wildlife and critters reappear in cared-for spaces. Public areas gain selected civic improvements. Audio becomes busier. Visitors create new routines. Installed inventions become visible parts of town infrastructure.
+As the town moves through restoration states, environmental changes become increasingly systemic. Streets gain foot traffic. Shops gain customers. Lighting becomes dependable. Seasonal decorations return. Ambient wildlife becomes more visible in cared-for spaces. Public areas gain selected civic improvements. Audio becomes busier. Visitors create new routines. Installed inventions become visible parts of town infrastructure.
 
 Blackmere is therefore both a setting and a progression system: a place whose daily behavior reflects the state of the save.
 
@@ -157,11 +157,11 @@ Blackmere is therefore both a setting and a progression system: a place whose da
 
 <u>Ironveil Peak</u> - The mountain overlooking Blackmere. It provides mining, stone, wood, exploration, gathering, and access to elevated locations.
 
-<u>Steelridge Watch</u> - A high overlook used for exploration, relationship hangouts, star-gazing, the Aurora Watch event, photography, and selected memory or discovery moments.
+<u>Steelridge Watch</u> - A high overlook used for exploration, relationship hangouts, star-gazing, the Aurora Watch event, and selected memory or discovery moments.
 
-<u>Gloamwood Forest</u> - A major gathering and exploration region containing trees, flowers, herbs, critters, secrets, weather-sensitive resources, and access to Gloamwood Depths.
+<u>Gloamwood Forest</u> - A major gathering and exploration region containing trees, flowers, herbs, ambient wildlife, secrets, weather-sensitive resources, and access to Gloamwood Depths.
 
-<u>Graythorne Lake</u> - A still, elevated lake tied to fishing, folklore, the Eve of the White Doe, rare weather conditions, exploration, photography, memory, and environmental mystery.
+<u>Graythorne Lake</u> - A still, elevated lake tied to fishing, folklore, the Eve of the White Doe, rare weather conditions, exploration, memory, and environmental mystery.
 
 ---
 
@@ -178,10 +178,10 @@ The daily loop is intentionally flexible:
 3. Steward Time - Use Advance, Preserve, or Synchronize where the opportunity is worth a Chime.
 4. Connect - Talk, gift, hang out, attend events, respond to invitations, help residents, or receive help from them.
 5. Contribute - Restore spaces, install inventions, fund civic projects, supply communal activities, or participate in markets and festivals.
-6. Discover - Find new recipes, memories, critters, fish, artifacts, records, visitor stories, secret areas, or environmental clues.
+6. Discover - Find new recipes, memories, fish, artifacts, records, visitor stories, secret areas, or environmental clues.
 7. Reflect - End the day with persistent consequences carried into schedules, dialogue, relationships, restoration, economy, collections, and the world state.
 
-The day advances in ten-minute in-game increments. Lighting, weather presentation, ambient sound, NPC routines, shop availability, fish and critter conditions, and event states respond to time.
+The day advances in ten-minute in-game increments. Lighting, weather presentation, ambient sound, NPC routines, shop availability, fish availability, forage conditions, and event states respond to time.
 
 At midnight, the final town bell closes the day. Unfinished optional work is not treated as failure. If the player remains away from the manor too late, they may faint and begin the following day with reduced recovery.
 
@@ -206,7 +206,7 @@ The game has one canonical balance rather than selectable Easy/Normal/Hard modes
 
 These settings are not treated as lesser modes and do not disable story or completion content.
 
-A completed campaign may unlock optional Legacy / New Game+ modifiers for future saves. These can include cosmetic heirlooms, alternative starting emphases, optional challenge targets, alternate decor presets, different early Blueprint priorities, or other replay-focused variations. Major story and progression content remains available regardless of the chosen legacy options.
+A completed campaign may unlock optional Legacy / New Game+ modifiers for future saves. These can include cosmetic heirlooms, alternative starting emphases, optional challenge targets, alternate decor presets, alternative starting resource or restoration emphases, or other replay-focused variations. Major story and progression content remains available regardless of the chosen legacy options.
 
 A future multiplayer mode allows two sibling heirs to inhabit the same save. Multiplayer follows explicit ownership and permission rules rather than treating a second player as an unrestricted duplicate protagonist.
 
@@ -226,7 +226,7 @@ The player can:
 - Decorate Pendrelle Manor through furniture, lighting, walls, flooring, displays, and functional placement.
 - Make limited curated civic customization choices in Blackmere as restoration allows.
 - Buy, sell, trade, commission, and participate in active market events.
-- Contribute to town treasury decisions and long-term civic projects.
+- Contribute Bellnotes, materials, or completed work to long-term civic projects.
 - Talk with NPCs, give gifts, respond to dialogue choices, complete requests, and build relationships.
 - Invite eligible NPCs to structured hangouts.
 - Accept invitations or spontaneous interactions initiated by NPCs.
@@ -238,10 +238,8 @@ The player can:
 - Observe NPC-to-NPC scenes and evolving relationships.
 - Explore hidden areas and uncover secrets or flood-era remnants.
 - Trigger memory dives and add recovered histories to the Archive of Echoes.
-- Catch or observe seasonal critters.
 - Contribute items and discoveries to the Hall of Wonder.
-- Display selected collections, trophies, photographs, inventions, fish, artifacts, and memories.
-- Use photo mode and preserve selected moments in an album.
+- Display selected collections, trophies, inventions, fish, artifacts, and memories.
 - Track quests, recipes, inventions, collections, fish, gifts, restoration projects, and other goals.
 - Use Advance, Preserve, and Synchronize through the grandfather clock or portable pocket watch when valid.
 - Choose not to act, allowing opportunities to pass or situations to evolve without treating every missed activity as failure.
@@ -278,7 +276,7 @@ Examples include:
 - Complete a character bonding arc.
 - Build a cross-location synergy.
 - Install an invention.
-- Improve an invention branch.
+- Advance or complete a Blueprint Book material tier.
 - Prepare for the Grand Showcase.
 - Fund a civic project.
 - Expand the Hall of Wonder.
@@ -313,7 +311,7 @@ Blackmere's political abandonment develops into a long-term repossession threat.
 Rupert evaluates five areas:
 
 - Structural Stability - Essential buildings, public access, safe routes, reliable utilities, and restored infrastructure.
-- Economic Stability - Shop viability, trade, debt, reserve trends, production, and sustainable circulation of Bellnotes.
+- Economic Stability - Shop viability, trade, debt management, production, business growth, and sustainable circulation of Bellnotes.
 - Civic Continuity - Town Hall, education, records, public services, community activities, and shared institutions.
 - Community Stability - Resident connection, dependable routines, household recovery, communal participation, and social support.
 - Future Readiness - Installed inventions, long-term planning, regional links, resilient systems, and evidence that Blackmere can continue adapting.
@@ -475,7 +473,7 @@ Tonics develop through experimentation, discovery, heat control, performance gra
 
 Fishing develops through season, time, weather, region, bait/tackle, quality, rare catches, festivals, records, exhibits, and requests.
 
-Foraging and critter collection respond to season, time, weather, location, and restoration state.
+Foraging responds to season, time, weather, location, and restoration state.
 
 #### Invention Progression
 
@@ -489,14 +487,13 @@ This structure provides freedom within each tier while preserving a clear progre
 
 Major inventions must define:
 
-* Where they are installed or used.
-* Their visible world representation.
-* Their service or gameplay effect.
-* Which NPCs use or acknowledge them.
-* Their restoration or cross-location synergy.
-* Their potential Grand Showcase use.
-* Their mastery or upgrade path.
-
+- Where they are installed or used.
+- Their visible world representation.
+- Their service or gameplay effect.
+- Which NPCs use or acknowledge them.
+- Their restoration or cross-location synergy.
+- Their potential Grand Showcase use.
+- Their mastery or upgrade path.
 
 #### Mastery & Expertise
 
@@ -590,28 +587,30 @@ Flourishing - The location gains a signature high-stage role, representing a new
 
 Manor restoration focuses on home life, storage, comfort, customization, invention, research, hospitality, collection display, relationships, and optional family life.
 
-The existing three decor variants per stage establish the architectural direction, but restored rooms may additionally support player-placed furniture, functional stations, display items, lighting, wall/floor customization, photographs, seasonal decorations, and saved layouts where appropriate.
+The existing three decor variants per stage establish the architectural direction, but restored rooms may additionally support player-placed furniture, functional stations, display items, lighting, wall/floor customization, seasonal decorations, and saved layouts where appropriate.
 
 No room requires marriage or parenthood to reach Flourishing.
 
 ### Skill Tree
 
-The Blueprint Book replaces a conventional stat-based skill tree.
+The Blueprint Book replaces a conventional stat-based skill tree with material-tier invention progression.
 
 Inventions are divided into:
 
-- Blueprint Book Inventions - Progression inventions organized into interconnected branches.
+- Blueprint Book Inventions - Core progression inventions organized into Copper, Iron, Silver, Gold, and Cobalt material tiers.
 - Quest Inventions - One-off inventions created for specific characters or story situations.
 - Showcase Inventions - One-off or specialized creations associated with the Grand Showcase.
 - Civic / Installed Inventions - Inventions whose primary purpose is to become part of Blackmere's infrastructure or public life.
 
-Blueprint branches create specialization opportunities. Players may prioritize farming support, husbandry, civic works, social/comfort systems, food production, exploration, trade, or other themes based on the final Blueprint structure.
+Within each Blueprint Book tier, the Ore Scanner acts as the gate. Crafting that tier's Ore Scanner unlocks every other Blueprint Book invention in the tier, and those inventions may then be crafted in any order. Crafting every Blueprint Book invention in the current material tier unlocks the next tier's Ore Scanner.
 
-Branch choices affect the order and emphasis of progression rather than permanently removing major content.
+The system therefore provides player choice within each tier without mutually exclusive branches or permanent specialization. Long-term mastery comes from completing the full invention progression and using those inventions throughout Blackmere.
 
 The Inventions menu tracks:
 
-- Blueprint branch.
+- Material tier.
+- Ore Scanner status.
+- Tier completion.
 - Unlock requirements.
 - Materials.
 - Installation location.
@@ -653,7 +652,7 @@ Each main festival should support:
 - Spouse/family moments where applicable.
 - Optional player roles.
 - Appropriate weather contingencies.
-- Photography or memorable group moments.
+- Memorable group moments.
 - Unique rewards or collection progress.
 - Post-event reactive dialogue.
 
@@ -728,7 +727,7 @@ Examples include:
 - Inn guests.
 - Repair crews.
 - Seasonal food requests.
-- Unusual forage or critter appearances.
+- Unusual forage appearances.
 
 The calendar and mail systems communicate major opportunities without requiring the player to check every location daily.
 
@@ -832,7 +831,7 @@ Restoration changes the world through modular layers:
 - Ambient activity.
 - Shop displays.
 - Installed inventions.
-- Wildlife and critters.
+- Ambient wildlife.
 - Soundscape.
 
 The visual target is not to replace seven locations with seven entirely different scenes. Restoration should reuse scene structure while making the behavioral state unmistakable.
@@ -1043,9 +1042,9 @@ NPCs acknowledge or use significant installed inventions where appropriate.
 
 ### Game Economy
 
-Blackmere uses a small-scale local economy supported by player trade, resident businesses, the town bank, visiting merchants, and communal investment.
+Blackmere uses a small-scale local economy supported by player trade, resident businesses, Blackmere Bank & Exchange, visiting merchants, and direct investment into restoration or civic projects.
 
-The economy separates the player's personal Bellnotes from the broader health of Blackmere's treasury.
+The economy tracks the player's personal Bellnotes alongside observable town economic health.
 
 The town's economic state can influence:
 
@@ -1058,19 +1057,11 @@ The town's economic state can influence:
 - Future Planning.
 - Visitor activity.
 
-### Town Treasury
+### Blackmere Bank & Exchange
 
-At appropriate progression points, the player participates in town funding choices.
+Blackmere Bank & Exchange is the town's formal financial institution. It handles loans and other banking services defined by the Loan and related economy systems.
 
-Examples include:
-
-- Roads versus festival spending.
-- School supplies versus trade subsidy.
-- Flood defenses versus beautification.
-- Clinic stock versus market promotion.
-- Museum expansion versus another civic service.
-
-Choices are not permanent failure traps. Unselected projects may remain available later, but order and timing create visible differences.
+Long-term civic and Future Planning projects use explicit Bellnote, material, restoration, or task requirements. Contributions fund the selected project directly rather than accumulating in a persistent town-wide fund.
 
 ### In-Game Currency
 
@@ -1406,7 +1397,6 @@ Categories may include:
 - Flowers.
 - Herbs.
 - Fish.
-- Critters.
 - Meals.
 - Tonics.
 - Fabrications.
@@ -1459,7 +1449,6 @@ The Hall of Wonder is both a physical location and a major completion pillar.
 Exhibit categories can include:
 
 - Fish and aquatic life.
-- Critters.
 - Minerals.
 - Flora.
 - Invention history.
@@ -1469,20 +1458,6 @@ Exhibit categories can include:
 
 The building physically changes as collections grow.
 
-### Photo Mode & Album
-
-Photo mode allows players to preserve major or personal moments.
-
-Features may include:
-
-- Time pause.
-- Camera framing.
-- NPC pose/reaction invitation.
-- Festival group photos.
-- Restoration milestone photos.
-- Household photos.
-- Album storage.
-- Displayable photo frames.
 
 ### Mail Archive
 
@@ -1555,7 +1530,6 @@ Display
 The save strategy supports:
 
 - Multiple save files.
-- Manual save at safe gameplay states.
 - Day-end autosave.
 - Three to five rolling backups.
 - Save versioning.
@@ -1620,7 +1594,6 @@ Examples include:
 - Leaves.
 - Birds.
 - Butterflies.
-- Critters.
 - Footprints.
 - Smoke.
 - Shop activity.
@@ -1653,7 +1626,6 @@ Possible effects include:
 - Crop watering.
 - Crop conditions.
 - Fish availability.
-- Critter availability.
 - Herb and forage spawns.
 - NPC routines.
 - Shop stock.
