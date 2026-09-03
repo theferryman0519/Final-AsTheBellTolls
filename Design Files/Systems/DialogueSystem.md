@@ -44,6 +44,33 @@ Version: 0.0.1
 
 ---
 
+## Eligibility & Cooldown
+
+- Each dialogue set has both Eligibility and Cooldown variables.
+- Eligibility is how many in-game days after the triggering context the dialogue remains valid. An Eligibility at 0 means it is context/immediately driven rather than carried forward.
+- Cooldown is how many in-game days before the same dialogue type can be selected again after being played. A Cooldown at 0 means that there is no time-based cooldown.
+
+| Dialogue Type          | Eligibility | Cooldown
+|------------------------|-------------|----------|
+| Bond Events            | 0           | 0
+| Gifts                  | 0           | 0
+| Edward's Help          | 0           | 0
+| Festivals              | 0           | 3
+| First Meet             | 0           | 0
+| Generic                | 0           | 1
+| Group                  | 0           | 10
+| Interaction Events     | 0           | 0
+| Intro Cinematic        | 0           | 0
+| Married Life           | 0           | 2
+| Proposals              | 0           | 1
+| Quests                 | 0           | 0
+| Reative                | 2           | 2
+| Repossession           | 0           | 0
+| Restoration            | 3           | 3
+| Shopping               | 0           | 0
+
+---
+
 ## Speech Audio Information
 
 - Each character uses one of four base clip sets
