@@ -38,7 +38,7 @@ Version: 0.0.1
 | Pillar | Purpose | Maximum Score |
 |---|---|---:|
 | Structural Stability | Essential buildings, public access, safe routes, dependable infrastructure, and reliable physical services | 40 |
-| Economic Stability | Operating businesses, trade, treasury health, debt management, production, and sustainable economic activity | 40 |
+| Economic Stability | Operating businesses, regional trade, debt management, production, business growth, and sustainable economic activity | 40 |
 | Civic Continuity | Town Hall, education, records, public services, public institutions, and community activities | 40 |
 | Community Stability | Resident relationships, household recovery, dependable routines, communal participation, NPC-to-NPC development, and social support | 40 |
 | Future Readiness | Inventions, cross-location synergies, regional connections, long-term resilience, and evidence that Blackmere can continue adapting | 40 |
@@ -88,20 +88,17 @@ Structural Evidence Notes
 | A Blackmere business is restored enough to provide its dependable core service | 2 points per operating business, max of 12 points |
 | An operating business reaches at least Growing and provides expanded stock, service, production, or town contribution | +2 points per qualifying business, max of 10 additional points |
 | Establish an active regional trade relationship or dependable visiting-trader connection | 4 points per relationship, max of 12 points |
-| Town treasury is currently stable rather than declining | 4 points |
-| Town treasury maintains a positive reserve | 7 points instead of 4 |
-| Town treasury maintains a sustained positive reserve/trend | 10 points instead of 4 or 7 |
 | Player has no overdue loan obligations | 3 points |
-| Player has fully repaid all government/bank loans that count toward the assessment | 6 points instead of 3 |
+| Player has fully repaid all Blackmere Bank & Exchange loans that count toward the assessment | 6 points instead of 3 |
 | Maintain meaningful production or sales activity across distinct economic categories | 2 points per qualifying category, max of 8 points |
 | PILLAR CAP | 40 points |
 
 Economic Evidence Notes
 
-- Treasury rows are tiered; only the highest currently satisfied treasury row is counted.
+- Economic stability is demonstrated through operating businesses, business expansion, regional trade, responsible loan management, and diverse production or sales activity.
 - Loan rows are tiered; only the highest currently satisfied loan row is counted.
-- Exact treasury-health thresholds are owned by the Economy System and must be visible to the player before they affect assessment scoring.
 - The assessment does not require the player to become debt-free if enough other economic evidence demonstrates stability.
+- The Economic Stability pillar intentionally contains more than 40 points of available evidence so different playstyles can reach the pillar cap without completing every economic objective.
 
 ---
 
@@ -151,7 +148,7 @@ Community Evidence Notes
 
 | Action | Allotted Points |
 |---|---:|
-| Complete a major Blueprint Book branch/tier milestone | 4 points per milestone, max of 16 points |
+| Complete a Blueprint Book material-tier milestone | 4 points per milestone, max of 16 points |
 | Install a Civic / Installed Invention that produces an active world or service effect | 3 points per invention, max of 12 points |
 | Activate a cross-location restoration synergy | 3 points per active synergy, max of 12 points |
 | Establish a regional connection that improves trade, visitors, research, travel, or another long-term town system | 3 points per connection, max of 9 points |
