@@ -141,6 +141,7 @@ Version: 0.0.1
 - Generic Tip
 - Generic Weather
 - Greetings
+- Group
 - Hated Gifts
 - Interaction Events
 - Intro
@@ -153,6 +154,7 @@ Version: 0.0.1
 - Quests (Pre)
 - Reactive
 - Repossession
+- Restoration
 - Shopping
 - Tolerated Gifts
 
