@@ -273,6 +273,7 @@ Version: 0.0.1
 - Library Books
 - Museum Artifacts
 - Record Discs
+- Restoration Components
 - Statues
 - Tools
 
