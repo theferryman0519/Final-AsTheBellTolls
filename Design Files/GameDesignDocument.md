@@ -479,21 +479,24 @@ Foraging and critter collection respond to season, time, weather, location, and 
 
 #### Invention Progression
 
-The Blueprint Book serves as the primary skill-tree structure.
+The Blueprint Book serves as the game's primary tiered invention progression system.
 
-Blueprint inventions are organized into thematic branches. The player can choose which areas to prioritize, allowing different early and mid-game saves to develop differently.
+Blueprint Book inventions are organized into five material tiers: Copper, Iron, Silver, Gold, and Cobalt. Each tier is opened by its Ore Scanner. The player begins with access to the Copper Ore Scanner; crafting an Ore Scanner unlocks every other Blueprint Book invention within that material tier.
 
-Specialization should create meaningful order and emphasis without permanently locking the player out of major content. Respecialization or late-game mastery allows broad completion.
+Once a tier is open, the player may craft its remaining inventions in any order. The next material tier's Ore Scanner unlocks only after every Blueprint Book invention in the current tier has been crafted. Quest Inventions, Showcase Inventions, and Civic / Installed Inventions do not count toward this tier-completion gate unless a specific design explicitly states otherwise.
+
+This structure provides freedom within each tier while preserving a clear progression path and preventing advanced material tiers from bypassing earlier invention development.
 
 Major inventions must define:
 
-- Where they are installed or used.
-- Their visible world representation.
-- Their service or gameplay effect.
-- Which NPCs use or acknowledge them.
-- Their restoration or cross-location synergy.
-- Their potential Grand Showcase use.
-- Their mastery or upgrade path.
+* Where they are installed or used.
+* Their visible world representation.
+* Their service or gameplay effect.
+* Which NPCs use or acknowledge them.
+* Their restoration or cross-location synergy.
+* Their potential Grand Showcase use.
+* Their mastery or upgrade path.
+
 
 #### Mastery & Expertise
 
