@@ -11,6 +11,10 @@ Version: 0.0.1
 
 ## Introduction
 
+### Game Pitch
+
+Restore a flood-damaged Gothic town as an up-and-coming inventor, then prove Blackmere can stand on its own while the people, businesses, routines, and relationships visibly grow around your choices.
+
 ### Game Concept
 
 *As The Bell Tolls* is a cozy, Gothic life-simulation role-playing game set in the quiet town of Blackmere, a place reshaped by a generational flood and quietly left behind by the wider world. Almost a year after the waters have receded, the flood's effects remain in weathered streets, altered routines, strained trade, and a community that has learned to endure rather than expect renewal. Yet beneath that stillness, Blackmere holds the possibility of recovery.
@@ -19,15 +23,15 @@ The player arrives to inherit Pendrelle Manor, the flood-stricken home of their 
 
 Time manipulation is expressed through three distinct forms of stewardship:
 
-- **Advance** moves a valid process toward its next natural state.
-- **Preserve** protects a valid state or opportunity that the player cannot attend to immediately.
-- **Synchronize** creates value by bringing compatible tasks, routines, locations, or systems into rhythm.
+- Advance moves a valid process toward its next natural state.
+- Preserve protects a valid state or opportunity that the player cannot attend to immediately.
+- Synchronize creates value by bringing compatible tasks, routines, locations, or systems into rhythm.
 
-The player receives a finite daily pool of **Chimes** used to perform these manipulations. Chimes do not create infinite productivity. They ask the player to make deliberate decisions about attention: what should move forward, what should be protected, and what is worth coordinating.
+The player receives a finite daily pool of Chimes used to perform these manipulations. Chimes do not create infinite productivity. They ask the player to make deliberate decisions about attention: what should move forward, what should be protected, and what is worth coordinating.
 
-Restoration is the central expression of progress. Blackmere and Pendrelle Manor move through seven shared restoration states: **Weathered, Rebuilding, Recovering, Renewed, Growing, Prospering, and Flourishing**. Restoration is never only cosmetic. Each stage changes how a place is used through combinations of services, NPC routines, ambient population, dialogue, inventory, economic activity, soundscape, events, installed inventions, travel, customization, and relationships with neighboring systems.
+Restoration is the central expression of progress. Blackmere and Pendrelle Manor move through seven shared restoration states: Weathered, Rebuilding, Recovering, Renewed, Growing, Prospering, and Flourishing. Restoration is never only cosmetic. Each stage changes how a place is used through combinations of services, NPC routines, ambient population, dialogue, inventory, economic activity, soundscape, events, installed inventions, travel, customization, and relationships with neighboring systems.
 
-The player's role as an inventor connects these systems. Inventions are not only recipes or passive bonuses. Major inventions are installed, demonstrated, maintained, or integrated into Blackmere's daily life. They may improve fields, workshops, civic infrastructure, travel, food production, animal care, communication, or restoration itself. As multiple restored locations and inventions begin supporting one another, the town develops **cross-location synergies** that make prosperity feel communal rather than isolated.
+The player's role as an inventor connects these systems. Inventions are not only recipes or passive bonuses. Major inventions are installed, demonstrated, maintained, or integrated into Blackmere's daily life. They may improve fields, workshops, civic infrastructure, travel, food production, animal care, communication, or restoration itself. As multiple restored locations and inventions begin supporting one another, the town develops cross-location synergies that make prosperity feel communal rather than isolated.
 
 Relationships are equally central. NPCs have daily routines, relationships with one another, personal arcs, household ties, professions, histories, preferences, and evolving roles within Blackmere. The player can build friendships, pursue romance where applicable, spend time with residents through structured hangouts, respond to meaningful dialogue choices, participate in shared activities, and eventually receive help in return. NPC relationships do not exist solely between each resident and the player; friendships, tensions, mentorships, family relationships, and professional connections continue to develop throughout the town.
 
@@ -35,9 +39,9 @@ Romance and marriage are not endpoints. Spouses retain personal routines, intere
 
 The world continues to evolve across years. Festivals gain alternate layouts, dialogue, participants, restoration states, relationship moments, and activities on later visits. Visiting traders, craftspeople, scholars, former residents, travelers, and other guests gradually reconnect Blackmere with the wider region. The Hall of Wonder grows into a public museum and historical archive. Memory dives build an oral-history collection that preserves what Blackmere endured without allowing the past to be rewritten.
 
-The main political arc culminates in Regent Rupert's assessment on **Spring 1, Year 3**. Rupert evaluates whether Blackmere has become structurally, economically, civically, socially, and strategically viable. This is a narrative deadline, but not a conventional failure state. A borderline town receives targeted covenants and a Year 4 reassessment. Even a failed reassessment leads to a continuation state rather than a deleted or unwinnable save.
+The main political arc culminates in Regent Rupert's assessment on Spring 1, Year 3. Rupert evaluates whether Blackmere has become structurally, economically, civically, socially, and strategically viable. This is a narrative deadline, but not a conventional failure state. A borderline town receives targeted covenants and a Year 4 reassessment. Even a failed reassessment leads to a continuation state rather than a deleted or unwinnable save.
 
-Resolving the repossession threat does not end the game. Instead, Blackmere transitions from emergency recovery into **Future Planning**. The player helps determine what kind of flourishing town Blackmere becomes by funding civic projects, strengthening regional connections, expanding cultural institutions, hosting new traditions, pursuing mastery challenges, and leaving visible personal choices throughout the town.
+Resolving the repossession threat does not end the game. Instead, Blackmere transitions from emergency recovery into Future Planning. The player helps determine what kind of flourishing town Blackmere becomes by funding civic projects, strengthening regional connections, expanding cultural institutions, hosting new traditions, pursuing mastery challenges, and leaving visible personal choices throughout the town.
 
 *As The Bell Tolls* is ultimately about a town that remembers, reciprocates, and continues changing after it is saved. Progress is measured not only by what the player repairs, but by what those repairs allow people to do together.
 
@@ -87,21 +91,21 @@ Blackmere's festivals also change. Familiar traditions remain recognizable, but 
 
 As Blackmere stabilizes, its recovery attracts outside attention. Visitors return. Traders become more reliable. Scholars, craftspeople, former residents, inspectors, and travelers begin entering the town. Regional connections that disappeared after the flood slowly reopen.
 
-That renewal also attracts the same political power that once abandoned Blackmere. On **Spring 1, Year 3**, Regent Rupert returns to determine whether the settlement has become viable enough to remain independent.
+That renewal also attracts the same political power that once abandoned Blackmere. On Spring 1, Year 3, Regent Rupert returns to determine whether the settlement has become viable enough to remain independent.
 
 Rupert does not judge a completion percentage. He evaluates the actual state of Blackmere through five pillars:
 
-- **Structural Stability**
-- **Economic Stability**
-- **Civic Continuity**
-- **Community Stability**
-- **Future Readiness**
+- Structural Stability
+- Economic Stability
+- Civic Continuity
+- Community Stability
+- Future Readiness
 
 His inspection physically tours several locations selected from the state of the player's save. A strong town may pass in several different ways. A balanced town, an invention-focused Blackmere, a community-centered Blackmere, a trade-driven Blackmere, or a town built around resilient essentials can all demonstrate viability without requiring identical completion.
 
-If Blackmere is improving but falls short, Rupert issues a **conditional result** and identifies the weakest areas of that specific save. These become targeted covenants for the following year.
+If Blackmere is improving but falls short, Rupert issues a conditional result and identifies the weakest areas of that specific save. These become targeted covenants for the following year.
 
-On **Spring 1, Year 4**, Rupert returns only when a Year 3 conditional result was issued. The reassessment checks those exact covenants while ensuring previously stable areas have not collapsed.
+On Spring 1, Year 4, Rupert returns only when a Year 3 conditional result was issued. The reassessment checks those exact covenants while ensuring previously stable areas have not collapsed.
 
 Passing resolves the immediate repossession threat.
 
@@ -109,7 +113,7 @@ Failing does not delete the save or erase restoration. Instead, Blackmere enters
 
 Once the immediate political threat is resolved, the story enters a new phase. Blackmere is no longer asking whether it can survive. It begins asking what it wants to become.
 
-Through **Future Planning**, the player supports larger civic projects, new regional connections, museum expansion, beautification, visitor programs, public services, cultural traditions, advanced invention networks, and other long-term projects. Some choices alter the order or presentation of development without permanently locking major content.
+Through Future Planning, the player supports larger civic projects, new regional connections, museum expansion, beautification, visitor programs, public services, cultural traditions, advanced invention networks, and other long-term projects. Some choices alter the order or presentation of development without permanently locking major content.
 
 The long-term story is therefore not about restoring Blackmere to an exact pre-flood state. It is about building a future that could not have existed before the flood.
 
@@ -131,33 +135,33 @@ Blackmere is therefore both a setting and a progression system: a place whose da
 
 ### City Landmarks & Locations
 
-**<u>Town Square</u>** - The civic and festival heart of Blackmere. Town Hall, the General Store, Bank & Exchange, Caravan Stall, and Bell Tower make this district the center of administration, public gatherings, trade, and major town decisions. As restoration progresses, the square gains repaired fountains, increased merchant activity, stronger lighting, seasonal decorations, visiting delegations, and player-selected civic improvements.
+<u>Town Square</u> - The civic and festival heart of Blackmere. Town Hall, the General Store, Bank & Exchange, Caravan Stall, and Bell Tower make this district the center of administration, public gatherings, trade, and major town decisions. As restoration progresses, the square gains repaired fountains, increased merchant activity, stronger lighting, seasonal decorations, visiting delegations, and player-selected civic improvements.
 
-**<u>Resident Lanes</u>** - The primary residential district. Homes, the school, library, and Hall of Wonder place education, family life, collection, and neighborhood relationships at the center of this area. Restoration brings more outdoor activity, school projects, lectures, household gatherings, children's routines, and museum visitors.
+<u>Resident Lanes</u> - The primary residential district. Homes, the school, library, and Hall of Wonder place education, family life, collection, and neighborhood relationships at the center of this area. Restoration brings more outdoor activity, school projects, lectures, household gatherings, children's routines, and museum visitors.
 
-**<u>River Wharf</u>** - The smallest district within Blackmere proper and one of the areas most heavily affected by the flood. The fishery and Winding Banks Inn create a mixture of work, trade, meals, visitors, fishing, and waterfront events. At higher restoration states the Wharf becomes one of Blackmere's main connections to outside visitors and commerce.
+<u>River Wharf</u> - The smallest district within Blackmere proper and one of the areas most heavily affected by the flood. The fishery and Winding Banks Inn create a mixture of work, trade, meals, visitors, fishing, and waterfront events. At higher restoration states the Wharf becomes one of Blackmere's main connections to outside visitors and commerce.
 
-**<u>Trades Quarter</u>** - Blackmere's artisanal center, containing the blacksmith, carpenter, tailor, architect, and related workshops. These locations increasingly collaborate as the town grows. Cross-location restoration synergies allow materials, designs, civic repairs, inventions, clothing, furniture, and town beautification to become shared projects rather than isolated shop upgrades.
+<u>Trades Quarter</u> - Blackmere's artisanal center, containing the blacksmith, carpenter, tailor, architect, and related workshops. These locations increasingly collaborate as the town grows. Cross-location restoration synergies allow materials, designs, civic repairs, inventions, clothing, furniture, and town beautification to become shared projects rather than isolated shop upgrades.
 
-**<u>Pendrelle Manor</u>** - The player's home and the mechanical heart of the time-manipulation system. The manor progresses through the same seven restoration states as Blackmere, but focuses more strongly on household life, customization, storage, invention work, research, cooking, hosting, family possibilities, collection display, and the grandmother's legacy.
+<u>Pendrelle Manor</u> - The player's home and the mechanical heart of the time-manipulation system. The manor progresses through the same seven restoration states as Blackmere, but focuses more strongly on household life, customization, storage, invention work, research, cooking, hosting, family possibilities, collection display, and the grandmother's legacy.
 
-**<u>Mercer Farms</u>** - Blackmere's major food-producing area. Farming, animal care, breeding, crop experimentation, weather response, communal food support, and seasonal activity give the farm a larger role than a simple crop source.
+<u>Mercer Farms</u> - Blackmere's major food-producing area. Farming, animal care, breeding, crop experimentation, weather response, communal food support, and seasonal activity give the farm a larger role than a simple crop source.
 
-**<u>Memorial Hill</u>** - A quiet place of remembrance overlooking Blackmere. Memory, family history, mourning, seasonal remembrance, and oral history remain central. The location may gain additional memorial details over time, but restoration does not turn it into a festive or commercial space.
+<u>Memorial Hill</u> - A quiet place of remembrance overlooking Blackmere. Memory, family history, mourning, seasonal remembrance, and oral history remain central. The location may gain additional memorial details over time, but restoration does not turn it into a festive or commercial space.
 
-**<u>Ashfall Mines</u>** - The primary mining region at the base of Ironveil Peak. Ore, gemstones, rare materials, secrets, and restoration resources are found throughout the mines. Deeper exploration can reveal hidden machinery, flood-era remnants, and materials associated with advanced inventions.
+<u>Ashfall Mines</u> - The primary mining region at the base of Ironveil Peak. Ore, gemstones, rare materials, secrets, and restoration resources are found throughout the mines. Deeper exploration can reveal hidden machinery, flood-era remnants, and materials associated with advanced inventions.
 
-**<u>Rain & Hale</u>** - The apothecary within Gloamwood Forest. The location anchors herb gathering, tonic discovery, weather knowledge, experimentation, mastery, and the town's limited medical support.
+<u>Rain & Hale</u> - The apothecary within Gloamwood Forest. The location anchors herb gathering, tonic discovery, weather knowledge, experimentation, mastery, and the town's limited medical support.
 
 ### Regional Landmarks & Locations
 
-**<u>Ironveil Peak</u>** - The mountain overlooking Blackmere. It provides mining, stone, wood, exploration, gathering, and access to elevated locations.
+<u>Ironveil Peak</u> - The mountain overlooking Blackmere. It provides mining, stone, wood, exploration, gathering, and access to elevated locations.
 
-**<u>Steelridge Watch</u>** - A high overlook used for exploration, relationship hangouts, star-gazing, the Aurora Watch event, photography, and selected memory or discovery moments.
+<u>Steelridge Watch</u> - A high overlook used for exploration, relationship hangouts, star-gazing, the Aurora Watch event, photography, and selected memory or discovery moments.
 
-**<u>Gloamwood Forest</u>** - A major gathering and exploration region containing trees, flowers, herbs, critters, secrets, weather-sensitive resources, and access to Gloamwood Depths.
+<u>Gloamwood Forest</u> - A major gathering and exploration region containing trees, flowers, herbs, critters, secrets, weather-sensitive resources, and access to Gloamwood Depths.
 
-**<u>Graythorne Lake</u>** - A still, elevated lake tied to fishing, folklore, the Eve of the White Doe, rare weather conditions, exploration, photography, memory, and environmental mystery.
+<u>Graythorne Lake</u> - A still, elevated lake tied to fishing, folklore, the Eve of the White Doe, rare weather conditions, exploration, photography, memory, and environmental mystery.
 
 ---
 
@@ -169,13 +173,13 @@ Each day begins at Pendrelle Manor. The player reviews the date, weather, active
 
 The daily loop is intentionally flexible:
 
-1. **Plan** - Decide which personal, social, restoration, economic, collection, or story goals matter today.
-2. **Live** - Farm, gather, fish, care for animals, cook, make tonics, craft, explore, decorate, shop, trade, complete requests, and spend time with residents.
-3. **Steward Time** - Use Advance, Preserve, or Synchronize where the opportunity is worth a Chime.
-4. **Connect** - Talk, gift, hang out, attend events, respond to invitations, help residents, or receive help from them.
-5. **Contribute** - Restore spaces, install inventions, fund civic projects, supply communal activities, or participate in markets and festivals.
-6. **Discover** - Find new recipes, memories, critters, fish, artifacts, records, visitor stories, secret areas, or environmental clues.
-7. **Reflect** - End the day with persistent consequences carried into schedules, dialogue, relationships, restoration, economy, collections, and the world state.
+1. Plan - Decide which personal, social, restoration, economic, collection, or story goals matter today.
+2. Live - Farm, gather, fish, care for animals, cook, make tonics, craft, explore, decorate, shop, trade, complete requests, and spend time with residents.
+3. Steward Time - Use Advance, Preserve, or Synchronize where the opportunity is worth a Chime.
+4. Connect - Talk, gift, hang out, attend events, respond to invitations, help residents, or receive help from them.
+5. Contribute - Restore spaces, install inventions, fund civic projects, supply communal activities, or participate in markets and festivals.
+6. Discover - Find new recipes, memories, critters, fish, artifacts, records, visitor stories, secret areas, or environmental clues.
+7. Reflect - End the day with persistent consequences carried into schedules, dialogue, relationships, restoration, economy, collections, and the world state.
 
 The day advances in ten-minute in-game increments. Lighting, weather presentation, ambient sound, NPC routines, shop availability, fish and critter conditions, and event states respond to time.
 
@@ -187,7 +191,7 @@ Long-term play is built around the same routine becoming richer rather than simp
 
 The primary mode is a persistent life-simulation campaign.
 
-The game does not use conventional fail states that erase long-term progress. Consequential outcomes create **continuation states**. The repossession arc is the primary example: a failed assessment changes economic and story conditions, but the player retains their town, relationships, discoveries, and restoration.
+The game does not use conventional fail states that erase long-term progress. Consequential outcomes create continuation states. The repossession arc is the primary example: a failed assessment changes economic and story conditions, but the player retains their town, relationships, discoveries, and restoration.
 
 The game has one canonical balance rather than selectable Easy/Normal/Hard modes. However, comfort and accessibility settings may adjust:
 
@@ -202,7 +206,7 @@ The game has one canonical balance rather than selectable Easy/Normal/Hard modes
 
 These settings are not treated as lesser modes and do not disable story or completion content.
 
-A completed campaign may unlock optional **Legacy / New Game+ modifiers** for future saves. These can include cosmetic heirlooms, alternative starting emphases, optional challenge targets, alternate decor presets, different early Blueprint priorities, or other replay-focused variations. Major story and progression content remains available regardless of the chosen legacy options.
+A completed campaign may unlock optional Legacy / New Game+ modifiers for future saves. These can include cosmetic heirlooms, alternative starting emphases, optional challenge targets, alternate decor presets, different early Blueprint priorities, or other replay-focused variations. Major story and progression content remains available regardless of the chosen legacy options.
 
 A future multiplayer mode allows two sibling heirs to inhabit the same save. Multiplayer follows explicit ownership and permission rules rather than treating a second player as an unrestricted duplicate protagonist.
 
@@ -239,7 +243,7 @@ The player can:
 - Display selected collections, trophies, photographs, inventions, fish, artifacts, and memories.
 - Use photo mode and preserve selected moments in an album.
 - Track quests, recipes, inventions, collections, fish, gifts, restoration projects, and other goals.
-- Use **Advance, Preserve, and Synchronize** through the grandfather clock or portable pocket watch when valid.
+- Use Advance, Preserve, and Synchronize through the grandfather clock or portable pocket watch when valid.
 - Choose not to act, allowing opportunities to pass or situations to evolve without treating every missed activity as failure.
 
 Dialogue choices can affect later lines, remembered preferences, hangout availability, request framing, minor local outcomes, or the order in which character arcs unfold. The game avoids presenting false consequence where no meaningful reaction exists.
@@ -308,17 +312,17 @@ Blackmere's political abandonment develops into a long-term repossession threat.
 
 Rupert evaluates five areas:
 
-- **Structural Stability** - Essential buildings, public access, safe routes, reliable utilities, and restored infrastructure.
-- **Economic Stability** - Shop viability, trade, debt, reserve trends, production, and sustainable circulation of Bellnotes.
-- **Civic Continuity** - Town Hall, education, records, public services, community activities, and shared institutions.
-- **Community Stability** - Resident connection, dependable routines, household recovery, communal participation, and social support.
-- **Future Readiness** - Installed inventions, long-term planning, regional links, resilient systems, and evidence that Blackmere can continue adapting.
+- Structural Stability - Essential buildings, public access, safe routes, reliable utilities, and restored infrastructure.
+- Economic Stability - Shop viability, trade, debt, reserve trends, production, and sustainable circulation of Bellnotes.
+- Civic Continuity - Town Hall, education, records, public services, community activities, and shared institutions.
+- Community Stability - Resident connection, dependable routines, household recovery, communal participation, and social support.
+- Future Readiness - Installed inventions, long-term planning, regional links, resilient systems, and evidence that Blackmere can continue adapting.
 
 The exact scoring model is owned by the Repossession System. The GDD establishes that no single pillar must be maximized and that viable pass profiles can emphasize different strengths.
 
 #### Year 3 Assessment
 
-On **Spring 1, Year 3**, Regent Rupert returns to Blackmere.
+On Spring 1, Year 3, Regent Rupert returns to Blackmere.
 
 The assessment is presented as a physical inspection rather than only a menu score or Town Hall conversation. Rupert tours approximately four to six locations selected from the actual state of the player's save. Strong and weak areas determine which locations are inspected and what Rupert comments on.
 
@@ -330,13 +334,13 @@ A passing result resolves the immediate assessment requirement and allows the ma
 
 If Blackmere is clearly improving but not yet viable, Rupert issues a conditional result.
 
-Rather than assigning a generic list, he generates targeted **covenants** from the weakest assessment pillars. These specify two or three areas that must improve before the following Spring 1.
+Rather than assigning a generic list, he generates targeted covenants from the weakest assessment pillars. These specify two or three areas that must improve before the following Spring 1.
 
 The player can see these requirements and progress toward them throughout Year 3.
 
 #### Year 4 Reassessment
 
-On **Spring 1, Year 4**, Rupert returns only for conditional saves.
+On Spring 1, Year 4, Rupert returns only for conditional saves.
 
 The reassessment focuses on the exact covenants given one year earlier while verifying that previously stable areas have not substantially collapsed.
 
@@ -387,11 +391,11 @@ Every stage must change lived gameplay. Each stage should alter at least two of 
 - Customization.
 - Rupert assessment evidence.
 
-At **Growing**, locations increasingly begin contributing outward.
+At Growing, locations increasingly begin contributing outward.
 
-At **Prospering**, inter-location synergies, advanced services, larger crowds, better reliability, stronger economic contribution, or broader routine changes become common.
+At Prospering, inter-location synergies, advanced services, larger crowds, better reliability, stronger economic contribution, or broader routine changes become common.
 
-At **Flourishing**, the location gains a signature role that benefits the wider town or supports long-term Future Planning.
+At Flourishing, the location gains a signature role that benefits the wider town or supports long-term Future Planning.
 
 #### Cross-Location Restoration Synergies
 
@@ -463,15 +467,15 @@ Players who do not marry or have children receive equivalent Manor completion an
 
 Core life-sim activities deepen over time.
 
-**Farming** develops through crop traits, seasonality, weather, quality, regrowth, soil considerations, food uses, preservation, trade demand, and invention interaction.
+Farming develops through crop traits, seasonality, weather, quality, regrowth, soil considerations, food uses, preservation, trade demand, and invention interaction.
 
-**Cooking** develops through recipe discovery, recipe provenance, meal quality, serving size, buffs, social meals, gifts, festivals, favorite dishes, and communal use.
+Cooking develops through recipe discovery, recipe provenance, meal quality, serving size, buffs, social meals, gifts, festivals, favorite dishes, and communal use.
 
-**Tonics** develop through experimentation, discovery, heat control, performance grades, recipe knowledge, ingredient understanding, mastery, and invention-assisted preparation.
+Tonics develop through experimentation, discovery, heat control, performance grades, recipe knowledge, ingredient understanding, mastery, and invention-assisted preparation.
 
-**Fishing** develops through season, time, weather, region, bait/tackle, quality, rare catches, festivals, records, exhibits, and requests.
+Fishing develops through season, time, weather, region, bait/tackle, quality, rare catches, festivals, records, exhibits, and requests.
 
-**Foraging and critter collection** respond to season, time, weather, location, and restoration state.
+Foraging and critter collection respond to season, time, weather, location, and restoration state.
 
 #### Invention Progression
 
@@ -565,19 +569,19 @@ Each location should maintain a restoration consequence definition containing:
 
 #### Town Restoration Stage Intent
 
-**Weathered** - The location survives through workarounds. Damage is visible, services are reduced, routines are limited, and residents refer to inconvenience or loss.
+Weathered - The location survives through workarounds. Damage is visible, services are reduced, routines are limited, and residents refer to inconvenience or loss.
 
-**Rebuilding** - Restoration work itself becomes visible. Scaffolding, supplies, crews, construction dialogue, temporary services, and changed routines communicate momentum.
+Rebuilding - Restoration work itself becomes visible. Scaffolding, supplies, crews, construction dialogue, temporary services, and changed routines communicate momentum.
 
-**Recovering** - The location's essential function becomes dependable again. Regular use returns.
+Recovering - The location's essential function becomes dependable again. Regular use returns.
 
-**Renewed** - The location regains its identity and begins providing benefits beyond basic access.
+Renewed - The location regains its identity and begins providing benefits beyond basic access.
 
-**Growing** - The location contributes outward through expanded service, collaboration, visitors, social activity, or neighboring systems.
+Growing - The location contributes outward through expanded service, collaboration, visitors, social activity, or neighboring systems.
 
-**Prospering** - The location becomes reliably important to the town and participates in cross-location synergies.
+Prospering - The location becomes reliably important to the town and participates in cross-location synergies.
 
-**Flourishing** - The location gains a signature high-stage role, representing a new future rather than merely recreating the past.
+Flourishing - The location gains a signature high-stage role, representing a new future rather than merely recreating the past.
 
 #### Pendrelle Manor Restoration Stage Intent
 
@@ -593,10 +597,10 @@ The Blueprint Book replaces a conventional stat-based skill tree.
 
 Inventions are divided into:
 
-- **Blueprint Book Inventions** - Progression inventions organized into interconnected branches.
-- **Quest Inventions** - One-off inventions created for specific characters or story situations.
-- **Showcase Inventions** - One-off or specialized creations associated with the Grand Showcase.
-- **Civic / Installed Inventions** - Inventions whose primary purpose is to become part of Blackmere's infrastructure or public life.
+- Blueprint Book Inventions - Progression inventions organized into interconnected branches.
+- Quest Inventions - One-off inventions created for specific characters or story situations.
+- Showcase Inventions - One-off or specialized creations associated with the Grand Showcase.
+- Civic / Installed Inventions - Inventions whose primary purpose is to become part of Blackmere's infrastructure or public life.
 
 Blueprint branches create specialization opportunities. Players may prioritize farming support, husbandry, civic works, social/comfort systems, food production, exploration, trade, or other themes based on the final Blueprint structure.
 
@@ -729,7 +733,7 @@ The calendar and mail systems communicate major opportunities without requiring 
 
 ## Time Manipulation System
 
-Time manipulation is a deliberate stewardship system using a finite daily pool of **Chimes**.
+Time manipulation is a deliberate stewardship system using a finite daily pool of Chimes.
 
 ### Advance
 
@@ -867,7 +871,7 @@ At character creation, the player chooses:
 - Appearance.
 - Other supported identity/customization options.
 
-An optional **starting emphasis** may be selected in the final progression design. Examples may include Tinkerer, Gardener, Cook, Naturalist, or Trader. These provide a small starting familiarity, recipe, or dialogue acknowledgement without locking exclusive content.
+An optional starting emphasis may be selected in the final progression design. Examples may include Tinkerer, Gardener, Cook, Naturalist, or Trader. These provide a small starting familiarity, recipe, or dialogue acknowledgement without locking exclusive content.
 
 The player's long-term growth is represented through capability, trust, knowledge, invention, restoration, mastery, and the visible impact of their choices.
 
@@ -902,8 +906,8 @@ As Blackmere restores, NPCs generally become more active, confident, social, and
 
 The player has two complementary relationship paths with residents:
 
-- **Relationship Path** - Daily familiarity represented through hearts/status and normal interaction.
-- **Bonding Path** - Character-specific narrative progression.
+- Relationship Path - Daily familiarity represented through hearts/status and normal interaction.
+- Bonding Path - Character-specific narrative progression.
 
 Relationships may unlock:
 
@@ -1067,7 +1071,7 @@ Choices are not permanent failure traps. Unselected projects may remain availabl
 
 ### In-Game Currency
 
-The local currency is the **Bellnote**.
+The local currency is the Bellnote.
 
 Bellnotes are used for:
 
@@ -1500,28 +1504,28 @@ Mail can react to:
 
 Settings include independent categories for:
 
-**Gameplay**
+Gameplay
 - Time pace.
 - Stamina comfort.
 - Auto-run.
 - Minigame assists.
 - Fishing assist.
 
-**Controls**
+Controls
 - Rebinding.
 - Hold/toggle.
 - Vibration.
 - Prompt display.
 - Invert controls.
 
-**Camera**
+Camera
 - Zoom.
 - Follow smoothing.
 - Camera shake.
 - Tool-action zoom.
 - Recenter behavior.
 
-**Accessibility**
+Accessibility
 - Text size.
 - UI scale.
 - High contrast.
@@ -1529,7 +1533,7 @@ Settings include independent categories for:
 - Subtitle/background options.
 - Other readability features.
 
-**Audio**
+Audio
 - Master.
 - Music.
 - Speech.
@@ -1537,7 +1541,7 @@ Settings include independent categories for:
 - Sound effects.
 - Footsteps.
 
-**Display**
+Display
 - Resolution.
 - Window/fullscreen.
 - Safe area.
@@ -1703,35 +1707,35 @@ Music supports the contrast between Gothic melancholy and recovery.
 
 The soundtrack includes:
 
-**<u>Main Theme</u>** - *Where the Hours Gather*
+<u>Main Theme</u> - *Where the Hours Gather*
 
-**<u>Spring Themes</u>** - *After the High Water* / *First Sprouts*
+<u>Spring Themes</u> - *After the High Water* / *First Sprouts*
 
-**<u>Summer Themes</u>** - *Along the River Shore* / *Amber Waters*
+<u>Summer Themes</u> - *Along the River Shore* / *Amber Waters*
 
-**<u>Autumn Themes</u>** - *Measure of the Harvest* / *Lantern Lights & Falling Leaves*
+<u>Autumn Themes</u> - *Measure of the Harvest* / *Lantern Lights & Falling Leaves*
 
-**<u>Winter Themes</u>** - *Firelight in the Manor* / *Frost Along the River*
+<u>Winter Themes</u> - *Firelight in the Manor* / *Frost Along the River*
 
-**<u>River Remembrance Day Theme</u>** - *Where the River Keeps Their Names*
+<u>River Remembrance Day Theme</u> - *Where the River Keeps Their Names*
 
-**<u>Seedwake Brunch Theme</u>** - *A Place for Everyone*
+<u>Seedwake Brunch Theme</u> - *A Place for Everyone*
 
-**<u>Blackmere Trade Fair Theme</u>** - *Market Bells*
+<u>Blackmere Trade Fair Theme</u> - *Market Bells*
 
-**<u>Midsummer Splash Theme</u>** - *The Brightest Day*
+<u>Midsummer Splash Theme</u> - *The Brightest Day*
 
-**<u>Grand Showcase Theme</u>** - *Sparks of Inspiration*
+<u>Grand Showcase Theme</u> - *Sparks of Inspiration*
 
-**<u>Harvest Supper Theme</u>** - *A Meal Worth Remembering*
+<u>Harvest Supper Theme</u> - *A Meal Worth Remembering*
 
-**<u>Eve of the White Doe Theme</u>** - *Under the Hollow Moon*
+<u>Eve of the White Doe Theme</u> - *Under the Hollow Moon*
 
-**<u>Aurora Watch Theme</u>** - *Hues in the Night*
+<u>Aurora Watch Theme</u> - *Hues in the Night*
 
-**<u>Toll of Hearths Theme</u>** - *The Light We Share*
+<u>Toll of Hearths Theme</u> - *The Light We Share*
 
-**<u>Snow Bell's Eve Theme</u>** - *A Winter's Waltz*
+<u>Snow Bell's Eve Theme</u> - *A Winter's Waltz*
 
 ### Restoration-Responsive Audio
 
