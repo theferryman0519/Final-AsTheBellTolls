@@ -3,7 +3,7 @@ Title: Systems / Husbandry System
 Game: As The Bell Tolls
 Owner: Carey Clement Jr
 Created: August, 2026
-Updated: August, 2026
+Updated: September, 2026
 Version: 0.0.1
 ---
 
@@ -19,7 +19,8 @@ Version: 0.0.1
 - Animals are able to be purchased from Jasmine at Mercer Farms (if applicable based on restoration or invention stage).
 - Once purchased and within their designated locations, the animal will need time to mature.
 - Once fully matured, the animal will be able to give a byproduct each morning.
-- Byproducts are collected by Edward and placed in the Byproduct Box in between the Barn and Coop.
+- Edward assists the player in feeding and tending to each animal in the Barn, Coop, and Stables.
+- The player interacts with each animal in order to receive the byproduct for that animal.
 - Each animal produces a byproduct count based on their Friendship Hearts (Bees and Silkworms only ever produce 1 byproduct).
 - Animal hearts are based on the restoration of the Barn, Coop, Stables, and/or Main Bedroom.
 - Each animal byproduct has a quality based on inventions from the Blueprint Book.
