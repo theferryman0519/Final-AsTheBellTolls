@@ -64,7 +64,7 @@ Version: 0.0.1
 | Married Life           | 0           | 2
 | Proposals              | 0           | 1
 | Quests                 | 0           | 0
-| Reative                | 2           | 2
+| Reactive               | 2           | 2
 | Repossession           | 0           | 0
 | Restoration            | 3           | 3
 | Shopping               | 0           | 0
