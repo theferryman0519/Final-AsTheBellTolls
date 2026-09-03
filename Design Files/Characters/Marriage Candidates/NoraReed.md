@@ -77,7 +77,7 @@ Habit: Sings sea shanties while fishing or walking along the river banks.
 
 History: Nora grew up beside the river, learning to read currents, weather, and wildlife long before she could properly cast a fishing line. During the darkest months after the Great Flood, Nora was often the one organizing shared meals, fishing trips, and impromptu competitions simply to give people something to smile about. Her cheerful outlook quickly became contagious, though few realize how much effort it takes to keep that optimism afloat.
 
-Hobbies: Fishing at sunrise; swimming; skipping stones across the river; collecting unusual shells; making up ridiculous sea shanties; teaching children "pirate voices”; telling exaggerated stories about "the one that got away.”
+Hobbies: Fishing at sunrise; swimming; skipping stones across the river; collecting unusual shells; singing the sea shanty "Leave Her, Johnny"; teaching children "pirate voices”; telling exaggerated stories about "the one that got away.”
 
 Motivation: Nora wants people to associate the river with hope instead of tragedy, believing that every peaceful day on the water helps Blackmere heal a little more.
 
