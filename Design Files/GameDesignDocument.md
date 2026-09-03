@@ -656,40 +656,18 @@ Each main festival should support:
 - Unique rewards or collection progress.
 - Post-event reactive dialogue.
 
-#### Year A / Year B Festival Variation
-
-Major recurring festivals use at least two annual variants.
-
-A returning player may encounter changes to:
-
-- Layout.
-- Decorations.
-- NPC pairings.
-- Dialogue.
-- Activities.
-- Contest categories.
-- Visiting guests.
-- Food.
-- Rewards.
-- Child/family involvement.
-- Restoration details.
-
-The core identity of the festival remains recognizable.
-
 #### Blackmere Trade Fair
 
-The Trade Fair includes an active player-facing selling loop rather than functioning only as a passive event.
+The Trade Fair is a three-day event where stalls are displayed in Town Square, hosted by all four of the Vale siblings, Victor, and Walter.
 
-The player can:
+- Kai Vale sells Spring crops, flower, and seeds.
+- Kay Vale sells Summer crops, flower, and seeds.
+- Kegan Vale sells Autumn crops, flower, and seeds.
+- Kiki Vale sells Winter crops, flower, and seeds.
+- Walter Pierce sells fabrication items.
+- Victor Cross sells gemstones, ore, clothing, meals, and drinks.
 
-- Select inventory to bring.
-- Arrange a limited stall display.
-- Respond to seasonal or event demand.
-- Build market interest.
-- Fill special orders.
-- Meet visiting traders.
-- Unlock regional trade relationships.
-- Earn unique rewards or recipes.
+Items are rotated for each day, so each vendor gets a different inventory for all three days.
 
 #### Grand Showcase
 
